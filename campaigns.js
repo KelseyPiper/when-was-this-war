@@ -3345,5 +3345,271 @@ But the returning cavalry struck the rear. The great general, for the first time
         ],
         explanation: "This was the Battle of Zama in 202 BCE, where Scipio Africanus defeated Hannibal Barca, ending the Second Punic War. Scipio's Numidian cavalry under Masinissa swept the field; returning to strike Hannibal's rear, they decided the battle. Hannibal, undefeated for 17 years in Italy, lost his first and only pitched battle. Carthage surrendered; Rome dominated the Mediterranean. Roman legions versus Carthaginian combined arms characterized the Second Punic War (218-201 BCE). The final battle in Africa dates this precisely.",
         tags: ["pitched-battle", "ancient", "africa"]
+    },
+    {
+        id: "campaign_176",
+        title: "The Desert Outpost",
+        actualYear: 1971,
+        difficulty: "hard",
+        description: `A border post held by 120 soldiers with one jeep-mounted recoilless rifle faced an armored column of 2,000 enemy troops with 45 tanks and 60 artillery pieces. The post guarded a critical road through the desert; if it fell, the enemy would reach the heartland.
+
+The defenders had called for reinforcements, but help was hours away. The company commander decided to stand and fight rather than withdraw—a decision that should have been suicidal.
+
+The attacking tanks advanced at night, expecting easy victory. But the desert sand was soft; several tanks bogged down. The defenders' single recoilless rifle knocked out tank after tank in the darkness. Hunter-killer teams stalked the stalled armor with rocket launchers. Air support arrived at dawn—old propeller planes that somehow destroyed more tanks.
+
+By morning, the attack had failed. The enemy lost 34 tanks, over 100 vehicles, and 200 killed—against 2 defenders dead. The outpost held; the war ended in weeks. The company commander became a national hero; the battle became legend.`,
+        hints: [
+            { cost: 20, text: "Jeep-mounted recoilless rifles and infantry anti-tank teams defeating armor characterized third-world armored warfare of the 1960s-1970s.", explanation: "The weapons help date this battle." },
+            { cost: 25, text: "Indo-Pakistani tank battles in desert terrain occurred in the wars of 1965 and 1971.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Longewala on December 5-6, 1971, where 120 Indian soldiers under Major Kuldip Singh Chandpuri held off a Pakistani armored brigade. The single 106mm recoilless rifle, manned by Lance Naik Jawahar Singh, destroyed multiple tanks. IAF Hawker Hunters finished the Pakistani armor at dawn. Pakistan lost 34 tanks and 200 killed; India lost 2 men. The battle inspired the Bollywood film 'Border.' Jeep-mounted recoilless rifles versus armor characterized 1960s-1970s warfare. The 1971 Indo-Pakistani War precisely dates this battle.",
+        tags: ["pitched-battle", "20th-century", "asia"]
+    },
+    {
+        id: "campaign_177",
+        title: "The City of Blood",
+        actualYear: 1980,
+        difficulty: "hard",
+        description: `An oil-rich dictatorship invaded its revolutionary neighbor, expecting quick victory over an army in chaos from purges. The key objective was a port city on a strategic waterway—capture it, and the enemy's oil exports would be strangled.
+
+The invaders had 200,000 men, modern tanks, and complete air superiority. The defenders were disorganized, their officer corps decimated by revolutionary tribunals. The city should have fallen in days.
+
+Instead, it held for 34 days of brutal urban combat. The defenders—revolutionary guards, army remnants, and armed civilians—fought from house to house, floor to floor. Boys with rocket-propelled grenades destroyed tanks in the narrow streets. Snipers made every movement deadly.
+
+When the city finally fell, it was rubble. But the invaders' blitzkrieg had failed; the quick victory they expected would become an eight-year war of attrition. The city would change hands again, its ruins the site of some of the war's bloodiest fighting.`,
+        hints: [
+            { cost: 20, text: "T-62 tanks and RPG-7s in urban combat characterized Middle Eastern warfare of the 1980s.", explanation: "The weapons help date this battle." },
+            { cost: 25, text: "The Iran-Iraq War (1980-1988) featured prolonged urban combat and WWI-style attrition.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Khorramshahr, September-November 1980, during the Iran-Iraq War's opening phase. Iraq expected the city to fall in days; it took 34 days of house-to-house fighting. Iran called it 'City of Blood' (Khuninshahr). The battle cost Iraq its chance for quick victory; the war lasted eight years with over a million dead. Iran recaptured the city in 1982. T-62 tanks and RPG-7s in urban combat characterized 1980s Middle Eastern warfare. The Iran-Iraq War (1980-1988) precisely dates this battle.",
+        tags: ["siege", "20th-century", "middle-east"]
+    },
+    {
+        id: "campaign_178",
+        title: "The Marshes of Death",
+        actualYear: 1984,
+        difficulty: "hard",
+        description: `Four years into a brutal war, one side launched its largest offensive—500,000 men attacking through marshlands thought impassable. The operation was kept so secret that even senior commanders didn't know until hours before.
+
+The attackers crossed the marshes at night using small boats and pontoon bridges. The defenders, caught completely by surprise, found enemy troops behind their lines at dawn. A strategic island in the marshes fell within hours.
+
+But the initial success couldn't be exploited. The attackers had no heavy equipment—they'd sacrificed armor for surprise. The defenders rushed reinforcements; the marshes channeled movement; the front stabilized. The attackers launched human wave assaults, including teenage volunteers wearing keys to paradise.
+
+The battle lasted months. Perhaps 20,000 attackers died in the marshes; the defenders lost similarly. The island was held, but the war ground on for four more years. Both sides would remember it as the war's bloodiest phase.`,
+        hints: [
+            { cost: 20, text: "Mass infantry assaults across marshlands with limited armor support characterized the Iran-Iraq War's middle phase.", explanation: "The operational style helps date this battle." },
+            { cost: 25, text: "Major Iranian offensives in the Hawizeh Marshes occurred in 1984-1985.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was Operation Kheibar, February-March 1984, one of the Iran-Iraq War's bloodiest battles. Iran launched 500,000 troops through the Hawizeh Marshes; the surprise captured Majnoon Island with its oil fields. But Iraq's counterattacks with chemical weapons and helicopter gunships halted the advance. Perhaps 40,000 died on both sides. Mass infantry assaults through marshlands characterized the war's 1984-1985 phase. The Iran-Iraq War's marsh offensives precisely date this battle.",
+        tags: ["pitched-battle", "20th-century", "middle-east"]
+    },
+    {
+        id: "campaign_179",
+        title: "The Toyota Victory",
+        actualYear: 1987,
+        difficulty: "hard",
+        description: `A desert nation, armed by Western powers but considered a hopeless case, faced invasion by a well-equipped neighbor with tanks, aircraft, and Soviet advisors. The invaders had occupied the northern third of the country for years; now a new commander launched a counteroffensive.
+
+The defenders had almost no heavy weapons—just pickup trucks mounted with machine guns, recoilless rifles, and anti-tank missiles. But they knew the desert, and their enemy had grown complacent.
+
+The counteroffensive was devastating. The defenders' pickup trucks—faster and more maneuverable than tanks—raced through the desert, striking from unexpected directions. Anti-tank missiles destroyed armor from beyond effective response range. The invaders' air force proved useless against dispersed, fast-moving targets.
+
+In six weeks, the defenders destroyed or captured 7,500 troops, 1,500 vehicles, and dozens of aircraft. The invader's military was humiliated; the war effectively ended. Western observers, amazed, named it after the vehicles that won it.`,
+        hints: [
+            { cost: 20, text: "Pickup trucks with MILAN anti-tank missiles and machine guns defeating conventional armor was unique to the 1987 Chad-Libya conflict.", explanation: "The distinctive tactics help date this battle." },
+            { cost: 25, text: "Chadian victories against Libyan armor occurred in early 1987.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Toyota War of early 1987, where Chad routed Libya's armored forces in the Aouzou Strip. Commander Hassan Djamous led Toyota pickup trucks armed with MILAN missiles and machine guns against Libyan T-55 tanks. At the Battle of Fada, Chad destroyed 70 tanks and killed 700 Libyans for 18 dead. Libya lost billions in equipment; Gaddafi's military reputation was shattered. Toyota pickups with MILAN missiles defeating conventional armor was unique to this conflict.",
+        tags: ["campaign", "20th-century", "africa"]
+    },
+    {
+        id: "campaign_180",
+        title: "The Southern African Siege",
+        actualYear: 1988,
+        difficulty: "hard",
+        description: `A regional superpower—defending an allied government against a Soviet-backed army with Cuban expeditionary forces—found itself besieging a strategic town that had become an enemy symbol. The siege dragged on for months, becoming a test of wills.
+
+The besieging force had the best equipment on the continent: excellent tanks, modern artillery, and total air superiority. But the defenders had Cuban armored brigades, Soviet advisors, and increasingly effective air defenses that began limiting the attackers' dominance.
+
+Neither side could win decisively. The besiegers' armored assaults were repulsed with heavy losses; the defenders' attempts to relieve the town also failed. Both sides lost dozens of aircraft and tanks. The regional power's black conscripts fought alongside white officers in a war their countrymen increasingly opposed.
+
+Eventually, exhaustion forced negotiations. The regional power withdrew; the Cubans went home; the allied government fell. The siege became the last major battle of the Cold War in Africa—and a turning point that led to democracy in the regional power itself.`,
+        hints: [
+            { cost: 20, text: "Ratel IFVs and Olifant tanks facing T-55s and Cuban forces, with increasing SAM threats, characterized southern African warfare of the late 1980s.", explanation: "The equipment helps date this battle." },
+            { cost: 25, text: "South African-Cuban clashes in Angola peaked in 1987-1988, ending with negotiated withdrawal.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Cuito Cuanavale, November 1987-March 1988, the largest African battle since WWII. South African forces besieged Angolan/Cuban troops for four months. Neither side won militarily, but the political consequences were immense: South Africa withdrew from Angola and Namibia; Cuba brought its troops home; and the resulting regional settlement contributed to apartheid's end. Ratel IFVs versus Cuban armor characterized late 1980s southern African warfare. The Angolan-Cuban-South African conflict precisely dates this battle.",
+        tags: ["siege", "20th-century", "africa"]
+    },
+    {
+        id: "campaign_181",
+        title: "The Punitive Lesson",
+        actualYear: 1979,
+        difficulty: "hard",
+        description: `A great power, angered by its small neighbor's invasion of an ally, launched a punitive expedition across the border. The stated goal was to "teach a lesson"—a limited war to bloody the enemy and withdraw.
+
+The great power sent 200,000 troops across the frontier, expecting its battle-hardened neighbor to crumble. The neighbor had just fought a superpower for 30 years and won; its army was experienced and dug in.
+
+The invasion was a bloody slog. Every village was fortified; every road was mined; every hill was defended. The invaders advanced, but slowly and at horrific cost. Their equipment proved outdated; their tactics, designed for different terrain, failed. The defenders, outnumbered, traded space for casualties.
+
+After three weeks, the great power declared victory and withdrew—having suffered perhaps 30,000 casualties to teach a "lesson" that didn't change anything. The neighbor continued occupying the ally for another decade. Both sides claimed victory; outside observers saw only mutual bloodletting.`,
+        hints: [
+            { cost: 20, text: "Mass infantry attacks with limited air support against entrenched opponents characterized Asian border conflicts of the late 1970s.", explanation: "The operational style helps date this battle." },
+            { cost: 25, text: "The Sino-Vietnamese War of 1979 was a brief punitive invasion following Vietnam's invasion of Cambodia.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Sino-Vietnamese War of February-March 1979, China's 'punitive expedition' after Vietnam invaded Cambodia. China sent 200,000 troops against battle-hardened Vietnamese forces. The invasion captured Lạng Sơn but cost 20,000-30,000 Chinese casualties. China declared victory and withdrew; Vietnam stayed in Cambodia until 1989. Neither side achieved its objectives. Mass infantry attacks against entrenched forces characterized this 1979 border war.",
+        tags: ["campaign", "20th-century", "asia"]
+    },
+    {
+        id: "campaign_182",
+        title: "The Horn of Africa",
+        actualYear: 1977,
+        difficulty: "hard",
+        description: `A military dictatorship, allied with the Soviets and armed with advanced weapons, faced invasion by its neighbor, which sought to annex a disputed desert region inhabited by ethnic kin. The irony: just months earlier, the invader had been the Soviet client, and the defender the Western ally.
+
+The invader's tanks swept through the disputed region, routing the defender's forces. Within weeks, 90% of the territory was occupied; the defender's army was shattered. The capital seemed within reach.
+
+Then the Cold War's bizarre logic intervened. The Soviets switched sides, airlifting massive supplies to the defender. Cuban troops arrived—15,000 soldiers with tanks and artillery. The defender's army rebuilt around a Soviet general's plan.
+
+The counteroffensive was devastating. The invader's army was driven back in weeks; the disputed region was recaptured. But the war poisoned both nations—famines, coups, and civil wars followed. The disputed region still fights for independence today.`,
+        hints: [
+            { cost: 20, text: "T-55 tanks and Cuban expeditionary forces in Horn of Africa warfare characterized late 1970s Cold War proxy conflicts.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "The Ogaden War between Ethiopia and Somalia, with Cold War power switching sides, occurred in 1977-1978.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Ogaden War of 1977-1978, where Somalia invaded Ethiopia's Ogaden region. Initially successful, Somalia was driven back when the USSR switched from supporting Somalia to Ethiopia. Cuban forces and Soviet advisors led Ethiopia's counteroffensive. Somalia lost 8,000 dead; Ethiopia perhaps 10,000. The war destabilized both nations for decades. T-55 tanks with Cuban/Soviet support characterized late 1970s Horn of Africa warfare. The Cold War power-switching makes this conflict unique.",
+        tags: ["campaign", "20th-century", "africa"]
+    },
+    {
+        id: "campaign_183",
+        title: "The Emperor's Last Stand",
+        actualYear: 378,
+        difficulty: "hard",
+        description: `Barbarian refugees, admitted into the empire years before, had revolted after years of abuse and broken promises. Now their army—perhaps 20,000 warriors—ravaged the richest provinces. The eastern emperor marched to destroy them, refusing to wait for his western colleague's reinforcements.
+
+The emperor had 15,000 men—veteran legions, though not at full strength. Intelligence suggested the barbarians were weak, their cavalry away foraging. The emperor advanced in the August heat, his soldiers exhausted and thirsty from the march.
+
+The barbarians' cavalry hadn't left. As the Roman infantry advanced against the wagon laager, the horsemen struck both flanks. The legions, packed too tightly to maneuver, were surrounded and butchered. The emperor himself was killed—his body never found.
+
+The disaster shocked the world. A Roman emperor dead in battle, two-thirds of the eastern army destroyed. The empire would never fully recover; the barbarians would be settled as allies, then partners, then masters. Some historians date Rome's fall from this day.`,
+        hints: [
+            { cost: 20, text: "Roman legions facing Gothic cavalry around a wagon laager was specific to the 376-382 Gothic War.", explanation: "The military situation helps date this battle." },
+            { cost: 25, text: "The defeat and death of a Roman emperor by barbarians within the empire occurred in 378.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Adrianople on August 9, 378, where Gothic cavalry destroyed Emperor Valens's army. Valens, impatient for glory, attacked without waiting for western reinforcements. Gothic heavy cavalry struck the Roman flanks; two-thirds of the army—perhaps 10,000 men—died, including Valens. The Goths were settled as foederati; within a century, their descendants ruled Italy. Roman infantry versus Gothic cavalry characterized late imperial warfare. Valens's death marks this as 378.",
+        tags: ["pitched-battle", "ancient", "europe"]
+    },
+    {
+        id: "campaign_184",
+        title: "The Huns Halted",
+        actualYear: 451,
+        difficulty: "hard",
+        description: `The most feared conqueror since the steppes produced warriors had invaded the western empire. His army—a horde of subject peoples as much as his own horsemen—had ravaged provinces and destroyed cities. The empire was dying, but it had one last general.
+
+That general did the impossible: he united Romans and their barbarian foederati with their ancient enemies, a Germanic kingdom that had settled in the southwest. Together, this unlikely alliance—perhaps 50,000 men—faced the great khan's horde on a vast plain.
+
+The battle raged from afternoon until nightfall. The Germanic king was killed leading a charge; the Roman general nearly captured the khan's camp. The khan, preparing to die in a pyre of saddles, was saved only by nightfall.
+
+By morning, the horde withdrew. It was the great khan's first defeat—and his last battle in the west. He died two years later, and his empire shattered. The alliance fell apart immediately, Romans and Germans resuming their feuds. But for one day, civilization had held.`,
+        hints: [
+            { cost: 20, text: "Hunnic horse archers facing combined Roman-Visigothic forces occurred only once, at the empire's twilight.", explanation: "The alliance helps date this battle." },
+            { cost: 25, text: "Attila's invasion of Gaul and defeat by Aetius occurred in 451.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of the Catalaunian Plains (Châlons) on June 20, 451, where Aetius and Theodoric I stopped Attila the Hun. Theodoric was killed; Attila nearly died. The strategic defeat ended Hunnic expansion westward. Attila died in 453; his empire collapsed. Hunnic horse archers versus Roman-Visigothic forces occurred only at this battle. Attila's Gallic campaign (451) precisely dates this.",
+        tags: ["pitched-battle", "ancient", "europe"]
+    },
+    {
+        id: "campaign_185",
+        title: "The Vandal Trap",
+        actualYear: 533,
+        difficulty: "hard",
+        description: `An aging empire, its glory seemingly past, launched an expedition to reclaim a wealthy province lost a century before. The general was young but brilliant; his army was small—just 15,000 men transported by 500 ships across the sea.
+
+The barbarian kingdom that had seized the province was weakened by religious persecution and succession disputes. Their king had sent his best fleet on a distant expedition, leaving the capital exposed. The imperial landing was unopposed.
+
+The barbarian king gathered 11,000 cavalry to crush the invaders. Twice they fought; twice the barbarians charged impulsively and were destroyed by the disciplined imperial cavalry. At the first battle, the king's brother was killed in a reckless charge. At the second, the king himself fled as his army disintegrated.
+
+The ancient capital fell without a fight. The barbarian kingdom, which had terrorized the sea for a century, was destroyed in weeks. The general would go on to reconquer more lost provinces before jealousy brought him down.`,
+        hints: [
+            { cost: 20, text: "Byzantine cataphract cavalry defeating Vandal horsemen characterized Justinian's reconquest attempts.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "The Byzantine reconquest of North Africa from the Vandals occurred in 533-534.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was Belisarius's Vandalic War of 533-534, including the Battles of Ad Decimum and Tricamarum. Belisarius landed in North Africa with 15,000 men; King Gelimer's Vandals charged piecemeal and were routed twice. Carthage fell; the Vandal kingdom, which had sacked Rome in 455, was destroyed in months. Belisarius went on to invade Italy. Byzantine cataphracts defeating Vandal cavalry characterized Justinian's reconquests. The African campaign of 533-534 precisely dates this.",
+        tags: ["campaign", "6th-century", "africa"]
+    },
+    {
+        id: "campaign_186",
+        title: "The Alemanni Destroyed",
+        actualYear: 357,
+        difficulty: "hard",
+        description: `A young prince, made junior emperor against his will, proved himself a military genius in the barbarian-plagued provinces. With barely 13,000 men, he faced a confederation of Germanic tribes that had crossed the great river—perhaps 35,000 warriors.
+
+The prince was a philosopher who preferred books to battle, but necessity made him a soldier. He chose ground near a ruined city, anchoring his flank on the river. The barbarians attacked with their characteristic fury, driving back his cavalry.
+
+The prince rallied his men personally, positioning himself with the infantry. The legions held; the barbarian charges broke against the disciplined formations. When the Germans exhausted themselves, the Romans counterattacked. The barbarian king was wounded and fled; 6,000 of his warriors lay dead.
+
+The prince drove the Germans back across the river and restored the frontier. He would later become sole emperor, famous for trying to restore the old gods. He died on campaign against Persia, the last pagan emperor.`,
+        hints: [
+            { cost: 20, text: "Late Roman legions with large oval shields facing Germanic tribal charges characterized 4th-century Rhine frontier warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Julian's restoration of the Rhine frontier occurred in 356-358, before he became sole emperor.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Strasbourg (Argentoratum) on August 357, where Caesar Julian defeated the Alemanni confederation. Despite being outnumbered nearly 3:1, Julian's 13,000 legionaries destroyed King Chnodomar's 35,000 Germans. Julian later became emperor (361-363), famous for attempting to restore paganism. Late Roman legions versus Germanic warriors characterized 4th-century Rhine warfare. Julian's Gallic campaigns (356-358) precisely date this battle.",
+        tags: ["pitched-battle", "ancient", "europe"]
+    },
+    {
+        id: "campaign_187",
+        title: "The Frankish Kingdom Born",
+        actualYear: 507,
+        difficulty: "hard",
+        description: `A barbarian king, recently converted to the orthodox faith, marched against the great heretic kingdom to the south. The heretics had ruled the richest provinces for a century; their warriors were the finest in the west. But their king was unpopular, their people oppressed, and the orthodox church prayed for their defeat.
+
+The orthodox king had allied with other barbarian peoples who bordered the heretics. Together they invaded in overwhelming force—perhaps 30,000 warriors. The heretic king gathered his army and met them on the plains.
+
+The battle was decided quickly. The orthodox king killed the heretic king with his own hand—according to legend, with a throwing axe in single combat. The heretic army broke and fled. Within weeks, the victors had seized the richest provinces; the heretics were pushed into a corner of their former kingdom.
+
+The orthodox kingdom would become the most powerful in the west, eventually claiming the title of empire itself. The church it championed would shape the continent for a millennium.`,
+        hints: [
+            { cost: 20, text: "Frankish warriors with axes and angons (barbed javelins) facing Visigothic cavalry characterized early 6th-century warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "The Frankish conquest of Aquitaine from the Visigoths occurred in 507.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Vouillé in 507, where Clovis I of the Franks defeated and killed Alaric II of the Visigoths. Clovis, a recent convert to Catholicism, was supported by the church against the Arian Visigoths. The victory gave the Franks Aquitaine; the Visigoths retreated to Spain. The Frankish kingdom became medieval France's ancestor. Frankish axes facing Visigothic cavalry characterized early 6th-century warfare. The Frankish conquest of Aquitaine (507) precisely dates this battle.",
+        tags: ["pitched-battle", "6th-century", "europe"]
+    },
+    {
+        id: "campaign_188",
+        title: "The Viking Twilight",
+        actualYear: 891,
+        difficulty: "hard",
+        description: `For decades, the river raiders had devastated the heart of the continent—burning cities, extorting kingdoms, and establishing permanent camps from which they pillaged at will. Finally, a young king raised an army to drive them from their greatest fortress.
+
+The king had spent years organizing his defense—building fortified bridges across rivers, training mounted warriors who could respond quickly to raids, learning from decades of failures. Now he brought 10,000 men to the Vikings' fortified camp on the river.
+
+The siege lasted two weeks. The king's men built siege works while cavalry prevented foraging. When the final assault came, the starving Vikings fought with desperate fury but couldn't break through. The survivors fled downstream; their king was among the dead.
+
+The great fortress was destroyed; the raiders' grip on the heart of the continent was broken. Some settled and became Christians; others returned to the sea. The king would become emperor; his dynasty would shape the continent for centuries.`,
+        hints: [
+            { cost: 20, text: "Carolingian cavalry with kite shields besieging Viking fortified camps characterized late 9th-century continental warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Major Carolingian victories against Viking camps occurred in the late 880s-890s.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Leuven (Louvain) in 891, where King Arnulf of East Francia destroyed a major Viking force on the Dyle River. The Vikings had fortified camps along the rivers; Arnulf besieged and stormed their position. The Viking threat to the Carolingian heartland ended; survivors settled as Christians or returned to Scandinavia. Carolingian cavalry versus Viking camps characterized late 9th-century warfare. Arnulf's anti-Viking campaigns (889-891) precisely date this battle.",
+        tags: ["siege", "9th-century", "europe"]
+    },
+    {
+        id: "campaign_189",
+        title: "The Caliph's Humiliation",
+        actualYear: 740,
+        difficulty: "hard",
+        description: `The great caliphate, which had conquered from Spain to India, faced an unprecedented disaster in the distant west. Their governor had angered the fierce mountain tribes with unjust taxation and broken promises. The tribes rose—all of them, across the entire province.
+
+The caliph sent an army to crush the rebellion—perhaps 30,000 men, including Syrian veterans of many campaigns. They marched into the mountains expecting easy victory over primitives with inferior weapons.
+
+The tribesmen—perhaps 20,000 Berbers fighting on their home ground—ambushed the caliphal army in a narrow valley. The Syrians couldn't form their lines; the tribal cavalry and infantry swarmed them from the heights. The slaughter was complete. The army was annihilated; the general was killed; the survivors were too few to count.
+
+The western provinces were lost forever. The caliphate would never reclaim them; the tribes would forge their own kingdoms. It was the caliphate's worst defeat since its founding—a shock that contributed to the dynasty's overthrow a decade later.`,
+        hints: [
+            { cost: 20, text: "Arab cavalry with lance and bow facing Berber mountain warriors characterized 8th-century North African conflicts.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "The Great Berber Revolt against the Umayyads occurred in 739-743.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of the Nobles (Battle of Bagdoura) in 740, where Berber rebels destroyed an Umayyad army sent from Syria. The Arab force—elite Syrian junds—was annihilated in a mountain ambush. The defeat cost the Umayyads their North African provinces permanently; the Berber kingdoms that emerged lasted centuries. The disaster contributed to the Abbasid revolution (750). Arab cavalry versus Berber warriors characterized 8th-century North African warfare. The Great Berber Revolt (739-743) precisely dates this battle.",
+        tags: ["pitched-battle", "8th-century", "africa"]
     }
 ];
