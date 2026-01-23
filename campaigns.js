@@ -3849,5 +3849,102 @@ The defeat led to the first of the great tribute payments that would drain the k
         ],
         explanation: "This was the Battle of Maldon on August 10-11, 991, where Ealdorman Byrhtnoth's Anglo-Saxons were defeated by a Viking army under Olaf Tryggvason. Byrhtnoth famously allowed the Vikings to cross the causeway from Northey Island—a decision medieval poets praised as heroic but modern strategists call foolish. His death led to the Danegeld payments that would total tens of thousands of pounds of silver. The poem 'The Battle of Maldon' immortalized the fight. Anglo-Saxon versus Viking infantry combat identifies late 10th century English warfare. Tribute payments following defeat describe the Danegeld era.",
         tags: ["pitched-battle", "10th-century", "europe"]
+    },
+    {
+        id: "campaign_202",
+        title: "The Kingdom's End",
+        actualYear: 711,
+        difficulty: "hard",
+        description: `A kingdom that had endured for three centuries fell in a single afternoon. A usurper king faced an invasion from across the narrow sea—not a massive army, but a raiding force that grew into something more.
+
+The invaders numbered perhaps 12,000—cavalry and infantry from across the sea, with allied tribesmen who knew the terrain. They came with lance, sword, and bow, armored in mail and lamellar. The defenders mustered perhaps 25,000, but many were poorly armed levies with little training.
+
+The battle took place near a river in the far south. The king's flanks, commanded by noble rivals he had wronged, collapsed suspiciously quickly—some sources say they switched sides. The center held briefly before being overwhelmed. The king died fighting, his body never found.
+
+Within four years, the invaders had conquered the entire peninsula except for mountain refuges in the far north. The kingdom's faith, language, and culture survived only in those refuges; everywhere else, the conquerors imposed their own civilization, which would flourish for seven centuries.`,
+        hints: [
+            { cost: 20, text: "Visigothic heavy cavalry versus Arab-Berber armies characterized early 8th century Iberian warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Major invasions transforming the Iberian peninsula occurred in the early 8th century.", explanation: "The context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Guadalete on July 19, 711, where the Umayyad invasion under Tariq ibn Ziyad destroyed the Visigothic Kingdom. King Roderic (who had seized the throne from the rightful heir) died in the battle; legend says nobles who opposed him betrayed the army. Within four years, most of Iberia was under Muslim rule—beginning seven centuries of Al-Andalus. The Reconquista would not be complete until 1492. Visigothic heavy cavalry versus Arab-Berber forces precisely characterizes early 8th century Iberian warfare. A three-century-old kingdom falling to invasion identifies this transitional moment.",
+        tags: ["pitched-battle", "8th-century", "iberia"]
+    },
+    {
+        id: "campaign_203",
+        title: "The Dynasty's Fall",
+        actualYear: 750,
+        difficulty: "hard",
+        description: `The dynasty that had built the greatest empire since antiquity fell in a single day. For years, rebellion had spread through the eastern provinces; now the rebels marched west with an army drawn from peoples the dynasty had conquered—Persians, Khurasanis, former slaves.
+
+The caliph gathered his forces near a river in the north—perhaps 12,000 loyal troops, mostly Syrian Arabs who had been the backbone of the dynasty for a century. They faced a similar number of rebels, but the rebels had momentum and fresh troops, while the Syrians had marched far and faced defection everywhere.
+
+Both armies were similar: cavalry with lance and bow, infantry with spear and sword. The fighting went on for days. When a key commander switched sides—supposedly bribed—the caliph's army collapsed. The caliph fled but was later hunted down and killed.
+
+The new dynasty would rule for five centuries. They moved the capital east, and the old Syrian-dominated order gave way to a more cosmopolitan empire that drew on Persian administrative traditions. The revolution transformed not just politics but culture, art, and religious practice.`,
+        hints: [
+            { cost: 20, text: "Arab-Persian cavalry armies with lance and bow characterized mid-8th century Middle Eastern warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Major dynastic revolutions in the caliphate occurred in the mid-8th century.", explanation: "The context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of the Zab on January 25, 750, where the Abbasid Revolution overthrew the Umayyad Caliphate. Abu al-Abbas, soon to be called 'al-Saffah' (the Blood-Shedder), defeated Caliph Marwan II near the Great Zab River. The Umayyads were nearly exterminated—only one prince escaped to Spain, where his descendants ruled for centuries. The Abbasids moved the capital from Damascus to Baghdad, shifting the empire's center of gravity eastward. Arab-Persian armies characterize the transition from Umayyad to Abbasid rule. A dynasty falling after a century identifies this pivotal 8th century moment.",
+        tags: ["pitched-battle", "8th-century", "middle-east"]
+    },
+    {
+        id: "campaign_204",
+        title: "The Pass of Legend",
+        actualYear: 778,
+        difficulty: "hard",
+        description: `The great king of the western realm—master of nearly all of Christendom—led his army across the mountains to aid rebel lords against the southern caliphate. The campaign achieved little; the key city resisted, and the king withdrew.
+
+On the return march, the rearguard was caught in a mountain pass by local tribesmen—Christians, ironically, not Muslims. They sought plunder and revenge for earlier slights.
+
+The rearguard was trapped in the narrow defile. Perhaps 2,000 men faced ambush from the heights. The attackers rolled boulders down the slopes, then charged with javelins and swords. The defenders fought in the Frankish style: dismounted cavalry forming shield walls with long swords and axes. But caught in column, unable to form proper lines, they were overwhelmed.
+
+Every man died—including the commander, whose heroic last stand would become the most celebrated epic of medieval literature. The king, who had already passed the mountains, could not return in time to save them.
+
+The minor skirmish became legend; the commander's sword and horn passed into mythology.`,
+        hints: [
+            { cost: 20, text: "Carolingian heavy cavalry fighting dismounted with swords and axes characterized late 8th century Frankish warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Major Carolingian campaigns across the Pyrenees occurred in the late 8th century.", explanation: "The context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Roncevaux Pass on August 15, 778, where Basque ambushers destroyed Charlemagne's rearguard. The commander Roland died in the ambush—his last stand became 'The Song of Roland,' the foundational epic of medieval French literature. The attackers were Christian Basques, not Muslims as the epic claims. Roland's horn (Olifant) and sword (Durendal) became legendary. Charlemagne had been returning from an unsuccessful campaign against Zaragoza. Carolingian military equipment and the Pyrenean campaigns precisely date this to Charlemagne's reign (768-814).",
+        tags: ["ambush", "8th-century", "europe"]
+    },
+    {
+        id: "campaign_205",
+        title: "The Gothic Kingdom's Last King",
+        actualYear: 553,
+        difficulty: "hard",
+        description: `The great general had already killed one barbarian king and reclaimed most of the peninsula for the empire. But the barbarians had rallied behind a new leader—a young warrior who gathered the remaining strength of his people for one final battle.
+
+The general commanded perhaps 18,000 men: a mix of imperial cavalry, dismounted barbarian allies, and mercenary horse archers from the steppes. The barbarian king had perhaps 15,000—the last warriors of a people who had ruled for sixty years.
+
+The battle took place at the foot of a volcano, near an ancient city. The imperial general set his infantry in the center with his heavy cavalry on the flanks. Thousands of archers formed the main striking power—a tactic the general had perfected.
+
+The barbarian cavalry charged repeatedly, but the arrow storm cut them down. The king himself led a final desperate charge against the imperial banner. He was struck down; his death ended not just the battle but his people's kingdom forever. The peninsula returned to imperial rule—though only briefly.`,
+        hints: [
+            { cost: 20, text: "Byzantine combined-arms tactics with massed archers and heavy cavalry characterized 6th century Imperial warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "The final campaigns against Germanic kingdoms in Italy occurred in the mid-6th century.", explanation: "The context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Mons Lactarius (Mount Vesuvius) in October 553, where Byzantine general Narses destroyed the last Ostrogothic army. King Teia, who had succeeded Totila (killed at Taginae the year before), died in the battle after fighting for two days. With his death, the Ostrogothic Kingdom ended—Italy returned to Imperial rule after sixty years. Narses's combined-arms tactics (massed archers, heavy cavalry, infantry center) were characteristically 6th century Byzantine. The Gothic Wars (535-554) precisely date this final battle.",
+        tags: ["pitched-battle", "6th-century", "mediterranean"]
+    },
+    {
+        id: "campaign_206",
+        title: "The Bloodiest Civil War",
+        actualYear: 351,
+        difficulty: "hard",
+        description: `The empire had been divided between two emperors—brothers who hated each other. Now one was dead; a general had seized the western provinces and marched east. The remaining legitimate emperor gathered his forces to meet the usurper.
+
+The armies were evenly matched—perhaps 40,000 on each side. Both were professional Roman forces: heavy infantry with shield and spear, cavalry lancers, horse archers from allied peoples. The fighting lasted all day, the bloodiest single battle in the empire's long history of civil wars.
+
+By nightfall, the usurper had won—barely. The emperor's cavalry had nearly broken through; his cataphracts came within a spear's throw of killing the usurper himself. But the eastern cavalry failed to support the attack, and the breakthrough became an isolated pocket, then a slaughter.
+
+The legitimate emperor fled east. Both armies were shattered—perhaps 54,000 dead combined. The civil war would continue for another two years. The usurper would eventually fall, but only after the empire had bled itself white.`,
+        hints: [
+            { cost: 20, text: "Late Roman professional armies with heavy infantry and cataphract cavalry characterized mid-4th century warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Major civil wars between competing Roman emperors occurred in the mid-4th century.", explanation: "The context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Mursa Major on September 28, 351, the bloodiest battle of the late Roman Empire. Emperor Constantius II faced the usurper Magnentius, who had murdered Constantius's brother Constans. Casualties may have reached 54,000—nearly half of both armies. Constantius won but lost so many soldiers that the empire's military strength was permanently weakened. Late Roman professional armies with cataphract cavalry and heavy infantry precisely characterize mid-4th century warfare. The civil wars following Constantine's death (337) date this precisely.",
+        tags: ["pitched-battle", "4th-century", "europe"]
     }
 ];
