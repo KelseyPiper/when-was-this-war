@@ -3079,5 +3079,271 @@ The western dynasty claimed the eastern lands and would rule them for over six c
         ],
         explanation: "This was the Battle of Dürnkrut (Marchfeld) on August 26, 1278, where Rudolf I of Habsburg defeated Ottokar II of Bohemia. Ottokar, the 'Golden King,' was killed—possibly murdered by personal enemies after his capture. The Habsburgs gained Austria, Styria, and Carinthia, beginning their 640-year rule. Heavy cavalry with mail and early plate characterized late 13th-century Central European warfare. The Habsburg acquisition of Austria (1278) precisely dates this battle.",
         tags: ["pitched-battle", "13th-century", "europe"]
+    },
+    {
+        id: "campaign_162",
+        title: "The Flemish Spurs",
+        actualYear: 1302,
+        difficulty: "hard",
+        description: `A wealthy trading region, dominated by cities of weavers and merchants, rebelled against its overlord—the most powerful king in Christendom. The king sent his finest knights to crush the insolent commoners. What could urban militia do against the flower of chivalry?
+
+The citizens—guildsmen and craftsmen—met the knights on marshy ground outside a walled town. They carried long pikes and goedendags—heavy clubs with iron spikes. They formed dense squares and waited.
+
+The French knights charged in their usual manner—arrogant, undisciplined, each seeking personal glory. The marshy ground slowed their horses; the pike squares held firm. When knights fell, the guildsmen swarmed them with daggers, stabbing through visors and armor joints.
+
+The slaughter was total. Over a thousand knights died—so many that the spurs collected from the dead were hung in the cathedral as trophies. It was the first great victory of infantry over cavalry since antiquity, a sign that the age of the mounted knight was ending.`,
+        hints: [
+            { cost: 20, text: "Urban militia with pikes and clubs defeating heavy cavalry presaged the infantry revolution of the 14th century.", explanation: "The tactical transition helps date this battle." },
+            { cost: 25, text: "Flemish rebellions against French overlordship occurred primarily in the early 14th century.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of the Golden Spurs (Courtrai) on July 11, 1302, where Flemish militia destroyed the French army of Robert II of Artois. The Flemings—guildsmen armed with goedendags and pikes—killed over 1,000 French knights, including Robert himself. 500 golden spurs were hung in the Church of Our Lady as trophies. The battle proved that disciplined infantry could defeat heavy cavalry, foreshadowing Crécy and the end of knightly dominance. Urban militia defeating cavalry characterized the early 14th-century infantry revolution. The Franco-Flemish conflicts precisely date this battle.",
+        tags: ["pitched-battle", "14th-century", "europe"]
+    },
+    {
+        id: "campaign_163",
+        title: "The Field of Blackbirds",
+        actualYear: 1389,
+        difficulty: "hard",
+        description: `Two armies met on a vast plain named for the birds that gathered there. One was the last great power of a crumbling empire, led by its prince. The other was a rising Islamic sultanate whose armies had swept through the region for decades.
+
+Both commanders died. The sultan was killed—assassinated by a knight who feigned surrender, then stabbed him in his tent. The prince was captured and executed in revenge. Yet somehow, the sultanate won the battle.
+
+The truth is unclear—both sides claimed victory. What is certain is the aftermath: the Christian kingdom became a vassal, then was absorbed entirely. The sultan's son took power and continued the conquests.
+
+The battle became a national myth, commemorated for centuries as the death of freedom. The field itself remained sacred, fought over again and again—most recently in living memory, when old hatreds erupted in new atrocities.`,
+        hints: [
+            { cost: 20, text: "Heavy cavalry with mail and partial plate facing Ottoman sipahis and early Janissaries characterized late 14th-century Balkan warfare.", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "Serbian-Ottoman conflicts in Kosovo occurred primarily in the late 14th century, before full Ottoman conquest.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Kosovo on June 15, 1389, where Ottoman Sultan Murad I fought Serbian Prince Lazar Hrebeljanović. Both leaders died—Murad stabbed by Miloš Obilić, Lazar executed after the battle. The outcome was ambiguous, but Serbia became an Ottoman vassal. The battle became central to Serbian national identity, commemorated in epic poetry for six centuries. The 1989 anniversary was used to inflame nationalism. Heavy cavalry facing early Ottoman forces characterized late 14th-century Balkans. Serbian-Ottoman Kosovo conflicts precisely date this battle.",
+        tags: ["pitched-battle", "14th-century", "balkans"]
+    },
+    {
+        id: "campaign_164",
+        title: "The Russian Awakening",
+        actualYear: 1380,
+        difficulty: "hard",
+        description: `For over a century, the principalities of the north had paid tribute to the steppe empire that had conquered them. Now a prince refused to pay—and assembled an army to meet the horde's response.
+
+Perhaps 50,000 warriors gathered from a dozen principalities, united for the first time since the conquest. They marched south to meet the horde on an open field, choosing ground between two rivers that would limit the enemy's mobility.
+
+The horde's general—ruling during a succession crisis—brought perhaps 100,000 men. The battle raged all day. The horde's cavalry shattered one Russian wing, then wheeled toward the center. Victory seemed certain.
+
+Then the hidden reserve struck. Fresh cavalry crashed into the horde's exhausted horsemen from a forest where they had concealed themselves. The rout was total. The horde retreated; tribute was never paid again—at least until the next great khan restored order and punished the rebels.`,
+        hints: [
+            { cost: 20, text: "Russian heavy cavalry with mail armor facing Mongol-style horse archers characterized 14th-century conflicts with the Golden Horde.", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "Russian resistance to Golden Horde tribute demands emerged in the late 14th century during Mongol succession crises.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Kulikovo on September 8, 1380, where Grand Prince Dmitry of Moscow defeated Mamai of the Golden Horde. Dmitry earned the epithet 'Donskoy' (of the Don) for the victory. The ambush cavalry under Vladimir the Bold decided the battle. Russia still paid tribute afterward (Tokhtamysh sacked Moscow in 1382), but Kulikovo showed Mongol armies could be beaten, becoming a symbol of Russian resistance. Russian cavalry versus Golden Horde horse archers characterized 14th-century warfare. Russian resistance during Horde succession crises dates this battle.",
+        tags: ["pitched-battle", "14th-century", "eastern-europe"]
+    },
+    {
+        id: "campaign_165",
+        title: "The Iberian Decision",
+        actualYear: 1385,
+        difficulty: "hard",
+        description: `A small kingdom faced absorption by its larger neighbor. The neighbor's king had died, and his daughter was married to the great king next door. That king claimed the throne—and his army of 30,000 crossed the border.
+
+The small kingdom had perhaps 7,000 men—but they included English longbowmen, veterans of wars in France, sent by an old ally. The defenders chose their ground: a hillside with a stream and marshy ground protecting their front.
+
+The attackers charged uphill, as French knights always did. The longbows sang; the marsh disordered the cavalry; the infantry held. The small kingdom's cavalry struck the flank. The great king's army broke and fled.
+
+The small kingdom kept its independence for two more centuries—until marriage, not war, finally united the crowns. The battle site became a monastery, and its date a national holiday.`,
+        hints: [
+            { cost: 20, text: "English longbowmen supporting allied forces against Castilian cavalry was characteristic of the Hundred Years' War period (1337-1453).", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "The Portuguese succession crisis, with Castilian intervention and English alliance, occurred in 1383-1385.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Aljubarrota on August 14, 1385, where Portuguese forces under João I and Nuno Álvares Pereira defeated Castilian King Juan I. English longbowmen under Thomas Aumale supported Portugal per the Treaty of Windsor (1373), the world's oldest active alliance. The victory secured Portuguese independence until the Iberian Union (1580-1640). The Monastery of Batalha commemorates the site. English longbowmen with Portuguese forces characterized the Hundred Years' War period. The Portuguese succession crisis (1383-1385) precisely dates this battle.",
+        tags: ["pitched-battle", "14th-century", "europe"]
+    },
+    {
+        id: "campaign_166",
+        title: "The Black Prince's Victory",
+        actualYear: 1367,
+        difficulty: "hard",
+        description: `A deposed king sought to reclaim his throne with foreign help. The greatest warrior-prince of the age—son of a famous king—led an army across the mountains to restore him. They faced the usurper's army, stiffened by companies of ruthless mercenaries.
+
+The usurper commanded perhaps 60,000 men. The prince had 30,000—but they included veteran English and Gascon soldiers, masters of the longbow and the disciplined defensive tactics that had won so many victories.
+
+The prince feigned weakness, drawing the enemy to attack. When the usurper's cavalry charged, the longbows devastated them. The prince's cavalry struck the disordered enemy; the usurper's mercenaries, seeing the battle lost, switched sides. The usurper himself fled, leaving thousands dead.
+
+The deposed king regained his throne—then proved so treacherous that within two years, the prince was back, this time to sack cities and spread destruction. The prince would never recover his health from these campaigns, dying before he could inherit his father's crown.`,
+        hints: [
+            { cost: 20, text: "English longbow tactics with Gascon cavalry defeating Castilian and French forces characterized Hundred Years' War interventions.", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "English intervention in the Castilian Civil War occurred in 1367.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Nájera on April 3, 1367, where Edward the Black Prince defeated Henry of Trastámara and restored Peter I 'the Cruel' to the Castilian throne. Bertrand du Guesclin, France's future constable, was captured. Peter's treachery—refusing to pay Edward—led to a punitive expedition in 1370. Edward contracted the illness that killed him in 1376, never becoming king. English longbow tactics in Iberia characterized the Hundred Years' War period. English Castilian intervention (1366-1367) precisely dates this battle.",
+        tags: ["pitched-battle", "14th-century", "europe"]
+    },
+    {
+        id: "campaign_167",
+        title: "The Cross and the Crescent",
+        actualYear: 1187,
+        difficulty: "hard",
+        description: `The greatest Muslim general of the age had finally united the fractured Islamic world. Now he moved against the Christian kingdom that had held the holy city for nearly a century. He chose the height of summer, when heat and thirst would be his allies.
+
+The Christian king led his entire army—perhaps 20,000 men—away from water sources, marching across barren ground to relieve a besieged castle. The Muslim general's horse archers harassed them continuously, denying rest or water.
+
+On a barren hill with twin peaks, the Christians made their final stand. Exhausted, dying of thirst, they formed around their sacred relic—a piece of the True Cross. The Muslim cavalry attacked in waves; the Christian infantry collapsed; the knights made desperate charges that achieved nothing.
+
+By evening, the king was captured, the relic taken, and the Christian army destroyed. Within months, the holy city was recaptured. A new crusade would be called, but the Christian kingdom would never recover its full strength.`,
+        hints: [
+            { cost: 20, text: "Crusader heavy cavalry facing Muslim horse archers, with the True Cross as a battle standard, characterized 12th-century Levantine warfare.", explanation: "The military elements help date this battle." },
+            { cost: 25, text: "Saladin's reunification of Muslim forces and destruction of Crusader armies occurred in 1187.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Hattin on July 4, 1187, where Saladin annihilated the Crusader army of Guy of Lusignan. The Crusaders, dying of thirst after a waterless march, made their stand on the Horns of Hattin. King Guy was captured; the True Cross was taken; Reynald of Châtillon was personally beheaded by Saladin. Jerusalem fell in October. The Third Crusade followed, but the Kingdom of Jerusalem never recovered. Crusader cavalry with the True Cross facing Saladin's horse archers characterized 12th-century warfare. Saladin's reunification (1187) precisely dates this battle.",
+        tags: ["pitched-battle", "12th-century", "middle-east"]
+    },
+    {
+        id: "campaign_168",
+        title: "The Lombard League's Victory",
+        actualYear: 1176,
+        difficulty: "hard",
+        description: `The greatest emperor of the age had spent decades trying to crush the independent cities of the north. They had united against him in a league, rebuilt the city he had razed, and now fielded an army to stop his invasion.
+
+The emperor had perhaps 3,000 German knights—the finest heavy cavalry in Europe. The cities had perhaps 12,000 men, including their own cavalry but also infantry armed with long spears and crossbows, fighting from wagons.
+
+The emperor attacked with his usual confidence. The city cavalry was scattered by the German charge. But the infantry, formed around a sacred wagon bearing their city's standard, held firm. The spears stopped the knights; the crossbows shot them down.
+
+When the city cavalry rallied and returned to the fight, the emperor himself was unhorsed and believed dead. His army fled. The emperor would eventually make peace, accepting city independence. The age of imperial domination was ending; the age of the city-state had begun.`,
+        hints: [
+            { cost: 20, text: "German imperial knights facing Italian city militia with carroccio (standard-bearing wagons) characterized 12th-century Lombard warfare.", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "Frederick Barbarossa's conflicts with the Lombard League occurred primarily from 1158-1183.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Legnano on May 29, 1176, where the Lombard League defeated Emperor Frederick Barbarossa. The Milanese infantry rallied around their carroccio; Barbarossa was unhorsed and nearly killed. The Peace of Constance (1183) recognized city autonomy. Italian city-states would dominate the peninsula for centuries. German knights versus Lombard militia with carroccio characterized 12th-century warfare. Barbarossa's Lombard League conflicts (1158-1183) precisely date this battle.",
+        tags: ["pitched-battle", "12th-century", "europe"]
+    },
+    {
+        id: "campaign_169",
+        title: "The Pope's Humiliation",
+        actualYear: 1053,
+        difficulty: "hard",
+        description: `The pope himself led an army south to drive out the Norman adventurers who had carved out kingdoms in the peninsula. These Normans—younger sons and landless knights from the north—had arrived as mercenaries and stayed as conquerors.
+
+The papal army included Lombard infantry, German cavalry, and Italian militia—perhaps 6,000 men. The Normans had only 3,000 cavalry, but they were the finest warriors in Christendom, hardened by decades of constant warfare.
+
+The battle was brief. The papal infantry broke at the first Norman charge. The pope himself was captured—an unprecedented humiliation. But the Norman leaders, devout in their own way, knelt before their prisoner and begged his blessing. They would release him, swear fealty, and receive papal recognition for their conquests.
+
+The Normans would go on to conquer the wealthy island to the south, then launch crusades from their new kingdom. What began as robbery became a realm that would last for centuries.`,
+        hints: [
+            { cost: 20, text: "Norman heavy cavalry defeating mixed Italian forces was characteristic of the Norman conquest of southern Italy (1030-1100).", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "Papal attempts to expel the Normans from southern Italy occurred in the mid-11th century.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Civitate on June 18, 1053, where Norman forces under Humphrey of Hauteville and Robert Guiscard defeated Pope Leo IX's army. The pope was captured but treated respectfully; he died in Norman custody the next year. The Treaty of Melfi (1059) granted papal recognition to Norman conquests. The Normans conquered Sicily (1061-1091) and later launched the First Crusade's key contingent. Norman cavalry defeating Italian forces characterized the 1030-1100 conquest. Papal conflict with Normans in the mid-11th century dates this battle.",
+        tags: ["pitched-battle", "11th-century", "europe"]
+    },
+    {
+        id: "campaign_170",
+        title: "The High King's Fall",
+        actualYear: 1014,
+        difficulty: "hard",
+        description: `An aging high king, who had spent decades unifying his fractured island, faced the largest Viking army in a generation. The Northmen had allied with a rebellious province; their longships filled the bay.
+
+The high king was old—perhaps seventy—and remained in his tent while his sons and generals led the army. Perhaps 7,000 Irish faced a similar number of Vikings and their allies. The battle raged all day along the coast.
+
+By evening, the Vikings were broken, fleeing to their ships. But the victory was pyrrhic. The high king's son was killed; his grandson was killed; and the high king himself—praying in his tent—was found and killed by fleeing Vikings who stumbled upon him.
+
+The Viking Age was ending, but so was the dream of a united island. The high king's dynasty collapsed; the provinces resumed their feuds. Unity would not come again for centuries—and then only under foreign rule.`,
+        hints: [
+            { cost: 20, text: "Irish warriors with axes and javelins facing Viking armies with mail and swords characterized 10th-11th century Irish warfare.", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "The final great Viking invasion of Ireland occurred in the early 11th century.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Clontarf on April 23, 1014, where High King Brian Boru defeated a Viking-Leinster alliance. Brian, too old to fight, was killed in his tent by fleeing Vikings. His son Murchad and grandson Toirdelbach also died. The Vikings never again threatened Ireland, but Brian's dynasty collapsed without him. Irish unity died with him; centuries of provincial warfare followed. Irish warriors facing Vikings characterized 10th-11th century warfare. The final Viking invasion of Ireland dates this battle.",
+        tags: ["pitched-battle", "11th-century", "europe"]
+    },
+    {
+        id: "campaign_171",
+        title: "The Holy King's Death",
+        actualYear: 1030,
+        difficulty: "hard",
+        description: `A king who had forced Christianity on his kingdom at swordpoint returned from exile to reclaim his throne. He had been driven out by lords who resented his reforms—and his harsh methods of enforcing them. Now he came with a small band of loyal followers.
+
+The rebel army was larger—perhaps 14,000 to his 3,000. But the king believed God was on his side. He had forced the old gods from their temples, baptized pagans at spearpoint, and built churches across the land.
+
+The battle was fought on a summer day near a farm. The king's followers were outnumbered but fought furiously. The king himself, fighting in the front rank as kings must, was wounded three times—sword, spear, and axe. He died on the battlefield, and his army was scattered.
+
+Within a year, miracles were reported at his grave. Within a decade, he was declared a saint. The faith he had imposed by force became his kingdom's identity; his church still stands where he fell.`,
+        hints: [
+            { cost: 20, text: "Viking-era warriors with mail, swords, axes, and spears characterized Scandinavian warfare from roughly 800-1100 CE.", explanation: "The equipment helps date this battle." },
+            { cost: 25, text: "The Christianization of Scandinavia, often by force, occurred primarily in the 10th-11th centuries.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Stiklestad on July 29, 1030, where King Olaf II of Norway was killed trying to reclaim his throne. Olaf had Christianized Norway by force; rebellious lords allied with Cnut the Great of Denmark to drive him out. Though defeated, Olaf became Saint Olaf within a year, his feast day still celebrated. The Stiklestad Church marks where he fell. Viking-era weapons and armor characterized 800-1100 CE warfare. The Christianization of Scandinavia precisely dates this battle.",
+        tags: ["pitched-battle", "11th-century", "europe"]
+    },
+    {
+        id: "campaign_172",
+        title: "The Persian Empire Falls",
+        actualYear: 636,
+        difficulty: "hard",
+        description: `Two great empires had exhausted themselves in decades of war. Now an army from the desert—united by a new faith barely a decade old—swept into the weakened survivor. They had already taken Syria from its rival; now they turned east.
+
+The Persian army was still formidable: perhaps 40,000 men including heavy cataphract cavalry and war elephants. The Arabs had only 12,000—lightly armored but mobile, fighting with spear, sword, and bow from camelback and horseback.
+
+The battle lasted three days. The Arabs negated the elephants by targeting their eyes and trunks; the cataphracts charged again and again but couldn't break the Arab lines. On the third day, a sandstorm blinded the Persians; the Arabs pressed their advantage.
+
+The Persian general was killed; his army was destroyed. Within two decades, the empire that had lasted over a thousand years was gone entirely, its territories and people absorbed into the new faith's realm.`,
+        hints: [
+            { cost: 20, text: "Persian cataphracts and war elephants facing Arab cavalry with spears and bows characterized the early Islamic conquests (632-651).", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "The Arab conquest of Persia, ending the Sasanian Empire, occurred in the 630s-640s.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of al-Qadisiyyah in 636, where Arab forces under Sa'd ibn Abi Waqqas destroyed the Sasanian Persian army of Rostam Farrokhzad. Fighting lasted three or four days; Rostam was killed when the wind blew his tent onto him. The Sasanian Empire, which had rivaled Rome for centuries, collapsed within fifteen years. Persia became Muslim and remains so. Persian cataphracts and elephants facing Arab cavalry characterized the early Islamic conquests (632-651). The conquest of Persia precisely dates this battle.",
+        tags: ["pitched-battle", "7th-century", "middle-east"]
+    },
+    {
+        id: "campaign_173",
+        title: "The Greek Counterstroke",
+        actualYear: -479,
+        difficulty: "hard",
+        description: `The great king's invasion had succeeded beyond all expectation: the legendary pass had fallen, the famous city burned, and the peninsula seemed conquered. But the fleet had been destroyed in a narrow strait, and the king returned home, leaving his general to finish the conquest.
+
+The general wintered in the north with 300,000 men—or so the histories claim. The defenders gathered their forces: perhaps 40,000 hoplites from dozens of city-states that had feuded for generations, now united against the common enemy.
+
+The two armies met on a plain near a small town. The Greeks advanced in their dense phalanx formation; the Persian infantry—good soldiers but more lightly equipped—could not match them in close combat. The Persian cavalry threatened the flanks but could not break the hoplite squares.
+
+By evening, the general was dead and his army shattered. The invasion was over; the peninsula was saved. The city-states returned to their feuds, but their victory would echo through millennia.`,
+        hints: [
+            { cost: 20, text: "Greek hoplite phalanxes with bronze armor and thrusting spears facing Persian infantry and cavalry characterized the Greco-Persian Wars (499-449 BCE).", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "Major Persian invasions of Greece occurred in 490 BCE and 480-479 BCE.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Plataea in 479 BCE, where Greek forces under the Spartan regent Pausanias destroyed the Persian army of Mardonius. Mardonius was killed; the Persian invasion ended. Combined with the naval victory at Mycale the same day, Plataea secured Greek independence. The Greek hoplite phalanx proved superior to Persian infantry. Hoplite warfare against Persia characterized the Greco-Persian Wars (499-449 BCE). The second Persian invasion (480-479 BCE) precisely dates this battle.",
+        tags: ["pitched-battle", "ancient", "europe"]
+    },
+    {
+        id: "campaign_174",
+        title: "The World Conqueror's Masterpiece",
+        actualYear: -331,
+        difficulty: "hard",
+        description: `The young king who had already conquered half the Persian Empire met the great king himself on a vast plain—ground chosen by the Persians to maximize their advantages. The Persian army stretched for miles: perhaps 200,000 men, including scythed chariots, war elephants, and cavalry from every province of the empire.
+
+The invader had 47,000 veterans, outnumbered four to one. But they were the finest soldiers in the world, and their king was a tactical genius. He refused the center, advancing obliquely to create a gap in the Persian line.
+
+The Persian chariots charged and were destroyed by javelins. The cavalry on both wings clashed in swirling melees. Then the young king led his Companion cavalry directly at the great king's position. The Persian line buckled; the great king—seeing his enemy charging straight for him—turned and fled.
+
+The Persian Empire fell that day. The young king would march on to India before his men forced him to turn back. He would die at 32, having never lost a battle, leaving an empire with no heir.`,
+        hints: [
+            { cost: 20, text: "Macedonian phalanx with sarissas and Companion cavalry facing Persian cavalry and scythed chariots characterized Alexander's campaigns (334-323 BCE).", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "Alexander's decisive battle against Darius III occurred in 331 BCE.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Gaugamela on October 1, 331 BCE, where Alexander the Great destroyed the last army of Darius III. Alexander's oblique attack created a gap in the Persian line; his charge at Darius caused the Great King to flee. The Persian Empire fell; Alexander ruled from Egypt to India until his death in 323 BCE. Macedonian phalanx and Companions versus Persian scythed chariots characterized Alexander's campaigns (334-323 BCE). The decisive battle against Darius dates this precisely.",
+        tags: ["pitched-battle", "ancient", "middle-east"]
+    },
+    {
+        id: "campaign_175",
+        title: "The Carthaginian Defeat",
+        actualYear: -202,
+        difficulty: "hard",
+        description: `For seventeen years, the greatest general of the age had ravaged his enemy's homeland, winning battle after battle, destroying army after army. Now a young enemy general had invaded his homeland, forcing him to return and fight on his own soil for the first time.
+
+The invader had 34,000 infantry and 9,000 cavalry—including the superb horsemen of a desert kingdom he had won to his side. The great general had 36,000 infantry and 4,000 cavalry, plus 80 war elephants—but many of his troops were raw recruits, not the veterans who had followed him for decades.
+
+The elephants charged but were channeled through gaps in the enemy line and destroyed. The cavalry battle was lost in minutes—the desert horsemen swept the field. The infantry fought for hours, the veterans in the rear holding even after the front lines broke.
+
+But the returning cavalry struck the rear. The great general, for the first time in his life, was defeated. His city sued for peace; a century later, it would be destroyed entirely. The young victor would be named for the continent he had conquered.`,
+        hints: [
+            { cost: 20, text: "Roman legions with pila and gladii facing Carthaginian infantry, cavalry, and war elephants characterized the Second Punic War (218-201 BCE).", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "The final battle of the Second Punic War, fought in Africa, occurred in 202 BCE.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Zama in 202 BCE, where Scipio Africanus defeated Hannibal Barca, ending the Second Punic War. Scipio's Numidian cavalry under Masinissa swept the field; returning to strike Hannibal's rear, they decided the battle. Hannibal, undefeated for 17 years in Italy, lost his first and only pitched battle. Carthage surrendered; Rome dominated the Mediterranean. Roman legions versus Carthaginian combined arms characterized the Second Punic War (218-201 BCE). The final battle in Africa dates this precisely.",
+        tags: ["pitched-battle", "ancient", "africa"]
     }
 ];
