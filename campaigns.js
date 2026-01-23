@@ -3611,5 +3611,243 @@ The western provinces were lost forever. The caliphate would never reclaim them;
         ],
         explanation: "This was the Battle of the Nobles (Battle of Bagdoura) in 740, where Berber rebels destroyed an Umayyad army sent from Syria. The Arab force—elite Syrian junds—was annihilated in a mountain ambush. The defeat cost the Umayyads their North African provinces permanently; the Berber kingdoms that emerged lasted centuries. The disaster contributed to the Abbasid revolution (750). Arab cavalry versus Berber warriors characterized 8th-century North African warfare. The Great Berber Revolt (739-743) precisely dates this battle.",
         tags: ["pitched-battle", "8th-century", "africa"]
+    },
+    {
+        id: "campaign_190",
+        title: "The Eagles in the Marsh",
+        actualYear: 16,
+        difficulty: "hard",
+        description: `Seven years after a catastrophic ambush had destroyed three legions in the northern forests, a young general led an army of vengeance into the same territory. The tribes had thought themselves safe; they were wrong.
+
+The general commanded eight legions—perhaps 50,000 men in total—plus auxiliary cavalry. They crossed the great river on a bridge of boats. The legionaries wore segmented plate armor over chain mail, carried the rectangular curved shield, and fought with the short stabbing sword that had conquered the known world. Each legion had its eagle standard.
+
+The tribal confederation gathered to resist—perhaps 50,000 warriors armed with long spears, round shields, and the fearsome long swords favored by these people. They had annihilated the previous expedition through ambush; this time they would face the legions in open battle.
+
+The battle raged across a plain bounded by a river and a forest. The tribal cavalry initially drove back the auxiliary horse, but the legionary infantry proved unstoppable. The tribal warriors, unable to match the disciplined formation fighting, broke and fled. The pursuit lasted until nightfall; casualties were heavy on both sides but the victory was complete. The general recovered two of the three lost eagles from the earlier disaster.`,
+        hints: [
+            { cost: 20, text: "Segmented plate armor (lorica segmentata) over mail was standard Roman equipment from roughly 1 AD to 200 AD, replacing the older chain mail alone.", explanation: "The armor type helps date this battle." },
+            { cost: 25, text: "Major Roman campaigns to recover lost eagles occurred in the early 1st century AD.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Idistaviso in 16 AD, where Germanicus defeated the Germanic confederation led by Arminius—the same leader who had destroyed Varus's three legions at Teutoburg Forest in 9 AD. Germanicus recovered two of the three lost eagles and devastated the tribes, but Emperor Tiberius recalled him before total victory, fearing his popularity. Segmented plate armor (lorica segmentata) became standard around 1 AD and identifies the early Imperial period. The campaign to avenge Teutoburg dates this precisely to 14-16 AD.",
+        tags: ["pitched-battle", "1st-century", "europe"]
+    },
+    {
+        id: "campaign_191",
+        title: "The Queen's Rebellion",
+        actualYear: 61,
+        difficulty: "hard",
+        description: `A queen led a massive tribal rebellion against imperial occupation. Her people had been humiliated—their king's will ignored, the queen herself flogged, her daughters violated. Three major cities burned to the ground; perhaps 70,000 colonists and collaborators were massacred.
+
+The imperial governor had been campaigning in the west with most of his forces. He returned with a single legion and auxiliaries—perhaps 10,000 men total—to face a tribal horde estimated at 230,000, though such numbers are surely exaggerated.
+
+The governor chose his ground carefully: a narrow defile with forests protecting his flanks and rear, opening onto a plain where the tribal host gathered. The legionaries formed their standard formation—shields interlocked, javelins ready. Behind the warriors came their families in wagons, come to watch what they expected to be a triumph.
+
+The tribal charge broke against the disciplined line. The legionaries hurled their javelins, then advanced in wedge formations. The narrow field negated the tribal numbers; the wagons blocked their retreat. The slaughter was immense—perhaps 80,000 dead, against fewer than 400 Romans. The queen took poison rather than face capture.`,
+        hints: [
+            { cost: 20, text: "Roman legionaries with rectangular curved shields, javelins, and short swords fighting in wedge formations characterized the 1st century AD.", explanation: "The tactics help date this battle." },
+            { cost: 25, text: "Major tribal rebellions in the western provinces occurred mid-1st century AD.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Watling Street in 61 AD, where Governor Gaius Suetonius Paulinus crushed the rebellion of Queen Boudica of the Iceni. Boudica had burned Camulodunum (Colchester), Londinium (London), and Verulamium (St Albans). Paulinus chose a narrow battlefield that neutralized her numbers; the tribal wagons blocked retreat and became a slaughter pen. Boudica poisoned herself; her people never rebelled again. Roman legionary equipment and tactics are unmistakably 1st century AD. The destruction of three major colonial cities in the western provinces identifies this period precisely.",
+        tags: ["pitched-battle", "1st-century", "europe"]
+    },
+    {
+        id: "campaign_192",
+        title: "The Frozen River",
+        actualYear: 406,
+        difficulty: "hard",
+        description: `On the last night of the year, the great river froze solid. Entire peoples—men, women, children, wagons, livestock—crossed on the ice. The imperial frontier, defended for four centuries, simply ceased to exist.
+
+The garrison forces were stretched thin; civil wars had drawn the best units to distant theaters. The limitanei—border troops of lesser quality than the field armies—could not stop the migration. Some tribes crossed unopposed; others fought brief engagements with local garrisons.
+
+The invaders were diverse: Germanic tribes, Central Asian horse peoples, even some who had served as imperial foederati and knew Roman military practice. They came with cavalry and infantry, armed with long swords, spears, javelins, and bows. Some wore mail armor; most relied on large wooden shields.
+
+Within three years, the invaders had reached the western sea. Within a generation, imperial authority in the western provinces had collapsed. The empire would never recover its lost territories; what had been provinces would become the kingdoms of new peoples.
+
+The crossing marked not just a military disaster but the end of an era—the moment when a civilization's defenses simply gave way.`,
+        hints: [
+            { cost: 20, text: "Late Roman limitanei (border troops) versus Germanic and nomadic warriors characterized 4th-5th century frontier warfare.", explanation: "The forces help date this period." },
+            { cost: 25, text: "Major crossings of the frozen Rhine occurred during the 'Migration Period' of the early 5th century.", explanation: "The context helps narrow the date." }
+        ],
+        explanation: "This was the Crossing of the Rhine on December 31, 406 AD—one of history's pivotal moments. Vandals, Alans, and Suebi crossed the frozen river into Gaul, shattering the Roman frontier permanently. Within years they reached Spain; the Vandals would eventually take North Africa. The Western Empire, already weakened by civil war, never recovered these territories. Late Roman limitanei facing Germanic and nomadic invaders with mixed equipment characterizes 5th-century frontier collapse. The scale of migration—entire peoples, not just armies—distinguishes this period.",
+        tags: ["migration", "5th-century", "europe"]
+    },
+    {
+        id: "campaign_193",
+        title: "The Heretic Emperor's End",
+        actualYear: 394,
+        difficulty: "hard",
+        description: `The last pagan emperor of the western realm marched against the Christian emperor of the east. The fate of an empire—and perhaps the future of two competing religions—would be decided in a single battle.
+
+The armies met in a mountain pass, perhaps 50,000 men on each side. The western army included the last units of traditional believers, who marched beneath the standards of the old gods. The eastern army carried the new symbol—the chi-rho that had supposedly granted victory to a previous emperor.
+
+The first day's fighting favored the west. The eastern cavalry was ambushed and cut to pieces; the eastern emperor nearly died himself. That night, a bitter wind rose from the mountains.
+
+The second day, the wind became a gale—so fierce that it blew the missiles of the western army back into their own faces while carrying the eastern javelins true. The demoralized western troops broke; their emperor was captured and executed. The old religion would never again challenge the new for imperial favor.
+
+The battle marked the final triumph of one faith over another in the empire, and the last gasp of paganism as a political force.`,
+        hints: [
+            { cost: 20, text: "Late Roman field armies (comitatenses) with mixed cavalry and infantry characterized 4th-5th century warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Civil wars between eastern and western Roman emperors over religious policy occurred in the late 4th century.", explanation: "The context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of the Frigidus (Cold River) on September 5-6, 394 AD. Emperor Theodosius I of the East defeated the usurper Eugenius and his general Arbogast, who had championed paganism. The famous Bora wind on the second day demoralized Eugenius's troops—later Christians called it miraculous. Eugenius was executed; Arbogast committed suicide. The victory ended the last serious pagan revival in the empire. Late Roman comitatenses fighting under competing religious symbols (chi-rho vs pagan standards) precisely identifies the late 4th century religious conflict.",
+        tags: ["pitched-battle", "4th-century", "europe"]
+    },
+    {
+        id: "campaign_194",
+        title: "The Huns' Heirs Destroyed",
+        actualYear: 454,
+        difficulty: "hard",
+        description: `Just three years after the great khan's death, his empire collapsed. His sons quarreled over the succession; their subject peoples saw opportunity.
+
+The Germanic tribes who had served the khan rose in revolt. They gathered in a great coalition—peoples who had been conquered and humiliated now united against their former masters. The battle took place near a river in the central plains.
+
+The khan's sons relied on the tactics that had terrorized three continents: mounted archers who showered enemies with arrows, then retreated before contact, wearing down opponents through exhaustion and casualties. They carried composite bows that could penetrate armor at ranges infantry weapons could not match.
+
+But the Germanic coalition had learned. They formed dense infantry formations with large shields, advancing steadily despite the arrow storm. Their own cavalry—armored lancers rather than horse archers—charged home when the steppe horsemen came too close. The battle was long and bloody; the khan's eldest son fell. By nightfall, the great empire was finished forever.
+
+The peoples of the steppe would threaten again, centuries later. But this particular terror was ended.`,
+        hints: [
+            { cost: 20, text: "Hunnic composite bow horse archers versus Germanic shield walls and heavy cavalry characterized mid-5th century European warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "The dissolution of the Hunnic Empire occurred in the 450s AD.", explanation: "The context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Nedao in 454 AD, where a coalition of Germanic tribes under the Gepid king Ardaric destroyed Hunnic power in Europe. Attila had died in 453; his sons' quarrels gave the subject peoples their chance. Ellac, Attila's eldest son, was killed in the battle. The Huns scattered—some fled east, others became mercenaries. The Gepids and Ostrogoths divided the former Hunnic territories. Hunnic horse archers versus Germanic infantry and cavalry identifies the mid-5th century transition period. The collapse of a steppe empire after a great khan's death follows a recurring historical pattern.",
+        tags: ["pitched-battle", "5th-century", "europe"]
+    },
+    {
+        id: "campaign_195",
+        title: "The Empire's Revenge",
+        actualYear: 627,
+        difficulty: "hard",
+        description: `For twenty years, the ancient rival empire had been winning. They had taken the empire's richest provinces, besieged the capital itself, and seemed unstoppable. Then an emperor who had once considered fleeing launched the most daring campaign in his realm's thousand-year history.
+
+He struck not at the enemy's armies in his own territory but at their heartland, marching through mountain kingdoms to attack from an unexpected direction. The enemy's supreme ruler gathered a massive army—perhaps 50,000 men—to stop him near the ruins of an ancient civilization.
+
+The battle was fought in winter, in harsh terrain. Both armies fielded heavy cavalry—armored horsemen with long lances—and infantry with spears and bows. The emperor's cataphracts proved decisive; they broke the enemy center and sent the great army fleeing. The enemy commander was killed, either in battle or shortly after.
+
+Within a year, the enemy empire sued for peace, returning everything they had taken. Within a decade, both empires would face a new threat from the south that would transform the world. But for this brief moment, the emperor had achieved complete victory.`,
+        hints: [
+            { cost: 20, text: "Byzantine cataphracts versus Sasanian heavy cavalry characterized 6th-7th century Roman-Persian warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Major Byzantine counter-offensives into Persian territory occurred in the early 7th century.", explanation: "The context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Nineveh on December 12, 627 AD, where Emperor Heraclius of Byzantium crushed the Sasanian Persian army near the ruins of ancient Nineveh. The Persian commander Rhahzadh was killed. Heraclius had launched an audacious campaign through Armenia into the Persian heartland. The victory reversed twenty years of Persian conquests; Shah Khosrow II was overthrown by his own son. Both exhausted empires were then swept by the Arab conquests (630s-640s). Byzantine cataphracts versus Sasanian cavalry is unmistakably 7th century Roman-Persian warfare. The campaign into enemy heartland after long defensive wars dates this precisely.",
+        tags: ["pitched-battle", "7th-century", "middle-east"]
+    },
+    {
+        id: "campaign_196",
+        title: "The Schism's First Blood",
+        actualYear: 657,
+        difficulty: "hard",
+        description: `The great caliphate that had conquered half the known world tore itself apart. The question: who was the rightful successor to the founder? The commander of the faithful—cousin and son-in-law to the prophet—faced the governor of the richest province, who demanded vengeance for a murdered predecessor.
+
+The armies met on a river plain, perhaps 70,000 men on each side. Both forces were Arab cavalry and infantry, armed identically: lance, sword, bow, and round shield. Both proclaimed the same faith, recited the same holy book, invoked the same God. What separated them was the question of legitimate succession.
+
+The battle lasted for days—some sources say weeks—with neither side able to achieve decisive advantage. Finally, when the commander of the faithful's forces were gaining ground, the enemy tied holy pages to their lances and called for arbitration. The fighting stopped.
+
+The arbitration resolved nothing; the schism deepened into permanent division. The commander of the faithful was later assassinated. The question of succession would divide the faithful for fourteen centuries and counting.`,
+        hints: [
+            { cost: 20, text: "Early Arab armies with lance, sword, bow, and round shield characterized 7th century Islamic warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "The great fitna (civil wars) over caliphal succession occurred in the mid-7th century.", explanation: "The context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Siffin in 657 AD, between Caliph Ali ibn Abi Talib and Muawiya, governor of Syria. When Ali's forces gained advantage, Muawiya's men raised Qurans on their lances calling for arbitration—a tactic that worked. The inconclusive arbitration led to the Kharijite split; Ali was assassinated in 661. Muawiya founded the Umayyad dynasty. The battle created the permanent Sunni-Shia schism. Early Arab armies fighting each other are unmistakably from the Rashidun/early Umayyad period. The question of succession to the Prophet precisely dates this to the First Fitna (656-661).",
+        tags: ["pitched-battle", "7th-century", "middle-east"]
+    },
+    {
+        id: "campaign_197",
+        title: "The Brothers' War",
+        actualYear: 841,
+        difficulty: "hard",
+        description: `The great emperor had united the western world, but his grandsons could not share his inheritance. Three brothers—each claiming a throne—gathered their armies for the bloodiest battle the realm had ever seen.
+
+Two brothers allied against the third, who held the imperial title but not the loyalty of his siblings. The armies met on a plain; perhaps 150,000 men in total, the largest forces fielded since ancient times.
+
+Both armies were similar: heavy cavalry with lance and sword, wearing mail hauberks and conical helmets. Infantry with spears and shields supported the horsemen. The warriors swore oaths on sacred relics before battle; priests blessed the standards.
+
+The fighting was savage—brother killing brother quite literally. By nightfall, the emperor's forces were shattered. Perhaps 40,000 died on the field. The emperor fled; within two years, the realm would be formally divided into three kingdoms that would never reunite.
+
+The battle marked the end of a unified western Christian empire and the birth of the nations that would eventually become the major powers of the continent.`,
+        hints: [
+            { cost: 20, text: "Carolingian heavy cavalry with mail hauberks and conical helmets characterized 9th century Frankish warfare.", explanation: "The armor helps date this battle." },
+            { cost: 25, text: "Major civil wars dividing the Carolingian Empire occurred in the mid-9th century.", explanation: "The context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Fontenoy on June 25, 841, the bloodiest battle of the Carolingian era. Louis the German and Charles the Bald defeated their brother Emperor Lothar I. Casualty estimates of 40,000 may be exaggerated but reflect the battle's horror—chroniclers called it 'the end of Frankish strength.' The Treaty of Verdun (843) divided the empire into what became France, Germany, and a middle kingdom. Carolingian heavy cavalry with mail and conical helmets identifies 9th century Frankish warfare. A war between imperial brothers over Charlemagne's inheritance precisely dates this period.",
+        tags: ["pitched-battle", "9th-century", "europe"]
+    },
+    {
+        id: "campaign_198",
+        title: "The King's Gambit",
+        actualYear: 878,
+        difficulty: "hard",
+        description: `The northern invaders had conquered nearly everything. Three kingdoms had fallen; the fourth seemed doomed. Its king was a fugitive, hiding in marshes with a handful of followers. Then, in a single spring, everything changed.
+
+The king summoned what remained of his realm's warriors—perhaps 4,000 men—and marched to meet the invader army of similar size. The invaders had grown complacent, confident that the war was won.
+
+Both armies fought on foot; the warriors carried round shields and fought with spear and sword. The defenders wore mail when they had it; many fought in leather or thick cloth. The invaders were similarly armed, though their distinctive long axes could split shields and helms alike.
+
+The battle lasted a day. The king's army held firm in a shield wall on a ridge; the invaders' charges broke against the disciplined line. By evening, the invader king fled the field. The pursuit lasted two weeks; the invaders were besieged in their fortress and forced to submit—and to accept the defenders' faith.
+
+The king had saved the last independent realm of his people and begun the reconquest that his descendants would complete.`,
+        hints: [
+            { cost: 20, text: "Anglo-Saxon shield walls versus Viking infantry characterized 9th century warfare in the British Isles.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Major turning-point battles against Viking invasions occurred in the late 9th century.", explanation: "The context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Edington in May 878, where King Alfred of Wessex defeated the Great Heathen Army under Guthrum. Alfred had spent the winter in the Somerset marshes; in spring he gathered the fyrd and crushed the Vikings. Guthrum was besieged at Chippenham and forced to accept baptism with Alfred as godfather. The Treaty of Wedmore created the Danelaw boundary. Alfred had saved the last Anglo-Saxon kingdom and begun England's unification. Anglo-Saxon shield walls versus Vikings characterizes 9th century British warfare. A king emerging from hiding to defeat invaders describes Alfred's desperate situation.",
+        tags: ["pitched-battle", "9th-century", "europe"]
+    },
+    {
+        id: "campaign_199",
+        title: "The Horsemen from the East",
+        actualYear: 955,
+        difficulty: "hard",
+        description: `For decades, raiders from the eastern steppes had terrorized the heartland of western Christendom. They came on fast horses with composite bows, striking without warning and vanishing before armies could respond. Cities paid tribute; monasteries burned. Then the king gathered the largest army his realm had ever assembled.
+
+Perhaps 10,000 heavy cavalry—the armored horsemen who would become the model for medieval knights—faced a raider army of similar size. The king had chosen his ground: a river plain near a major city, where his heavy horse could charge home.
+
+The raiders used their traditional tactics: feigned retreats, arrow storms, encirclement. They trapped and annihilated the rearguard. But the king kept his main force together, and when the raiders committed to close combat, the heavy cavalry proved unstoppable.
+
+The raider army was destroyed; their leaders were captured and hanged. The threat ended permanently; the raiders settled, converted, and became a Christian kingdom. The victory established the king as the dominant ruler in western Christendom and laid the foundations for a new empire.`,
+        hints: [
+            { cost: 20, text: "Heavy cavalry lancers versus steppe horse archers characterized 10th century central European warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Decisive battles ending major nomadic incursions into Germany occurred in the mid-10th century.", explanation: "The context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Lechfeld on August 10, 955, where King Otto I of Germany crushed the Magyars (Hungarians), ending sixty years of devastating raids. Otto's heavy cavalry—proto-knights in mail with lance and shield—destroyed the Magyar horse archers when they closed to fight. Magyar leaders were hanged; the survivors settled and converted, founding the Kingdom of Hungary. Otto was crowned Holy Roman Emperor in 962. Heavy cavalry lancers defeating steppe horse archers characterizes 10th century European military development. The permanent end of a nomadic threat identifies this decisive moment.",
+        tags: ["pitched-battle", "10th-century", "europe"]
+    },
+    {
+        id: "campaign_200",
+        title: "The Southern Emperor's Folly",
+        actualYear: 982,
+        difficulty: "hard",
+        description: `The young emperor marched south to drive the infidels from territory they had seized from his empire. His army was small but elite: perhaps 4,000 of the finest heavy cavalry in Christendom, the armored knights who had proven unstoppable in battle after battle.
+
+The enemy waited in chosen ground near the coast. They numbered perhaps 5,000—Arab and Berber cavalry and infantry, including ghazi holy warriors eager for martyrdom. They had experience fighting heavy cavalry and knew the terrain.
+
+The emperor's impetuosity doomed him. He charged without proper reconnaissance, into terrain that broke up his formation. The enemy cavalry swarmed the disordered knights. The slaughter was immense—perhaps 2,000 dead, including the cream of the nobility.
+
+The emperor barely escaped, swimming to a ship. He died within a year, probably of his wounds and the fever of the southern coasts. The disaster halted Christian expansion southward for generations and ended dreams of driving Islam from the peninsula entirely.`,
+        hints: [
+            { cost: 20, text: "Frankish-German heavy cavalry versus Arab-Berber forces characterized 10th century Mediterranean warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Major Imperial campaigns against Muslim forces in southern Italy occurred in the late 10th century.", explanation: "The context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Stilo (Cape Colonna) on July 13, 982, where Emperor Otto II's German heavy cavalry was crushed by the Kalbid Emirate of Sicily. Otto lost half his army, including many nobles; he escaped by swimming to a Byzantine ship. He died in Rome in 983, age 28, leaving a 3-year-old heir. The disaster ended German expansion into southern Italy and emboldened the Slavic revolt that would follow. German heavy cavalry versus Arab-Berber forces identifies late 10th century Mediterranean conflicts. An emperor's rashness leading to disaster is a recurring theme.",
+        tags: ["pitched-battle", "10th-century", "mediterranean"]
+    },
+    {
+        id: "campaign_201",
+        title: "The Silver Paid in Blood",
+        actualYear: 991,
+        difficulty: "hard",
+        description: `The raiders came again, as they had for two centuries. A fleet appeared at the river mouth; perhaps 3,000 warriors landed and demanded tribute. The local commander refused.
+
+He assembled perhaps 2,000 defenders—the trained warriors of the shire—and marched to meet the raiders. He found them on an island, connected to the shore by a causeway that flooded at high tide. The raiders offered battle; the commander, bound by honor, allowed them to cross the causeway rather than simply starving them out.
+
+Both sides fought on foot. The defenders formed a shield wall with spear and sword; the raiders brought their fearsome long axes that could cleave through shields and mail. The commander fell early—a thrown javelin—but his men fought on until overwhelmed. When their leader died, the survivors fled.
+
+The defeat led to the first of the great tribute payments that would drain the kingdom's treasury for decades. The commander's death became legend—celebrated in poetry as the epitome of heroic (if foolish) resistance.`,
+        hints: [
+            { cost: 20, text: "Anglo-Saxon shield walls versus Viking infantry with axes characterized late 10th-early 11th century warfare in Britain.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Major Viking raids resuming after decades of peace occurred in the 980s-990s.", explanation: "The context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Maldon on August 10-11, 991, where Ealdorman Byrhtnoth's Anglo-Saxons were defeated by a Viking army under Olaf Tryggvason. Byrhtnoth famously allowed the Vikings to cross the causeway from Northey Island—a decision medieval poets praised as heroic but modern strategists call foolish. His death led to the Danegeld payments that would total tens of thousands of pounds of silver. The poem 'The Battle of Maldon' immortalized the fight. Anglo-Saxon versus Viking infantry combat identifies late 10th century English warfare. Tribute payments following defeat describe the Danegeld era.",
+        tags: ["pitched-battle", "10th-century", "europe"]
     }
 ];
