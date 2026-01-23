@@ -3500,22 +3500,22 @@ The disaster shocked the world. A Roman emperor dead in battle, two-thirds of th
     },
     {
         id: "campaign_184",
-        title: "The Huns Halted",
-        actualYear: 451,
+        title: "The Emperor's Skull",
+        actualYear: 811,
         difficulty: "hard",
-        description: `The most feared conqueror since the steppes produced warriors had invaded the western empire. His army—a horde of subject peoples as much as his own horsemen—had ravaged provinces and destroyed cities. The empire was dying, but it had one last general.
+        description: `The empire had decided to crush its troublesome northern neighbor once and for all. The emperor himself led a massive army—perhaps 80,000 men—across the mountains into enemy territory. He burned the enemy capital, scattered their forces, and seemed to have won a complete victory.
 
-That general did the impossible: he united Romans and their barbarian foederati with their ancient enemies, a Germanic kingdom that had settled in the southwest. Together, this unlikely alliance—perhaps 50,000 men—faced the great khan's horde on a vast plain.
+But the enemy khan had only retreated, not surrendered. He gathered his forces in the mountain passes the imperial army would have to cross to return home. The passes were narrow, wooded, difficult to defend.
 
-The battle raged from afternoon until nightfall. The Germanic king was killed leading a charge; the Roman general nearly captured the khan's camp. The khan, preparing to die in a pyre of saddles, was saved only by nightfall.
+The imperial army entered the passes confident of easy return. Instead, they found wooden palisades blocking the path and enemy warriors on the heights above. The ambush was total; the army had no room to form lines, no way to use their superior numbers. The slaughter lasted days.
 
-By morning, the horde withdrew. It was the great khan's first defeat—and his last battle in the west. He died two years later, and his empire shattered. The alliance fell apart immediately, Romans and Germans resuming their feuds. But for one day, civilization had held.`,
+The emperor himself was killed—the first to die in battle in over four centuries of the empire's existence. His skull was lined with silver and used as a drinking cup by the khan. The disaster ended the empire's offensive capability against this enemy for a generation.`,
         hints: [
-            { cost: 20, text: "Hunnic horse archers facing combined Roman-Visigothic forces occurred only once, at the empire's twilight.", explanation: "The alliance helps date this battle." },
-            { cost: 25, text: "Attila's invasion of Gaul and defeat by Aetius occurred in 451.", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "Byzantine tagmata armies facing Bulgar ambushes in mountain passes characterized 9th century Balkan warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Byzantine emperors dying in battle against Balkan enemies was extremely rare—occurring in 811.", explanation: "The rarity helps narrow the date." }
         ],
-        explanation: "This was the Battle of the Catalaunian Plains (Châlons) on June 20, 451, where Aetius and Theodoric I stopped Attila the Hun. Theodoric was killed; Attila nearly died. The strategic defeat ended Hunnic expansion westward. Attila died in 453; his empire collapsed. Hunnic horse archers versus Roman-Visigothic forces occurred only at this battle. Attila's Gallic campaign (451) precisely dates this.",
-        tags: ["pitched-battle", "ancient", "europe"]
+        explanation: "This was the Battle of Pliska on July 26, 811, where Khan Krum of Bulgaria annihilated Emperor Nicephorus I's Byzantine army. Nicephorus was the first Byzantine emperor to die in battle since Valens at Adrianople in 378—over 400 years earlier. Krum made the emperor's skull into a silver-lined drinking cup. The disaster ended Byzantine offensive operations against Bulgaria for decades. Byzantine tagmata versus Bulgar ambushes characterized 9th century Balkan warfare. An emperor dying in battle identifies this unique moment in Byzantine history.",
+        tags: ["ambush", "9th-century", "balkans"]
     },
     {
         id: "campaign_185",
@@ -3946,5 +3946,62 @@ The legitimate emperor fled east. Both armies were shattered—perhaps 54,000 de
         ],
         explanation: "This was the Battle of Mursa Major on September 28, 351, the bloodiest battle of the late Roman Empire. Emperor Constantius II faced the usurper Magnentius, who had murdered Constantius's brother Constans. Casualties may have reached 54,000—nearly half of both armies. Constantius won but lost so many soldiers that the empire's military strength was permanently weakened. Late Roman professional armies with cataphract cavalry and heavy infantry precisely characterize mid-4th century warfare. The civil wars following Constantine's death (337) date this precisely.",
         tags: ["pitched-battle", "4th-century", "europe"]
+    },
+    {
+        id: "campaign_207",
+        title: "The Barbarian General's Victory",
+        actualYear: 402,
+        difficulty: "hard",
+        description: `The western empire was ruled by a child; the real power was a general of barbarian origin—half-Vandal by blood, but utterly loyal to the empire he served. When invaders crossed the mountains into the heartland, the general marched to meet them.
+
+The invaders were Germanic warriors—perhaps 20,000 men—led by a king seeking a homeland for his people. They had already sacked cities and caused panic in the imperial capital. The general gathered perhaps 15,000: field army regulars, barbarian foederati, and even troops withdrawn from distant frontiers.
+
+The battle was fought near a town in the northern plains. Both armies relied on heavy cavalry with lance and sword, plus infantry with spear and shield. The fighting was confused; the invaders nearly captured the imperial camp. But the general's tactical skill prevailed, and the invader king was forced to withdraw.
+
+The victory saved the heartland—temporarily. The general would go on to defend the empire for another decade before jealous courtiers arranged his execution. Without him, the empire collapsed within a generation.`,
+        hints: [
+            { cost: 20, text: "Late Roman field armies with barbarian foederati characterized the early 5th century western empire.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "A barbarian-born general defending the western Roman heartland against Gothic invaders specifically describes the early 400s.", explanation: "The context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Pollentia on April 6, 402 (Easter Sunday), where Stilicho defeated Alaric I's Visigoths. Stilicho—half-Vandal, regent for the child-emperor Honorius—saved Italy from the Gothic invasion. He even captured Alaric's wife and children. But the two would fight repeatedly; Alaric would eventually sack Rome in 410, two years after Stilicho's execution by the jealous court. Late Roman field armies with foederati precisely characterize early 5th century warfare. A barbarian general defending the empire identifies Stilicho's unique position.",
+        tags: ["pitched-battle", "5th-century", "europe"]
+    },
+    {
+        id: "campaign_208",
+        title: "The Tiger's Gate",
+        actualYear: 621,
+        difficulty: "hard",
+        description: `A vast empire had fractured into warring kingdoms. The son of a frontier general had convinced his father to rebel; now he led the cavalry that would reunite the realm. Two rival warlords, each commanding massive armies, stood in his path.
+
+The young prince led perhaps 3,500 elite cavalry against combined enemy forces of over 100,000. He chose his ground carefully: a fortified pass that the enemy would have to force. He waited.
+
+When the enemy attacked, the prince led a charge that shattered their vanguard. Then he challenged their champion to single combat—and won, breaking enemy morale. The warlords' armies collapsed; one was captured, the other fled and was later killed by his own men.
+
+The victory effectively ended the civil wars. The prince's father founded a dynasty that would rule for nearly three centuries and produce one of history's greatest civilizations. The prince himself would become its second ruler—and is remembered as perhaps the greatest warrior-emperor in his realm's long history.`,
+        hints: [
+            { cost: 20, text: "Chinese heavy cavalry with lance and crossbow characterized 7th century Tang warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "The unification campaigns founding the Tang Dynasty occurred in the early 620s.", explanation: "The context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Hulao Pass on May 28, 621, where Li Shimin (later Emperor Taizong) defeated the combined armies of Dou Jiande and Wang Shichong, effectively ending the wars that followed the Sui Dynasty's collapse. Li Shimin's brilliant cavalry tactics and personal valor—he reportedly killed or captured enemy commanders in single combat—became legendary. He became the second Tang emperor and is considered one of China's greatest rulers. Tang heavy cavalry with lance and crossbow characterized 7th century Chinese warfare. The unification following the Sui collapse precisely dates this to the early Tang founding.",
+        tags: ["pitched-battle", "7th-century", "asia"]
+    },
+    {
+        id: "campaign_209",
+        title: "The Kingdom Unified",
+        actualYear: 825,
+        difficulty: "hard",
+        description: `For two centuries, the island had been divided among rival kingdoms. Now the king of the southwestern realm marched against his northern rival—the kingdom that had long been dominant but had weakened through dynastic strife.
+
+The armies met on a ridge. Both fought in the island's traditional style: infantry in shield walls, armed with spear, sword, and the round wooden shield. The southwestern king commanded perhaps 3,000 men; his rival had similar numbers. There were few archers; this was a battle of close combat.
+
+The fighting was brutal. When the northern shield wall broke, the slaughter was immense. The rival king fled; his kingdom submitted within months. Other kingdoms followed, accepting the southwestern king as overlord.
+
+The battle marked the beginning of a unified realm—though it would take another generation, and the threat of foreign invasion, to complete the process. The southwestern king died shortly after, but his dynasty would rule the island for over a century.`,
+        hints: [
+            { cost: 20, text: "Anglo-Saxon shield wall infantry with round shields characterized 9th century British warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Wars of unification among Anglo-Saxon kingdoms occurred in the early 9th century.", explanation: "The context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Ellandun (Wroughton) in 825, where King Egbert of Wessex defeated Beornwulf of Mercia. Mercia had dominated England for a century; this battle ended that dominance. Within months, Kent, Sussex, Surrey, and Essex submitted to Egbert. His grandson Alfred would complete England's unification. Anglo-Saxon shield wall combat characterizes 9th century British warfare. The wars ending Mercian dominance precisely date this to the 820s, the turning point in Wessex's rise.",
+        tags: ["pitched-battle", "9th-century", "europe"]
     }
 ];
