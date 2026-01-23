@@ -2102,5 +2102,387 @@ Within hours, the approaching fleet was destroyed. Of 38 ships, 21 were sunk, 7 
         ],
         explanation: "This was the Battle of Tsushima on May 27-28, 1905, where Admiral Togo Heihachiro's Japanese fleet annihilated the Russian Baltic Fleet under Admiral Rozhestvensky during the Russo-Japanese War. The Russians had sailed 18,000 miles around Africa (the Suez Canal was closed to them) to reach the Pacific. Togo 'crossed the T'—maneuvering so all his guns could fire while only the Russians' forward guns could reply. Japanese gunnery was superior at every range. Russia lost 21 ships sunk, over 4,000 killed, and 6,000 captured—the most decisive naval battle since Trafalgar. Steel battleships with 12-inch turret guns, wireless, and rangefinders characterize 1890-1920 naval warfare. Pre-dreadnought designs (before 1906) identify this as the early 20th century.",
         tags: ["naval", "20th-century", "asia"]
+    },
+    {
+        id: "campaign_111",
+        title: "The Runner's Message",
+        actualYear: -490,
+        difficulty: "medium",
+        description: `A great empire sent a punitive expedition across the sea to punish a small city-state that had aided rebels in its territory. The expeditionary force—perhaps 25,000 infantry and 1,000 cavalry—landed on a coastal plain and prepared to march on the city.
+
+The city-state mustered every available citizen: perhaps 10,000 heavy infantry called hoplites. Each man carried a large round shield, wore a bronze helmet and breastplate, and fought with a thrusting spear about eight feet long. They formed a dense formation called a phalanx, shields overlapping, spears projecting forward.
+
+The hoplites had no cavalry and few archers. The invaders had excellent cavalry and thousands of skilled archers. On open ground, the invaders should have won easily—their arrows could thin the phalanx before the cavalry rode it down.
+
+The defenders attacked at a run, crossing the killing ground so quickly that few arrows found their mark. The phalanx crashed into the enemy center. The fighting was brutal—shields pushing, spears thrusting. The Greek wings broke through first, then wheeled inward to trap the enemy center.
+
+The invaders fled to their ships. A runner carried news of victory to the city, then collapsed and died—the origin of a famous race still run today.`,
+        hints: [
+            { cost: 20, text: "Hoplite warfare—citizens in bronze armor fighting in phalanx formation with thrusting spears—dominated Greek warfare from roughly 700 BCE to 300 BCE.", explanation: "The infantry type helps date this battle." },
+            { cost: 25, text: "Persian punitive expeditions against Greek city-states occurred specifically in the early 5th century BCE, before Alexander reversed the dynamic.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Marathon in 490 BCE, where 10,000 Athenians and Plataeans defeated perhaps 25,000 Persians under Datis and Artaphernes. The Athenian strategos Miltiades ordered the charge at a run to minimize arrow casualties. The legend of Pheidippides running 26 miles to Athens with news of victory inspired the modern marathon race. Hoplite warfare (bronze armor, thrusting spears, phalanx formation) dominated Greek warfare 700-300 BCE. Persian punitive expeditions against Greece occurred in the early 5th century BCE—Xerxes' larger invasion followed ten years later.",
+        tags: ["pitched-battle", "ancient", "europe"]
+    },
+    {
+        id: "campaign_112",
+        title: "The Double Envelopment",
+        actualYear: -216,
+        difficulty: "medium",
+        description: `An invading army, vastly outnumbered, faced the largest force the defending republic had ever assembled—perhaps 80,000 infantry and 6,000 cavalry. The republic's soldiers were heavy infantry equipped with large curved shields, throwing javelins, and short stabbing swords. They fought in a flexible formation that had never been defeated in a major battle.
+
+The invader had only 40,000 infantry and 10,000 cavalry, but his cavalry was superior and he was a tactical genius. He deployed his infantry in a crescent formation, center bulging forward, with cavalry on both wings.
+
+The republic's infantry pushed the enemy center back as expected—the crescent bent but didn't break. The enemy cavalry defeated their counterparts on both wings and rode behind the advancing infantry. The crescent stopped retreating; the infantry now found themselves surrounded on all sides.
+
+What followed was slaughter. Unable to maneuver, pressed together so tightly they couldn't swing their swords, the republic's soldiers were cut down by the hour. By evening, perhaps 50,000 lay dead—the bloodiest single day in ancient warfare. The republic survived, but barely, and the tactical lesson—the double envelopment—would be studied by generals for millennia.`,
+        hints: [
+            { cost: 20, text: "Roman infantry with curved shields (scutum), javelins (pila), and short swords (gladius) in manipular formation was standard from roughly 300 BCE to 100 CE.", explanation: "The infantry equipment helps date this battle." },
+            { cost: 25, text: "Carthaginian armies in Italy fighting Roman legions occurred specifically during the Second Punic War (218-201 BCE).", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Cannae on August 2, 216 BCE, Hannibal Barca's masterpiece against Rome. Consuls Lucius Aemilius Paullus and Gaius Terentius Varro commanded the largest Roman army ever assembled—and lost it in a single afternoon. Hannibal's Carthaginian, Spanish, Gallic, and Numidian forces encircled and annihilated the Romans. Perhaps 50,000-70,000 Romans died, including Paullus. Rome refused to surrender; Hannibal never took the city. The double envelopment became military doctrine's most studied maneuver. Roman manipular infantry (scutum, pilum, gladius) identifies 300 BCE-100 CE. Carthaginian armies in Italy specifically indicates the Second Punic War (218-201 BCE).",
+        tags: ["pitched-battle", "ancient", "europe"]
+    },
+    {
+        id: "campaign_113",
+        title: "The Norman Arrow",
+        actualYear: 1066,
+        difficulty: "easy",
+        description: `An invasion fleet of perhaps 700 ships crossed a narrow sea, carrying 7,000 warriors to claim a throne. The invaders included heavy cavalry—knights in mail armor on destriers—and archers. They faced a defending army of similar size, but composed almost entirely of infantry.
+
+The defenders held a ridge, their shield wall bristling with spears and axes. These were professional warriors—the royal household troops—and the common levy. They wore mail and helmets; their shields interlocked in a formation that had repelled raiders for generations.
+
+The battle lasted all day. Cavalry charges broke against the shield wall; knights couldn't force their horses to charge home into the spear points. Infantry assaults fared no better. At one point, the defenders broke formation to pursue retreating cavalry—a fatal mistake. The cavalry wheeled and cut down the exposed infantry.
+
+By evening, the defending king was dead—legend says an arrow struck his eye—and his brothers had fallen beside him. The kingdom passed to the invaders, who would transform its language, laws, and ruling class forever.`,
+        hints: [
+            { cost: 20, text: "Mail-armored cavalry with kite shields facing infantry shield walls was characteristic of 11th century warfare in northern Europe.", explanation: "The equipment and tactics help date this battle." },
+            { cost: 25, text: "Norse-style shield wall infantry facing Norman cavalry was a specific tactical matchup of the mid-11th century, before the mounted knight became universal.", explanation: "The tactical contrast helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Hastings on October 14, 1066, where William the Conqueror defeated King Harold II of England. Harold's huscarls formed an impenetrable shield wall on Senlac Hill; Norman cavalry couldn't break it. The Bayeux Tapestry depicts the battle, including Harold's death (though whether by arrow is disputed). William's victory ended Anglo-Saxon England; Norman French shaped modern English, and the feudal system transformed society. Mail-armored cavalry with kite shields facing infantry shield walls characterizes 11th-century northern European warfare. The Norman-Saxon tactical contrast was specific to this transitional period before mounted knights became universal.",
+        tags: ["pitched-battle", "11th-century", "europe"]
+    },
+    {
+        id: "campaign_114",
+        title: "The Bridge Defense",
+        actualYear: 1297,
+        difficulty: "hard",
+        description: `An occupying army of perhaps 10,000—including heavy cavalry, the finest in Europe—faced a rebel force of similar size but composed almost entirely of common infantry. The rebels were armed with twelve-foot spears, forming dense circular formations they called schiltrons.
+
+The two armies met at a river crossing. A narrow wooden bridge was the only way across; beyond it, a causeway led through marshy ground. The occupiers' commander was warned not to cross—the terrain would neutralize his cavalry advantage. He crossed anyway.
+
+As the heavy cavalry funneled across the bridge and onto the causeway, the rebels advanced. In the confined space, the knights couldn't maneuver. Horses stumbled in the marsh. The spearmen pushed forward relentlessly, stabbing at horses and unhorsed knights alike.
+
+When the bridge collapsed—or was cut—the army was split in two. The cavalry on the far side was annihilated; those still across watched helplessly. The occupation's commander was killed and flayed; his skin was made into sword belts. For a brief time, the kingdom was free.`,
+        hints: [
+            { cost: 20, text: "Schiltron formations—dense circles of spearmen—were a Scottish innovation of the 1290s, designed specifically to counter heavy cavalry.", explanation: "The infantry formation helps date this battle." },
+            { cost: 25, text: "English heavy cavalry being defeated by Scottish spearmen occurred during the Wars of Scottish Independence (1296-1328).", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Stirling Bridge on September 11, 1297, where William Wallace and Andrew Moray destroyed an English army under John de Warenne, Earl of Surrey. Hugh de Cressingham, the English treasurer, was killed; Scots reportedly made a sword belt from his skin. The narrow bridge and causeway neutralized English cavalry superiority. Wallace was knighted and became Guardian of Scotland. The victory was short-lived—Edward I returned and won at Falkirk the next year. Schiltron formations were a Scottish innovation of the 1290s. English-Scottish warfare identifies the Wars of Scottish Independence (1296-1328).",
+        tags: ["pitched-battle", "13th-century", "europe"]
+    },
+    {
+        id: "campaign_115",
+        title: "The King's Gambit",
+        actualYear: 1314,
+        difficulty: "medium",
+        description: `A castle, symbol of occupation, was besieged by rebels and would fall if not relieved. The occupying king led an army of perhaps 20,000—including 2,500 heavy cavalry, the largest such force ever assembled in this land—to break the siege.
+
+The rebels, perhaps 7,000 strong, chose their ground carefully: a narrow front between a stream and dense forest, with pits dug to break cavalry charges. Their king had learned from earlier defeats—his spearmen would not charge but would hold formation and let the cavalry destroy themselves.
+
+The heavy cavalry charged. Horses stumbled in the pits; spears unhorsed riders; the marshy ground by the stream bogged down the attack. The rebel cavalry, held in reserve, struck at the decisive moment. When the mass of camp followers appeared on a nearby hill, the exhausted occupiers believed fresh troops had arrived.
+
+The army collapsed in rout. The occupying king fled the field—narrowly escaping capture—and lost his shield and privy seal. The kingdom won its independence, recognized by treaty fourteen years later.`,
+        hints: [
+            { cost: 20, text: "Heavy cavalry charges defeated by prepared infantry positions with obstacles was the characteristic tactical lesson of 14th century European warfare.", explanation: "The tactical pattern helps date this battle." },
+            { cost: 25, text: "Large English cavalry forces being defeated by Scottish spearmen occurred specifically in the Wars of Scottish Independence (1296-1328).", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Bannockburn on June 23-24, 1314, where Robert the Bruce destroyed Edward II's English army. The English had the largest cavalry force ever deployed in Scotland—and lost it in the boggy ground Bruce had chosen. Edward fled, losing the Great Seal of England. The Declaration of Arbroath (1320) and Treaty of Edinburgh-Northampton (1328) secured Scottish independence. Heavy cavalry charges defeated by prepared positions with obstacles was the characteristic lesson of 14th-century warfare. English-Scottish cavalry-infantry battles identify the Wars of Scottish Independence (1296-1328).",
+        tags: ["pitched-battle", "14th-century", "europe"]
+    },
+    {
+        id: "campaign_116",
+        title: "The Storm Fleet",
+        actualYear: 1588,
+        difficulty: "medium",
+        description: `The greatest naval armada ever assembled—130 ships carrying 30,000 men—sailed to invade an island kingdom. The fleet's purpose was to escort an army of 30,000 more from the continent, then land the combined force to overthrow a heretic queen.
+
+The defending fleet was smaller but revolutionary: lower-built warships called "race-built galleons," designed around heavy cannon rather than boarding. They carried culverins—long-range guns that could damage enemy ships from a distance where the armada's shorter-range cannon couldn't reply.
+
+Running battles raged up the channel for a week. The defenders couldn't sink the great ships, but their long-range gunnery disrupted formations and depleted ammunition. When the armada anchored to await the army, the defenders sent fireships—vessels packed with gunpowder and set ablaze—into the packed fleet.
+
+The armada scattered in panic. Storms drove them north; they had to sail around the entire island to escape. Wrecks littered the western coast. Perhaps half the ships and two-thirds of the men never returned. The invasion had failed; the island kingdom would become a naval power for centuries.`,
+        hints: [
+            { cost: 20, text: "Race-built galleons with long-range culverins versus traditional high-castled warships was the characteristic naval technological transition of the late 16th century.", explanation: "The ship designs help date this battle." },
+            { cost: 25, text: "Fireships as a decisive naval weapon were most effective in the age of wooden sailing ships, roughly 1500-1800.", explanation: "The tactics help confirm the timeframe." }
+        ],
+        explanation: "This was the Spanish Armada campaign of 1588, when Philip II of Spain attempted to invade Elizabethan England. Sir Francis Drake and Lord Howard of Effingham harried the Armada up the English Channel. The fireship attack at Calais scattered the fleet; subsequent storms wrecked dozens of ships on the Scottish and Irish coasts. Of 130 ships and 30,000 men, perhaps 60 ships and 10,000 men returned. England remained Protestant; Spain's naval dominance began its decline. Race-built galleons with culverins versus high-castled galleons was the late 16th-century naval transition. Fireships remained effective throughout the wooden sailing ship era (1500-1800).",
+        tags: ["naval", "16th-century", "europe"]
+    },
+    {
+        id: "campaign_117",
+        title: "The Plains Above the City",
+        actualYear: 1759,
+        difficulty: "medium",
+        description: `A fortified city on a great river seemed impregnable. Cliffs rose hundreds of feet from the water; the only approaches were heavily defended. An amphibious force had besieged the city for months without success.
+
+The attacking commander gambled everything on a night assault. Small boats carried soldiers to a narrow path up the cliffs, far from the main defenses. By dawn, 4,500 men had formed battle lines on the plains above the city.
+
+Both commanders were young—the attacker 32, the defender 47. Both would die in the battle. The defending force hastily marched out to meet the threat: perhaps 4,500 men, mostly colonial militia rather than European regulars.
+
+The attackers waited in silence as the defenders approached. At 40 yards, they delivered a single devastating volley, then charged with bayonets. The battle lasted perhaps 15 minutes. Both commanders were mortally wounded. The city surrendered days later, and a continent changed hands.`,
+        hints: [
+            { cost: 20, text: "Flintlock muskets with bayonets in linear formations, emphasizing disciplined volleys, was the standard European infantry doctrine from roughly 1700-1840.", explanation: "The infantry tactics help date this battle." },
+            { cost: 25, text: "Colonial warfare between European powers in North America occurred primarily from 1689-1763, ending with the transfer of major territories.", explanation: "The colonial context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of the Plains of Abraham on September 13, 1759, where General James Wolfe's British forces defeated the Marquis de Montcalm's French army outside Quebec City. Wolfe's daring night ascent of the cliffs achieved complete surprise. Both commanders died—Wolfe on the field, Montcalm the next morning. Quebec's fall effectively ended French power in North America; the Treaty of Paris (1763) confirmed British control of Canada. Flintlock muskets with bayonets in linear formations (1700-1840) and colonial warfare between European powers in North America (1689-1763) precisely identify the period.",
+        tags: ["pitched-battle", "18th-century", "americas"]
+    },
+    {
+        id: "campaign_118",
+        title: "The Turning Point",
+        actualYear: 1777,
+        difficulty: "medium",
+        description: `An army advanced from the north, intending to split the rebellious colonies in two. The plan was sound, but reinforcements never arrived—one supporting army was diverted elsewhere, another never left its base.
+
+The northern army of 7,000 found itself surrounded by a force that grew larger by the day—eventually perhaps 15,000 militia and regulars. The rebels had learned from European advisors: they built fortifications, employed riflemen as skirmishers, and used their knowledge of terrain.
+
+Two pitched battles were fought. In the first, the advancing army won tactically but lost irreplaceable officers and men. In the second, rebel marksmen specifically targeted officers; a key general was killed leading a desperate counterattack. The army retreated to a fortified camp and waited for relief that never came.
+
+Surrounded, supplies exhausted, and with no hope of rescue, the army surrendered. It was the first time an entire British army had laid down its arms—a shock that convinced a major European power to enter the war openly on the rebels' side.`,
+        hints: [
+            { cost: 20, text: "Riflemen used as skirmishers alongside linear musket infantry was a developing tactic of the late 18th century, before rifles became standard issue.", explanation: "The infantry tactics help date this battle." },
+            { cost: 25, text: "Colonial rebellion against a major European power, with intervention by rival European powers, characterized the American Revolutionary period (1775-1783).", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Saratoga Campaign of September-October 1777, where General John Burgoyne surrendered 6,000 British soldiers to General Horatio Gates and Benedict Arnold (who was wounded at the decisive second battle). The victory convinced France to openly ally with the Americans, transforming a colonial rebellion into a world war. Burgoyne's surrender shocked Britain—Parliament later offered major concessions, too late to prevent independence. Riflemen as skirmishers alongside linear musket formations was a developing late 18th-century tactic. The American Revolution (1775-1783) was the defining colonial rebellion of the era.",
+        tags: ["campaign", "18th-century", "americas"]
+    },
+    {
+        id: "campaign_119",
+        title: "The Emperor's Masterpiece",
+        actualYear: 1805,
+        difficulty: "medium",
+        description: `Two empires allied against an upstart conqueror who had crowned himself emperor. Their combined armies—perhaps 85,000 men—held a strong position on high ground. The conqueror had only 68,000, but he had a plan.
+
+He deliberately weakened his right flank, inviting attack. The allies took the bait, sending tens of thousands against what seemed a vulnerable position. As they advanced, they weakened their center.
+
+The conqueror had hidden his main striking force behind a hill. At the crucial moment, they swept up and through the weakened center, splitting the allied army in two. The fog lifted to reveal French columns pouring across the heights. The allied right was cut off; their left was routed.
+
+By evening, the allies had lost 27,000 men killed, wounded, or captured—including dozens of standards and hundreds of cannon. The conqueror lost 9,000. One allied emperor fled the field in tears. A peace treaty dissolved a centuries-old empire. Military academies would study this battle for generations as the perfect example of the decisive maneuver.`,
+        hints: [
+            { cost: 20, text: "Large armies maneuvering in corps-sized formations, with decisive battles fought in a single day, was characteristic of Napoleonic warfare (1796-1815).", explanation: "The operational scale helps date this battle." },
+            { cost: 25, text: "An emperor commanding armies personally against coalitions of traditional monarchies was unique to the Napoleonic period.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Austerlitz on December 2, 1805—the 'Battle of the Three Emperors'—Napoleon's greatest victory. Emperor Francis I of Austria and Tsar Alexander I of Russia faced Napoleon. The Allied attack on Napoleon's right (held by Davout's corps) weakened the Pratzen Heights; Soult's corps stormed the heights at the decisive moment. Austria sued for peace; the Holy Roman Empire, founded in 800 CE, was dissolved. Military academies still study Austerlitz as the model of decisive battle. Napoleonic corps-level warfare (1796-1815) and emperors commanding personally against coalitions identify the period precisely.",
+        tags: ["pitched-battle", "19th-century", "europe"]
+    },
+    {
+        id: "campaign_120",
+        title: "The Admiral's Death",
+        actualYear: 1805,
+        difficulty: "medium",
+        description: `A combined enemy fleet of 33 ships-of-the-line—great wooden warships mounting 74 to 130 guns each—faced a fleet of 27 ships determined to destroy them. The enemy intended to escort an invasion force; the defending fleet needed to shatter that threat permanently.
+
+The defending admiral broke all conventional rules. Instead of forming a parallel line to exchange broadsides, he attacked in two perpendicular columns, accepting devastating raking fire as he closed. His flagship led one column directly at the enemy center.
+
+The gamble worked. His ships broke through the enemy line and engaged at point-blank range, where superior British gunnery told. The battle became a melee—ship against ship, cannon firing through each other's hulls at yards' distance. Masts fell; ships burned; thousands died.
+
+By evening, 22 enemy ships had been captured or destroyed. Not one British ship was lost. But the admiral was dead, shot by a marksman from an enemy ship. He lived long enough to know he had won—and his navy would rule the seas for a century.`,
+        hints: [
+            { cost: 20, text: "Ships-of-the-line mounting 74-130 guns, fighting in close-range gunnery duels, was characteristic of naval warfare from roughly 1750-1850.", explanation: "The ship types help date this battle." },
+            { cost: 25, text: "Breaking the enemy line in perpendicular columns rather than parallel engagement was a revolutionary tactic of the late Age of Sail.", explanation: "The tactics help narrow the timeframe." }
+        ],
+        explanation: "This was the Battle of Trafalgar on October 21, 1805, where Admiral Horatio Nelson destroyed the combined French and Spanish fleet under Admiral Villeneuve. Nelson's signal 'England expects that every man will do his duty' became legendary. He was shot by a French marksman and died aboard HMS Victory as the battle ended. The victory ended any threat of Napoleonic invasion and established British naval supremacy for a century. Ships-of-the-line (74-130 guns) in close gunnery duels characterized naval warfare 1750-1850. Nelson's perpendicular attack was revolutionary tactical doctrine of the late Age of Sail.",
+        tags: ["naval", "19th-century", "europe"]
+    },
+    {
+        id: "campaign_121",
+        title: "The Burning City",
+        actualYear: 1812,
+        difficulty: "medium",
+        description: `The greatest army ever assembled—perhaps 600,000 men from a dozen nations—invaded a vast empire. The defenders retreated, refusing decisive battle, burning crops and villages behind them. The invaders followed, their supply lines stretching ever thinner.
+
+Finally, before the old capital city, the defenders stood. Perhaps 120,000 faced 130,000 in a brutal day of frontal assaults. The defenders held earthwork fortifications; the attackers battered them with artillery and infantry charges.
+
+The casualties were staggering: 70,000 killed or wounded between both sides—the bloodiest single day of these wars. The defenders retreated; the invaders entered the capital. But it was empty. That night, the city burned—set alight by its own people rather than let the invaders shelter there.
+
+With no supplies, no peace treaty, and winter approaching, the invaders began their retreat. Of 600,000 who had crossed the frontier, perhaps 100,000 returned. It was the beginning of the end for the conqueror's empire.`,
+        hints: [
+            { cost: 20, text: "Armies of 600,000 men from multiple nations, supported by massive artillery bombardments, was only possible during the Napoleonic era (1796-1815).", explanation: "The army scale helps date this battle." },
+            { cost: 25, text: "Scorched-earth retreats before invading armies, culminating in the burning of a major capital, was the specific Russian strategy against Napoleon.", explanation: "The strategic pattern helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Borodino on September 7, 1812, the bloodiest day of the Napoleonic Wars. Marshal Kutuzov's Russian army fought Napoleon's Grande Armée to a standstill outside Moscow. Russia lost 44,000; France perhaps 35,000—but Russia could replace its losses, Napoleon couldn't. Moscow burned; Napoleon waited a month for a surrender that never came. The winter retreat destroyed the Grande Armée—of 600,000 who invaded, fewer than 100,000 returned. Napoleonic-scale armies (1796-1815) and the Russian scorched-earth strategy identify this campaign precisely.",
+        tags: ["pitched-battle", "19th-century", "europe"]
+    },
+    {
+        id: "campaign_122",
+        title: "The Final Defeat",
+        actualYear: 1815,
+        difficulty: "easy",
+        description: `An emperor escaped exile and reclaimed his throne, rallying an army of 72,000 veterans. Europe united against him: two allied armies, totaling over 200,000 men, converged on his borders. He had to defeat them before they could combine.
+
+He struck first, driving between the two allied armies and defeating one at a crossroads. But the defeated army was not destroyed—it retreated parallel to its ally, not away from it.
+
+Two days later, the emperor attacked the second allied army, 68,000 strong, holding a ridge. All day, his infantry and cavalry assaulted the ridge. The defenders held—a chateau, a farmhouse, every strongpoint became a fortress. The emperor committed his elite guard, veterans of a dozen victories, for the final assault.
+
+They failed. And in the east, dust clouds appeared—the army he thought defeated, 50,000 strong, striking his flank. The French army collapsed. The emperor fled, abdicated again, and was exiled to a remote island where he died six years later.`,
+        hints: [
+            { cost: 20, text: "Imperial Guard as elite heavy infantry, cavalry charges against infantry squares, and corps-level tactics characterized Napoleonic warfare (1796-1815).", explanation: "The military elements help date this battle." },
+            { cost: 25, text: "An emperor escaping exile to reclaim his throne, only to be defeated by a European coalition, occurred only once in history.", explanation: "The political situation uniquely identifies the timeframe." }
+        ],
+        explanation: "This was the Battle of Waterloo on June 18, 1815, Napoleon's final defeat. The Duke of Wellington's Anglo-Allied army held the ridge at Mont-Saint-Jean until Marshal Blücher's Prussians arrived. The Imperial Guard's retreat—the first time they had ever broken—signaled the end. Napoleon abdicated and was exiled to Saint Helena, where he died in 1821. Waterloo ended 23 years of Revolutionary and Napoleonic Wars. Imperial Guard, cavalry charges against squares, and corps tactics define Napoleonic warfare (1796-1815). The escape from Elba and final defeat is unique in history.",
+        tags: ["pitched-battle", "19th-century", "europe"]
+    },
+    {
+        id: "campaign_123",
+        title: "The High Water Mark",
+        actualYear: 1863,
+        difficulty: "medium",
+        description: `The largest battle ever fought in the western hemisphere raged for three days around a small crossroads town. An invading army of 75,000, confident after years of victories, attacked a defending force of 90,000 holding high ground.
+
+The defenders used the terrain brilliantly—ridges, hills, and a fishhook-shaped line that could reinforce any threatened point. The attackers probed both flanks on the first two days, suffering heavy casualties in a peach orchard, a wheat field, and a boulder-strewn hillside.
+
+On the third day, the invading commander ordered a frontal assault: 12,000 men advancing across a mile of open ground against the center of the enemy line. Artillery tore gaps in the advancing ranks. At 200 yards, infantry volleys from behind stone walls devastated the survivors. A handful reached the enemy line; nearly all were killed or captured.
+
+The assault failed. The invaders retreated, never to threaten the defenders' heartland again. Total casualties exceeded 50,000 over three days. The war continued for two more years, but its outcome was now certain.`,
+        hints: [
+            { cost: 20, text: "Rifled muskets accurate at 500+ yards, combined with massed artillery and entrenchments, characterized American Civil War combat (1861-1865).", explanation: "The military technology helps date this battle." },
+            { cost: 25, text: "The defensive power of rifled weapons making frontal assaults extremely costly was a lesson learned—and repeatedly ignored—in the 1860s.", explanation: "The tactical pattern helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Gettysburg, July 1-3, 1863, the turning point of the American Civil War. General Robert E. Lee's Army of Northern Virginia attacked General George Meade's Army of the Potomac. Pickett's Charge on the third day sent 12,000 Confederates across open ground against Union positions on Cemetery Ridge—perhaps 6,500 became casualties in under an hour. The 'high water mark of the Confederacy' was reached and broken. Combined with Vicksburg's fall the next day, Gettysburg marked the war's turning point. Rifled muskets and massed artillery (1861-1865) and the costly frontal assault pattern identify Civil War combat.",
+        tags: ["pitched-battle", "19th-century", "americas"]
+    },
+    {
+        id: "campaign_124",
+        title: "The Emperor's Surrender",
+        actualYear: 1870,
+        difficulty: "hard",
+        description: `A new power, forged from a confederation of states, provoked war with its western neighbor—an empire that considered itself Europe's premier military power. The empire's army was larger, but the confederation's was faster to mobilize, better led, and equipped with superior artillery.
+
+Within weeks, one imperial army was besieged in a fortress city. Another army, 120,000 strong with the emperor himself present, marched to relieve it. The confederation intercepted them near the frontier.
+
+The trap closed with devastating efficiency. The confederation's artillery—breech-loading steel guns that outranged the empire's bronze muzzle-loaders—dominated the battlefield. The imperial army was pushed into a loop of the river, squeezed into an ever-smaller perimeter. Cavalry charges failed to break out.
+
+The emperor, ill and in despair, personally surrendered with 83,000 soldiers—the largest capitulation in modern European history. The empire collapsed; the confederation proclaimed its own empire in the enemy's palace. The new power would dominate the continent for decades.`,
+        hints: [
+            { cost: 20, text: "Breech-loading steel artillery outranging bronze muzzle-loaders was a decisive technological advantage unique to the 1860s-1870s transition.", explanation: "The artillery technology helps date this battle." },
+            { cost: 25, text: "A German confederation defeating a French empire occurred specifically in 1870-1871, creating the German Empire.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Sedan on September 1-2, 1870, where the Prussian-led German armies under Moltke the Elder trapped Napoleon III's Army of Châlons. Krupp's breech-loading steel artillery devastated the French, whose bronze muzzle-loaders couldn't reply effectively. Napoleon III surrendered personally—the only French emperor ever captured in battle since Francis I at Pavia. The Second French Empire collapsed; the German Empire was proclaimed at Versailles. Breech-loading steel versus bronze muzzle-loading artillery was the 1860s-1870s transition. German unification under Prussian leadership and French defeat occurred in 1870-1871.",
+        tags: ["pitched-battle", "19th-century", "europe"]
+    },
+    {
+        id: "campaign_125",
+        title: "The Eastern Encirclement",
+        actualYear: 1914,
+        difficulty: "hard",
+        description: `Two vast armies invaded enemy territory simultaneously, advancing on diverging axes. Each sought to encircle and destroy enemy forces before they could concentrate. The stakes were existential—each side believed defeat here meant losing the war.
+
+The defending army, initially outnumbered, had a critical advantage: interior lines and a superb railway network. As one invading army pressed forward through forests and lakes, the defenders concentrated against the other invading army first, crushing it in a week-long battle of encirclement.
+
+Then they turned. The first invading army, strung out over sixty miles with poor communications, stumbled into a trap. Wireless intercepts revealed enemy positions; the defenders maneuvered two armies into the invaders' flanks. In five days, the invading army was surrounded and annihilated: 92,000 captured, 30,000 killed, two generals dead.
+
+The victory saved the empire—for now. But four years of brutal warfare lay ahead, and the empire would ultimately collapse. The battle became legend, its name later appropriated for propaganda purposes.`,
+        hints: [
+            { cost: 20, text: "Wireless intercepts and railway-based strategic mobility, combined with massive infantry armies, characterized the opening campaigns of World War I (1914).", explanation: "The military technology helps date this battle." },
+            { cost: 25, text: "Encirclement battles on the Eastern Front in 1914 were decisive in ways the Western Front's trench stalemate was not.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Tannenberg, August 26-30, 1914, where Hindenburg and Ludendorff destroyed the Russian Second Army under Samsonov (who committed suicide). The Germans used intercepted Russian wireless messages sent uncoded. The victory made Hindenburg a national hero—the battle was renamed 'Tannenberg' to symbolically avenge the Teutonic Knights' defeat there in 1410. Russia lost 92,000 captured and 30,000 killed; Germany lost 12,000. Wireless intercepts and railway mobility in massive infantry battles characterize early WWI. Eastern Front encirclements in 1914 differed markedly from Western Front stalemate.",
+        tags: ["pitched-battle", "20th-century", "europe"]
+    },
+    {
+        id: "campaign_126",
+        title: "The Meat Grinder",
+        actualYear: 1916,
+        difficulty: "medium",
+        description: `The attacking power believed it could "bleed white" its enemy by assaulting a fortress city the enemy could not abandon. The fortress had symbolic value beyond strategy—it had never fallen to enemy assault. Artillery would do the killing; infantry would hold ground.
+
+The bombardment began with 1,200 guns—including massive 420mm howitzers—firing a million shells in the first day alone. The defenders' positions were obliterated; survivors fought from shell craters. Fort after fort fell, their concrete crushed by shells never imagined when they were built.
+
+But the defenders fed in reinforcements along a single road, refusing to yield. The battle became a war of attrition on a scale never seen: 700,000 casualties over ten months, nearly equal on both sides. Villages were captured, lost, and recaptured dozens of times. The same ground was fought over until nothing remained but churned mud and bones.
+
+By year's end, the attackers had gained almost nothing and lost their strategic reserve. The defenders had held—barely. "They shall not pass" became a national motto. The battle became a symbol of futile slaughter.`,
+        hints: [
+            { cost: 20, text: "Massive artillery bombardments with 420mm howitzers destroying concrete fortifications characterized WWI siege warfare (1914-1918).", explanation: "The artillery scale helps date this battle." },
+            { cost: 25, text: "Battles lasting months with hundreds of thousands of casualties for minimal territorial gain were unique to the Western Front of WWI.", explanation: "The battle pattern helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Verdun, February-December 1916, where German Chief of Staff Falkenhayn tried to 'bleed France white.' General Pétain organized the defense along the Voie Sacrée (Sacred Road). France suffered 377,000 casualties; Germany 337,000—for a few miles of cratered moonscape. 'Ils ne passeront pas' (They shall not pass) became France's rallying cry. The battle epitomized WWI's industrial slaughter. 420mm howitzers destroying concrete forts and months-long battles for minimal gains were unique to WWI's Western Front (1914-1918).",
+        tags: ["siege", "20th-century", "europe"]
+    },
+    {
+        id: "campaign_127",
+        title: "The Dreadnought Clash",
+        actualYear: 1916,
+        difficulty: "hard",
+        description: `The world's two greatest battle fleets finally met: 28 dreadnoughts and 9 battlecruisers against 16 dreadnoughts and 5 battlecruisers. Each fleet represented billions in national treasure and years of construction. Neither commander wanted to risk his fleet—but neither could afford to refuse battle.
+
+The battleships mounted 12-inch to 15-inch guns in multiple turrets, protected by armor up to 13 inches thick. Fire control systems calculated range and deflection; shells could hit targets at ranges over 10 miles. Cordite propellant charges and high-explosive shells made each hit potentially fatal.
+
+The battle sprawled across hundreds of square miles of grey sea. Visibility was poor; formations became confused. Battlecruisers—fast but lightly armored—proved fatally vulnerable: three exploded when shells penetrated their magazines. But the main fleets never fully engaged; each commander feared torpedo attack as darkness fell.
+
+The smaller fleet lost fewer ships but retreated to port and never seriously challenged the larger fleet again. Strategically, nothing changed: the blockade continued, the fleet-in-being remained. It was the last great battleship duel of the war—and perhaps of history.`,
+        hints: [
+            { cost: 20, text: "Dreadnought battleships with 12-15 inch guns in multiple turrets, plus battlecruisers, were the capital ships of roughly 1906-1945.", explanation: "The ship types help date this battle." },
+            { cost: 25, text: "The only major fleet engagement between dreadnought battleships occurred during World War I, when both sides were reluctant to risk their fleets.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Jutland on May 31-June 1, 1916, the only major dreadnought fleet action of WWI. Admiral Jellicoe's British Grand Fleet faced Admiral Scheer's German High Seas Fleet. Britain lost more ships (14 vs 11) and men (6,094 vs 2,551), but Germany retreated and never again seriously contested British control of the North Sea. Three British battlecruisers exploded when shells reached their magazines—their armor was inadequate. Dreadnoughts (1906-1945) with 12-15 inch guns in turrets and the single WWI fleet engagement precisely identify this battle.",
+        tags: ["naval", "20th-century", "europe"]
+    },
+    {
+        id: "campaign_128",
+        title: "The Carrier Duel",
+        actualYear: 1942,
+        difficulty: "medium",
+        description: `Six months after a devastating surprise attack, the defending nation's codebreakers discovered the enemy's next target: a remote island atoll. The defenders gathered their remaining carriers—three against four enemy carriers—and set an ambush.
+
+The attackers launched their first strike at the island's airfield. While their planes were away, scout planes spotted the defending carriers. The attackers prepared a second strike—but before it could launch, dive bombers from the defenders arrived.
+
+In five minutes, the battle was decided. Three enemy carriers were hit by dive bombers, their hangars full of armed and fueled aircraft. The explosions were catastrophic. A fourth carrier was hit later that day. All four sank—the enemy's entire striking force.
+
+The defenders lost one carrier to a counterattack. But the enemy had lost four carriers, 250 aircraft, and hundreds of trained pilots. The strategic initiative shifted permanently. The attacking power would never again advance; from this point, they would only retreat.`,
+        hints: [
+            { cost: 20, text: "Carrier battles where aircraft sank ships beyond visual range, with dive bombers as the decisive weapon, were unique to World War II (1941-1945).", explanation: "The naval warfare type helps date this battle." },
+            { cost: 25, text: "Codebreaking enabling ambush of enemy carrier forces was a specific advantage of the Pacific War's early period.", explanation: "The intelligence context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Midway on June 4-7, 1942, the turning point of the Pacific War. Admiral Nimitz, warned by codebreakers, ambushed Admiral Nagumo's Kido Butai. Dive bombers from Enterprise, Hornet, and Yorktown caught the Japanese carriers rearming—in five minutes, Akagi, Kaga, and Soryu were ablaze. Hiryu was sunk later; Yorktown was lost to a submarine. Japan lost four fleet carriers, 248 aircraft, and irreplaceable trained aircrew. Carrier battles with dive bombers as the decisive weapon were unique to WWII (1941-1945). Codebreaking enabling ambush was key to early Pacific War victories.",
+        tags: ["naval", "20th-century", "pacific"]
+    },
+    {
+        id: "campaign_129",
+        title: "The City of Steel",
+        actualYear: 1942,
+        difficulty: "medium",
+        description: `An invading army reached a major industrial city on a great river—the furthest extent of their advance. Taking the city became an obsession: it bore the name of the enemy's leader. House by house, factory by factory, the battle ground on for five months.
+
+The combat was unlike anything before: fighting in rubble with submachine guns and grenades, snipers commanding streets, strongpoints in every building. Artillery reduced blocks to ruins; men fought for those ruins. The defenders' slogan was "There is no land beyond the river."
+
+The invaders pushed the defenders into a strip along the riverbank, sometimes only a few hundred yards wide. But they could not eliminate them. Then winter came, and with it a massive counteroffensive. Two armored pincers swept around the city, encircling the entire invading army.
+
+Trapped, forbidden to retreat or surrender, 300,000 soldiers slowly froze and starved. When the survivors finally surrendered, only 91,000 remained alive. It was the war's turning point—the invaders would never recover.`,
+        hints: [
+            { cost: 20, text: "Urban combat with submachine guns and grenades, combined with massive armored encirclements, characterized WWII Eastern Front warfare (1941-1945).", explanation: "The combat style helps date this battle." },
+            { cost: 25, text: "A city bearing a leader's name becoming the focus of national obsession was unique to this battle.", explanation: "The symbolic context helps identify the specific battle." }
+        ],
+        explanation: "This was the Battle of Stalingrad, August 1942-February 1943, the turning point of WWII in Europe. The German 6th Army under Paulus reached the Volga but couldn't eliminate Chuikov's 62nd Army clinging to the riverbank. Operation Uranus encircled 300,000 Germans; Hitler forbade retreat. Of 91,000 who surrendered, only 6,000 ever returned to Germany. Soviet casualties exceeded German, but the Wehrmacht never recovered its offensive power. Urban combat with submachine guns and armored encirclements characterized WWII's Eastern Front (1941-1945). The city bearing Stalin's name made it symbolically irreplaceable.",
+        tags: ["siege", "20th-century", "europe"]
+    },
+    {
+        id: "campaign_130",
+        title: "The Steel Storm",
+        actualYear: 1943,
+        difficulty: "hard",
+        description: `The largest tank battle in history erupted as the invaders attempted to pinch off a massive salient in the enemy line. Both sides knew it was coming: the defenders had months to prepare fortifications, minefields, and anti-tank defenses in depth.
+
+The attackers committed their newest tanks: heavy vehicles with thick sloped armor and powerful 88mm guns. But the defenders had also upgraded—their medium tanks now mounted guns capable of penetrating the heavy tanks at combat range.
+
+The offensive began with 900,000 attackers against 1.3 million defenders. Within days, it bogged down in the defensive belts. Tanks dueled at point-blank range; minefields channeled attacks into kill zones. The attritional math was devastating: the attackers lost tanks they couldn't replace; the defenders' factories produced more.
+
+After two weeks, the attackers withdrew. They had lost 200,000 men and hundreds of tanks. More importantly, they had lost the strategic initiative permanently. From this point on, they would only retreat—all the way back to their own capital.`,
+        hints: [
+            { cost: 20, text: "Tiger heavy tanks with 88mm guns facing T-34 medium tanks in massive armored battles was specific to 1943-1945 Eastern Front combat.", explanation: "The tank types help date this battle." },
+            { cost: 25, text: "Defensive preparations including deep minefields and anti-tank guns in depth were perfected on the Eastern Front by 1943.", explanation: "The defensive tactics help narrow the date." }
+        ],
+        explanation: "This was the Battle of Kursk, July-August 1943, the largest tank battle in history. Hitler's Operation Citadel attacked the Kursk salient with 900,000 men including new Tiger and Panther tanks. The Soviets under Zhukov and Vasilevsky had prepared defenses eight lines deep with thousands of anti-tank guns and millions of mines. German losses—200,000 casualties and 500+ tanks—were irreplaceable. The Soviets lost more but could replace them. After Kursk, the Wehrmacht never regained the initiative. Tiger tanks with 88mm guns facing T-34s in massive armored battles identifies 1943-1945 Eastern Front combat.",
+        tags: ["pitched-battle", "20th-century", "europe"]
     }
 ];
