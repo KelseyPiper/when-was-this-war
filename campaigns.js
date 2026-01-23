@@ -2045,44 +2045,6 @@ The king captured so many noble prisoners that when a (false) alarm suggested a 
         tags: ["pitched-battle", "15th-century", "europe"]
     },
     {
-        id: "campaign_106",
-        title: "The Lake City's Fall",
-        actualYear: 1521,
-        difficulty: "medium",
-        description: `A magnificent island city—perhaps 200,000 inhabitants, larger than any city in the invaders' homeland—fell after a siege lasting three months. The city sat on a lake, connected to shore by three causeways, its buildings adorned with temples and pyramids.
-
-The invaders numbered only a few hundred, but they had forged alliances with peoples who hated the island empire and its demand for tribute and sacrificial victims. Perhaps 200,000 native allies joined the siege.
-
-The invaders' technology was transformative. Steel swords cut through quilted cotton armor. Crossbows and early matchlock firearms outranged bows. Most crucially, the invaders brought horses—animals unknown in this land—and a handful of small cannon.
-
-But the defenders resisted fiercely. Street by street, building by building, the attackers advanced. They dismantled structures to prevent ambush. Disease, brought unknowingly by the invaders, killed defenders by the thousands. When the emperor was finally captured, the city was rubble. Perhaps 100,000 inhabitants had died. An empire that had dominated the region for two centuries was destroyed.`,
-        hints: [
-            { cost: 20, text: "Steel weapons versus quilted cotton armor, with horses unknown to the defenders, describes the technological mismatch of early 16th century colonial conquests.", explanation: "The technology gap helps date this battle." },
-            { cost: 25, text: "Matchlock firearms alongside crossbows (not yet replacing them) indicates the early 16th century, before arquebuses became dominant.", explanation: "The firearms transition helps narrow the date." }
-        ],
-        explanation: "This was the Siege of Tenochtitlan in 1521, where Hernán Cortés and his Tlaxcalan allies destroyed the Aztec Empire. The city on Lake Texcoco held perhaps 200,000 people—larger than any Spanish city. Cortés had only 900 Spanish soldiers but 200,000 indigenous allies eager to overthrow Aztec domination. Emperor Cuauhtémoc was captured; the city was demolished. Smallpox killed perhaps half the defenders. Steel versus cotton armor, horses unknown to the defenders, and matchlocks alongside crossbows (early 16th century transition) all identify this as the Spanish conquest era. The technological mismatch was decisive but indigenous alliances made it possible.",
-        tags: ["siege", "16th-century", "americas"]
-    },
-    {
-        id: "campaign_107",
-        title: "The Arquebus Victory",
-        actualYear: 1525,
-        difficulty: "hard",
-        description: `Two armies, both claiming to represent Christendom's greatest powers, met outside a walled town in a contested region. The defending army of perhaps 25,000 had taken up positions in a hunting park surrounded by walls, using the enclosure for protection.
-
-The attacking army of similar size included some of the best heavy cavalry in Europe—armored gendarmes who had dominated battlefields for decades. Their king led from the front, eager for glory.
-
-But the defenders had a new weapon in unprecedented numbers: the arquebus, a matchlock firearm heavier and more powerful than earlier handguns. Perhaps 3,000 arquebusiers took positions behind walls and hedges. The heavy cavalry charged directly at the entrenched guns.
-
-The slaughter was terrible. Horses and riders fell in heaps before the arquebus fire. The attacking king's horse was killed; he fought on foot until surrounded and captured. It was the first battle where firearms clearly defeated armored heavy cavalry in open battle—a revolution that would transform warfare.`,
-        hints: [
-            { cost: 20, text: "Arquebuses in large numbers decisively defeating heavy cavalry was a new development of the 1520s-1530s. Earlier handguns were too few and unreliable.", explanation: "The firearms effectiveness helps date this battle." },
-            { cost: 25, text: "Gendarmes (heavily armored lancers on armored horses) were the elite shock troops of the early 16th century, before firearms made them obsolete.", explanation: "The cavalry type helps narrow the date." }
-        ],
-        explanation: "This was the Battle of Pavia on February 24, 1525, where Spanish and Imperial forces captured King Francis I of France—the only French king ever captured in battle. Francis led his gendarmes in a charge against Spanish arquebusiers positioned behind walls in the Visconti hunting park. The firepower was devastating. Francis's horse was killed; surrounded, he surrendered to a Spanish officer. The battle proved arquebuses could defeat even the finest heavy cavalry. This was the first major battle where firearms clearly determined the outcome against cavalry in open field combat. Gendarmes (early 16th century elite cavalry) facing massed arquebuses (effective from the 1520s-1530s) precisely identifies this transitional moment.",
-        tags: ["pitched-battle", "16th-century", "europe"]
-    },
-    {
         id: "campaign_108",
         title: "The Desert Crossing",
         actualYear: 1591,

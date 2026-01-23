@@ -126,6 +126,26 @@ After writing each campaign, verify:
 - [ ] Interesting to read
 - [ ] Fair difficulty (possible to narrow date from description alone)
 
+## Checking for Duplicates
+
+Before adding a new campaign, verify it doesn't already exist:
+
+1. **Search for the battle name** in existing explanations:
+   ```bash
+   grep -i "agincourt\|battle name" campaigns.js
+   ```
+
+2. **Search for the year** to find campaigns from the same time:
+   ```bash
+   grep "actualYear: 1415" campaigns.js
+   ```
+   Then verify any matches are different battles (same year ≠ same battle).
+
+3. **Search for key identifiers** (commander names, locations):
+   ```bash
+   grep -i "henry v\|francis i\|cortés" campaigns.js
+   ```
+
 ## Coverage Gaps to Fill
 
 When writing new campaigns, prioritize underrepresented:
