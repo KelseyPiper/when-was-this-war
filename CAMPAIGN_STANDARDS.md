@@ -42,17 +42,42 @@
 
 ## Explanation Requirements (CRITICAL)
 
-**NO FAKE REASONING.** The explanation must explain WHY details are chronologically distinctive.
+The explanation should read like **an earnest historian helping students revise for a final exam**—educational, informative, and rich with context. Not chatty or formulaic.
 
-### Bad (fake reasoning):
-"The matchlock muskets with pikes and cavalry lancers, combined with the extreme casualty disparity, place this in the early 17th century."
-- "Casualty disparity" doesn't indicate any time period
-- Just asserts the date without explaining the logic
+### Required Elements
 
-### Good (actual reasoning):
-"Matchlock muskets (requiring lit slow-match) were standard from 1500-1700, before flintlocks replaced them. Cavalry lancers in heavy armor had fallen from use in Western Europe by 1600 but remained effective in Eastern Europe until the 18th century. This combination narrows to the early 17th century."
-- Explains what time period each technology indicates
-- Shows how details combine to narrow the date
+1. **Proper nouns** - Name the battle, commanders, places, and specific units. This is the educational payoff after guessing.
+
+2. **Historical significance** - What made this battle important? What were the consequences?
+
+3. **Dating logic woven naturally** - Explain WHY details indicate specific time periods, but integrate this into the narrative rather than using formulaic patterns like "For dating: X = Y."
+
+### Tone
+
+- **Do:** Write like an earnest historian explaining to interested students
+- **Don't:** Write like a streamer commenting on a quiz ("this totally screams 1200!")
+- **Don't:** Use formulaic structures ("For dating: Technology X (1400-1500) + Context Y = Date")
+
+### Bad (formulaic/sparse):
+"This was the Battle of Kircholm in 1605. Matchlock muskets were standard from 1500-1700. Cavalry lancers had fallen from use in Western Europe by 1600 but remained effective in Eastern Europe. This combination indicates the early 17th century."
+- Lists dating facts without historical context
+- No proper nouns beyond the battle name
+- Reads like a checklist, not an explanation
+
+### Good (rich historical context with natural dating):
+"This was the Battle of Kircholm on September 27, 1605, one of the greatest cavalry victories in history. Grand Hetman Jan Karol Chodkiewicz led 3,600 Polish-Lithuanian cavalry—including the famous Winged Hussars—against 11,000 Swedish infantry under Charles IX's commander. The Hussars' charge shattered the Swedish formations in barely 20 minutes; Sweden lost over 8,000 killed while Polish casualties were under 100. Matchlock muskets with pike formations (standard 1500-1700) versus cavalry lancers (obsolete in Western Europe by 1600 but devastating in Eastern Europe) precisely identifies the early 17th century."
+
+- Names commanders, units, and specific details
+- Explains the battle's significance (one of history's greatest cavalry victories)
+- Dating logic flows naturally as part of the explanation
+
+### More Examples
+
+**Constantinople 1453:**
+"This was the Fall of Constantinople in 1453—the end of the Byzantine Empire after 1,123 years. Sultan Mehmed II ('the Conqueror'), age 21, besieged the city with ~80,000 Ottoman troops against Emperor Constantine XI Palaiologos's 7,000 defenders. The massive bombards were cast on-site by Hungarian engineer Orban; the largest required 60 oxen to move. Constantine XI died fighting on the walls—the last Roman Emperor. The bombards having to be cast on-site places this in the early gunpowder period; by the 1480s mobile bronze cannon had made such monsters obsolete."
+
+**Mogadishu 1993:**
+"This was the Battle of Mogadishu on October 3-4, 1993, immortalized in Black Hawk Down. Task Force Ranger—Delta Force and Army Rangers—launched a daylight raid to capture lieutenants of warlord Mohamed Farrah Aidid. Master Sergeant Gary Gordon and Sergeant First Class Randy Shughart volunteered to defend the second crash site; both were killed and received posthumous Medals of Honor. RPGs—cheap Soviet-designed weapons from the 1960s—brought down advanced helicopters and negated technological advantages, defining post-Cold War asymmetric warfare."
 
 ## Structure
 
@@ -67,7 +92,7 @@
         { cost: 15-20, text: "Date range for technology...", explanation: "Brief note" },
         { cost: 20-25, text: "Narrower date range...", explanation: "Brief note" }
     ],
-    explanation: "Battle name and year. WHY each detail indicates its time period. How they combine.",
+    explanation: "This was the Battle of X on [date], where [Commander A] faced [Commander B]. [Historical context and significance—what made this battle matter]. [Specific details: units, casualties, memorable moments]. [Dating logic woven naturally: Technology X (date range) combined with Context Y identifies the period].",
     tags: ["battle-type", "century", "region"]
 }
 ```
@@ -90,8 +115,10 @@ After writing each campaign, verify:
 - [ ] Don't use fame-based identification
 
 ### Explanation
-- [ ] Explains WHY each detail indicates its time period
-- [ ] Shows how multiple details combine to narrow the date
+- [ ] Names the battle, commanders, places, and specific units (proper nouns)
+- [ ] Explains historical significance (why this battle mattered)
+- [ ] Dating logic woven naturally into narrative (not formulaic)
+- [ ] Tone: earnest historian helping students revise (not chatty, not a checklist)
 - [ ] No fake reasoning (just asserting a date without explaining the logic)
 
 ### Overall
