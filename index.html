@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>When Was This War?</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>When Was This War?</h1>
+            <p class="subtitle">Guess the year from contextual clues</p>
+        </header>
+
+        <!-- Start Screen -->
+        <div id="start-screen" class="screen">
+            <div class="start-content">
+                <p class="intro">Read descriptions of historical military campaigns—stripped of names and places—and guess when they occurred based on technology, tactics, and context.</p>
+
+                <div class="settings">
+                    <label for="difficulty-select">Difficulty:</label>
+                    <select id="difficulty-select">
+                        <option value="all">All Campaigns</option>
+                        <option value="easy">Easy (clearer tech markers)</option>
+                        <option value="medium">Medium</option>
+                        <option value="hard">Hard (subtle clues)</option>
+                    </select>
+
+                    <label for="rounds-select">Rounds:</label>
+                    <select id="rounds-select">
+                        <option value="5">5 rounds</option>
+                        <option value="10" selected>10 rounds</option>
+                        <option value="15">15 rounds</option>
+                    </select>
+                </div>
+
+                <button id="start-btn" class="btn btn-primary">Start Game</button>
+
+                <div class="high-score" id="high-score-display"></div>
+            </div>
+        </div>
+
+        <!-- Game Screen -->
+        <div id="game-screen" class="screen hidden">
+            <div class="game-header">
+                <div class="progress">
+                    Round <span id="current-round">1</span> of <span id="total-rounds">10</span>
+                </div>
+                <div class="score">
+                    Score: <span id="current-score">0</span>
+                </div>
+            </div>
+
+            <div class="campaign-container">
+                <h2 id="campaign-title" class="campaign-title"></h2>
+                <div id="campaign-description" class="campaign-description"></div>
+
+                <div id="hints-container" class="hints-container">
+                    <button id="hint-btn" class="btn btn-secondary">
+                        Buy Hint (<span id="hint-cost">20</span> pts)
+                    </button>
+                    <div id="hints-list" class="hints-list"></div>
+                </div>
+            </div>
+
+            <div id="guess-section" class="guess-section">
+                <label for="year-input">Your guess:</label>
+                <div class="input-row">
+                    <input type="text" id="year-input" placeholder="e.g. 1877, 1870s, or 490 BCE" maxlength="10">
+                    <button id="submit-btn" class="btn btn-primary">Submit</button>
+                </div>
+                <button id="give-up-btn" class="btn btn-text">I give up (0 points)</button>
+            </div>
+
+            <div id="result-section" class="result-section hidden">
+                <div id="result-display" class="result-display"></div>
+                <div id="timeline-viz" class="timeline-viz"></div>
+                <div id="explanation" class="explanation"></div>
+                <button id="next-btn" class="btn btn-primary">Next Campaign</button>
+            </div>
+        </div>
+
+        <!-- End Screen -->
+        <div id="end-screen" class="screen hidden">
+            <h2>Game Complete!</h2>
+            <div class="final-score">
+                <div class="score-number" id="final-score">0</div>
+                <div class="score-label">out of <span id="max-score">1000</span></div>
+            </div>
+            <div class="score-breakdown" id="score-breakdown"></div>
+            <div class="share-section">
+                <button id="share-btn" class="btn btn-secondary">Copy Result to Share</button>
+                <div id="share-feedback" class="share-feedback"></div>
+            </div>
+            <button id="play-again-btn" class="btn btn-primary">Play Again</button>
+        </div>
+    </div>
+
+    <script src="campaigns.js"></script>
+    <script src="game.js"></script>
+</body>
+</html>

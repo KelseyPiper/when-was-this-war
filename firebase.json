@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "site": "when-was-this-war",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*"
+    ]
+  }
+}
