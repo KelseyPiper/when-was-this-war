@@ -2105,62 +2105,64 @@ Within hours, the approaching fleet was destroyed. Of 38 ships, 21 were sunk, 7 
     },
     {
         id: "campaign_111",
-        title: "The Runner's Message",
-        actualYear: -490,
-        difficulty: "medium",
-        description: `A great empire sent a punitive expedition across the sea to punish a small city-state that had aided rebels in its territory. The expeditionary force—perhaps 25,000 infantry and 1,000 cavalry—landed on a coastal plain and prepared to march on the city.
+        title: "The Gothic King's Fall",
+        actualYear: 552,
+        difficulty: "hard",
+        description: `An aging empire, its glory faded, launched one final campaign to reclaim its lost western provinces. The emperor sent an elderly eunuch—an unlikely general—with a small but elite force to finish a war that had dragged on for nearly two decades.
 
-The city-state mustered every available citizen: perhaps 10,000 heavy infantry called hoplites. Each man carried a large round shield, wore a bronze helmet and breastplate, and fought with a thrusting spear about eight feet long. They formed a dense formation called a phalanx, shields overlapping, spears projecting forward.
+The barbarian king who held the province commanded the last great army of his people: perhaps 15,000 warriors, built around heavy lancers who charged in wedge formations. These were fearsome cavalry, armored in mail and wielding long spears. The king believed one decisive charge would shatter the empire's infantry.
 
-The hoplites had no cavalry and few archers. The invaders had excellent cavalry and thousands of skilled archers. On open ground, the invaders should have won easily—their arrows could thin the phalanx before the cavalry rode it down.
+The imperial general had fewer troops—perhaps 20,000—but cunning beyond measure. He chose narrow ground between two hills, placing 8,000 archers on the slopes. His cavalry he dismounted to form an infantry center, denying the enemy the satisfaction of a cavalry duel.
 
-The defenders attacked at a run, crossing the killing ground so quickly that few arrows found their mark. The phalanx crashed into the enemy center. The fighting was brutal—shields pushing, spears thrusting. The Greek wings broke through first, then wheeled inward to trap the enemy center.
-
-The invaders fled to their ships. A runner carried news of victory to the city, then collapsed and died—the origin of a famous race still run today.`,
+When the barbarian lancers charged, arrows darkened the sky. The king himself was struck in the first moments, mortally wounded. His cavalry, seeing their leader fall, broke and fled. The general's forces pursued relentlessly. By nightfall, the barbarian army was destroyed, and the king was found dying in a thicket.`,
         hints: [
-            { cost: 20, text: "Hoplite warfare—citizens in bronze armor fighting in phalanx formation with thrusting spears—dominated Greek warfare from roughly 700 BCE to 300 BCE.", explanation: "The infantry type helps date this battle." },
-            { cost: 25, text: "Persian punitive expeditions against Greek city-states occurred specifically in the early 5th century BCE, before Alexander reversed the dynamic.", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "Byzantine combined-arms tactics—dismounted cavalry with massed archers—characterized 6th century imperial warfare.", explanation: "The tactical approach helps date this battle." },
+            { cost: 25, text: "The Gothic Wars in Italy, as Byzantium attempted to reconquer the Western Roman provinces, lasted from 535-554 CE.", explanation: "The political context helps narrow the date." }
         ],
-        explanation: "This was the Battle of Marathon in 490 BCE, where 10,000 Athenians and Plataeans defeated perhaps 25,000 Persians under Datis and Artaphernes. The Athenian strategos Miltiades ordered the charge at a run to minimize arrow casualties. The legend of Pheidippides running 26 miles to Athens with news of victory inspired the modern marathon race. Hoplite warfare (bronze armor, thrusting spears, phalanx formation) dominated Greek warfare 700-300 BCE. Persian punitive expeditions against Greece occurred in the early 5th century BCE—Xerxes' larger invasion followed ten years later.",
-        tags: ["pitched-battle", "ancient", "europe"]
+        explanation: "This was the Battle of Taginae (Busta Gallorum) in June or July 552, where Byzantine general Narses destroyed the Ostrogothic Kingdom. King Totila, who had nearly driven the Byzantines from Italy, died from an arrow wound early in the battle. Narses—a 74-year-old eunuch who had never commanded in the field before this campaign—proved a tactical genius. His 8,000 archers devastated the Gothic cavalry charges. The Ostrogothic Kingdom fell within months; Italy returned to imperial rule, though it would be lost again to the Lombards within a generation. Byzantine combined-arms tactics (dismounted cavalry, massed archers) and the Gothic Wars (535-554) precisely date this battle.",
+        tags: ["pitched-battle", "6th-century", "europe"]
     },
     {
         id: "campaign_112",
-        title: "The Double Envelopment",
-        actualYear: -216,
-        difficulty: "medium",
-        description: `An invading army, vastly outnumbered, faced the largest force the defending republic had ever assembled—perhaps 80,000 infantry and 6,000 cavalry. The republic's soldiers were heavy infantry equipped with large curved shields, throwing javelins, and short stabbing swords. They fought in a flexible formation that had never been defeated in a major battle.
+        title: "The River of Princes",
+        actualYear: 1223,
+        difficulty: "hard",
+        description: `Refugees from distant lands brought terrifying news: a new enemy had appeared from the east, destroying every army in its path. The great princes of the region assembled the largest army in generations—perhaps 80,000 warriors—to meet this unknown threat.
 
-The invader had only 40,000 infantry and 10,000 cavalry, but his cavalry was superior and he was a tactical genius. He deployed his infantry in a crescent formation, center bulging forward, with cavalry on both wings.
+The enemy sent ambassadors offering peace; the princes executed them. The enemy sent a second embassy; those too were killed. There would be no negotiation.
 
-The republic's infantry pushed the enemy center back as expected—the crescent bent but didn't break. The enemy cavalry defeated their counterparts on both wings and rode behind the advancing infantry. The crescent stopped retreating; the infantry now found themselves surrounded on all sides.
+The invaders numbered only 20,000, but they were something never before seen: horse archers with extraordinary discipline, fighting in coordinated units of 10, 100, and 1,000. They could shoot accurately at full gallop, and their composite bows outranged anything the princes possessed. Their heavy cavalry wore lamellar armor of lacquered leather.
 
-What followed was slaughter. Unable to maneuver, pressed together so tightly they couldn't swing their swords, the republic's soldiers were cut down by the hour. By evening, perhaps 50,000 lay dead—the bloodiest single day in ancient warfare. The republic survived, but barely, and the tactical lesson—the double envelopment—would be studied by generals for millennia.`,
+The enemy feigned retreat for nine days, drawing the allied army further and further from its base. Strung out over miles, exhausted and disorganized, the allies finally caught the enemy at a river crossing—exactly where the invaders wanted them.
+
+The slaughter was total. Of the princes who led the army, six were captured and executed in a peculiar manner: placed beneath wooden boards while the victors feasted atop them, crushing them slowly. The survivors fled; nothing stood between the invaders and the heartland.`,
         hints: [
-            { cost: 20, text: "Roman infantry with curved shields (scutum), javelins (pila), and short swords (gladius) in manipular formation was standard from roughly 300 BCE to 100 CE.", explanation: "The infantry equipment helps date this battle." },
-            { cost: 25, text: "Carthaginian armies in Italy fighting Roman legions occurred specifically during the Second Punic War (218-201 BCE).", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "Mongol decimal military organization (units of 10, 100, 1000) and disciplined horse archery was characteristic of 13th-century steppe warfare.", explanation: "The military organization helps date this battle." },
+            { cost: 25, text: "The first Mongol incursion into Eastern Europe occurred in 1223, nearly two decades before the main invasion.", explanation: "The strategic context helps narrow the date." }
         ],
-        explanation: "This was the Battle of Cannae on August 2, 216 BCE, Hannibal Barca's masterpiece against Rome. Consuls Lucius Aemilius Paullus and Gaius Terentius Varro commanded the largest Roman army ever assembled—and lost it in a single afternoon. Hannibal's Carthaginian, Spanish, Gallic, and Numidian forces encircled and annihilated the Romans. Perhaps 50,000-70,000 Romans died, including Paullus. Rome refused to surrender; Hannibal never took the city. The double envelopment became military doctrine's most studied maneuver. Roman manipular infantry (scutum, pilum, gladius) identifies 300 BCE-100 CE. Carthaginian armies in Italy specifically indicates the Second Punic War (218-201 BCE).",
-        tags: ["pitched-battle", "ancient", "europe"]
+        explanation: "This was the Battle of the Kalka River on May 31, 1223, where Mongol generals Jebe and Subutai destroyed a coalition of Kievan Rus' princes and Cuman (Kipchak) allies. Mstislav the Bold of Galicia led the charge; Mstislav III of Kiev held a fortified camp but surrendered after three days, only to be executed—the Mongols placed boards over the princes and feasted on top of them, crushing them to death (spilling royal blood on the ground was taboo). This was merely a reconnaissance raid; the main Mongol invasion came in 1237-1240. Mongol decimal organization and horse archery characterizes 13th-century steppe warfare. The 1223 incursion precisely dates this battle.",
+        tags: ["pitched-battle", "13th-century", "eastern-europe"]
     },
     {
         id: "campaign_113",
-        title: "The Norman Arrow",
-        actualYear: 1066,
-        difficulty: "easy",
-        description: `An invasion fleet of perhaps 700 ships crossed a narrow sea, carrying 7,000 warriors to claim a throne. The invaders included heavy cavalry—knights in mail armor on destriers—and archers. They faced a defending army of similar size, but composed almost entirely of infantry.
+        title: "The Spice Monopoly",
+        actualYear: 1509,
+        difficulty: "hard",
+        description: `A small nation from the far west had sent ships around an entire continent to seize control of the fabulously wealthy spice trade. Their heavily armed carracks—high-castled ships mounting dozens of cannon—had defeated every fleet sent against them. Now the established powers of the trade combined to destroy the interlopers.
 
-The defenders held a ridge, their shield wall bristling with spears and axes. These were professional warriors—the royal household troops—and the common levy. They wore mail and helmets; their shields interlocked in a formation that had repelled raiders for generations.
+The allied fleet was enormous: 100 dhows and 12 heavy ships from a great sultanate, joined by a dozen vessels from a wealthy trading city-state. Many of these ships carried soldiers rather than heavy guns, planning to board and overwhelm the enemy.
 
-The battle lasted all day. Cavalry charges broke against the shield wall; knights couldn't force their horses to charge home into the spear points. Infantry assaults fared no better. At one point, the defenders broke formation to pursue retreating cavalry—a fatal mistake. The cavalry wheeled and cut down the exposed infantry.
+The western fleet had only 18 ships, but each was a floating fortress. Their cannon fired rapidly through gunports, allowing continuous broadsides. Crucially, their smaller vessels could maneuver in shallow waters where the heavy allied ships could not follow.
 
-By evening, the defending king was dead—legend says an arrow struck his eye—and his brothers had fallen beside him. The kingdom passed to the invaders, who would transform its language, laws, and ruling class forever.`,
+The battle turned on firepower. The westerners' gunnery shattered the allied fleet; when ships tried to close for boarding, cannon cut them apart. The allied commander was killed when a cannonball struck his ship. Within hours, the combined fleet was destroyed.
+
+The victory gave the western nation a monopoly on the spice trade that would last a century, transforming them from a poor kingdom into one of the world's wealthiest empires.`,
         hints: [
-            { cost: 20, text: "Mail-armored cavalry with kite shields facing infantry shield walls was characteristic of 11th century warfare in northern Europe.", explanation: "The equipment and tactics help date this battle." },
-            { cost: 25, text: "Norse-style shield wall infantry facing Norman cavalry was a specific tactical matchup of the mid-11th century, before the mounted knight became universal.", explanation: "The tactical contrast helps narrow the date." }
+            { cost: 20, text: "Carracks with broadside cannon defeating dhows and traditional vessels was characteristic of early Portuguese expansion in the Indian Ocean (1498-1550).", explanation: "The ship types help date this battle." },
+            { cost: 25, text: "The Mamluk Sultanate's attempts to expel Portuguese from the Indian Ocean occurred between 1505-1509, before the Ottomans conquered Egypt.", explanation: "The political context helps narrow the date." }
         ],
-        explanation: "This was the Battle of Hastings on October 14, 1066, where William the Conqueror defeated King Harold II of England. Harold's huscarls formed an impenetrable shield wall on Senlac Hill; Norman cavalry couldn't break it. The Bayeux Tapestry depicts the battle, including Harold's death (though whether by arrow is disputed). William's victory ended Anglo-Saxon England; Norman French shaped modern English, and the feudal system transformed society. Mail-armored cavalry with kite shields facing infantry shield walls characterizes 11th-century northern European warfare. The Norman-Saxon tactical contrast was specific to this transitional period before mounted knights became universal.",
-        tags: ["pitched-battle", "11th-century", "europe"]
+        explanation: "This was the Battle of Diu on February 3, 1509, where Portuguese Viceroy Francisco de Almeida destroyed a combined Mamluk-Gujarati fleet. The Mamluks had sent a fleet from Egypt via the Red Sea to challenge Portuguese control of Indian Ocean trade; Sultan Mahmud of Gujarat provided additional ships. Almeida's cannon-armed carracks devastated the allied fleet—the Mamluk commander Amir Husain was killed. Portugal's spice monopoly was secured for decades. Carracks with broadside cannon versus traditional dhows characterized early Portuguese Indian Ocean expansion (1498-1550). Mamluk naval attempts against Portugal (1505-1509) precisely date this battle.",
+        tags: ["naval", "16th-century", "asia"]
     },
     {
         id: "campaign_114",
@@ -2202,22 +2204,24 @@ The army collapsed in rout. The occupying king fled the field—narrowly escapin
     },
     {
         id: "campaign_116",
-        title: "The Storm Fleet",
-        actualYear: 1588,
-        difficulty: "medium",
-        description: `The greatest naval armada ever assembled—130 ships carrying 30,000 men—sailed to invade an island kingdom. The fleet's purpose was to escort an army of 30,000 more from the continent, then land the combined force to overthrow a heretic queen.
+        title: "The Kingdom's Last King",
+        actualYear: 1665,
+        difficulty: "hard",
+        description: `A great African kingdom, Christian for nearly two centuries, had grown wealthy from copper and the slave trade. But its European trading partners had become rivals, and territorial disputes had festered for decades. The king marched with perhaps 20,000 warriors to settle matters by force.
 
-The defending fleet was smaller but revolutionary: lower-built warships called "race-built galleons," designed around heavy cannon rather than boarding. They carried culverins—long-range guns that could damage enemy ships from a distance where the armada's shorter-range cannon couldn't reply.
+The African army included soldiers armed with European matchlock muskets—purchased over generations of trade—alongside traditional warriors with swords, spears, and shields. But ammunition was limited, and the firearms were aging.
 
-Running battles raged up the channel for a week. The defenders couldn't sink the great ships, but their long-range gunnery disrupted formations and depleted ammunition. When the armada anchored to await the army, the defenders sent fireships—vessels packed with gunpowder and set ablaze—into the packed fleet.
+The European force was smaller—perhaps 6,000, including 450 European musketeers with artillery—but their weapons were superior and their ammunition plentiful. Two cannon anchored their line.
 
-The armada scattered in panic. Storms drove them north; they had to sail around the entire island to escape. Wrecks littered the western coast. Perhaps half the ships and two-thirds of the men never returned. The invasion had failed; the island kingdom would become a naval power for centuries.`,
+The battle was brutal. The African musketeers ran low on powder and shot. The king led charge after charge, his royal umbrella marking his position. When he fell—killed or captured, then beheaded—his army collapsed. His head was sent to the European governor as a trophy; his body was buried in a church.
+
+The kingdom fragmented into civil war and never recovered. Within a generation, it existed only in name, its people sold into slavery by the very trade that had once enriched them.`,
         hints: [
-            { cost: 20, text: "Race-built galleons with long-range culverins versus traditional high-castled warships was the characteristic naval technological transition of the late 16th century.", explanation: "The ship designs help date this battle." },
-            { cost: 25, text: "Fireships as a decisive naval weapon were most effective in the age of wooden sailing ships, roughly 1500-1800.", explanation: "The tactics help confirm the timeframe." }
+            { cost: 20, text: "African kingdoms using European matchlock muskets acquired through trade, facing European colonial forces with superior firepower, was characteristic of 17th-century West-Central Africa.", explanation: "The military matchup helps date this battle." },
+            { cost: 25, text: "The Kingdom of Kongo's conflicts with Portugal intensified after 1622 and reached crisis in the 1660s.", explanation: "The political context helps narrow the date." }
         ],
-        explanation: "This was the Spanish Armada campaign of 1588, when Philip II of Spain attempted to invade Elizabethan England. Sir Francis Drake and Lord Howard of Effingham harried the Armada up the English Channel. The fireship attack at Calais scattered the fleet; subsequent storms wrecked dozens of ships on the Scottish and Irish coasts. Of 130 ships and 30,000 men, perhaps 60 ships and 10,000 men returned. England remained Protestant; Spain's naval dominance began its decline. Race-built galleons with culverins versus high-castled galleons was the late 16th-century naval transition. Fireships remained effective throughout the wooden sailing ship era (1500-1800).",
-        tags: ["naval", "16th-century", "europe"]
+        explanation: "This was the Battle of Mbwila (Ulanga) on October 29, 1665, where Portuguese forces destroyed the Kingdom of Kongo. King António I led the Kongolese army against Governor André Vidal de Negreiros's smaller but better-equipped force. António was killed and beheaded; his head was displayed in Luanda. The battle ended Kongo as a unified power—civil wars fragmented it for the next century. The slave trade, which had enriched the kingdom, now consumed it. African kingdoms using trade-acquired matchlocks against European colonial forces was characteristic of 17th-century West-Central Africa. Kongo-Portuguese conflict peaked in the 1660s.",
+        tags: ["pitched-battle", "17th-century", "africa"]
     },
     {
         id: "campaign_117",
@@ -2278,22 +2282,22 @@ By evening, the allies had lost 27,000 men killed, wounded, or captured—includ
     },
     {
         id: "campaign_120",
-        title: "The Admiral's Death",
-        actualYear: 1805,
-        difficulty: "medium",
-        description: `A combined enemy fleet of 33 ships-of-the-line—great wooden warships mounting 74 to 130 guns each—faced a fleet of 27 ships determined to destroy them. The enemy intended to escort an invasion force; the defending fleet needed to shatter that threat permanently.
+        title: "The Lake of Fire",
+        actualYear: 1363,
+        difficulty: "hard",
+        description: `Two rival warlords, both claiming to lead the rebellion against foreign rulers, met in the largest naval battle in human history. The defending warlord had 200,000 men in smaller, more maneuverable boats. The attacking warlord brought 650,000 men in massive tower ships—floating fortresses three decks high, connected by chains to prevent enemy ships from passing between them.
 
-The defending admiral broke all conventional rules. Instead of forming a parallel line to exchange broadsides, he attacked in two perpendicular columns, accepting devastating raking fire as he closed. His flagship led one column directly at the enemy center.
+The battle raged for 36 days on a great freshwater lake. The defender's smaller boats couldn't break through the chained tower ships, but the attacker's massive vessels couldn't catch the nimble craft. Fireships—boats packed with burning oil and launched into the enemy fleet—became decisive. The chains that protected the tower ships now trapped them.
 
-The gamble worked. His ships broke through the enemy line and engaged at point-blank range, where superior British gunnery told. The battle became a melee—ship against ship, cannon firing through each other's hulls at yards' distance. Masts fell; ships burned; thousands died.
+When the wind shifted, the defender launched his fireships into the packed, chained fleet. The conflagration consumed hundreds of vessels. The attacking warlord was killed—shot through the eye by a stray arrow during the chaos. His army collapsed; survivors surrendered or drowned.
 
-By evening, 22 enemy ships had been captured or destroyed. Not one British ship was lost. But the admiral was dead, shot by a marksman from an enemy ship. He lived long enough to know he had won—and his navy would rule the seas for a century.`,
+The victor united the realm within five years, founding a dynasty that would rule for nearly three centuries. The battle—perhaps 200,000 killed—remained the largest naval engagement until the 20th century.`,
         hints: [
-            { cost: 20, text: "Ships-of-the-line mounting 74-130 guns, fighting in close-range gunnery duels, was characteristic of naval warfare from roughly 1750-1850.", explanation: "The ship types help date this battle." },
-            { cost: 25, text: "Breaking the enemy line in perpendicular columns rather than parallel engagement was a revolutionary tactic of the late Age of Sail.", explanation: "The tactics help narrow the timeframe." }
+            { cost: 20, text: "Tower ships connected by chains, fought with fireships and arrows, was characteristic of Chinese naval warfare from roughly 1100-1400 CE.", explanation: "The naval technology helps date this battle." },
+            { cost: 25, text: "Warlords fighting to succeed the Mongol Yuan dynasty occurred specifically during the mid-14th century (1350s-1368).", explanation: "The political context helps narrow the date." }
         ],
-        explanation: "This was the Battle of Trafalgar on October 21, 1805, where Admiral Horatio Nelson destroyed the combined French and Spanish fleet under Admiral Villeneuve. Nelson's signal 'England expects that every man will do his duty' became legendary. He was shot by a French marksman and died aboard HMS Victory as the battle ended. The victory ended any threat of Napoleonic invasion and established British naval supremacy for a century. Ships-of-the-line (74-130 guns) in close gunnery duels characterized naval warfare 1750-1850. Nelson's perpendicular attack was revolutionary tactical doctrine of the late Age of Sail.",
-        tags: ["naval", "19th-century", "europe"]
+        explanation: "This was the Battle of Lake Poyang in 1363, where Zhu Yuanzhang defeated Chen Youliang in the largest naval battle in history until modern times. Chen's fleet of giant tower ships, chained together for stability, became deathtraps when Zhu's fireships set them ablaze. Chen was killed by an arrow; over 200,000 men may have died. Zhu went on to found the Ming Dynasty in 1368, ruling as the Hongwu Emperor. Tower ships with chains and fireships characterized Chinese naval warfare 1100-1400 CE. The warlord conflicts following Yuan collapse occurred in the 1350s-1360s.",
+        tags: ["naval", "14th-century", "asia"]
     },
     {
         id: "campaign_121",
@@ -2316,41 +2320,45 @@ With no supplies, no peace treaty, and winter approaching, the invaders began th
     },
     {
         id: "campaign_122",
-        title: "The Final Defeat",
-        actualYear: 1815,
-        difficulty: "easy",
-        description: `An emperor escaped exile and reclaimed his throne, rallying an army of 72,000 veterans. Europe united against him: two allied armies, totaling over 200,000 men, converged on his borders. He had to defeat them before they could combine.
+        title: "The Sunni Sultan's Victory",
+        actualYear: 1514,
+        difficulty: "hard",
+        description: `Two great Islamic powers clashed over territory and religion—the western empire was Sunni, the eastern was Shia, and each considered the other heretical. The western sultan marched an army of perhaps 100,000 into the eastern highlands, despite warnings that supply lines would fail.
 
-He struck first, driving between the two allied armies and defeating one at a crossroads. But the defeated army was not destroyed—it retreated parallel to its ally, not away from it.
+The western army had a decisive advantage: field artillery and infantry armed with matchlock arquebuses. Their janissary infantry, trained from childhood, were among the world's finest. Their cannons were chained together in a line, with wagons forming a barricade.
 
-Two days later, the emperor attacked the second allied army, 68,000 strong, holding a ridge. All day, his infantry and cavalry assaulted the ridge. The defenders held—a chateau, a farmhouse, every strongpoint became a fortress. The emperor committed his elite guard, veterans of a dozen victories, for the final assault.
+The eastern shah had superb cavalry—horse archers and lancers who had conquered a vast territory in a decade—but no firearms. His Qizilbash warriors, fanatically loyal and wearing distinctive red headgear, believed their faith made them invincible.
 
-They failed. And in the east, dust clouds appeared—the army he thought defeated, 50,000 strong, striking his flank. The French army collapsed. The emperor fled, abdicated again, and was exiled to a remote island where he died six years later.`,
+The Qizilbash charged. The arquebuses and artillery shattered them. Wave after wave of cavalry broke against the guns. The shah himself was wounded and nearly captured. By evening, the eastern army was destroyed; the western forces occupied the enemy capital within weeks.
+
+Yet the victory proved hollow: the sultan couldn't hold the mountainous territory, and the religious war would continue for two more centuries.`,
         hints: [
-            { cost: 20, text: "Imperial Guard as elite heavy infantry, cavalry charges against infantry squares, and corps-level tactics characterized Napoleonic warfare (1796-1815).", explanation: "The military elements help date this battle." },
-            { cost: 25, text: "An emperor escaping exile to reclaim his throne, only to be defeated by a European coalition, occurred only once in history.", explanation: "The political situation uniquely identifies the timeframe." }
+            { cost: 20, text: "Janissaries with matchlock arquebuses behind chained artillery, facing cavalry armies without firearms, was the characteristic Ottoman tactical superiority from roughly 1450-1600.", explanation: "The military technology helps date this battle." },
+            { cost: 25, text: "Ottoman-Safavid religious wars began with the Safavid dynasty's founding (1501) and continued through the early 17th century.", explanation: "The political context helps narrow the date." }
         ],
-        explanation: "This was the Battle of Waterloo on June 18, 1815, Napoleon's final defeat. The Duke of Wellington's Anglo-Allied army held the ridge at Mont-Saint-Jean until Marshal Blücher's Prussians arrived. The Imperial Guard's retreat—the first time they had ever broken—signaled the end. Napoleon abdicated and was exiled to Saint Helena, where he died in 1821. Waterloo ended 23 years of Revolutionary and Napoleonic Wars. Imperial Guard, cavalry charges against squares, and corps tactics define Napoleonic warfare (1796-1815). The escape from Elba and final defeat is unique in history.",
-        tags: ["pitched-battle", "19th-century", "europe"]
+        explanation: "This was the Battle of Chaldiran on August 23, 1514, where Ottoman Sultan Selim I crushed Shah Ismail I's Safavid army. The Ottoman janissaries' matchlocks and cannon devastated the Qizilbash cavalry charges. Selim captured Tabriz but couldn't hold Persia—the logistical difficulties were insurmountable. The Sunni-Shia divide deepened into permanent hostility. Ismail, previously considered divinely protected, lost his aura of invincibility and became a recluse. Janissaries with arquebuses behind chained guns (1450-1600) facing cavalry without firearms, and the early Ottoman-Safavid wars (1501-1639), precisely date this battle.",
+        tags: ["pitched-battle", "16th-century", "middle-east"]
     },
     {
         id: "campaign_123",
-        title: "The High Water Mark",
-        actualYear: 1863,
-        difficulty: "medium",
-        description: `The largest battle ever fought in the western hemisphere raged for three days around a small crossroads town. An invading army of 75,000, confident after years of victories, attacked a defending force of 90,000 holding high ground.
+        title: "The Mountain Miracle",
+        actualYear: 1121,
+        difficulty: "hard",
+        description: `A small Christian kingdom in the mountains had been reduced to near-extinction by waves of invaders. For decades, its rulers had paid tribute to survive. The young king—only 17 when crowned—decided to fight. He spent years preparing, building a professional army and recruiting allied warriors from the northern steppes.
 
-The defenders used the terrain brilliantly—ridges, hills, and a fishhook-shaped line that could reinforce any threatened point. The attackers probed both flanks on the first two days, suffering heavy casualties in a peach orchard, a wheat field, and a boulder-strewn hillside.
+The invading coalition was massive: chronicles claim 400,000 warriors from a dozen emirates, though 100,000-200,000 is more likely. They intended to destroy the Christian kingdom entirely. The king had perhaps 40,000—including 15,000 Cuman horse archers from the steppes.
 
-On the third day, the invading commander ordered a frontal assault: 12,000 men advancing across a mile of open ground against the center of the enemy line. Artillery tore gaps in the advancing ranks. At 200 yards, infantry volleys from behind stone walls devastated the survivors. A handful reached the enemy line; nearly all were killed or captured.
+The king chose broken terrain that neutralized the enemy's numbers. He sent 200 warriors in a suicidal deception: they pretended to negotiate surrender, then attacked the enemy commanders' tent. The chaos spread through the enemy camp.
 
-The assault failed. The invaders retreated, never to threaten the defenders' heartland again. Total casualties exceeded 50,000 over three days. The war continued for two more years, but its outcome was now certain.`,
+Meanwhile, the main army attacked from multiple directions. The Cuman horse archers harassed the flanks while heavily armored knights struck the center. The coalition army, unable to deploy properly in the difficult terrain, broke and fled. The pursuit was merciless—the chronicles say the dead couldn't be counted.
+
+The kingdom entered a golden age, its territory tripling over the following decades.`,
         hints: [
-            { cost: 20, text: "Rifled muskets accurate at 500+ yards, combined with massed artillery and entrenchments, characterized American Civil War combat (1861-1865).", explanation: "The military technology helps date this battle." },
-            { cost: 25, text: "The defensive power of rifled weapons making frontal assaults extremely costly was a lesson learned—and repeatedly ignored—in the 1860s.", explanation: "The tactical pattern helps narrow the date." }
+            { cost: 20, text: "Cuman horse archers—Turkic nomads from the Pontic steppe—served as mercenaries in Eastern European and Caucasian armies primarily from 1050-1240 CE.", explanation: "The mercenary type helps date this battle." },
+            { cost: 25, text: "Georgian expansion against fragmented Seljuk successor states occurred during the early 12th century, peaking in the 1120s.", explanation: "The political context helps narrow the date." }
         ],
-        explanation: "This was the Battle of Gettysburg, July 1-3, 1863, the turning point of the American Civil War. General Robert E. Lee's Army of Northern Virginia attacked General George Meade's Army of the Potomac. Pickett's Charge on the third day sent 12,000 Confederates across open ground against Union positions on Cemetery Ridge—perhaps 6,500 became casualties in under an hour. The 'high water mark of the Confederacy' was reached and broken. Combined with Vicksburg's fall the next day, Gettysburg marked the war's turning point. Rifled muskets and massed artillery (1861-1865) and the costly frontal assault pattern identify Civil War combat.",
-        tags: ["pitched-battle", "19th-century", "americas"]
+        explanation: "This was the Battle of Didgori on August 12, 1121, where King David IV 'the Builder' of Georgia destroyed a massive Seljuk coalition. David's 40,000—including 15,000 Cuman mercenaries—routed perhaps 200,000 Seljuks. The 200-man suicide squad that attacked during 'negotiations' threw the Seljuk camp into chaos. Georgia's 'golden age' followed: David captured Tbilisi (1122) and tripled his territory. The battle is celebrated as Georgia's greatest military victory. Cuman horse archers (1050-1240) and Georgian expansion against Seljuk fragments (early 12th century) precisely date this battle.",
+        tags: ["pitched-battle", "12th-century", "caucasus"]
     },
     {
         id: "campaign_124",
@@ -2430,41 +2438,41 @@ The smaller fleet lost fewer ships but retreated to port and never seriously cha
     },
     {
         id: "campaign_128",
-        title: "The Carrier Duel",
-        actualYear: 1942,
-        difficulty: "medium",
-        description: `Six months after a devastating surprise attack, the defending nation's codebreakers discovered the enemy's next target: a remote island atoll. The defenders gathered their remaining carriers—three against four enemy carriers—and set an ambush.
+        title: "The Last Sword Charge",
+        actualYear: 1877,
+        difficulty: "hard",
+        description: `A nation undergoing rapid modernization faced rebellion from the very warrior class that had once ruled it. These warriors—trained from birth in sword, bow, and spear—refused to accept that their era was ending. Their leader, once the nation's most powerful general, raised an army of 40,000 in his home province.
 
-The attackers launched their first strike at the island's airfield. While their planes were away, scout planes spotted the defending carriers. The attackers prepared a second strike—but before it could launch, dive bombers from the defenders arrived.
+The government's response was an army of conscript peasants, armed with modern rifles and trained in Western tactics. The rebels had superior individual skill and fanatical courage, but the conscripts had artillery, Gatling guns, and unlimited ammunition.
 
-In five minutes, the battle was decided. Three enemy carriers were hit by dive bombers, their hangars full of armed and fueled aircraft. The explosions were catastrophic. A fourth carrier was hit later that day. All four sank—the enemy's entire striking force.
+For seven months, the rebellion burned. The rebels won early battles through sheer ferocity, but attrition favored the government. The final stand came on a forested hill overlooking the castle where the rebellion began. Only 400 rebels remained against 30,000 government troops.
 
-The defenders lost one carrier to a counterattack. But the enemy had lost four carriers, 250 aircraft, and hundreds of trained pilots. The strategic initiative shifted permanently. The attacking power would never again advance; from this point, they would only retreat.`,
+At dawn, after a night of farewells, the survivors charged down the hill with swords drawn. The Gatling guns cut them down in minutes. The rebel leader was wounded, then took his own life in the traditional manner. The warrior class—which had ruled for seven centuries—ended on that hillside.`,
         hints: [
-            { cost: 20, text: "Carrier battles where aircraft sank ships beyond visual range, with dive bombers as the decisive weapon, were unique to World War II (1941-1945).", explanation: "The naval warfare type helps date this battle." },
-            { cost: 25, text: "Codebreaking enabling ambush of enemy carrier forces was a specific advantage of the Pacific War's early period.", explanation: "The intelligence context helps narrow the date." }
+            { cost: 20, text: "Gatling guns and breech-loading rifles against traditional sword-armed warriors characterized the final samurai resistance of the 1870s.", explanation: "The weapon contrast helps date this battle." },
+            { cost: 25, text: "Samurai rebellions against the Meiji government occurred between 1874-1877, as Japan rapidly industrialized.", explanation: "The political context helps narrow the date." }
         ],
-        explanation: "This was the Battle of Midway on June 4-7, 1942, the turning point of the Pacific War. Admiral Nimitz, warned by codebreakers, ambushed Admiral Nagumo's Kido Butai. Dive bombers from Enterprise, Hornet, and Yorktown caught the Japanese carriers rearming—in five minutes, Akagi, Kaga, and Soryu were ablaze. Hiryu was sunk later; Yorktown was lost to a submarine. Japan lost four fleet carriers, 248 aircraft, and irreplaceable trained aircrew. Carrier battles with dive bombers as the decisive weapon were unique to WWII (1941-1945). Codebreaking enabling ambush was key to early Pacific War victories.",
-        tags: ["naval", "20th-century", "pacific"]
+        explanation: "This was the Battle of Shiroyama on September 24, 1877, the final battle of the Satsuma Rebellion. Saigo Takamori—the 'Last Samurai'—led his final 400 warriors in a sword charge against 30,000 Imperial troops armed with Gatling guns and modern artillery. Saigo was wounded and committed seppuku (or was beheaded by a retainer—accounts differ). The Meiji government's conscript army proved that modern weapons trumped samurai skill. The warrior class's military monopoly, lasting since the 12th century, ended that morning. Gatling guns versus traditional warriors (1870s) and anti-Meiji samurai rebellions (1874-1877) precisely date this battle.",
+        tags: ["pitched-battle", "19th-century", "asia"]
     },
     {
         id: "campaign_129",
-        title: "The City of Steel",
-        actualYear: 1942,
-        difficulty: "medium",
-        description: `An invading army reached a major industrial city on a great river—the furthest extent of their advance. Taking the city became an obsession: it bore the name of the enemy's leader. House by house, factory by factory, the battle ground on for five months.
+        title: "The Buried Army",
+        actualYear: -260,
+        difficulty: "hard",
+        description: `Two of the seven warring kingdoms had been locked in attrition for three years over a strategic mountain pass. The attacking kingdom had unified and militarized its society; every man was a soldier, every farmer a potential conscript. The defending kingdom was larger but less organized.
 
-The combat was unlike anything before: fighting in rubble with submachine guns and grenades, snipers commanding streets, strongpoints in every building. Artillery reduced blocks to ruins; men fought for those ruins. The defenders' slogan was "There is no land beyond the river."
+The defending army—perhaps 450,000 men—held fortified positions in the mountains. Their supplies ran low; their commander was young and inexperienced, having replaced a cautious veteran. The attacking kingdom's greatest general arrived with fresh troops and a brutal plan.
 
-The invaders pushed the defenders into a strip along the riverbank, sometimes only a few hundred yards wide. But they could not eliminate them. Then winter came, and with it a massive counteroffensive. Two armored pincers swept around the city, encircling the entire invading army.
+The attacker feigned retreat, drawing the defenders out of their fortifications. When they pursued, concealed cavalry cut their supply lines. Trapped in open ground without food, 450,000 men faced starvation or surrender.
 
-Trapped, forbidden to retreat or surrender, 300,000 soldiers slowly froze and starved. When the survivors finally surrendered, only 91,000 remained alive. It was the war's turning point—the invaders would never recover.`,
+After 46 days, they surrendered. What happened next became the most infamous atrocity in ancient history: the general ordered all 400,000 prisoners executed—buried alive or beheaded—keeping only 240 young boys to send home as witnesses. The defending kingdom never recovered; within forty years, all six rivals would be conquered by the victor.`,
         hints: [
-            { cost: 20, text: "Urban combat with submachine guns and grenades, combined with massive armored encirclements, characterized WWII Eastern Front warfare (1941-1945).", explanation: "The combat style helps date this battle." },
-            { cost: 25, text: "A city bearing a leader's name becoming the focus of national obsession was unique to this battle.", explanation: "The symbolic context helps identify the specific battle." }
+            { cost: 20, text: "Mass infantry armies numbering hundreds of thousands, equipped with bronze weapons and crossbows, were characteristic of Warring States China (475-221 BCE).", explanation: "The army scale helps date this battle." },
+            { cost: 25, text: "The wars of unification that ended the Warring States period occurred primarily between 260-221 BCE, culminating in the Qin conquest.", explanation: "The political context helps narrow the date." }
         ],
-        explanation: "This was the Battle of Stalingrad, August 1942-February 1943, the turning point of WWII in Europe. The German 6th Army under Paulus reached the Volga but couldn't eliminate Chuikov's 62nd Army clinging to the riverbank. Operation Uranus encircled 300,000 Germans; Hitler forbade retreat. Of 91,000 who surrendered, only 6,000 ever returned to Germany. Soviet casualties exceeded German, but the Wehrmacht never recovered its offensive power. Urban combat with submachine guns and armored encirclements characterized WWII's Eastern Front (1941-1945). The city bearing Stalin's name made it symbolically irreplaceable.",
-        tags: ["siege", "20th-century", "europe"]
+        explanation: "This was the Battle of Changping in 260 BCE, where Qin general Bai Qi annihilated the army of Zhao. The Zhao commander Zhao Kuo—inexperienced and rash—replaced the cautious Lian Po and led his army into a trap. After 46 days without food, 400,000 Zhao soldiers surrendered; Bai Qi ordered them all executed to prevent future resistance. Only 240 boys were spared. Zhao never recovered; Qin unified China in 221 BCE. Mass infantry with crossbows characterizes Warring States warfare (475-221 BCE). Qin's wars of conquest (260-221 BCE) precisely date this battle.",
+        tags: ["pitched-battle", "ancient", "asia"]
     },
     {
         id: "campaign_130",
