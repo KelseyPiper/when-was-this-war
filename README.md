@@ -17,7 +17,7 @@ Scoring is based on how close your guess is to the actual year, with more forgiv
 
 ## Features
 
-- 126 campaigns spanning 1274 BCE to 1991
+- 141 campaigns spanning 1274 BCE to 1991
 - Hints available (at a point cost) that provide date ranges for mentioned technologies
 - Difficulty settings (easy/medium/hard)
 - Tracks high scores locally

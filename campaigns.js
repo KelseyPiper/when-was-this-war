@@ -2492,5 +2492,288 @@ After two weeks, the attackers withdrew. They had lost 200,000 men and hundreds 
         ],
         explanation: "This was the Battle of Kursk, July-August 1943, the largest tank battle in history. Hitler's Operation Citadel attacked the Kursk salient with 900,000 men including new Tiger and Panther tanks. The Soviets under Zhukov and Vasilevsky had prepared defenses eight lines deep with thousands of anti-tank guns and millions of mines. German losses—200,000 casualties and 500+ tanks—were irreplaceable. The Soviets lost more but could replace them. After Kursk, the Wehrmacht never regained the initiative. Tiger tanks with 88mm guns facing T-34s in massive armored battles identifies 1943-1945 Eastern Front combat.",
         tags: ["pitched-battle", "20th-century", "europe"]
+    },
+    {
+        id: "campaign_131",
+        title: "The Boy King's Crusade",
+        actualYear: 1444,
+        difficulty: "hard",
+        description: `A young king—barely twenty years old—led the last great crusade against the expanding eastern empire. The crusaders had assembled perhaps 20,000 men: Hungarian heavy cavalry, Polish knights, Wallachian light horse, and Papal contingents. They advanced deep into enemy territory, winning battles and burning cities.
+
+The sultan sued for peace, offering generous terms. The king's advisors urged him to accept; the papal legate urged him to fight on. The king chose war—and broke the truce he had sworn.
+
+The sultan force-marched his army from distant campaigns, covering impossible distances. The crusaders found themselves facing 60,000 men where they expected a beaten enemy. The young king, ignoring advice to retreat, ordered a cavalry charge directly at the sultan's position.
+
+He almost succeeded. The king's cavalry broke through the Janissary infantry and reached the sultan's bodyguard. Then the king fell—killed or captured and beheaded. His head was displayed on a pike. The crusader army was annihilated. No major crusade would ever march east again.`,
+        hints: [
+            { cost: 20, text: "Janissary infantry with early firearms facing European heavy cavalry was characteristic of 15th-century Ottoman warfare.", explanation: "The military matchup helps date this battle." },
+            { cost: 25, text: "Major crusading expeditions against the Ottomans occurred in the 1390s-1440s, before Constantinople fell and such efforts became hopeless.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Varna on November 10, 1444, where Sultan Murad II destroyed the Crusade of Varna. King Władysław III of Poland and Hungary—only 20 years old—broke a sworn truce to continue the crusade. When his cavalry charge reached Murad's bodyguard, the king was killed and beheaded; his head was preserved in honey and sent to the Ottoman capital. Cardinal Cesarini, who had urged breaking the truce, was also killed. Hungary lost its king and never recovered its strength; the Ottomans faced no serious European opposition until Vienna in 1529. Janissaries with early firearms (1380s-1500) and pre-1453 crusading identify this battle.",
+        tags: ["pitched-battle", "15th-century", "balkans"]
+    },
+    {
+        id: "campaign_132",
+        title: "The Moldavian Surprise",
+        actualYear: 1475,
+        difficulty: "hard",
+        description: `A small principality, wedged between two great empires, faced invasion by the mightiest army in the world. The sultan sent 120,000 men to punish the prince who had dared to raid imperial territory and impale prisoners.
+
+The prince had only 40,000 men, mostly peasant levies with limited armor. But he knew his land—the forests, the swamps, the narrow valleys. He refused open battle, harassing the massive army as it struggled through winter mud.
+
+When the invaders camped in a foggy valley, the prince attacked at dawn. His light cavalry swept in from multiple directions; trumpets and drums created confusion about the attackers' numbers. The imperial army, unable to form proper battle lines in the fog, panicked. The rout was total—perhaps 45,000 killed, including several pashas.
+
+The sultan mounted a larger expedition the following year and eventually forced submission. But the prince's legend grew. He would fight dozens of battles, never losing, and be remembered as his nation's greatest hero.`,
+        hints: [
+            { cost: 20, text: "Light cavalry with limited firearms facing Ottoman armies characterized Eastern European frontier warfare from roughly 1400-1600.", explanation: "The military style helps date this battle." },
+            { cost: 25, text: "Moldavian-Ottoman conflicts were most intense in the late 15th century, before the principality became an Ottoman vassal.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Vaslui on January 10, 1475, where Stephen III 'the Great' of Moldavia destroyed an Ottoman army under Hadim Suleiman Pasha. Stephen's 40,000 men ambushed 120,000 Ottomans in a foggy valley; perhaps 45,000 Turks died. Pope Sixtus IV called Stephen 'Athlete of Christ.' The sultan's revenge expedition in 1476 forced Stephen to submit, but he continued resisting until his death in 1504. Light cavalry raids and ambush tactics against Ottoman armies characterized 15th-century Eastern European warfare. Moldavian independence struggles peaked in the 1470s.",
+        tags: ["pitched-battle", "15th-century", "eastern-europe"]
+    },
+    {
+        id: "campaign_133",
+        title: "The River Crossing Massacre",
+        actualYear: 1697,
+        difficulty: "hard",
+        description: `A major imperial army—perhaps 80,000 strong—attempted to cross a river at the end of a long campaign season. Their enemies, whom they believed to be in winter quarters, suddenly appeared with 50,000 men.
+
+The attacking general was Europe's finest commander, veteran of dozens of victories. He struck while the imperial army was half-across the river, its forces divided and unable to support each other.
+
+The troops still on the near bank were annihilated. The sultan's guard fought desperately around the baggage train; the imperial treasury, the sultan's harem, and the seal of state were all captured. Perhaps 30,000 men died, including the grand vizier. The sultan himself barely escaped by swimming his horse across the river.
+
+The disaster forced the empire to accept peace, ending a war that had begun with an attempt to capture the enemy capital fifteen years earlier. The victorious general would become the age's most celebrated soldier.`,
+        hints: [
+            { cost: 20, text: "Large Ottoman armies with Janissary infantry and sipahi cavalry facing European forces with flintlock muskets characterized late 17th-century Balkan warfare.", explanation: "The military composition helps date this battle." },
+            { cost: 25, text: "The Great Turkish War (1683-1699) saw the Ottomans pushed out of Hungary and forced to accept major territorial losses.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Zenta on September 11, 1697, where Prince Eugene of Savoy caught Sultan Mustafa II crossing the Tisza River. Eugene attacked as the Ottoman army was split by the river; the trapped forces were annihilated. Over 30,000 Ottomans died including Grand Vizier Elmas Mehmed Pasha; the sultan's treasury and harem were captured. The Treaty of Karlowitz (1699) followed, the first treaty where the Ottomans ceded major European territory. Flintlock-era European armies versus traditional Ottoman forces characterized the 1680s-1700s. The Great Turkish War (1683-1699) precisely dates this battle.",
+        tags: ["pitched-battle", "17th-century", "balkans"]
+    },
+    {
+        id: "campaign_134",
+        title: "The Mamluk Sunset",
+        actualYear: 1517,
+        difficulty: "hard",
+        description: `The greatest slave-soldier dynasty in history—which had ruled for nearly three centuries and defeated the Mongols—faced a new enemy with a decisive technological advantage. The invaders had already conquered the dynasty's Syrian provinces; now they marched on the capital itself.
+
+The dynasty's warriors were superb cavalry, trained from childhood in horsemanship and archery. But they despised firearms as beneath their dignity. The invaders, by contrast, had massed artillery and thousands of infantry armed with matchlock arquebuses.
+
+Outside the ancient capital, perhaps 20,000 cavalry charged the invaders' line. The sultan led the charge himself, a descendant of slave-soldiers who had risen to rule an empire. The arquebus volleys shattered each wave; the cavalry couldn't close. The sultan was captured and hanged from a gate of his own city.
+
+The ancient dynasty ended that day. The invaders would rule the conquered lands for four centuries, and the holy cities of Islam passed to their control.`,
+        hints: [
+            { cost: 20, text: "Mamluk cavalry refusing to adopt firearms against arquebus-armed opponents was specific to their final defeats in the 1510s.", explanation: "The technological asymmetry helps date this battle." },
+            { cost: 25, text: "The Ottoman conquest of the Mamluk Sultanate occurred in 1516-1517, adding Egypt and the Hejaz to the empire.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Ridaniya on January 22, 1517, where Ottoman Sultan Selim I destroyed the Mamluk Sultanate. Sultan Tuman bay II's Mamluk cavalry, who scorned firearms, were slaughtered by Janissary arquebuses. Tuman bay was captured and hanged at the Zuweila Gate in Cairo. The Mamluks had ruled since 1250 and defeated the Mongols at Ain Jalut; their contempt for gunpowder weapons destroyed them. The Ottomans gained Egypt, the Hejaz (with Mecca and Medina), and the title of Caliph. Mamluk cavalry versus arquebus infantry was specific to 1516-1517. Ottoman conquest of Egypt precisely dates this battle.",
+        tags: ["pitched-battle", "16th-century", "middle-east"]
+    },
+    {
+        id: "campaign_135",
+        title: "The Diamond Throne's Fall",
+        actualYear: 1565,
+        difficulty: "hard",
+        description: `The wealthiest Hindu empire in the subcontinent—famous for its temples, its diamond mines, and its military might—faced a coalition of five sultanates united by faith and fear. The empire's army of perhaps 140,000 included the finest heavy cavalry in India and hundreds of war elephants.
+
+The sultanates assembled 80,000 men but possessed a crucial advantage: field artillery served by Ottoman-trained gunners. The imperial general, a brilliant commander who had won many victories, chose to stand and fight near the capital rather than use his cavalry's mobility.
+
+The battle was close. The imperial heavy cavalry nearly broke through; the sultanates' artillery was running low on powder. Then two Muslim generals in imperial service—commanding 70,000 troops—switched sides in the midst of battle. The betrayal was total.
+
+The imperial army was annihilated. The capital—one of the world's largest and wealthiest cities—was looted for six months. The temples were demolished, the treasuries emptied. An empire that had flourished for two centuries was utterly destroyed.`,
+        hints: [
+            { cost: 20, text: "Ottoman-trained artillery in Indian warfare, combined with war elephants and heavy cavalry, was characteristic of 16th-century Deccan conflicts.", explanation: "The military technologies help date this battle." },
+            { cost: 25, text: "The Deccan sultanates' coalition against Hindu kingdoms peaked in the 1560s-1570s.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Talikota (Rakshasa-Tangadi) on January 26, 1565, where a coalition of Deccan sultanates destroyed the Vijayanagara Empire. The sultanates—Ahmadnagar, Bijapur, Golconda, Bidar, and Berar—united against Hindu Vijayanagara. Rama Raya, the imperial regent, was captured and beheaded on the battlefield; two Muslim generals in his service switched sides mid-battle. Vijayanagara, then among the world's largest cities, was sacked for months. Ottoman-trained artillery in Deccan warfare and the sultanate coalition characterize the 1560s-1570s.",
+        tags: ["pitched-battle", "16th-century", "asia"]
+    },
+    {
+        id: "campaign_136",
+        title: "The Rajput Last Stand",
+        actualYear: 1576,
+        difficulty: "hard",
+        description: `The greatest of the Mughal emperors sought to crush the last independent Rajput kingdom. His general led 10,000 men—a mix of Mughal cavalry and Rajput vassals who had submitted—against a king who refused to bow.
+
+The Rajput king had only 3,000 warriors, including his famed cavalry and war elephants. But these were the finest warriors in India, raised from birth for war, their honor bound to death before surrender.
+
+The battle was fought in a mountain pass. The Rajput king, riding his war elephant, led charge after charge into the Mughal lines. At one point he nearly reached the Mughal commander. But weight of numbers told; the Rajputs were slowly overwhelmed.
+
+The king was wounded but escaped—carried from the field by his loyal horse, who died of wounds after bearing him to safety. He never submitted, fighting from jungle hideouts until his death years later. The Mughals never broke his spirit; his legend inspired resistance for centuries.`,
+        hints: [
+            { cost: 20, text: "Mughal armies combining Central Asian cavalry tactics with Indian war elephants characterized 16th-17th century subcontinental warfare.", explanation: "The military composition helps date this battle." },
+            { cost: 25, text: "Mughal expansion into Rajputana under Akbar occurred primarily in the 1560s-1580s.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Haldighati on June 18, 1576, where Mughal forces under Man Singh I fought Maharana Pratap of Mewar. Pratap's 3,000 Rajputs faced 10,000 Mughals in a mountain pass. Pratap, riding his legendary horse Chetak, nearly killed Man Singh before being wounded. Chetak carried Pratap to safety, then died. Pratap never submitted to Akbar, waging guerrilla war until his death in 1597. Mughal-Rajput warfare with cavalry and elephants characterized 16th-century India. Akbar's Rajputana campaigns (1560s-1580s) precisely date this battle.",
+        tags: ["pitched-battle", "16th-century", "asia"]
+    },
+    {
+        id: "campaign_137",
+        title: "The Cossack Stand",
+        actualYear: 1621,
+        difficulty: "hard",
+        description: `A young sultan, eager for glory, led the largest Ottoman army in a generation—perhaps 150,000 men—north to crush a kingdom that had dared to interfere in his vassal states. The defending army was smaller—perhaps 65,000—but included the finest heavy cavalry in Europe and thousands of fierce steppe warriors.
+
+The kingdom had built a fortified camp near a fortress town. For over a month, the Ottomans assaulted the earthworks. The Janissaries, the sultan's elite infantry, attacked again and again; each time they were repulsed with heavy losses. The steppe warriors—wild horsemen with unpronounceable names—launched constant raids that disrupted Ottoman supply lines.
+
+The young sultan, humiliated by his inability to break through, finally accepted peace. The kingdom kept its independence; the steppe warriors gained legendary status. But the real significance was strategic: this was the last time the Ottomans seriously threatened central Europe from the east.`,
+        hints: [
+            { cost: 20, text: "Cossack light cavalry combined with Polish winged hussars represented the distinctive military system of the 17th-century Polish-Lithuanian Commonwealth.", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "Ottoman campaigns against Poland-Lithuania occurred primarily in the 1620s and 1670s.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Khotin (Chocim) from September 2-October 9, 1621, where Polish-Lithuanian and Cossack forces under Grand Hetman Jan Karol Chodkiewicz stopped Sultan Osman II's invasion. The 35-day siege of the Polish camp cost the Ottomans 40,000 casualties. Chodkiewicz died during the battle but his army held. Osman II's humiliating peace contributed to his overthrow and murder the following year. Polish hussars with Cossack light cavalry was the distinctive 17th-century Commonwealth military system. Ottoman-Polish conflicts peaked in the 1620s and 1670s.",
+        tags: ["siege", "17th-century", "eastern-europe"]
+    },
+    {
+        id: "campaign_138",
+        title: "The River Stakes",
+        actualYear: 938,
+        difficulty: "hard",
+        description: `A small kingdom, barely a generation old, faced its third invasion from the great empire to the north. Twice before, the invaders had conquered the land; twice the people had driven them out. Now the empire sent its largest fleet yet—thousands of ships carrying tens of thousands of soldiers.
+
+The kingdom's general devised a desperate plan. He studied the tidal patterns of the river where the imperial fleet would anchor. Iron-tipped wooden stakes were driven into the riverbed at low tide, invisible when the water rose.
+
+The imperial fleet sailed upriver with the tide. The defending army made a fighting retreat, drawing the invaders deeper. Then, as the tide turned, the defenders counterattacked. The imperial ships, trying to withdraw, were impaled on the hidden stakes. Stranded and immobile, they were destroyed by fire ships and boarding parties. The imperial general was captured and beheaded.
+
+The empire abandoned its claims. The kingdom would remain independent for the next thousand years.`,
+        hints: [
+            { cost: 20, text: "River stake traps against naval invasions were used in Vietnamese warfare from the 10th through 13th centuries.", explanation: "The distinctive tactic helps date this battle." },
+            { cost: 25, text: "Vietnamese independence from Chinese rule was established in the 10th century after centuries of domination.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Bạch Đằng River in 938, where Ngô Quyền destroyed the Southern Han fleet and established Vietnamese independence. Iron-tipped stakes driven into the riverbed at low tide impaled the Chinese ships when the tide fell; the stranded fleet was annihilated. General Liu Hongcao was killed. Vietnam remained independent for over a thousand years (with brief interruptions). The stake trap was used again in 981 and 1288 against later invaders. Vietnamese stake-trap tactics (10th-13th centuries) and the establishment of independence from China precisely date this battle.",
+        tags: ["naval", "10th-century", "asia"]
+    },
+    {
+        id: "campaign_139",
+        title: "The Pass of the Dying Sultan",
+        actualYear: 1566,
+        difficulty: "hard",
+        description: `The greatest sultan of the empire—conqueror of three continents, lawgiver, builder of mosques—led his thirteenth and final campaign at age 71. His target was a small fortress in a marshy valley, held by 2,300 defenders. The sultan brought 100,000 men.
+
+The fortress should have fallen in days. Instead, the old count who commanded it turned it into a death trap. Every assault was repulsed with heavy losses; sorties caught sappers in their trenches; the marshes bred disease. The siege dragged on for a month.
+
+The sultan died in his tent of old age before the fortress fell—but his death was kept secret. The grand vizier forged orders, strangled the sultan's physician to ensure silence, and continued the siege. When the walls finally collapsed, the count led a final sortie, dying sword in hand. The remaining defenders detonated the powder magazine, killing thousands of Janissaries.
+
+The empire captured a ruin filled with corpses. The sultan's body was carried home in secret; his death wasn't announced until his son was safely on the throne.`,
+        hints: [
+            { cost: 20, text: "Ottoman siege warfare with Janissary infantry and heavy artillery against European trace italienne fortifications was characteristic of 16th-century conflicts.", explanation: "The military technologies help date this battle." },
+            { cost: 25, text: "Suleiman the Magnificent's campaigns extended from the 1520s to the 1560s.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Siege of Szigetvár from August 5 to September 8, 1566, where Croatian-Hungarian forces under Count Nikola Šubić Zrinski held off Sultan Suleiman the Magnificent's army. Suleiman died on September 6, two days before the fortress fell; Grand Vizier Sokollu Mehmed Pasha concealed his death. Zrinski led a final charge and was killed; the survivors detonated the magazine, killing 3,000 Janissaries. The Ottomans lost 20,000-30,000 men for a worthless ruin. Ottoman siege warfare against European fortifications characterized 16th-century warfare. Suleiman's reign (1520-1566) precisely dates this battle.",
+        tags: ["siege", "16th-century", "europe"]
+    },
+    {
+        id: "campaign_140",
+        title: "The Swiss Avalanche",
+        actualYear: 1476,
+        difficulty: "hard",
+        description: `The most powerful duke in Europe—richer than most kings, commander of the finest army money could buy—invaded a confederation of mountain peasants and townsmen. He had conquered province after province; surely these rustic pikemen would crumble before his Burgundian knights and artillery.
+
+The Swiss had other plans. Their infantry—dense columns of pikemen wielding 18-foot spears—advanced in echelon, singing hymns. The duke's artillery fired but couldn't stop the advance. His cavalry charged but couldn't break the hedge of pike points. The Burgundian infantry, mercenaries from many lands, had no answer for the disciplined Swiss columns.
+
+The battle became a rout. The duke's camp was overrun; his treasury—including the great diamonds of Burgundy—was captured by peasants who didn't know their value. Hundreds of nobles were killed; thousands of soldiers died in the freezing lake as they fled.
+
+The duke survived to fight again, but his legend of invincibility was shattered. Within a year, he would be dead and his realm divided among his enemies.`,
+        hints: [
+            { cost: 20, text: "Swiss pike columns advancing in echelon against Burgundian cavalry and artillery was characteristic of the Burgundian Wars (1474-1477).", explanation: "The tactical system helps date this battle." },
+            { cost: 25, text: "The Swiss Confederacy's decisive defeats of Burgundy established their military reputation that would dominate European warfare for 50 years.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Grandson on March 2, 1476, where the Swiss Confederacy routed Charles the Bold of Burgundy. The Swiss pike squares, advancing in echelon formation, were unstoppable; Charles's cavalry and artillery couldn't break them. The Burgundians fled across frozen Lake Neuchâtel; many drowned. Charles lost his treasury, including the great Sancy diamond. Two more defeats followed—Morat and Nancy—and Charles died in 1477. Swiss pike tactics (1470s-1520s) and the Burgundian Wars (1474-1477) precisely date this battle.",
+        tags: ["pitched-battle", "15th-century", "europe"]
+    },
+    {
+        id: "campaign_141",
+        title: "The Duke's Frozen Corpse",
+        actualYear: 1477,
+        difficulty: "hard",
+        description: `The great duke who had sought to build a kingdom between the great powers returned for his revenge. Twice the mountain confederation had humiliated him; now, with a rebuilt army, he besieged a town that had defied him.
+
+The confederation's army arrived in January—perhaps 20,000 strong. The duke, weakened by months of siege and desertions, had perhaps 10,000. His advisors urged caution; he demanded battle.
+
+The Swiss infantry attacked in their signature style: dense columns of pikemen, flanked by halberdiers, advancing to the sound of drums. The duke's cavalry charged but couldn't penetrate the forest of pikes. When the second Swiss column struck the flank, the Burgundian army broke.
+
+The duke was last seen riding toward the enemy with a handful of knights. His naked body was found two days later in a frozen stream, skull split by a halberd, face half-eaten by wolves. His signet ring confirmed the identity. The great duchy died with him, divided between his rivals.`,
+        hints: [
+            { cost: 20, text: "Halberdiers and pikemen in dense formations defeating heavy cavalry characterized Swiss warfare from roughly 1470-1520.", explanation: "The infantry weapons help date this battle." },
+            { cost: 25, text: "The death of Charles the Bold ended Burgundy as an independent power in the 1470s.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Nancy on January 5, 1477, where Swiss and Lorrainer forces destroyed Charles the Bold's army. Charles's body was found two days later, frozen in a stream with his head split open. His death ended the Burgundian state—France seized the duchy, while the Low Countries passed to the Habsburgs through his daughter. Swiss pike and halberd tactics (1470s-1520s) and Charles's death (1477) precisely date this battle.",
+        tags: ["pitched-battle", "15th-century", "europe"]
+    },
+    {
+        id: "campaign_142",
+        title: "The First Gunpowder Victory",
+        actualYear: 1503,
+        difficulty: "hard",
+        description: `Two great kingdoms—once united, now divided—fought for control of a wealthy southern realm. Their armies met near a vineyard-covered hillside, perhaps 6,000 on each side. But the attacking army had a new weapon deployed in a new way.
+
+The defending army advanced uphill in the traditional manner: heavy cavalry in gleaming armor, Swiss pikemen renowned as the finest infantry in Europe. They expected the enemy arquebusiers to break as cavalry always broke missile troops.
+
+Instead, the arquebusiers stood behind a ditch and a wooden palisade. Their fire was devastating—not the scattered shots of skirmishers, but disciplined volleys that shattered the cavalry charge. The Swiss pikemen, invincible in open battle, couldn't close with an enemy behind fortifications and continuous gunfire.
+
+The defending commander was killed. His army fled. For the first time in history, firearms—not cavalry, not pikes—had won a major battle. A new age of warfare had begun.`,
+        hints: [
+            { cost: 20, text: "Arquebusiers behind field fortifications defeating Swiss pikemen marked the beginning of gunpowder infantry dominance, roughly 1500-1520.", explanation: "The tactical revolution helps date this battle." },
+            { cost: 25, text: "The Italian Wars between France and Spain lasted from 1494-1559, with the first decade seeing rapid military innovation.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Cerignola on April 28, 1503, the first battle in history decided by gunpowder small arms. Spanish commander Gonzalo Fernández de Córdoba placed his arquebusiers behind a ditch and palisade; their fire destroyed the French cavalry and Swiss pike charges. The Duke of Nemours was killed leading the French. Córdoba, 'the Great Captain,' pioneered the tactics that would evolve into the tercio. Arquebusiers defeating Swiss pikes (1500-1520) and the Italian Wars (1494-1559) precisely date this battle.",
+        tags: ["pitched-battle", "16th-century", "europe"]
+    },
+    {
+        id: "campaign_143",
+        title: "The Gate Between Worlds",
+        actualYear: 1644,
+        difficulty: "hard",
+        description: `A great empire, weakened by rebellion and famine, faced invasion from beyond its northern wall. The wall's commander—the empire's last hope—held the crucial pass with 80,000 troops. But the rebel army that had captured the capital was also marching toward him. Caught between two enemies, he made a fateful choice.
+
+The commander offered allegiance to the northern invaders—nomadic cavalry who had long raided the empire's borders. In exchange, they would help him destroy the rebels and avenge his emperor, who had hanged himself as rebels stormed the palace.
+
+The combined force met the rebel army at the pass. The rebels had 100,000 men but expected only the pass garrison. When the northern horsemen suddenly charged from concealment, the rebel army collapsed in panic.
+
+The commander thought he was using the barbarians; instead, they used him. Within a year, they had seized the capital and declared a new dynasty. The commander, realizing too late his mistake, rebelled and was killed. The new rulers would govern for nearly three centuries.`,
+        hints: [
+            { cost: 20, text: "Manchu banner cavalry with composite bows and early firearms characterized the conquest period of 1618-1683.", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "The Ming-Qing transition occurred in 1644, when rebels captured Beijing and the Manchus intervened.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Shanhai Pass on May 27, 1644, where General Wu Sangui allied with the Manchus to defeat Li Zicheng's rebel army. Li had captured Beijing and driven the Chongzhen Emperor to suicide. Wu, caught between Li and the Manchus, chose to let the Manchus through the Great Wall. The Manchu cavalry routed Li's rebels; the Qing dynasty took Beijing within weeks. Wu later rebelled (the Revolt of the Three Feudatories) and was crushed. Manchu banner cavalry (1618-1683) and the Ming-Qing transition (1644) precisely date this battle.",
+        tags: ["pitched-battle", "17th-century", "asia"]
+    },
+    {
+        id: "campaign_144",
+        title: "The Long Turkish War's Chaos",
+        actualYear: 1596,
+        difficulty: "hard",
+        description: `Two vast empires had fought for a decade over a fortress frontier. A new sultan, eager for glory, personally led 100,000 men to besiege a key fortress. A Christian relief army of 50,000 approached—a rare coalition of imperial troops, German princes, and Transylvanian cavalry.
+
+The battle lasted three days. On the first, the Christians attacked the Ottoman camp but were repulsed. On the second, both sides maneuvered. On the third, the Christians broke through the Ottoman lines and overran the camp. The sultan fled; the battle seemed won.
+
+Then the Christians stopped to loot. Scattered across the camp, drunk on captured wine and weighed down with plunder, they were helpless when the Ottoman sipahi cavalry rallied and counterattacked. The victory became a catastrophe—perhaps 30,000 Christians killed in the sudden reversal.
+
+Both sides claimed victory. The war dragged on for another decade, ending in exhausted stalemate. But the sultan's survival meant the Ottoman frontier held for another century.`,
+        hints: [
+            { cost: 20, text: "Large Ottoman armies with Janissary arquebusiers facing Habsburg coalition forces characterized the Long Turkish War (1593-1606).", explanation: "The military context helps date this battle." },
+            { cost: 25, text: "Three-day battles with dramatic reversals were characteristic of the chaotic warfare of the 1590s-1600s Balkan frontier.", explanation: "The battle pattern helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Mezőkeresztes on October 24-26, 1596, during the Long Turkish War. Sultan Mehmed III's Ottomans initially routed when Archduke Maximilian's coalition forces overran their camp. But the Christian soldiers stopped to loot; Ottoman sipahi cavalry counterattacked and annihilated the disorganized victors. Both sides lost roughly 20,000-30,000 men. The war continued until the Peace of Zsitvatorok (1606). Janissary-era Ottoman armies versus Habsburg coalitions characterized the Long Turkish War (1593-1606).",
+        tags: ["pitched-battle", "16th-century", "europe"]
+    },
+    {
+        id: "campaign_145",
+        title: "The Portuguese Disaster",
+        actualYear: 1578,
+        difficulty: "hard",
+        description: `A young king, obsessed with crusading glory, led his nation's entire nobility into Africa to restore a deposed sultan. He landed 18,000 men—the flower of Portuguese chivalry—and marched inland against all advice.
+
+The Moroccan army that met him numbered 50,000, including thousands of arquebusiers and cavalry. The Portuguese formed a square, but their formation was too large and unwieldy. The African cavalry circled them, harrying, exhausting, picking off stragglers.
+
+When the Portuguese finally broke, the slaughter was total. The young king was killed—his body never found. Two Moroccan sultans also died in the fighting (one from illness, one in combat), giving the battle its strange name in local memory: the Battle of Three Kings.
+
+Portugal lost its king, its heir, and most of its nobility in a single afternoon. Within two years, the Spanish king claimed the vacant throne. Portugal would not be independent again for sixty years.`,
+        hints: [
+            { cost: 20, text: "Moroccan arquebusiers and cavalry defeating European heavy cavalry was characteristic of the late 16th-century North African frontier.", explanation: "The military matchup helps date this battle." },
+            { cost: 25, text: "Portuguese crusading expeditions to Morocco occurred from the 1410s to 1578, ending in decisive defeat.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Alcácer Quibir (Battle of Three Kings) on August 4, 1578, where Moroccan Sultan Abd al-Malik destroyed King Sebastian I of Portugal's crusading army. Three kings died: Sebastian (killed), Abd al-Malik (died of illness during the battle), and the pretender Muhammad II (drowned fleeing). Portugal lost 8,000 dead and 15,000 captured, including most of its nobility. The ransom bankrupted the nation; Philip II of Spain claimed the throne in 1580. Portuguese crusading in Morocco ended forever. Moroccan firearms defeating European cavalry characterized the late 16th century.",
+        tags: ["pitched-battle", "16th-century", "africa"]
     }
 ];
