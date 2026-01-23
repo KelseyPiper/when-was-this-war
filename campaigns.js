@@ -2775,5 +2775,309 @@ Portugal lost its king, its heir, and most of its nobility in a single afternoon
         ],
         explanation: "This was the Battle of Alcácer Quibir (Battle of Three Kings) on August 4, 1578, where Moroccan Sultan Abd al-Malik destroyed King Sebastian I of Portugal's crusading army. Three kings died: Sebastian (killed), Abd al-Malik (died of illness during the battle), and the pretender Muhammad II (drowned fleeing). Portugal lost 8,000 dead and 15,000 captured, including most of its nobility. The ransom bankrupted the nation; Philip II of Spain claimed the throne in 1580. Portuguese crusading in Morocco ended forever. Moroccan firearms defeating European cavalry characterized the late 16th century.",
         tags: ["pitched-battle", "16th-century", "africa"]
+    },
+    {
+        id: "campaign_146",
+        title: "The Heretic Crusade",
+        actualYear: 1213,
+        difficulty: "hard",
+        description: `A crusade was proclaimed—not against Muslims, but against Christians deemed heretics. The target was a wealthy southern region whose people followed a dualist faith that rejected the material world. Northern knights flooded in, eager for land and salvation.
+
+The local count, nominally Catholic, allied with a powerful neighboring king to resist. Together they besieged a town held by the crusaders. The king brought 2,000 Aragonese cavalry—the finest heavy horse in Christendom.
+
+The crusader leader had only 900 cavalry and 700 infantry. But he was a tactical genius. When the king's cavalry charged in disorder, the crusader knights struck in a disciplined wedge. The king himself was pulled from his horse and killed—stabbed through the gaps in his armor.
+
+The count fled; the kingdom abandoned the heretics. Within a generation, the wealthy southern culture was destroyed, its language suppressed, its faith exterminated. The crusade had succeeded through one perfect cavalry charge.`,
+        hints: [
+            { cost: 20, text: "Heavy cavalry with mail armor and couched lances, fighting in close formation, dominated European warfare from roughly 1100-1300.", explanation: "The cavalry type helps date this battle." },
+            { cost: 25, text: "The Albigensian Crusade against the Cathars in southern France lasted from 1209-1229.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Muret on September 12, 1213, where Simon de Montfort (father of the English rebel) destroyed a combined Aragonese-Occitan army. King Peter II of Aragon—hero of Las Navas de Tolosa just a year before—was killed when his cavalry charged in disorder. Raymond VI of Toulouse fled. The Cathar heresy and Occitan culture were doomed; northern French language and customs replaced them. Heavy cavalry with couched lances in mail armor characterized 1100-1300 warfare. The Albigensian Crusade (1209-1229) precisely dates this battle.",
+        tags: ["pitched-battle", "13th-century", "europe"]
+    },
+    {
+        id: "campaign_147",
+        title: "The Crusader King Captured",
+        actualYear: 1250,
+        difficulty: "hard",
+        description: `The saintly king of a great western kingdom launched a crusade to conquer the wealthy delta land that was the heart of Muslim power. His army captured the port city after a long siege, then marched inland toward the great capital.
+
+The Muslim defenders were in disarray—their sultan dying, their emirs feuding. But the crusaders advanced too fast, leaving their fleet behind. When they attacked a fortified town at the junction of two rivers, the Muslims counterattacked.
+
+The king's brother led a cavalry charge into the town that succeeded too well—the knights scattered to loot and were trapped in narrow streets. Muslim cavalry destroyed them. The king's army, weakened and diseased, attempted to retreat but found the river route blocked.
+
+The king himself was captured—a humiliation unprecedented in centuries. His ransom bankrupted his kingdom. He would crusade again decades later and die of disease before the walls of another African city. The great crusading age was ending.`,
+        hints: [
+            { cost: 20, text: "Crusader heavy cavalry with surcoats over mail facing Egyptian Mamluk-style cavalry characterized mid-13th century warfare in the Levant.", explanation: "The military matchup helps date this battle." },
+            { cost: 25, text: "Major French crusades to Egypt occurred in 1249-1250 and again in 1270.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Mansurah and subsequent disaster in February-April 1250, during the Seventh Crusade. King Louis IX of France captured Damietta and advanced on Cairo; at Mansurah, his brother Robert of Artois led a rash charge and was killed. The retreating crusaders were trapped and forced to surrender—Louis IX was captured. His ransom of 400,000 livres nearly bankrupted France. Louis died on crusade again in 1270 at Tunis. Crusader cavalry with surcoats over mail facing Egyptian forces characterized mid-13th century warfare. The Seventh Crusade (1248-1254) precisely dates this battle.",
+        tags: ["pitched-battle", "13th-century", "middle-east"]
+    },
+    {
+        id: "campaign_148",
+        title: "The Last Hohenstaufen",
+        actualYear: 1268,
+        difficulty: "hard",
+        description: `A boy of sixteen—last heir of a dynasty that had ruled for centuries—invaded a southern kingdom to reclaim his grandfather's throne. He brought German knights and Italian allies; the usurper who held his kingdom had the backing of the pope.
+
+The usurper's army was larger and positioned behind a river. The boy-prince attacked anyway, his German cavalry crashing into the enemy line. The first division broke and fled; the second followed. Victory seemed certain.
+
+But the usurper had hidden his reserve behind a hill. As the prince's cavalry scattered in pursuit, the fresh troops struck. The prince's army was annihilated in minutes. The prince himself was captured fleeing.
+
+Two months later, the boy was publicly beheaded in the marketplace—the pope's blessing on his execution. His dynasty ended; the usurper's line ruled for two centuries. It was the last time a Hohenstaufen tried to reclaim the imperial heritage.`,
+        hints: [
+            { cost: 20, text: "German heavy cavalry with great helms facing Italian/Angevin forces was characteristic of the Hohenstaufen-Angevin conflicts of the 1260s.", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "The struggle for Sicily between Hohenstaufen claimants and Charles of Anjou occurred in 1266-1268.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Tagliacozzo on August 23, 1268, where Charles I of Anjou defeated Conradin, the last Hohenstaufen. Conradin's German cavalry broke two Angevin divisions, but Charles's hidden reserve under Erard de Valéry counterattacked and routed the disordered Germans. Conradin was captured and beheaded in Naples on October 29, 1268—he was sixteen. The Hohenstaufen dynasty ended; the Angevins ruled southern Italy until the Sicilian Vespers (1282). German heavy cavalry with great helms characterized 1260s warfare. The Hohenstaufen-Angevin conflict (1266-1268) precisely dates this battle.",
+        tags: ["pitched-battle", "13th-century", "europe"]
+    },
+    {
+        id: "campaign_149",
+        title: "The Sultanate Broken",
+        actualYear: 1243,
+        difficulty: "hard",
+        description: `The most powerful state in Anatolia—heir to the Seljuks who had once threatened Constantinople—faced invasion from the steppes. The invaders had already destroyed dozens of kingdoms; now they demanded submission and tribute.
+
+The sultan refused and gathered his army: perhaps 80,000 men, including heavy cavalry, infantry, and thousands of Georgian and Armenian auxiliaries. The invaders had perhaps 30,000—the usual army of horse archers and heavy lancers that had conquered half the world.
+
+The two armies met in a mountain pass. The sultan's army formed battle lines, but when the invaders' horse archers began their encirclement and arrow storm, panic spread. The Georgian auxiliaries fled first; the rest followed. The sultan himself barely escaped.
+
+The sultanate became a vassal state, its independence ended forever. The invaders would dominate Anatolia for a century, until their own empire fragmented and new powers—the Ottomans among them—rose from the chaos.`,
+        hints: [
+            { cost: 20, text: "Mongol cavalry tactics—horse archer encirclement with heavy cavalry reserve—shattered conventional armies from China to Europe between roughly 1210-1280.", explanation: "The tactical pattern helps date this battle." },
+            { cost: 25, text: "The Mongol invasion of Anatolia, which reduced the Seljuk Sultanate of Rum to vassalage, occurred in the 1240s.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Köse Dağ on June 26, 1243, where Mongol commander Baiju defeated Sultan Kaykhusraw II of the Seljuk Sultanate of Rum. The Seljuks had perhaps 80,000 men; the Mongols perhaps 30,000. The sultan's army panicked when Mongol horse archers began their encirclement; the rout was total. The sultanate became a Mongol vassal and never recovered independence. The Mongols dominated Anatolia until the Ilkhanate fragmented in the 1330s; the Ottomans rose from the chaos. Mongol cavalry tactics (1210-1280) and the invasion of Anatolia precisely date this battle.",
+        tags: ["pitched-battle", "13th-century", "middle-east"]
+    },
+    {
+        id: "campaign_150",
+        title: "The Usurper Slain",
+        actualYear: 1266,
+        difficulty: "hard",
+        description: `A French prince, invited by the pope to seize a southern kingdom from its excommunicated ruler, crossed the mountains in winter with 30,000 men. The usurper—illegitimate son of a great emperor—awaited him with a similar force.
+
+The usurper chose strong ground: his army held a ridge with a river protecting his front. The French would have to cross and attack uphill. But the usurper's German cavalry was impatient; they charged down the slope to meet the French crossing.
+
+In the riverbed, the Germans' heavier armor proved a liability. The French cavalry, lighter and more numerous, surrounded them. The usurper led charge after charge trying to break through; each time he was repulsed. Finally, his horse killed beneath him, he was cut down fighting on foot.
+
+The pope's champion had won. But his harsh rule provoked rebellion within twenty years; on one evening, every French soldier on the island was massacred, and the kingdom was lost forever.`,
+        hints: [
+            { cost: 20, text: "German imperial cavalry with great helms and full mail facing French Angevin forces characterized the 1260s Italian conflicts.", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "The papal-backed conquest of southern Italy from the Hohenstaufen occurred in 1265-1266.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Benevento on February 26, 1266, where Charles I of Anjou defeated and killed King Manfred of Sicily. Manfred, illegitimate son of Frederick II, held strong ground but his German cavalry charged prematurely. The battle in the riverbed favored the lighter French horse; Manfred died fighting on foot after his horse was killed. Charles's harsh rule provoked the Sicilian Vespers (1282), when the French were massacred and Sicily passed to Aragon. German imperial cavalry with great helms characterized 1260s warfare. Charles's conquest (1265-1266) precisely dates this battle.",
+        tags: ["pitched-battle", "13th-century", "europe"]
+    },
+    {
+        id: "campaign_151",
+        title: "The Earl's Triumph",
+        actualYear: 1264,
+        difficulty: "hard",
+        description: `A mighty earl—brother-in-law to the king yet his greatest enemy—led a rebellion in the name of reform. The king's party controlled the wealthiest regions; the earl held the commons and the lesser barons. Civil war erupted across the realm.
+
+The decisive battle came beneath an old hill fort. The king's son led a devastating cavalry charge that scattered the rebels' London contingent—but he pursued too far, losing control of the battle. Meanwhile, the earl's disciplined knights crashed into the king's center.
+
+The king's horse was killed beneath him. Fighting on foot, surrounded, he was forced to surrender. His brother was captured; his son returned from pursuit to find the battle lost. For the next year, the earl ruled the kingdom in the captive king's name—the first English parliament met under his direction.
+
+But the king's son escaped and raised an army. Within a year, the earl would be dead, his body mutilated, his reforms seemingly destroyed—yet his legacy would shape government for centuries.`,
+        hints: [
+            { cost: 20, text: "English baronial cavalry fighting in the mid-13th century used mail armor with surcoats and early great helms.", explanation: "The equipment helps date this battle." },
+            { cost: 25, text: "The Second Barons' War in England occurred from 1264-1267, with parliament's role permanently expanded.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Lewes on May 14, 1264, where Simon de Montfort defeated King Henry III. Prince Edward's cavalry routed the Londoners but pursued too far; de Montfort destroyed the royal center. Henry was captured; Edward became a hostage. De Montfort summoned the first English parliament including commoners in 1265. Edward escaped and killed de Montfort at Evesham later that year, but parliamentary representation endured. English baronial cavalry with mail and surcoats characterized mid-13th century warfare. The Second Barons' War (1264-1267) precisely dates this battle.",
+        tags: ["pitched-battle", "13th-century", "europe"]
+    },
+    {
+        id: "campaign_152",
+        title: "The Earl's Fall",
+        actualYear: 1265,
+        difficulty: "hard",
+        description: `The great earl who had defeated and captured the king now faced the king's vengeful son. The prince had escaped captivity and raised an army in the western marches. The earl's forces were scattered; his son was bringing reinforcements from the east.
+
+The prince moved with devastating speed. First he intercepted and destroyed the reinforcements at a river crossing—the earl's son was captured. Then he force-marched through the night to trap the earl himself.
+
+The earl found himself surrounded at a small town, his army outnumbered and exhausted. He could have fled; instead, he chose to fight and die. His cavalry charged uphill into the royalist line and was annihilated.
+
+The earl was killed, his body dismembered—hands, feet, and head cut off, his genitals stuffed in his mouth. Yet his cause outlived him: the parliament he had created would grow to rule the kingdom. Even in death, he had changed England forever.`,
+        hints: [
+            { cost: 20, text: "English cavalry charges uphill against prepared positions were characteristic of desperate battles in the Barons' Wars.", explanation: "The tactical situation helps date this battle." },
+            { cost: 25, text: "The royalist victory that ended Simon de Montfort's rule occurred in 1265.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Evesham on August 4, 1265, where Prince Edward destroyed Simon de Montfort's army. Edward had first destroyed de Montfort's son's army at Kenilworth, then trapped the earl at Evesham. De Montfort reportedly said 'May God have mercy on our souls, for our bodies are theirs.' His body was mutilated; his head was sent to Roger Mortimer's wife. Yet the Provisions of Oxford and parliamentary representation survived. English baronial warfare with charges and counter-charges characterized the 1260s. The Second Barons' War's climax (1265) precisely dates this battle.",
+        tags: ["pitched-battle", "13th-century", "europe"]
+    },
+    {
+        id: "campaign_153",
+        title: "The Latin Emperor Falls",
+        actualYear: 1205,
+        difficulty: "hard",
+        description: `A new empire, barely a year old, faced catastrophe. The crusaders who had sacked the greatest Christian city and established their own emperor now confronted a resurgent enemy from the north—fierce warriors who had never accepted Latin rule.
+
+The new emperor led 300 knights and several thousand infantry to suppress a rebellion. The northern army was larger—perhaps 14,000—and included thousands of the fearsome mounted warriors who fought with curved swords and composite bows.
+
+The emperor, overconfident from easy victories against disorganized resistance, attacked without reconnaissance. His cavalry charge scattered the enemy center, but the wings held. When the emperor's knights pursued too far, the enemy encircled them.
+
+The emperor himself was captured—an unthinkable humiliation. He was taken to the enemy capital and never seen again; stories claimed he was executed, his skull made into a drinking cup. The Latin Empire never recovered its strength; within sixty years, the true heirs would reclaim their capital.`,
+        hints: [
+            { cost: 20, text: "Frankish crusader cavalry facing Cuman-style horse archers in Balkan warfare characterized the early 13th century.", explanation: "The military matchup helps date this battle." },
+            { cost: 25, text: "The Latin Empire of Constantinople, established by the Fourth Crusade, lasted from 1204-1261.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Adrianople on April 14, 1205, where Bulgarian Tsar Kaloyan destroyed the army of Latin Emperor Baldwin I. Baldwin led 300 knights against 14,000 Bulgarians and Cumans; his cavalry pursuit left his infantry exposed. Baldwin was captured and never seen again—legend says Kaloyan had his skull made into a drinking cup. The Latin Empire was fatally weakened; the Byzantines recaptured Constantinople in 1261. Frankish cavalry facing Cuman horse archers characterized early 13th-century Balkan warfare. The Latin Empire period (1204-1261) precisely dates this battle.",
+        tags: ["pitched-battle", "13th-century", "balkans"]
+    },
+    {
+        id: "campaign_154",
+        title: "The Sikh Artillery",
+        actualYear: 1849,
+        difficulty: "hard",
+        description: `The greatest native army remaining in the subcontinent faced the power that had conquered all others. Two years earlier, they had fought the invaders to a bloody draw; now war had resumed over a disputed succession.
+
+The native army had excellent artillery—European-trained gun crews who had learned from the best. Their heavy cavalry was legendary; their infantry fought in disciplined formations. But the invading army had more troops, more guns, and commanders who had never lost a campaign.
+
+The battle began in jungle-covered ground that nullified the invaders' advantages. The native guns tore gaps in the attacking infantry. At nightfall, the issue was undecided—both armies had lost heavily, and the native army still held its positions.
+
+But the invaders' reinforcements arrived overnight. The next morning's renewed assault broke the native line. The kingdom surrendered within a month; the famous diamond was sent as a gift to the invaders' queen. The last great native power had fallen.`,
+        hints: [
+            { cost: 20, text: "Native armies with European-trained artillery facing British-Indian forces characterized the final conquests of the 1840s.", explanation: "The military matchup helps date this battle." },
+            { cost: 25, text: "The Second Anglo-Sikh War (1848-1849) ended Sikh independence and brought the Punjab under British rule.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Chillianwala on January 13, 1849, one of the bloodiest battles in British Indian history. Hugh Gough's British-Indian army attacked Sher Singh's Sikhs in thick jungle; the Sikh artillery devastated the attackers. The British lost 2,300 casualties—more than at many famous victories. The battle was inconclusive, but the British won decisively at Gujarat a month later. The Koh-i-Noor diamond went to Queen Victoria. European-trained native artillery facing British forces characterized the 1840s. The Second Anglo-Sikh War (1848-1849) precisely dates this battle.",
+        tags: ["pitched-battle", "19th-century", "asia"]
+    },
+    {
+        id: "campaign_155",
+        title: "The Bloody Nightfall",
+        actualYear: 1859,
+        difficulty: "hard",
+        description: `Two great European empires clashed over the liberation of an oppressed nation. One empire defended the existing order; the other sought to redraw the map. Their combined armies—perhaps 250,000 men—met on a baking summer day in the northern plains.
+
+The battle was chaos. Generals lost control of their troops; divisions attacked without orders or support. The new rifled muskets killed at ranges that made massed formations suicidal, but neither side had adjusted their tactics. Medical services were overwhelmed—tens of thousands of wounded lay in the fields without care.
+
+By nightfall, over 30,000 men were dead or wounded. A neutral observer—a Swiss businessman—was so horrified by the suffering that he would devote his life to organizing relief for war's victims. His organization, founded four years later, would become history's most famous humanitarian institution.
+
+The defending empire accepted peace within weeks. A new nation was born; the map of Europe was redrawn. But the real legacy was the red cross on a white background—symbol of mercy born from slaughter.`,
+        hints: [
+            { cost: 20, text: "Rifled muskets devastating massed formations, combined with inadequate medical services, characterized the transitional warfare of 1855-1865.", explanation: "The military technology helps date this battle." },
+            { cost: 25, text: "The wars of Italian unification, which reshaped the peninsula's map, occurred primarily from 1859-1870.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Solferino on June 24, 1859, where French and Sardinian forces defeated Austria during the Second Italian War of Independence. Over 300,000 men fought; 30,000+ became casualties. Henry Dunant, a Swiss businessman, witnessed the aftermath and wrote 'A Memory of Solferino,' leading to the founding of the International Committee of the Red Cross in 1863. Rifled muskets devastating formations and inadequate medical services characterized the 1855-1865 transition. Italian unification (1859-1870) precisely dates this battle.",
+        tags: ["pitched-battle", "19th-century", "europe"]
+    },
+    {
+        id: "campaign_156",
+        title: "The Ironclad Ram",
+        actualYear: 1866,
+        difficulty: "hard",
+        description: `Two fleets of ironclads met in the narrow sea—the first major battle between armored warships. One fleet had more ships and heavier guns; the other had faster, more maneuverable vessels commanded by an aggressive admiral.
+
+The smaller fleet attacked in a wedge formation, ignoring conventional line tactics. Their flagship rammed an enemy ironclad amidships, nearly cutting it in two—the first ship sunk by ramming in modern naval warfare. The enemy fleet's formation dissolved into chaos.
+
+But victory was won at a cost. The ramming ship lost its bowsprit and was badly damaged. Several ships on both sides were hit repeatedly but their armor held. The battle proved that ironclads were nearly impervious to the guns of the era—ramming seemed the only way to sink them.
+
+Navies worldwide drew the wrong lesson: for the next forty years, every warship was built with a ram bow. It was a tactical dead end, but no one knew it yet.`,
+        hints: [
+            { cost: 20, text: "Early ironclads with broadside guns and ram bows were characteristic of naval warfare from roughly 1860-1880.", explanation: "The ship types help date this battle." },
+            { cost: 25, text: "The Austro-Prussian War of 1866 included a major naval battle in the Adriatic.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Lissa on July 20, 1866, where Austrian Rear Admiral Wilhelm von Tegetthoff defeated the Italian fleet. Tegetthoff's flagship Ferdinand Max rammed and sank the Italian Re d'Italia—the first ironclad sunk by ramming. Italy had more and larger ships, but Austrian aggression won the day. Navies built ram bows for decades afterward, though ramming would prove impractical. Early broadside ironclads with rams characterized 1860-1880 naval warfare. The Austro-Prussian War (1866) precisely dates this battle.",
+        tags: ["naval", "19th-century", "europe"]
+    },
+    {
+        id: "campaign_157",
+        title: "The Afghan Disaster",
+        actualYear: 1880,
+        difficulty: "hard",
+        description: `A brigade of 2,500 soldiers marched to relieve a besieged city in the mountains. They were confident—well-trained, well-armed with modern breech-loading rifles. The local tribesmen they would face were dismissed as primitives.
+
+The tribesmen had other ideas. Perhaps 25,000 warriors waited in the hills—many armed with captured rifles, others with jezails whose long barrels outranged the invaders' weapons. They had learned how to fight modern armies.
+
+The brigade formed square on a dusty plain. The tribesmen attacked in waves, pressing closer and closer. Ammunition ran low; the artillery was overrun. When the square finally broke, the rout was total. Two-thirds of the brigade was killed, including the commanding general.
+
+Only a legendary march by a relief column—300 miles in 20 days—saved the survivors and prevented a wider disaster. The invaders would eventually prevail, but they had learned that the mountain tribes were not to be underestimated.`,
+        hints: [
+            { cost: 20, text: "British-Indian forces with Martini-Henry rifles facing Afghan jezails characterized the Second Anglo-Afghan War (1878-1880).", explanation: "The weapons help date this battle." },
+            { cost: 25, text: "Major British defeats in Afghanistan occurred in 1842 and 1880.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Maiwand on July 27, 1880, where Ayub Khan's Afghans destroyed a British-Indian brigade under Brigadier George Burrows. Of 2,500 soldiers, over 1,700 were killed. General Frederick Roberts's legendary march from Kabul—300 miles in 20 days—relieved Kandahar and defeated Ayub Khan. The battle inspired a fictional veteran: Dr. Watson of Sherlock Holmes. Martini-Henry rifles versus Afghan jezails characterized the 1878-1880 war. The Second Anglo-Afghan War precisely dates this battle.",
+        tags: ["pitched-battle", "19th-century", "asia"]
+    },
+    {
+        id: "campaign_158",
+        title: "The Farmer Sharpshooters",
+        actualYear: 1881,
+        difficulty: "hard",
+        description: `A small frontier republic of farmers and herders defied a great empire. The empire had just won a war against a powerful native kingdom; surely these rustic colonists would submit quickly.
+
+The colonists thought otherwise. They gathered on a flat-topped hill overlooking the imperial camp, perhaps 400 men with hunting rifles. The imperial force of 350 regulars, including a naval brigade, marched up the hill in formation.
+
+It was a massacre. The colonists, expert marksmen from childhood, fired from cover. The imperial soldiers, advancing in close order, were cut down before they could close. Three times they attacked; three times they were repulsed. The commanding general was killed leading the final charge.
+
+The empire, humiliated, granted the republic its independence—for a time. Twenty years later, a far larger war would finally bring the colonists under imperial rule. But this hill became their national symbol of resistance.`,
+        hints: [
+            { cost: 20, text: "Boer marksmen with hunting rifles defeating British regulars characterized the First Boer War (1880-1881).", explanation: "The military matchup helps date this battle." },
+            { cost: 25, text: "British defeats to Boer commandos occurred primarily in 1881 and 1899-1900.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Majuba Hill on February 27, 1881, where Boer farmers destroyed a British force under Major General George Colley. The Boers—400 excellent marksmen—held the hilltop against 350 British soldiers who attacked uphill in formation. Colley was killed; 92 British died versus 1 Boer killed. Britain granted Transvaal independence in the Pretoria Convention. Boer marksmanship defeating British regulars characterized the First Boer War (1880-1881). This humiliation contributed to British determination in the Second Boer War (1899-1902).",
+        tags: ["pitched-battle", "19th-century", "africa"]
+    },
+    {
+        id: "campaign_159",
+        title: "The Liberator's Victory",
+        actualYear: 1819,
+        difficulty: "hard",
+        description: `A revolutionary army—exhausted, half-naked, having just crossed frozen mountain passes thought impassable—descended into a fertile valley. The royalist garrison expected no threat; the revolutionaries were supposed to be trapped on the other side of the mountains.
+
+The surprise was total. The revolutionary cavalry struck the royalist advance guard before they could form. The royalist commander hastily gathered 3,000 men, but his troops were scattered across the province. The revolutionaries had only 2,800, but they were concentrated and led by a genius.
+
+The battle lasted barely two hours. The revolutionary cavalry shattered the royalist center; the infantry completed the rout. The royalist commander fled; the capital was undefended. Within three days, the revolutionaries controlled an entire viceroyalty.
+
+The victory made the revolutionary leader's reputation. He would free five more nations before dying in poverty and exile, bitter that his dream of a unified continent had failed.`,
+        hints: [
+            { cost: 20, text: "Revolutionary cavalry with lances and sabers defeating Spanish royalist forces characterized the South American wars of independence (1810-1825).", explanation: "The military matchup helps date this battle." },
+            { cost: 25, text: "Campaigns crossing the Andes to liberate New Granada occurred in 1819.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Boyacá on August 7, 1819, where Simón Bolívar destroyed the Spanish royalist army and liberated New Granada (Colombia). Bolívar's 2,800 men, having crossed the Andes in an epic march, surprised Colonel José María Barreiro's 3,000 royalists. The battle lasted two hours; Spanish losses were 200 killed and 1,600 captured. Bogotá fell three days later. Bolívar would liberate Venezuela, Ecuador, Peru, and Bolivia, but died in 1830, disappointed by South America's fragmentation. Revolutionary cavalry defeating royalists characterized the 1810-1825 independence wars.",
+        tags: ["pitched-battle", "19th-century", "americas"]
+    },
+    {
+        id: "campaign_160",
+        title: "The Night March to Cairo",
+        actualYear: 1882,
+        difficulty: "hard",
+        description: `A great power intervened to protect its vital strategic interest—a canal that connected two seas. The local army, led by a nationalist colonel, had seized power and threatened foreign investments. A fleet bombarded the port city; now an army would finish the job.
+
+The invaders landed 40,000 men and advanced along the canal. The nationalist army—perhaps 20,000 strong with artillery—dug in behind earthworks. Frontal assault would be costly.
+
+The invading commander chose a night march. His army advanced in silence across the desert, guided by naval officers with compasses. At dawn, they struck the earthworks from an unexpected direction. The defenders, caught by surprise, fought bravely but were overwhelmed in minutes.
+
+The colonel was captured and exiled. The great power would occupy the country for seventy years, controlling the canal that was the lifeline of its empire.`,
+        hints: [
+            { cost: 20, text: "British Indian Army forces with Martini-Henry rifles and artillery defeating Egyptian forces characterized the 1882 intervention.", explanation: "The military composition helps date this battle." },
+            { cost: 25, text: "The British occupation of Egypt, securing the Suez Canal, began in 1882 and lasted until 1956.", explanation: "The strategic context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Tel el-Kebir on September 13, 1882, where General Garnet Wolseley's British forces destroyed Ahmed Urabi's Egyptian nationalist army. Wolseley's night march achieved complete surprise; the battle lasted barely 30 minutes. Urabi was captured and exiled to Ceylon. Britain occupied Egypt to secure the Suez Canal, nominally maintaining Egyptian sovereignty while controlling the country until 1956. British-Indian forces with Martini-Henrys defeating Egyptian troops characterized the 1882 campaign.",
+        tags: ["pitched-battle", "19th-century", "africa"]
+    },
+    {
+        id: "campaign_161",
+        title: "The Habsburg Succession",
+        actualYear: 1278,
+        difficulty: "hard",
+        description: `A new dynasty was rising. A count from the western mountains had been elected king of a vast but chaotic realm. To secure his power, he needed to break the strongest prince in the east—a golden king who ruled rich lands along a great river.
+
+The eastern king had defied every attempt to curb his power. Now the western king gathered allies: Hungarian cavalry, German knights, and his own Swiss mountaineers. Perhaps 30,000 men faced a similar number across a river plain.
+
+The battle was decided by cavalry. The western king's heavy horse broke the eastern line, but the eastern king's knights fought back fiercely. In the press, the eastern king was unhorsed and killed—murdered, some said, by knights with old grudges.
+
+The western dynasty claimed the eastern lands and would rule them for over six centuries. A family that began as minor counts would become emperors, ruling domains on which the sun never set.`,
+        hints: [
+            { cost: 20, text: "Heavy cavalry with mail and early plate, fighting with couched lances and swords, dominated Central European warfare from roughly 1200-1350.", explanation: "The cavalry equipment helps date this battle." },
+            { cost: 25, text: "The Habsburg acquisition of Austria through battle occurred in 1278.", explanation: "The political context helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Dürnkrut (Marchfeld) on August 26, 1278, where Rudolf I of Habsburg defeated Ottokar II of Bohemia. Ottokar, the 'Golden King,' was killed—possibly murdered by personal enemies after his capture. The Habsburgs gained Austria, Styria, and Carinthia, beginning their 640-year rule. Heavy cavalry with mail and early plate characterized late 13th-century Central European warfare. The Habsburg acquisition of Austria (1278) precisely dates this battle.",
+        tags: ["pitched-battle", "13th-century", "europe"]
     }
 ];
