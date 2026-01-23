@@ -1618,25 +1618,6 @@ After three days, the enemy withdrew. Both sides claimed victory—the defenders
         tags: ["pitched-battle", "20th-century", "asia"]
     },
     {
-        id: "campaign_083",
-        title: "The Preemptive Strike",
-        actualYear: 1967,
-        difficulty: "medium",
-        description: `Surrounded by hostile neighbors massing forces on every border, a small nation launched a preemptive strike. The air force attacked at dawn, catching enemy aircraft on the ground. Within hours, air superiority was absolute—nearly 400 enemy planes destroyed, most never leaving the runway.
-
-With the skies clear, armored columns raced across the desert. The tanks were modified designs with larger guns than the originals, crewed by soldiers who trained constantly. They faced a larger enemy tank force equipped with Soviet designs, dug in behind prepared defenses.
-
-The attackers didn't assault the defenses directly. They maneuvered around flanks, cut supply lines, and created chaos in enemy rear areas. Tank battles erupted across the desert—the attackers' superior gunnery and tactical flexibility destroyed enemy armor in detail.
-
-Within a week, the attacking nation had tripled its territory, capturing a major peninsula, a strategic heights region, and a city sacred to three religions. The speed of victory shocked the world.`,
-        hints: [
-            { cost: 20, text: "Modified tanks with 105mm guns facing Soviet T-54/55s was characteristic of Middle Eastern armored warfare in the 1960s-1970s.", explanation: "The tank technology helps date this battle." },
-            { cost: 25, text: "Preemptive air strikes destroying enemy air forces on the ground was a strategy that worked spectacularly in this era before hardened aircraft shelters became standard.", explanation: "The air warfare tactics help narrow the timeframe." }
-        ],
-        explanation: "This was the Six-Day War (June 5-10, 1967), Israel's most decisive victory. The Israeli Air Force struck at 7:45 AM on June 5, catching Egyptian aircraft on the ground during the shift change between night and day crews. Within hours, nearly 400 Egyptian, Syrian, and Jordanian aircraft were destroyed, most never leaving the runway. Israeli Centurions and Super Shermans (modified with 105mm guns) faced Egyptian T-54/55s in the Sinai; superior Israeli gunnery and tactics destroyed the larger Egyptian force in detail. Israel captured the Sinai Peninsula, Golan Heights, West Bank, and East Jerusalem—tripling its territory. Preemptive air strikes destroying enemy air forces on the ground worked spectacularly before hardened aircraft shelters became standard (post-1970s). The tank matchup (Western designs with upgunned armament vs. Soviet T-54/55s) was characteristic of 1960s-1970s Middle Eastern warfare.",
-        tags: ["combined-arms", "20th-century", "middle-east"]
-    },
-    {
         id: "campaign_084",
         title: "The Urban Nightmare",
         actualYear: 1968,
@@ -1711,25 +1692,6 @@ The ground war lasted 100 hours. The occupying army was destroyed as a fighting 
         ],
         explanation: "This was the Battle of 73 Easting on February 26, 1991, during the Gulf War. Captain H.R. McMaster's Eagle Troop, 2nd Armored Cavalry Regiment—nine M1A1 Abrams tanks and twelve Bradley fighting vehicles—stumbled into the Iraqi Republican Guard's Tawakalna Division in a sandstorm. The M1A1s' thermal sights could see through the storm; the Iraqi T-72s were blind. In 23 minutes, Eagle Troop destroyed over 80 Iraqi vehicles while losing only one Bradley. The six-week air campaign before the ground assault used F-117 stealth aircraft (first used operationally 1989) and precision-guided bombs hitting individual buildings. Thermal imaging letting tanks see through darkness and smoke was decisive late-1980s-1990s technology. The '100-hour ground war' destroyed the Iraqi army as a fighting force.",
         tags: ["armored-warfare", "20th-century", "middle-east"]
-    },
-    {
-        id: "campaign_088",
-        title: "The Helicopter Raid",
-        actualYear: 1993,
-        difficulty: "medium",
-        description: `A peacekeeping mission in a failed state went wrong. Special operations soldiers launched a daylight raid into a hostile city to capture leaders of a warlord's faction. The plan called for a quick helicopter insertion, arrests, and extraction—thirty minutes maximum.
-
-The raiders fast-roped from helicopters into the target area and made the arrests. But the extraction helicopters came under intense fire. A rocket-propelled grenade—a cheap, ubiquitous weapon designed decades earlier—brought down a helicopter. Then another.
-
-The mission became a desperate rescue. Soldiers fought through narrow streets against thousands of militia armed with assault rifles and RPGs. A relief convoy of vehicles tried to reach the crash sites but was ambushed repeatedly and had to withdraw. Soldiers held perimeters around the crashed helicopters through the night.
-
-Eighteen soldiers died; hundreds of militia were killed. The images of dead soldiers being dragged through streets shocked a nation that had expected peacekeeping to be low-risk. The mission was withdrawn within months.`,
-        hints: [
-            { cost: 20, text: "Rocket-propelled grenades (RPGs) bringing down helicopters and negating technological advantages became a defining image of post-Cold War urban warfare.", explanation: "The asymmetric warfare pattern helps date this battle." },
-            { cost: 25, text: "Special operations raids in failed states as peacekeeping missions gone wrong was characteristic of the 1990s-2000s period between the Cold War and the War on Terror.", explanation: "The geopolitical context helps narrow the timeframe." }
-        ],
-        explanation: "This was the Battle of Mogadishu on October 3-4, 1993, immortalized in Black Hawk Down. Task Force Ranger—Delta Force and Army Rangers—launched a daylight raid to capture lieutenants of warlord Mohamed Farrah Aidid. The raid succeeded, but RPG fire downed two Black Hawk helicopters. Master Sergeant Gary Gordon and Sergeant First Class Randy Shughart volunteered to defend the second crash site; both were killed and received posthumous Medals of Honor. Eighteen Americans died; estimates of Somali casualties range from 300 to over 1,000. The images of dead soldiers dragged through streets led to U.S. withdrawal within months. RPGs—cheap Soviet-designed weapons from the 1960s—brought down advanced helicopters and negated technological advantages, defining post-Cold War asymmetric warfare.",
-        tags: ["urban", "20th-century", "africa"]
     },
     {
         id: "campaign_089",
@@ -1986,5 +1948,197 @@ The assault succeeded through disciplined volleys and bayonet charges. The enemy
         ],
         explanation: "This was the Battle of Assaye on September 23, 1803, which Arthur Wellesley (the future Duke of Wellington) later called the finest thing he ever did in battle—higher praise than Waterloo. Wellesley's 7,000 troops attacked a Maratha army of 40,000 with 100 guns served by European-trained crews. He spotted the enemy crossing a river and attacked immediately rather than wait for support. The 74th Highlanders lost their commander and 400 men but pressed on. Wellesley had two horses shot from under him. The Marathas fought well—their European-trained artillery was particularly good—but disciplined volleys and bayonet charges took the guns. Flintlock muskets with bayonets (1700-1840) and a trading company's private army fighting Indian confederations with European-trained artillery identifies the East India Company expansion era (1750s-1820s).",
         tags: ["pitched-battle", "19th-century", "south-asia"]
+    },
+    {
+        id: "campaign_101",
+        title: "The Chariot Clash",
+        actualYear: -1274,
+        difficulty: "hard",
+        description: `Two great empires met in battle near a fortified city on a contested frontier. Both commanded vast armies built around the same weapon system: two-wheeled war chariots crewed by a driver, an archer, and sometimes a shield-bearer, drawn by two horses.
+
+The invading king led perhaps 20,000 soldiers with 2,000 chariots. He divided his force into four divisions and advanced along the coast. The defending empire had assembled an even larger force—perhaps 40,000 men with 3,500 chariots—and concealed them behind the city.
+
+The invader's advance guard reported the enemy had retreated north. The king pressed forward with just one division, eager to reach the city. It was a trap. The hidden army struck the strung-out column, and chariots swept through the camp, scattering soldiers who hadn't yet formed for battle.
+
+The king rallied his household troops and counterattacked. Reinforcements arrived just in time to prevent disaster. By evening, both armies had fought to exhaustion. The invader claimed total victory; the defender claimed the same. A treaty was signed years later—the oldest surviving international peace agreement—and the two empires divided the contested region between them.`,
+        hints: [
+            { cost: 20, text: "Two-wheeled war chariots as the primary striking arm were dominant in Near Eastern warfare from roughly 1700 BCE to 1200 BCE, before cavalry replaced them.", explanation: "The chariot warfare helps date this battle." },
+            { cost: 25, text: "Large empires capable of fielding thousands of chariots existed in the Near East primarily during the Late Bronze Age (1600-1200 BCE).", explanation: "The scale of chariot armies helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Kadesh in 1274 BCE, between Pharaoh Ramesses II of Egypt and King Muwatalli II of the Hittite Empire. It's the earliest battle for which detailed tactical accounts survive. Ramesses was ambushed when Hittite chariots hidden behind Kadesh struck his strung-out column. Egyptian reliefs show Ramesses personally leading the counterattack. Both sides claimed victory; the eventual peace treaty (preserved in both Egyptian and Hittite versions) is the oldest surviving international agreement. Two-wheeled chariots as the primary striking arm dominated Near Eastern warfare 1700-1200 BCE; cavalry replaced them during the Iron Age transition. Empires fielding thousands of chariots existed only during the Late Bronze Age.",
+        tags: ["pitched-battle", "ancient", "middle-east"]
+    },
+    {
+        id: "campaign_102",
+        title: "The Wooden Walls",
+        actualYear: -480,
+        difficulty: "medium",
+        description: `A vast invasion force—later accounts claimed millions, though 200,000 is more realistic—had crossed into a peninsula, burning cities and scattering defenders. The invaders' fleet of perhaps 800 warships accompanied the army along the coast. Only one city-state's navy remained intact: 200 triremes, slender oar-powered warships with bronze rams.
+
+The defending admiral lured the enemy fleet into a narrow strait where numbers couldn't tell. The triremes were rowed by free citizens, 170 oars per ship arranged in three banks. They fought by ramming—driving the bronze-sheathed prow through enemy hulls—or by boarding after disabling an enemy with oar-strikes.
+
+An oracle had promised the city would be saved by "wooden walls." Some citizens had stayed behind walls; they died when the invaders took the citadel. The admiral understood: the wooden walls were the ships.
+
+In the narrow waters, the larger fleet couldn't maneuver. The defenders' better seamanship let them ram enemy ships from the flank, then back away before counterattack. By evening, the invading fleet had lost perhaps 200 ships to 40 defenders. The invasion force withdrew the next year.`,
+        hints: [
+            { cost: 20, text: "Triremes (three-banked oared warships) were the dominant Mediterranean warship from roughly 700 BCE to 300 BCE. Later navies used larger quinqueremes.", explanation: "The ship type helps date this battle." },
+            { cost: 25, text: "Bronze rams as the primary naval weapon, with boarding as secondary, characterized Mediterranean naval warfare before the development of shipboard artillery.", explanation: "The combat style helps confirm the ancient timeframe." }
+        ],
+        explanation: "This was the Battle of Salamis in 480 BCE, where the Greek fleet under Themistocles of Athens destroyed the Persian navy of Xerxes I. The oracle's 'wooden walls' prophecy is recorded by Herodotus. The Greeks lured the Persians into the narrow strait between Salamis and the mainland, where Persian numerical superiority was neutralized. Xerxes watched from a throne on shore as his fleet was destroyed. He withdrew to Persia, leaving an army that was defeated at Plataea the following year. Triremes (three-banked oars, bronze rams) dominated Mediterranean warfare from 700-300 BCE. The style of combat—ramming and oar-breaking rather than artillery—confirms the pre-Hellenistic period.",
+        tags: ["naval", "ancient", "mediterranean"]
+    },
+    {
+        id: "campaign_103",
+        title: "The River Ambush",
+        actualYear: 955,
+        difficulty: "hard",
+        description: `For decades, raiders from the eastern steppes had terrorized the heartland of a continent. Their light cavalry, armed with powerful composite bows, could devastate farming communities, defeat armored knights through mobility and archery, and retreat before any pursuit. Tribute payments bought only temporary respite.
+
+A new king determined to end the raids permanently. When the raiders invaded with perhaps 8,000 horsemen, he gathered an army of approximately 10,000—mostly heavy cavalry equipped with mail armor, shields, lances, and swords. Light cavalry and infantry supported them, but this was primarily a mounted army.
+
+The king caught the raiders at a river crossing. They had just ravaged a major religious center and were laden with plunder. The raiders attempted their usual tactic: feigned retreat to draw the heavy cavalry into a disordered pursuit, then wheel and counterattack with arrows.
+
+But the king had learned. He kept his cavalry in tight formation, advancing steadily rather than charging recklessly. When the raiders' arrows failed to break the formation, they had no answer. The heavy cavalry rode them down. The pursuit continued for days; few raiders escaped. The steppe people never raided the kingdom again.`,
+        hints: [
+            { cost: 20, text: "Heavy cavalry in mail armor with lances facing light horse archers with composite bows was a characteristic matchup from roughly 500-1200 CE across the Eurasian borderlands.", explanation: "The cavalry types help date this battle." },
+            { cost: 25, text: "Steppe raiders terrorizing Central Europe before being defeated by organized heavy cavalry describes events of the 9th-10th centuries specifically.", explanation: "The historical pattern helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Lechfeld on August 10, 955, where King Otto I of Germany crushed the Magyar (Hungarian) raiders who had terrorized Central Europe for decades. The Magyars had raided as far as France and Italy; Lechfeld ended their threat permanently. Otto's disciplined heavy cavalry refused to break formation during Magyar feigned retreats. The pursuit was merciless—Magyar leaders were executed, and few warriors returned home. Within decades, the Magyars settled, converted to Christianity, and founded the Kingdom of Hungary. Heavy cavalry in mail facing steppe horse archers was characteristic of 500-1200 CE. The specific pattern of steppe raiders being permanently defeated identifies the 10th century.",
+        tags: ["pitched-battle", "10th-century", "europe"]
+    },
+    {
+        id: "campaign_104",
+        title: "The Muddy Field",
+        actualYear: 1346,
+        difficulty: "medium",
+        description: `A raiding army found itself cornered, its retreat to ships blocked by a larger pursuing force. The raiders numbered perhaps 12,000; the pursuers brought over 30,000, including the finest heavy cavalry in Christendom.
+
+The raiders took position on a ridge, dismounting their knights and men-at-arms to fight on foot. Their key weapon was the longbow—a six-foot stave of yew requiring years of training and immense physical strength, capable of penetrating mail armor at 200 yards. Perhaps 7,000 archers formed the bulk of their army.
+
+The pursuing army attacked uphill across rain-soaked ground. Their crossbowmen opened the battle but were outranged and outshot by the longbows. Then the heavy cavalry charged—knights in full mail with plate reinforcements, mounted on armored destriers, the most expensive military technology of the age.
+
+The mud slowed the horses. The arrows came in storms—perhaps 30,000 per minute at the peak. Horses fell screaming; knights crashed to the ground and couldn't rise in their heavy armor. Those who reached the English line were killed by dismounted men-at-arms. The pursuing king was wounded; his army lost over 10,000 dead, including hundreds of nobles.`,
+        hints: [
+            { cost: 20, text: "Longbows requiring years of training and capable of penetrating mail at range were the dominant English weapon from roughly 1300-1450, before firearms replaced them.", explanation: "The longbow technology helps date this battle." },
+            { cost: 25, text: "Heavy cavalry in mail with plate reinforcements (but not full plate harnesses) was characteristic of the early-to-mid 14th century, during the transition from mail to plate.", explanation: "The armor technology helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Crécy on August 26, 1346, the first major English victory of the Hundred Years' War. Edward III's 12,000 troops defeated Philip VI of France's 30,000+. The English longbowmen—commoners who trained from childhood—slaughtered the flower of French chivalry. Perhaps 1,500 French knights and nobles died, including King John of Bohemia (blind, he charged anyway). The battle proved that disciplined infantry with missile weapons could defeat heavy cavalry. Longbows dominated English armies 1300-1450. Mail with plate reinforcements (not full plate, which came later) identifies the early-to-mid 14th century transition period.",
+        tags: ["pitched-battle", "14th-century", "europe"]
+    },
+    {
+        id: "campaign_105",
+        title: "The Archer King",
+        actualYear: 1415,
+        difficulty: "medium",
+        description: `A young king invaded a neighboring kingdom to press his claim to its throne. Disease and attrition reduced his army from 12,000 to barely 6,000 during a siege and subsequent march. A much larger army—perhaps 20,000—moved to block his retreat to the coast.
+
+The king took position between two dense woods that protected his flanks. His dismounted men-at-arms, in full plate armor, held the center. On the wings, thousands of archers with longbows hammered sharpened stakes into the ground before them, pointing outward to stop cavalry charges.
+
+The larger army attacked across a freshly plowed field turned to deep mud by autumn rain. Their armored knights trudged forward, sinking to their knees. The longbow arrows couldn't easily penetrate the finest plate armor, but they killed horses and struck gaps at joints and visors. When the exhausted, mud-caked knights finally reached the English line, they were cut down by men-at-arms with swords, axes, and mauls.
+
+The king captured so many noble prisoners that when a (false) alarm suggested a counterattack, he ordered prisoners executed rather than risk them being freed. Over 6,000 of the larger army died; the invaders lost perhaps 500.`,
+        hints: [
+            { cost: 20, text: "Full plate armor reaching its peak effectiveness was characteristic of the early 15th century (roughly 1400-1450), before firearms began making heavy armor impractical.", explanation: "The armor technology helps date this battle." },
+            { cost: 25, text: "Longbows used en masse with sharpened stakes for defense was a specifically English tactic of the Hundred Years' War (1337-1453).", explanation: "The tactical combination helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Agincourt on October 25, 1415, Henry V of England's most famous victory. His 6,000 starving, dysentery-ridden troops destroyed a French army three times their size. The French dead included three dukes, ninety counts, and over 1,500 knights. The mud was so deep that armored knights who fell couldn't rise. The controversial prisoner massacre reflected the brutal realities of medieval warfare. Full plate armor reaching peak effectiveness identifies the early 15th century (1400-1450). Longbows with stakes as an English Hundred Years' War tactic (1337-1453) confirms the period.",
+        tags: ["pitched-battle", "15th-century", "europe"]
+    },
+    {
+        id: "campaign_106",
+        title: "The Lake City's Fall",
+        actualYear: 1521,
+        difficulty: "medium",
+        description: `A magnificent island city—perhaps 200,000 inhabitants, larger than any city in the invaders' homeland—fell after a siege lasting three months. The city sat on a lake, connected to shore by three causeways, its buildings adorned with temples and pyramids.
+
+The invaders numbered only a few hundred, but they had forged alliances with peoples who hated the island empire and its demand for tribute and sacrificial victims. Perhaps 200,000 native allies joined the siege.
+
+The invaders' technology was transformative. Steel swords cut through quilted cotton armor. Crossbows and early matchlock firearms outranged bows. Most crucially, the invaders brought horses—animals unknown in this land—and a handful of small cannon.
+
+But the defenders resisted fiercely. Street by street, building by building, the attackers advanced. They dismantled structures to prevent ambush. Disease, brought unknowingly by the invaders, killed defenders by the thousands. When the emperor was finally captured, the city was rubble. Perhaps 100,000 inhabitants had died. An empire that had dominated the region for two centuries was destroyed.`,
+        hints: [
+            { cost: 20, text: "Steel weapons versus quilted cotton armor, with horses unknown to the defenders, describes the technological mismatch of early 16th century colonial conquests.", explanation: "The technology gap helps date this battle." },
+            { cost: 25, text: "Matchlock firearms alongside crossbows (not yet replacing them) indicates the early 16th century, before arquebuses became dominant.", explanation: "The firearms transition helps narrow the date." }
+        ],
+        explanation: "This was the Siege of Tenochtitlan in 1521, where Hernán Cortés and his Tlaxcalan allies destroyed the Aztec Empire. The city on Lake Texcoco held perhaps 200,000 people—larger than any Spanish city. Cortés had only 900 Spanish soldiers but 200,000 indigenous allies eager to overthrow Aztec domination. Emperor Cuauhtémoc was captured; the city was demolished. Smallpox killed perhaps half the defenders. Steel versus cotton armor, horses unknown to the defenders, and matchlocks alongside crossbows (early 16th century transition) all identify this as the Spanish conquest era. The technological mismatch was decisive but indigenous alliances made it possible.",
+        tags: ["siege", "16th-century", "americas"]
+    },
+    {
+        id: "campaign_107",
+        title: "The Arquebus Victory",
+        actualYear: 1525,
+        difficulty: "hard",
+        description: `Two armies, both claiming to represent Christendom's greatest powers, met outside a walled town in a contested region. The defending army of perhaps 25,000 had taken up positions in a hunting park surrounded by walls, using the enclosure for protection.
+
+The attacking army of similar size included some of the best heavy cavalry in Europe—armored gendarmes who had dominated battlefields for decades. Their king led from the front, eager for glory.
+
+But the defenders had a new weapon in unprecedented numbers: the arquebus, a matchlock firearm heavier and more powerful than earlier handguns. Perhaps 3,000 arquebusiers took positions behind walls and hedges. The heavy cavalry charged directly at the entrenched guns.
+
+The slaughter was terrible. Horses and riders fell in heaps before the arquebus fire. The attacking king's horse was killed; he fought on foot until surrounded and captured. It was the first battle where firearms clearly defeated armored heavy cavalry in open battle—a revolution that would transform warfare.`,
+        hints: [
+            { cost: 20, text: "Arquebuses in large numbers decisively defeating heavy cavalry was a new development of the 1520s-1530s. Earlier handguns were too few and unreliable.", explanation: "The firearms effectiveness helps date this battle." },
+            { cost: 25, text: "Gendarmes (heavily armored lancers on armored horses) were the elite shock troops of the early 16th century, before firearms made them obsolete.", explanation: "The cavalry type helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Pavia on February 24, 1525, where Spanish and Imperial forces captured King Francis I of France—the only French king ever captured in battle. Francis led his gendarmes in a charge against Spanish arquebusiers positioned behind walls in the Visconti hunting park. The firepower was devastating. Francis's horse was killed; surrounded, he surrendered to a Spanish officer. The battle proved arquebuses could defeat even the finest heavy cavalry. This was the first major battle where firearms clearly determined the outcome against cavalry in open field combat. Gendarmes (early 16th century elite cavalry) facing massed arquebuses (effective from the 1520s-1530s) precisely identifies this transitional moment.",
+        tags: ["pitched-battle", "16th-century", "europe"]
+    },
+    {
+        id: "campaign_108",
+        title: "The Desert Crossing",
+        actualYear: 1591,
+        difficulty: "hard",
+        description: `An army of perhaps 4,000 soldiers crossed a vast desert—a journey of over 1,000 miles taking 135 days—to attack a wealthy empire known for its gold, salt, and learning. The invaders brought 2,500 matchlock-armed infantry and 500 mounted arquebusiers, plus eight cannon. Thousands of camels carried water, supplies, and ammunition.
+
+The empire they attacked had dominated the region for a century. Its army numbered perhaps 40,000, including infantry, cavalry, and war canoes on the great river. But their weapons were traditional: swords, spears, bows, and throwing javelins. They had never faced gunpowder weapons.
+
+The defenders attempted to stampede cattle into the invading formation. The matchlocks killed the cattle; the massed fire then tore into the advancing infantry. The cavalry charges melted away before the arquebus volleys. Within hours, the empire's army was destroyed.
+
+The victors captured the empire's legendary cities and their wealth. But they couldn't hold the territory; the desert crossing was too difficult to repeat with sufficient force. The empire fragmented into successor states.`,
+        hints: [
+            { cost: 20, text: "Matchlock arquebuses as the standard infantry weapon, with mounted arquebusiers as elite cavalry, was characteristic of the late 16th century (1550-1620).", explanation: "The firearm technology helps date this battle." },
+            { cost: 25, text: "African empires encountering gunpowder weapons for the first time occurred primarily in the 16th-17th centuries as European and North African powers expanded.", explanation: "The gunpowder introduction helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Tondibi on March 13, 1591, where a Moroccan army destroyed the Songhai Empire. Sultan Ahmad al-Mansur sent Judar Pasha with 4,000 men across the Sahara Desert—one of history's most remarkable military logistics feats. The Songhai under Askia Ishaq II had never faced gunpowder weapons. Their cattle stampede failed; their massed charges were cut down by arquebus fire. Timbuktu and Gao fell soon after. The Songhai Empire, which had dominated West Africa for a century, fragmented permanently. Matchlock arquebuses as standard infantry weapons with mounted arquebusiers identifies the late 16th century (1550-1620). First gunpowder encounters in sub-Saharan Africa occurred primarily in this period.",
+        tags: ["pitched-battle", "16th-century", "africa"]
+    },
+    {
+        id: "campaign_109",
+        title: "The Burning Capital",
+        actualYear: 1767,
+        difficulty: "hard",
+        description: `A magnificent capital city—temples with golden spires, royal palaces, and monasteries housing centuries of art and literature—was besieged for over a year before it fell. The city had been the greatest power in its region for four centuries.
+
+The besieging army, from a kingdom to the west, had grown to perhaps 40,000. They built stockades around the city and waited for starvation to do its work. The defenders, weakened by famine and internal divisions, numbered barely 10,000.
+
+Both armies used similar weapons: matchlock muskets, swords, spears, and war elephants—animals that could carry small cannon on their backs and terrify enemy troops. But firearms were not yet dominant; elephants and traditional weapons still played major roles.
+
+When the walls were finally breached, the attackers destroyed everything. Temples were burned; golden Buddha images melted; libraries and records were destroyed. The royal family was captured and deported. Tens of thousands died or were enslaved.
+
+The city was abandoned. The survivors founded a new capital downstream, beginning a slow recovery that would take decades.`,
+        hints: [
+            { cost: 20, text: "Matchlock muskets alongside war elephants with back-mounted cannon was characteristic of mainland Southeast Asian warfare from roughly 1600-1800.", explanation: "The weapons combination helps date this battle." },
+            { cost: 25, text: "War elephants as a significant military force persisted in Southeast Asia into the 18th century, longer than anywhere else in the world.", explanation: "The elephant warfare helps narrow the timeframe." }
+        ],
+        explanation: "This was the Fall of Ayutthaya on April 7, 1767, when Burmese forces under Hsinbyushin destroyed the Thai capital. Ayutthaya had been one of the world's great cities for 417 years—larger than contemporary Paris or London. The Burmese burned temples, melted golden statues, and destroyed irreplaceable chronicles and art. The royal family was deported; thousands were killed or enslaved. The city was abandoned and never rebuilt. General Taksin escaped and founded a new capital at Thonburi (later Bangkok). Matchlock muskets alongside war elephants with back-mounted cannon identifies 1600-1800 Southeast Asian warfare. Elephants remaining militarily significant into the 18th century was unique to this region.",
+        tags: ["siege", "18th-century", "asia"]
+    },
+    {
+        id: "campaign_110",
+        title: "The Steel Ships",
+        actualYear: 1905,
+        difficulty: "medium",
+        description: `A fleet that had sailed 18,000 miles—around an entire continent and across two oceans—met an enemy fleet in narrow straits. The approaching fleet had 11 battleships; the waiting fleet had only 4, but they were modern designs with superior speed and gunnery.
+
+The battleships were armored with steel plates up to 12 inches thick. Their main guns—12-inch rifles in rotating turrets—could fire explosive shells weighing nearly a thousand pounds over 10 miles. Rangefinders and fire control systems allowed aimed fire at unprecedented distances.
+
+The waiting admiral had drilled his crews relentlessly. His ships crossed the approaching fleet's path in a maneuver that let all their guns bear while limiting enemy response. The gunnery was devastating—hits at ranges previously thought impossible.
+
+Within hours, the approaching fleet was destroyed. Of 38 ships, 21 were sunk, 7 captured, and 6 interned in neutral ports. Only 3 escaped. The victors lost 3 torpedo boats. It was the most decisive naval battle since the age of sail, fought entirely with modern weapons: wireless telegraphy, rangefinders, and long-range gunnery.`,
+        hints: [
+            { cost: 20, text: "Steel-armored battleships with 12-inch guns in rotating turrets, wireless telegraphy, and optical rangefinders characterize naval warfare from roughly 1890-1920.", explanation: "The naval technology helps date this battle." },
+            { cost: 25, text: "The pre-dreadnought battleship era—before HMS Dreadnought (1906) made all earlier designs obsolete—was approximately 1890-1906.", explanation: "The battleship generation helps narrow the date." }
+        ],
+        explanation: "This was the Battle of Tsushima on May 27-28, 1905, where Admiral Togo Heihachiro's Japanese fleet annihilated the Russian Baltic Fleet under Admiral Rozhestvensky during the Russo-Japanese War. The Russians had sailed 18,000 miles around Africa (the Suez Canal was closed to them) to reach the Pacific. Togo 'crossed the T'—maneuvering so all his guns could fire while only the Russians' forward guns could reply. Japanese gunnery was superior at every range. Russia lost 21 ships sunk, over 4,000 killed, and 6,000 captured—the most decisive naval battle since Trafalgar. Steel battleships with 12-inch turret guns, wireless, and rangefinders characterize 1890-1920 naval warfare. Pre-dreadnought designs (before 1906) identify this as the early 20th century.",
+        tags: ["naval", "20th-century", "asia"]
     }
 ];
