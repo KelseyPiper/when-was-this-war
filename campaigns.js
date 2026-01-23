@@ -77,12 +77,12 @@ The captured king would spend a year as a prisoner before being ransomed for an 
     },
     {
         id: "campaign_005",
-        title: "The Expedition to the Holy Land",
+        title: "The Quarreling Kings",
         actualYear: 1191,
         difficulty: "medium",
-        description: `A coalition of western kings launched an expedition to reclaim lands lost to a great eastern sultan who had united his realm after decades of division. The journey itself claimed one king, who drowned crossing a river. The two remaining kings—one from an island nation, the other from the continent—quickly fell to quarreling.
+        description: `A coalition of western kings launched an expedition to reclaim lands lost to a great eastern sultan who had united his realm after decades of division. The journey itself claimed one king, who drowned crossing a river. The two remaining monarchs quickly fell to quarreling.
 
-The siege of a crucial port city lasted nearly two years before the garrison surrendered. The island king massacred prisoners when ransom negotiations stalled—a decision that would haunt his reputation.
+The siege of a crucial port city lasted nearly two years before the garrison surrendered. One king massacred prisoners when ransom negotiations stalled—a decision that would haunt his reputation.
 
 The army then marched south along the coast, supplied by ships sailing parallel to their route. Infantry carrying large shields and crossbows protected the mounted knights, who wore chain mail hauberks. The sultan harried them constantly, avoiding pitched battle until forced to fight near a coastal town. The westerners' disciplined march, with infantry protecting the cavalry until the moment to charge, proved decisive. But the army was too weak to assault the ultimate prize, the great holy city itself.
 
@@ -198,7 +198,7 @@ This brief campaign demonstrated the power of mobile artillery and inaugurated d
         difficulty: "medium",
         description: `Two grand alliances fought for control of a dying empire's succession. When the throne passed to a prince of one great kingdom, rivals formed a coalition to prevent the merger of two vast realms under one dynasty.
 
-A brilliant commander from an island nation, working alongside a prince from a continental ally, planned a bold stroke. Rather than fighting defensively in familiar territory, they would march across the continent to strike at the heartland of their enemies.
+Two brilliant allied commanders planned a bold stroke. Rather than fighting defensively in familiar territory, they would march across the continent to strike at the heartland of their enemies.
 
 The march was a masterpiece of logistics. The commander arranged supply magazines in advance, so his troops arrived fresh and well-fed. He deceived the enemy about his intentions until it was too late to react. The combined army of 52,000 met an equal force near a village along a great river.
 
@@ -572,7 +572,7 @@ The new nation, when it emerged, was far smaller than the territory its people i
         title: "The Castle Builders",
         actualYear: 1282,
         difficulty: "hard",
-        description: `A mountainous principality had maintained its independence for centuries, raiding the lowlands and retreating into its fastnesses when retribution came. But a powerful king, fresh from crusade and determined to impose order, launched a methodical campaign of conquest.
+        description: `A mountainous principality had maintained its independence for centuries, raiding the lowlands and retreating into its fastnesses when retribution came. But a powerful king, fresh from a foreign expedition and determined to impose order, launched a methodical campaign of conquest.
 
 The first invasion ended in disaster when the prince ambushed the invading army in a narrow pass, killing the king's commander. But the king returned with overwhelming force—perhaps 15,000 men, an enormous army for the era—and a systematic plan.
 
@@ -973,13 +973,13 @@ The garrison surrendered, but the assault troops were beyond control. Three days
         title: "Night at the River Camp",
         actualYear: 1371,
         difficulty: "medium",
-        description: `Two allied kings led a crusading army to push back invaders who had been steadily conquering territory for decades. Their combined force was substantial—contemporary sources claim seventy thousand, though this is certainly exaggerated. Perhaps twenty thousand is more realistic.
+        description: `Two allied kings led an army to push back invaders who had been steadily conquering territory for decades. Their combined force was substantial—contemporary sources claim seventy thousand, though this is certainly exaggerated. Perhaps twenty thousand is more realistic.
 
-The army reached a river and made camp. The evening was spent celebrating; wine flowed freely. Guards were posted carelessly if at all. The kings and their nobles were confident—they outnumbered the enemy, they were on crusade with divine favor, and the invasion force was miles away.
+The army reached a river and made camp. The evening was spent celebrating; wine flowed freely. Guards were posted carelessly if at all. The kings and their nobles were confident—they outnumbered the enemy, they had divine favor, and the invasion force was miles away.
 
-But the invaders' scouts had tracked the crusader army. The invading power had developed elite slave-soldier infantry—troops taken as children and trained from youth in both military skills and religious devotion. A strike force of perhaps five thousand moved through the night. They reached the river camp in the pre-dawn darkness.
+But the invaders' scouts had tracked the army. The invading power had developed elite slave-soldier infantry—troops taken as children and trained from youth in both military skills and religious devotion. A strike force of perhaps five thousand moved through the night. They reached the river camp in the pre-dawn darkness.
 
-The attack was devastating. Most of the crusader army was drunk or asleep. Men were killed in their tents or drowned trying to flee across the river. Both kings died—one in the fighting, one drowned in the crossing. The army simply ceased to exist as an organized force.
+The attack was devastating. Most of the defenders were drunk or asleep. Men were killed in their tents or drowned trying to flee across the river. Both kings died—one in the fighting, one drowned in the crossing. The army simply ceased to exist as an organized force.
 
 The disaster had strategic consequences for generations. Territories that might have resisted the invasion now fell without hope of outside rescue.`,
         hints: [
@@ -1432,18 +1432,18 @@ The stronghold fell shortly after. The war was effectively over. More importantl
     },
     {
         id: "campaign_074",
-        title: "The Crusaders' Folly",
+        title: "The Ambush Behind the Hill",
         actualYear: 1396,
         difficulty: "medium",
-        description: `A coalition of knights from across western Christendom assembled for a crusade against invaders threatening the southeastern frontier. The army was impressive—thousands of heavily armored men-at-arms wearing the most advanced plate armor of the era, full steel harnesses that were only just becoming common, replacing the earlier combination of mail and plate.
+        description: `A coalition of knights from across the western realms assembled for an expedition against invaders threatening the southeastern frontier. The army was impressive—thousands of heavily armored men-at-arms wearing the most advanced plate armor of the era, full steel harnesses that were only just becoming common, replacing the earlier combination of mail and plate.
 
-But the army lacked discipline. The knights quarreled over precedence and glory. When they encountered the enemy, the French contingent demanded the honor of the first charge and got it.
+But the army lacked discipline. The knights quarreled over precedence and glory. When they encountered the enemy, one contingent demanded the honor of the first charge and got it.
 
-The enemy commander had prepared. He positioned light cavalry and infantry on the forward slopes, then hid his heavy cavalry—sipahi armored lancers and the elite slave-soldier infantry, troops taken as children and trained for war—behind the ridge.
+The enemy commander had prepared. He positioned light cavalry and infantry on the forward slopes, then hid his heavy cavalry—armored lancers and the elite slave-soldier infantry, troops taken as children and trained for war—behind the ridge.
 
-The crusader knights charged through the light forces easily, their plate armor turning arrows and their destriers crushing infantry. Elated, they pursued up the hill—and rode into the hidden army. Exhausted horses, blown from the uphill charge, faced fresh heavy cavalry.
+The western knights charged through the light forces easily, their plate armor turning arrows and their destriers crushing infantry. Elated, they pursued up the hill—and rode into the hidden army. Exhausted horses, blown from the uphill charge, faced fresh heavy cavalry.
 
-The crusaders were annihilated. Thousands were killed or captured. The ransoms bankrupted noble families across Europe. The crusade ended in disaster, and the invasion it meant to stop continued unchecked.`,
+The westerners were annihilated. Thousands were killed or captured. The ransoms bankrupted noble families. The expedition ended in disaster, and the invasion it meant to stop continued unchecked.`,
         hints: [
             { cost: 20, text: "Full plate armor harnesses 'just becoming common' indicates the late 14th century (1380s-1400s). Earlier knights wore mail with partial plate; later plate armor was universal for wealthy fighters.", explanation: "The armor technology helps date this battle." },
             { cost: 25, text: "The slave-soldier infantry (devshirme/Janissary system) in their early period—before widespread firearms adoption—indicates the late 14th century, when this military institution was first becoming significant.", explanation: "The military system helps narrow the timeframe." }
@@ -1865,7 +1865,7 @@ The empire never again seriously attempted to conquer the lands beyond the river
     },
     {
         id: "campaign_097",
-        title: "The Gothic Cavalry",
+        title: "The Refugees' Revenge",
         actualYear: 378,
         difficulty: "hard",
         description: `A migrating people, pushed westward by pressure from the steppes, had been allowed to settle within the empire's borders as refugees. Mistreatment by corrupt officials drove them to revolt. The emperor gathered an army to crush them.
@@ -1888,7 +1888,7 @@ The battle demonstrated the new dominance of heavy cavalry over infantry that ha
     },
     {
         id: "campaign_098",
-        title: "The Last Roman Victory",
+        title: "The Coalition Against the Horde",
         actualYear: 451,
         difficulty: "hard",
         description: `A confederation of steppe warriors had swept across the northern plains, extracting tribute from the empire and raiding at will. Now their king led them in a full invasion, aiming to conquer the western provinces entirely.
@@ -1914,7 +1914,7 @@ By nightfall, neither side had won decisively, but the invaders withdrew. Their 
         difficulty: "medium",
         description: `The last major army defending colonial rule in an entire continent faced a combined force of revolutionary armies. Victory here would effectively end three centuries of colonial domination.
 
-Both sides used similar equipment: smoothbore flintlock muskets, infantry in linear formations, cavalry with sabers. The colonial army had about 9,000 men, many of them American-born loyalists rather than troops from the mother country. The revolutionary force numbered about 6,000, drawn from multiple newly declared republics.
+Both sides used similar equipment: smoothbore flintlock muskets, infantry in linear formations, cavalry with sabers. The colonial army had about 9,000 men, many of them colonial-born loyalists rather than troops from the mother country. The revolutionary force numbered about 6,000, drawn from multiple newly declared republics.
 
 The battle was fought in mountain terrain at high altitude—over 10,000 feet—where even moving was exhausting. The colonial commander held strong positions on a slope. The revolutionary force attacked uphill.
 
@@ -2017,9 +2017,9 @@ The raiders took position on a ridge, dismounting their knights and men-at-arms 
 
 The pursuing army attacked uphill across rain-soaked ground. Their crossbowmen opened the battle but were outranged and outshot by the longbows. Then the heavy cavalry charged—knights in full mail with plate reinforcements, mounted on armored destriers, the most expensive military technology of the age.
 
-The mud slowed the horses. The arrows came in storms—perhaps 30,000 per minute at the peak. Horses fell screaming; knights crashed to the ground and couldn't rise in their heavy armor. Those who reached the English line were killed by dismounted men-at-arms. The pursuing king was wounded; his army lost over 10,000 dead, including hundreds of nobles.`,
+The mud slowed the horses. The arrows came in storms—perhaps 30,000 per minute at the peak. Horses fell screaming; knights crashed to the ground and couldn't rise in their heavy armor. Those who reached the defenders' line were killed by dismounted men-at-arms. The pursuing king was wounded; his army lost over 10,000 dead, including hundreds of nobles.`,
         hints: [
-            { cost: 20, text: "Longbows requiring years of training and capable of penetrating mail at range were the dominant English weapon from roughly 1300-1450, before firearms replaced them.", explanation: "The longbow technology helps date this battle." },
+            { cost: 20, text: "Longbows requiring years of training and capable of penetrating mail at range dominated western warfare from roughly 1300-1450, before firearms replaced them.", explanation: "The longbow technology helps date this battle." },
             { cost: 25, text: "Heavy cavalry in mail with plate reinforcements (but not full plate harnesses) was characteristic of the early-to-mid 14th century, during the transition from mail to plate.", explanation: "The armor technology helps narrow the date." }
         ],
         explanation: "This was the Battle of Crécy on August 26, 1346, the first major English victory of the Hundred Years' War. Edward III's 12,000 troops defeated Philip VI of France's 30,000+. The English longbowmen—commoners who trained from childhood—slaughtered the flower of French chivalry. Perhaps 1,500 French knights and nobles died, including King John of Bohemia (blind, he charged anyway). The battle proved that disciplined infantry with missile weapons could defeat heavy cavalry. Longbows dominated English armies 1300-1450. Mail with plate reinforcements (not full plate, which came later) identifies the early-to-mid 14th century transition period.",
@@ -2034,12 +2034,12 @@ The mud slowed the horses. The arrows came in storms—perhaps 30,000 per minute
 
 The king took position between two dense woods that protected his flanks. His dismounted men-at-arms, in full plate armor, held the center. On the wings, thousands of archers with longbows hammered sharpened stakes into the ground before them, pointing outward to stop cavalry charges.
 
-The larger army attacked across a freshly plowed field turned to deep mud by autumn rain. Their armored knights trudged forward, sinking to their knees. The longbow arrows couldn't easily penetrate the finest plate armor, but they killed horses and struck gaps at joints and visors. When the exhausted, mud-caked knights finally reached the English line, they were cut down by men-at-arms with swords, axes, and mauls.
+The larger army attacked across a freshly plowed field turned to deep mud by autumn rain. Their armored knights trudged forward, sinking to their knees. The longbow arrows couldn't easily penetrate the finest plate armor, but they killed horses and struck gaps at joints and visors. When the exhausted, mud-caked knights finally reached the defenders' line, they were cut down by men-at-arms with swords, axes, and mauls.
 
 The king captured so many noble prisoners that when a (false) alarm suggested a counterattack, he ordered prisoners executed rather than risk them being freed. Over 6,000 of the larger army died; the invaders lost perhaps 500.`,
         hints: [
             { cost: 20, text: "Full plate armor reaching its peak effectiveness was characteristic of the early 15th century (roughly 1400-1450), before firearms began making heavy armor impractical.", explanation: "The armor technology helps date this battle." },
-            { cost: 25, text: "Longbows used en masse with sharpened stakes for defense was a specifically English tactic of the Hundred Years' War (1337-1453).", explanation: "The tactical combination helps narrow the date." }
+            { cost: 25, text: "Longbows used en masse with sharpened stakes for defense was a specific western tactic of the 14th-15th centuries (roughly 1337-1453).", explanation: "The tactical combination helps narrow the date." }
         ],
         explanation: "This was the Battle of Agincourt on October 25, 1415, Henry V of England's most famous victory. His 6,000 starving, dysentery-ridden troops destroyed a French army three times their size. The French dead included three dukes, ninety counts, and over 1,500 knights. The mud was so deep that armored knights who fell couldn't rise. The controversial prisoner massacre reflected the brutal realities of medieval warfare. Full plate armor reaching peak effectiveness identifies the early 15th century (1400-1450). Longbows with stakes as an English Hundred Years' War tactic (1337-1453) confirms the period.",
         tags: ["pitched-battle", "15th-century", "europe"]
@@ -2105,7 +2105,7 @@ Within hours, the approaching fleet was destroyed. Of 38 ships, 21 were sunk, 7 
     },
     {
         id: "campaign_111",
-        title: "The Gothic King's Fall",
+        title: "The Eunuch General",
         actualYear: 552,
         difficulty: "hard",
         description: `An aging empire, its glory faded, launched one final campaign to reclaim its lost western provinces. The emperor sent an elderly eunuch—an unlikely general—with a small but elite force to finish a war that had dragged on for nearly two decades.
@@ -2253,10 +2253,10 @@ The northern army of 7,000 found itself surrounded by a force that grew larger b
 
 Two pitched battles were fought. In the first, the advancing army won tactically but lost irreplaceable officers and men. In the second, rebel marksmen specifically targeted officers; a key general was killed leading a desperate counterattack. The army retreated to a fortified camp and waited for relief that never came.
 
-Surrounded, supplies exhausted, and with no hope of rescue, the army surrendered. It was the first time an entire British army had laid down its arms—a shock that convinced a major European power to enter the war openly on the rebels' side.`,
+Surrounded, supplies exhausted, and with no hope of rescue, the army surrendered. It was the first time an entire colonial army had laid down its arms—a shock that convinced a major power to enter the war openly on the rebels' side.`,
         hints: [
             { cost: 20, text: "Riflemen used as skirmishers alongside linear musket infantry was a developing tactic of the late 18th century, before rifles became standard issue.", explanation: "The infantry tactics help date this battle." },
-            { cost: 25, text: "Colonial rebellion against a major European power, with intervention by rival European powers, characterized the American Revolutionary period (1775-1783).", explanation: "The strategic context helps narrow the date." }
+            { cost: 25, text: "Colonial rebellion against a major power, with intervention by rival powers, characterized late 18th century warfare (1775-1783).", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Saratoga Campaign of September-October 1777, where General John Burgoyne surrendered 6,000 British soldiers to General Horatio Gates and Benedict Arnold (who was wounded at the decisive second battle). The victory convinced France to openly ally with the Americans, transforming a colonial rebellion into a world war. Burgoyne's surrender shocked Britain—Parliament later offered major concessions, too late to prevent independence. Riflemen as skirmishers alongside linear musket formations was a developing late 18th-century tactic. The American Revolution (1775-1783) was the defining colonial rebellion of the era.",
         tags: ["campaign", "18th-century", "americas"]
@@ -2270,7 +2270,7 @@ Surrounded, supplies exhausted, and with no hope of rescue, the army surrendered
 
 He deliberately weakened his right flank, inviting attack. The allies took the bait, sending tens of thousands against what seemed a vulnerable position. As they advanced, they weakened their center.
 
-The conqueror had hidden his main striking force behind a hill. At the crucial moment, they swept up and through the weakened center, splitting the allied army in two. The fog lifted to reveal French columns pouring across the heights. The allied right was cut off; their left was routed.
+The conqueror had hidden his main striking force behind a hill. At the crucial moment, they swept up and through the weakened center, splitting the allied army in two. The fog lifted to reveal attacking columns pouring across the heights. The allied right was cut off; their left was routed.
 
 By evening, the allies had lost 27,000 men killed, wounded, or captured—including dozens of standards and hundreds of cannon. The conqueror lost 9,000. One allied emperor fled the field in tears. A peace treaty dissolved a centuries-old empire. Military academies would study this battle for generations as the perfect example of the decisive maneuver.`,
         hints: [
@@ -2325,11 +2325,11 @@ With no supplies, no peace treaty, and winter approaching, the invaders began th
         difficulty: "hard",
         description: `Two great Islamic powers clashed over territory and religion—the western empire was Sunni, the eastern was Shia, and each considered the other heretical. The western sultan marched an army of perhaps 100,000 into the eastern highlands, despite warnings that supply lines would fail.
 
-The western army had a decisive advantage: field artillery and infantry armed with matchlock arquebuses. Their janissary infantry, trained from childhood, were among the world's finest. Their cannons were chained together in a line, with wagons forming a barricade.
+The western army had a decisive advantage: field artillery and infantry armed with matchlock arquebuses. Their slave-soldier infantry, trained from childhood, were among the world's finest. Their cannons were chained together in a line, with wagons forming a barricade.
 
-The eastern shah had superb cavalry—horse archers and lancers who had conquered a vast territory in a decade—but no firearms. His Qizilbash warriors, fanatically loyal and wearing distinctive red headgear, believed their faith made them invincible.
+The eastern shah had superb cavalry—horse archers and lancers who had conquered a vast territory in a decade—but no firearms. His warriors, fanatically loyal and wearing distinctive red headgear, believed their faith made them invincible.
 
-The Qizilbash charged. The arquebuses and artillery shattered them. Wave after wave of cavalry broke against the guns. The shah himself was wounded and nearly captured. By evening, the eastern army was destroyed; the western forces occupied the enemy capital within weeks.
+The eastern cavalry charged. The arquebuses and artillery shattered them. Wave after wave of cavalry broke against the guns. The shah himself was wounded and nearly captured. By evening, the eastern army was destroyed; the western forces occupied the enemy capital within weeks.
 
 Yet the victory proved hollow: the sultan couldn't hold the mountainous territory, and the religious war would continue for two more centuries.`,
         hints: [
@@ -2495,16 +2495,16 @@ After two weeks, the attackers withdrew. They had lost 200,000 men and hundreds 
     },
     {
         id: "campaign_131",
-        title: "The Boy King's Crusade",
+        title: "The Broken Truce",
         actualYear: 1444,
         difficulty: "hard",
-        description: `A young king—barely twenty years old—led the last great crusade against the expanding eastern empire. The crusaders had assembled perhaps 20,000 men: Hungarian heavy cavalry, Polish knights, Wallachian light horse, and Papal contingents. They advanced deep into enemy territory, winning battles and burning cities.
+        description: `A young king—barely twenty years old—led an expedition against the expanding eastern empire. The attackers had assembled perhaps 20,000 men: heavy cavalry, light horse, and infantry from allied kingdoms. They advanced deep into enemy territory, winning battles and burning cities.
 
-The sultan sued for peace, offering generous terms. The king's advisors urged him to accept; the papal legate urged him to fight on. The king chose war—and broke the truce he had sworn.
+The sultan sued for peace, offering generous terms. The king's advisors urged him to accept; a religious representative urged him to fight on. The king chose war—and broke the truce he had sworn.
 
-The sultan force-marched his army from distant campaigns, covering impossible distances. The crusaders found themselves facing 60,000 men where they expected a beaten enemy. The young king, ignoring advice to retreat, ordered a cavalry charge directly at the sultan's position.
+The sultan force-marched his army from distant campaigns, covering impossible distances. The attackers found themselves facing 60,000 men where they expected a beaten enemy. The young king, ignoring advice to retreat, ordered a cavalry charge directly at the sultan's position.
 
-He almost succeeded. The king's cavalry broke through the Janissary infantry and reached the sultan's bodyguard. Then the king fell—killed or captured and beheaded. His head was displayed on a pike. The crusader army was annihilated. No major crusade would ever march east again.`,
+He almost succeeded. The king's cavalry broke through the elite slave-soldier infantry and reached the sultan's bodyguard. Then the king fell—killed or captured and beheaded. His head was displayed on a pike. The attacking army was annihilated.`,
         hints: [
             { cost: 20, text: "Janissary infantry with early firearms facing European heavy cavalry was characteristic of 15th-century Ottoman warfare.", explanation: "The military matchup helps date this battle." },
             { cost: 25, text: "Major crusading expeditions against the Ottomans occurred in the 1390s-1440s, before Constantinople fell and such efforts became hopeless.", explanation: "The strategic context helps narrow the date." }
@@ -2555,7 +2555,7 @@ The disaster forced the empire to accept peace, ending a war that had begun with
         title: "The Mamluk Sunset",
         actualYear: 1517,
         difficulty: "hard",
-        description: `The greatest slave-soldier dynasty in history—which had ruled for nearly three centuries and defeated the Mongols—faced a new enemy with a decisive technological advantage. The invaders had already conquered the dynasty's Syrian provinces; now they marched on the capital itself.
+        description: `The greatest slave-soldier dynasty in history—which had ruled for nearly three centuries and defeated a great steppe invasion—faced a new enemy with a decisive technological advantage. The invaders had already conquered the dynasty's northern provinces; now they marched on the capital itself.
 
 The dynasty's warriors were superb cavalry, trained from childhood in horsemanship and archery. But they despised firearms as beneath their dignity. The invaders, by contrast, had massed artillery and thousands of infantry armed with matchlock arquebuses.
 
@@ -2576,9 +2576,9 @@ The ancient dynasty ended that day. The invaders would rule the conquered lands 
         difficulty: "hard",
         description: `The wealthiest Hindu empire in the subcontinent—famous for its temples, its diamond mines, and its military might—faced a coalition of five sultanates united by faith and fear. The empire's army of perhaps 140,000 included the finest heavy cavalry in India and hundreds of war elephants.
 
-The sultanates assembled 80,000 men but possessed a crucial advantage: field artillery served by Ottoman-trained gunners. The imperial general, a brilliant commander who had won many victories, chose to stand and fight near the capital rather than use his cavalry's mobility.
+The sultanates assembled 80,000 men but possessed a crucial advantage: field artillery served by foreign-trained gunners. The imperial general, a brilliant commander who had won many victories, chose to stand and fight near the capital rather than use his cavalry's mobility.
 
-The battle was close. The imperial heavy cavalry nearly broke through; the sultanates' artillery was running low on powder. Then two Muslim generals in imperial service—commanding 70,000 troops—switched sides in the midst of battle. The betrayal was total.
+The battle was close. The imperial heavy cavalry nearly broke through; the sultanates' artillery was running low on powder. Then two generals of the rival faith in imperial service—commanding 70,000 troops—switched sides in the midst of battle. The betrayal was total.
 
 The imperial army was annihilated. The capital—one of the world's largest and wealthiest cities—was looted for six months. The temples were demolished, the treasuries emptied. An empire that had flourished for two centuries was utterly destroyed.`,
         hints: [
@@ -2612,14 +2612,14 @@ The king was wounded but escaped—carried from the field by his loyal horse, wh
         title: "The Cossack Stand",
         actualYear: 1621,
         difficulty: "hard",
-        description: `A young sultan, eager for glory, led the largest Ottoman army in a generation—perhaps 150,000 men—north to crush a kingdom that had dared to interfere in his vassal states. The defending army was smaller—perhaps 65,000—but included the finest heavy cavalry in Europe and thousands of fierce steppe warriors.
+        description: `A young sultan, eager for glory, led the largest army his empire had fielded in a generation—perhaps 150,000 men—north to crush a kingdom that had dared to interfere in his vassal states. The defending army was smaller—perhaps 65,000—but included formidable heavy cavalry and thousands of fierce steppe warriors.
 
-The kingdom had built a fortified camp near a fortress town. For over a month, the Ottomans assaulted the earthworks. The Janissaries, the sultan's elite infantry, attacked again and again; each time they were repulsed with heavy losses. The steppe warriors—wild horsemen with unpronounceable names—launched constant raids that disrupted Ottoman supply lines.
+The kingdom had built a fortified camp near a fortress town. For over a month, the invaders assaulted the earthworks. The sultan's elite infantry attacked again and again; each time they were repulsed with heavy losses. The steppe warriors—wild horsemen from the borderlands—launched constant raids that disrupted the invaders' supply lines.
 
-The young sultan, humiliated by his inability to break through, finally accepted peace. The kingdom kept its independence; the steppe warriors gained legendary status. But the real significance was strategic: this was the last time the Ottomans seriously threatened central Europe from the east.`,
+The young sultan, humiliated by his inability to break through, finally accepted peace. The kingdom kept its independence; the steppe warriors gained legendary status.`,
         hints: [
-            { cost: 20, text: "Cossack light cavalry combined with Polish winged hussars represented the distinctive military system of the 17th-century Polish-Lithuanian Commonwealth.", explanation: "The military forces help date this battle." },
-            { cost: 25, text: "Ottoman campaigns against Poland-Lithuania occurred primarily in the 1620s and 1670s.", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "Steppe light cavalry combined with heavy lancers represented the distinctive military system of 17th-century eastern kingdoms.", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "Major campaigns between eastern empires and northern kingdoms occurred primarily in the 1620s and 1670s.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Khotin (Chocim) from September 2-October 9, 1621, where Polish-Lithuanian and Cossack forces under Grand Hetman Jan Karol Chodkiewicz stopped Sultan Osman II's invasion. The 35-day siege of the Polish camp cost the Ottomans 40,000 casualties. Chodkiewicz died during the battle but his army held. Osman II's humiliating peace contributed to his overthrow and murder the following year. Polish hussars with Cossack light cavalry was the distinctive 17th-century Commonwealth military system. Ottoman-Polish conflicts peaked in the 1620s and 1670s.",
         tags: ["siege", "17th-century", "eastern-europe"]
@@ -2652,7 +2652,7 @@ The empire abandoned its claims. The kingdom would remain independent for the ne
 
 The fortress should have fallen in days. Instead, the old count who commanded it turned it into a death trap. Every assault was repulsed with heavy losses; sorties caught sappers in their trenches; the marshes bred disease. The siege dragged on for a month.
 
-The sultan died in his tent of old age before the fortress fell—but his death was kept secret. The grand vizier forged orders, strangled the sultan's physician to ensure silence, and continued the siege. When the walls finally collapsed, the count led a final sortie, dying sword in hand. The remaining defenders detonated the powder magazine, killing thousands of Janissaries.
+The sultan died in his tent of old age before the fortress fell—but his death was kept secret. The grand vizier forged orders, strangled the sultan's physician to ensure silence, and continued the siege. When the walls finally collapsed, the count led a final sortie, dying sword in hand. The remaining defenders detonated the powder magazine, killing thousands of elite infantry.
 
 The empire captured a ruin filled with corpses. The sultan's body was carried home in secret; his death wasn't announced until his son was safely on the throne.`,
         hints: [
@@ -2740,35 +2740,35 @@ The commander thought he was using the barbarians; instead, they used him. Withi
     },
     {
         id: "campaign_144",
-        title: "The Long Turkish War's Chaos",
+        title: "The Victory Lost to Plunder",
         actualYear: 1596,
         difficulty: "hard",
-        description: `Two vast empires had fought for a decade over a fortress frontier. A new sultan, eager for glory, personally led 100,000 men to besiege a key fortress. A Christian relief army of 50,000 approached—a rare coalition of imperial troops, German princes, and Transylvanian cavalry.
+        description: `Two vast empires had fought for a decade over a fortress frontier. A new sultan, eager for glory, personally led 100,000 men to besiege a key fortress. A relief army of 50,000 approached—a rare coalition assembled to break the siege.
 
-The battle lasted three days. On the first, the Christians attacked the Ottoman camp but were repulsed. On the second, both sides maneuvered. On the third, the Christians broke through the Ottoman lines and overran the camp. The sultan fled; the battle seemed won.
+The battle lasted three days. On the first, the coalition attacked the sultan's camp but were repulsed. On the second, both sides maneuvered. On the third, the coalition broke through and overran the camp. The sultan fled; the battle seemed won.
 
-Then the Christians stopped to loot. Scattered across the camp, drunk on captured wine and weighed down with plunder, they were helpless when the Ottoman sipahi cavalry rallied and counterattacked. The victory became a catastrophe—perhaps 30,000 Christians killed in the sudden reversal.
+Then the victors stopped to loot. Scattered across the camp, drunk on captured wine and weighed down with plunder, they were helpless when the sultan's cavalry rallied and counterattacked. The victory became a catastrophe—perhaps 30,000 killed in the sudden reversal.
 
-Both sides claimed victory. The war dragged on for another decade, ending in exhausted stalemate. But the sultan's survival meant the Ottoman frontier held for another century.`,
+Both sides claimed victory. The war dragged on for another decade, ending in exhausted stalemate.`,
         hints: [
-            { cost: 20, text: "Large Ottoman armies with Janissary arquebusiers facing Habsburg coalition forces characterized the Long Turkish War (1593-1606).", explanation: "The military context helps date this battle." },
-            { cost: 25, text: "Three-day battles with dramatic reversals were characteristic of the chaotic warfare of the 1590s-1600s Balkan frontier.", explanation: "The battle pattern helps narrow the date." }
+            { cost: 20, text: "Large armies with arquebus-armed infantry facing coalition forces characterized late 16th-century frontier warfare.", explanation: "The military context helps date this battle." },
+            { cost: 25, text: "Three-day battles with dramatic reversals were characteristic of the chaotic warfare of the 1590s-1600s.", explanation: "The battle pattern helps narrow the date." }
         ],
         explanation: "This was the Battle of Mezőkeresztes on October 24-26, 1596, during the Long Turkish War. Sultan Mehmed III's Ottomans initially routed when Archduke Maximilian's coalition forces overran their camp. But the Christian soldiers stopped to loot; Ottoman sipahi cavalry counterattacked and annihilated the disorganized victors. Both sides lost roughly 20,000-30,000 men. The war continued until the Peace of Zsitvatorok (1606). Janissary-era Ottoman armies versus Habsburg coalitions characterized the Long Turkish War (1593-1606).",
         tags: ["pitched-battle", "16th-century", "europe"]
     },
     {
         id: "campaign_145",
-        title: "The Portuguese Disaster",
+        title: "The Battle of Three Kings",
         actualYear: 1578,
         difficulty: "hard",
-        description: `A young king, obsessed with crusading glory, led his nation's entire nobility into Africa to restore a deposed sultan. He landed 18,000 men—the flower of Portuguese chivalry—and marched inland against all advice.
+        description: `A young king, obsessed with glory, led his nation's entire nobility into Africa to restore a deposed sultan. He landed 18,000 men—the flower of his realm's chivalry—and marched inland against all advice.
 
-The Moroccan army that met him numbered 50,000, including thousands of arquebusiers and cavalry. The Portuguese formed a square, but their formation was too large and unwieldy. The African cavalry circled them, harrying, exhausting, picking off stragglers.
+The army that met him numbered 50,000, including thousands of arquebusiers and cavalry. The invaders formed a square, but their formation was too large and unwieldy. The African cavalry circled them, harrying, exhausting, picking off stragglers.
 
-When the Portuguese finally broke, the slaughter was total. The young king was killed—his body never found. Two Moroccan sultans also died in the fighting (one from illness, one in combat), giving the battle its strange name in local memory: the Battle of Three Kings.
+When the invaders finally broke, the slaughter was total. The young king was killed—his body never found. Two sultans also died in the fighting (one from illness, one in combat), giving the battle its strange name: the Battle of Three Kings.
 
-Portugal lost its king, its heir, and most of its nobility in a single afternoon. Within two years, the Spanish king claimed the vacant throne. Portugal would not be independent again for sixty years.`,
+The kingdom lost its king, its heir, and most of its nobility in a single afternoon. Within two years, a neighboring monarch claimed the vacant throne. The kingdom would not be independent again for sixty years.`,
         hints: [
             { cost: 20, text: "Moroccan arquebusiers and cavalry defeating European heavy cavalry was characteristic of the late 16th-century North African frontier.", explanation: "The military matchup helps date this battle." },
             { cost: 25, text: "Portuguese crusading expeditions to Morocco occurred from the 1410s to 1578, ending in decisive defeat.", explanation: "The strategic context helps narrow the date." }
@@ -2778,38 +2778,38 @@ Portugal lost its king, its heir, and most of its nobility in a single afternoon
     },
     {
         id: "campaign_146",
-        title: "The Heretic Crusade",
+        title: "The King Unhorsed",
         actualYear: 1213,
         difficulty: "hard",
-        description: `A crusade was proclaimed—not against Muslims, but against Christians deemed heretics. The target was a wealthy southern region whose people followed a dualist faith that rejected the material world. Northern knights flooded in, eager for land and salvation.
+        description: `A religious war was proclaimed—not against infidels, but against Christians deemed heretics. The target was a wealthy southern region whose people followed a dualist faith that rejected the material world. Northern knights flooded in, eager for land and salvation.
 
-The local count, nominally Catholic, allied with a powerful neighboring king to resist. Together they besieged a town held by the crusaders. The king brought 2,000 Aragonese cavalry—the finest heavy horse in Christendom.
+The local count, nominally orthodox, allied with a powerful neighboring king to resist. Together they besieged a town held by the invading knights. The king brought 2,000 cavalry—some of the finest heavy horse of the era.
 
-The crusader leader had only 900 cavalry and 700 infantry. But he was a tactical genius. When the king's cavalry charged in disorder, the crusader knights struck in a disciplined wedge. The king himself was pulled from his horse and killed—stabbed through the gaps in his armor.
+The invading leader had only 900 cavalry and 700 infantry. But he was a tactical genius. When the king's cavalry charged in disorder, the defending knights struck in a disciplined wedge. The king himself was pulled from his horse and killed—stabbed through the gaps in his armor.
 
-The count fled; the kingdom abandoned the heretics. Within a generation, the wealthy southern culture was destroyed, its language suppressed, its faith exterminated. The crusade had succeeded through one perfect cavalry charge.`,
+The count fled; the kingdom abandoned the heretics. Within a generation, the wealthy southern culture was destroyed, its language suppressed, its faith exterminated. The war had succeeded through one perfect cavalry charge.`,
         hints: [
-            { cost: 20, text: "Heavy cavalry with mail armor and couched lances, fighting in close formation, dominated European warfare from roughly 1100-1300.", explanation: "The cavalry type helps date this battle." },
-            { cost: 25, text: "The Albigensian Crusade against the Cathars in southern France lasted from 1209-1229.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Heavy cavalry with mail armor and couched lances, fighting in close formation, dominated western warfare from roughly 1100-1300.", explanation: "The cavalry type helps date this battle." },
+            { cost: 25, text: "Religious wars against 'heretical' Christians within western realms occurred primarily in the early 13th century (1209-1229).", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Muret on September 12, 1213, where Simon de Montfort (father of the English rebel) destroyed a combined Aragonese-Occitan army. King Peter II of Aragon—hero of Las Navas de Tolosa just a year before—was killed when his cavalry charged in disorder. Raymond VI of Toulouse fled. The Cathar heresy and Occitan culture were doomed; northern French language and customs replaced them. Heavy cavalry with couched lances in mail armor characterized 1100-1300 warfare. The Albigensian Crusade (1209-1229) precisely dates this battle.",
         tags: ["pitched-battle", "13th-century", "europe"]
     },
     {
         id: "campaign_147",
-        title: "The Crusader King Captured",
+        title: "The King's Ransom",
         actualYear: 1250,
         difficulty: "hard",
-        description: `The saintly king of a great western kingdom launched a crusade to conquer the wealthy delta land that was the heart of Muslim power. His army captured the port city after a long siege, then marched inland toward the great capital.
+        description: `A pious king of a great western kingdom launched an expedition to conquer the wealthy delta land that was the heart of eastern power. His army captured the port city after a long siege, then marched inland toward the great capital.
 
-The Muslim defenders were in disarray—their sultan dying, their emirs feuding. But the crusaders advanced too fast, leaving their fleet behind. When they attacked a fortified town at the junction of two rivers, the Muslims counterattacked.
+The defenders were in disarray—their sultan dying, their emirs feuding. But the invaders advanced too fast, leaving their fleet behind. When they attacked a fortified town at the junction of two rivers, the defenders counterattacked.
 
-The king's brother led a cavalry charge into the town that succeeded too well—the knights scattered to loot and were trapped in narrow streets. Muslim cavalry destroyed them. The king's army, weakened and diseased, attempted to retreat but found the river route blocked.
+The king's brother led a cavalry charge into the town that succeeded too well—the knights scattered to loot and were trapped in narrow streets. Defending cavalry destroyed them. The king's army, weakened and diseased, attempted to retreat but found the river route blocked.
 
-The king himself was captured—a humiliation unprecedented in centuries. His ransom bankrupted his kingdom. He would crusade again decades later and die of disease before the walls of another African city. The great crusading age was ending.`,
+The king himself was captured—a humiliation unprecedented in centuries. His ransom bankrupted his kingdom. He would mount another expedition decades later and die of disease before the walls of another city. The great age of western expeditions eastward was ending.`,
         hints: [
-            { cost: 20, text: "Crusader heavy cavalry with surcoats over mail facing Egyptian Mamluk-style cavalry characterized mid-13th century warfare in the Levant.", explanation: "The military matchup helps date this battle." },
-            { cost: 25, text: "Major French crusades to Egypt occurred in 1249-1250 and again in 1270.", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "Western heavy cavalry with surcoats over mail facing eastern cavalry with slave-soldier traditions characterized mid-13th century warfare.", explanation: "The military matchup helps date this battle." },
+            { cost: 25, text: "Major western expeditions to the delta region occurred in 1249-1250 and again in 1270.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Mansurah and subsequent disaster in February-April 1250, during the Seventh Crusade. King Louis IX of France captured Damietta and advanced on Cairo; at Mansurah, his brother Robert of Artois led a rash charge and was killed. The retreating crusaders were trapped and forced to surrender—Louis IX was captured. His ransom of 400,000 livres nearly bankrupted France. Louis died on crusade again in 1270 at Tunis. Crusader cavalry with surcoats over mail facing Egyptian forces characterized mid-13th century warfare. The Seventh Crusade (1248-1254) precisely dates this battle.",
         tags: ["pitched-battle", "13th-century", "middle-east"]
@@ -2844,7 +2844,7 @@ The sultan refused and gathered his army: perhaps 80,000 men, including heavy ca
 
 The two armies met in a mountain pass. The sultan's army formed battle lines, but when the invaders' horse archers began their encirclement and arrow storm, panic spread. The Georgian auxiliaries fled first; the rest followed. The sultan himself barely escaped.
 
-The sultanate became a vassal state, its independence ended forever. The invaders would dominate Anatolia for a century, until their own empire fragmented and new powers—the Ottomans among them—rose from the chaos.`,
+The sultanate became a vassal state, its independence ended forever. The invaders would dominate the region for a century, until their own empire fragmented and new powers rose from the chaos.`,
         hints: [
             { cost: 20, text: "Mongol cavalry tactics—horse archer encirclement with heavy cavalry reserve—shattered conventional armies from China to Europe between roughly 1210-1280.", explanation: "The tactical pattern helps date this battle." },
             { cost: 25, text: "The Mongol invasion of Anatolia, which reduced the Seljuk Sultanate of Rum to vassalage, occurred in the 1240s.", explanation: "The political context helps narrow the date." }
@@ -3272,19 +3272,19 @@ Within a year, miracles were reported at his grave. Within a decade, he was decl
     },
     {
         id: "campaign_172",
-        title: "The Persian Empire Falls",
+        title: "The Ancient Empire's End",
         actualYear: 636,
         difficulty: "hard",
-        description: `Two great empires had exhausted themselves in decades of war. Now an army from the desert—united by a new faith barely a decade old—swept into the weakened survivor. They had already taken Syria from its rival; now they turned east.
+        description: `Two great empires had exhausted themselves in decades of war. Now an army from the desert—united by a new faith barely a decade old—swept into the weakened survivor. They had already taken one empire's southern provinces; now they turned to the other.
 
-The Persian army was still formidable: perhaps 40,000 men including heavy cataphract cavalry and war elephants. The Arabs had only 12,000—lightly armored but mobile, fighting with spear, sword, and bow from camelback and horseback.
+The defending army was still formidable: perhaps 40,000 men including heavy cataphract cavalry and war elephants. The invaders had only 12,000—lightly armored but mobile, fighting with spear, sword, and bow from camelback and horseback.
 
-The battle lasted three days. The Arabs negated the elephants by targeting their eyes and trunks; the cataphracts charged again and again but couldn't break the Arab lines. On the third day, a sandstorm blinded the Persians; the Arabs pressed their advantage.
+The battle lasted three days. The invaders negated the elephants by targeting their eyes and trunks; the cataphracts charged again and again but couldn't break the attackers' lines. On the third day, a sandstorm blinded the defenders; the invaders pressed their advantage.
 
-The Persian general was killed; his army was destroyed. Within two decades, the empire that had lasted over a thousand years was gone entirely, its territories and people absorbed into the new faith's realm.`,
+The defending general was killed; his army was destroyed. Within two decades, the empire that had lasted over a thousand years was gone entirely, its territories and people absorbed into the new faith's realm.`,
         hints: [
-            { cost: 20, text: "Persian cataphracts and war elephants facing Arab cavalry with spears and bows characterized the early Islamic conquests (632-651).", explanation: "The military forces help date this battle." },
-            { cost: 25, text: "The Arab conquest of Persia, ending the Sasanian Empire, occurred in the 630s-640s.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Cataphracts and war elephants facing desert cavalry with spears and bows characterized 7th century middle eastern warfare.", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "Major conquests by a newly-united desert people ending an ancient empire occurred in the 630s-640s.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of al-Qadisiyyah in 636, where Arab forces under Sa'd ibn Abi Waqqas destroyed the Sasanian Persian army of Rostam Farrokhzad. Fighting lasted three or four days; Rostam was killed when the wind blew his tent onto him. The Sasanian Empire, which had rivaled Rome for centuries, collapsed within fifteen years. Persia became Muslim and remains so. Persian cataphracts and elephants facing Arab cavalry characterized the early Islamic conquests (632-651). The conquest of Persia precisely dates this battle.",
         tags: ["pitched-battle", "7th-century", "middle-east"]
@@ -3519,7 +3519,7 @@ The emperor himself was killed—the first to die in battle in over four centuri
     },
     {
         id: "campaign_185",
-        title: "The Vandal Trap",
+        title: "The Reckless Charges",
         actualYear: 533,
         difficulty: "hard",
         description: `An aging empire, its glory seemingly past, launched an expedition to reclaim a wealthy province lost a century before. The general was young but brilliant; his army was small—just 15,000 men transported by 500 ships across the sea.
@@ -3530,8 +3530,8 @@ The barbarian king gathered 11,000 cavalry to crush the invaders. Twice they fou
 
 The ancient capital fell without a fight. The barbarian kingdom, which had terrorized the sea for a century, was destroyed in weeks. The general would go on to reconquer more lost provinces before jealousy brought him down.`,
         hints: [
-            { cost: 20, text: "Byzantine cataphract cavalry defeating Vandal horsemen characterized Justinian's reconquest attempts.", explanation: "The forces help date this battle." },
-            { cost: 25, text: "The Byzantine reconquest of North Africa from the Vandals occurred in 533-534.", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "Cataphract cavalry defeating barbarian horsemen characterized 6th century imperial reconquest campaigns.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Imperial reconquest of wealthy overseas provinces from barbarian kingdoms occurred in the 530s.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was Belisarius's Vandalic War of 533-534, including the Battles of Ad Decimum and Tricamarum. Belisarius landed in North Africa with 15,000 men; King Gelimer's Vandals charged piecemeal and were routed twice. Carthage fell; the Vandal kingdom, which had sacked Rome in 455, was destroyed in months. Belisarius went on to invade Italy. Byzantine cataphracts defeating Vandal cavalry characterized Justinian's reconquests. The African campaign of 533-534 precisely dates this.",
         tags: ["campaign", "6th-century", "africa"]
@@ -3576,19 +3576,19 @@ The orthodox kingdom would become the most powerful in the west, eventually clai
     },
     {
         id: "campaign_188",
-        title: "The Viking Twilight",
+        title: "The River Raiders' End",
         actualYear: 891,
         difficulty: "hard",
         description: `For decades, the river raiders had devastated the heart of the continent—burning cities, extorting kingdoms, and establishing permanent camps from which they pillaged at will. Finally, a young king raised an army to drive them from their greatest fortress.
 
-The king had spent years organizing his defense—building fortified bridges across rivers, training mounted warriors who could respond quickly to raids, learning from decades of failures. Now he brought 10,000 men to the Vikings' fortified camp on the river.
+The king had spent years organizing his defense—building fortified bridges across rivers, training mounted warriors who could respond quickly to raids, learning from decades of failures. Now he brought 10,000 men to the raiders' fortified camp on the river.
 
-The siege lasted two weeks. The king's men built siege works while cavalry prevented foraging. When the final assault came, the starving Vikings fought with desperate fury but couldn't break through. The survivors fled downstream; their king was among the dead.
+The siege lasted two weeks. The king's men built siege works while cavalry prevented foraging. When the final assault came, the starving defenders fought with desperate fury but couldn't break through. The survivors fled downstream; their king was among the dead.
 
-The great fortress was destroyed; the raiders' grip on the heart of the continent was broken. Some settled and became Christians; others returned to the sea. The king would become emperor; his dynasty would shape the continent for centuries.`,
+The great fortress was destroyed; the raiders' grip on the heart of the continent was broken. Some settled and converted; others returned to the sea. The king would become emperor; his dynasty would shape the continent for centuries.`,
         hints: [
-            { cost: 20, text: "Carolingian cavalry with kite shields besieging Viking fortified camps characterized late 9th-century continental warfare.", explanation: "The forces help date this battle." },
-            { cost: 25, text: "Major Carolingian victories against Viking camps occurred in the late 880s-890s.", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "Heavy cavalry besieging fortified river camps characterized late 9th-century continental warfare against northern sea raiders.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Major royal victories against entrenched northern raiders occurred in the late 880s-890s.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Leuven (Louvain) in 891, where King Arnulf of East Francia destroyed a major Viking force on the Dyle River. The Vikings had fortified camps along the rivers; Arnulf besieged and stormed their position. The Viking threat to the Carolingian heartland ended; survivors settled as Christians or returned to Scandinavia. Carolingian cavalry versus Viking camps characterized late 9th-century warfare. Arnulf's anti-Viking campaigns (889-891) precisely date this battle.",
         tags: ["siege", "9th-century", "europe"]
@@ -3694,21 +3694,21 @@ The battle marked the final triumph of one faith over another in the empire, and
     },
     {
         id: "campaign_194",
-        title: "The Huns' Heirs Destroyed",
+        title: "The Steppe Empire Shatters",
         actualYear: 454,
         difficulty: "hard",
         description: `Just three years after the great khan's death, his empire collapsed. His sons quarreled over the succession; their subject peoples saw opportunity.
 
-The Germanic tribes who had served the khan rose in revolt. They gathered in a great coalition—peoples who had been conquered and humiliated now united against their former masters. The battle took place near a river in the central plains.
+The tribes who had served the khan rose in revolt. They gathered in a great coalition—peoples who had been conquered and humiliated now united against their former masters. The battle took place near a river in the central plains.
 
 The khan's sons relied on the tactics that had terrorized three continents: mounted archers who showered enemies with arrows, then retreated before contact, wearing down opponents through exhaustion and casualties. They carried composite bows that could penetrate armor at ranges infantry weapons could not match.
 
-But the Germanic coalition had learned. They formed dense infantry formations with large shields, advancing steadily despite the arrow storm. Their own cavalry—armored lancers rather than horse archers—charged home when the steppe horsemen came too close. The battle was long and bloody; the khan's eldest son fell. By nightfall, the great empire was finished forever.
+But the coalition had learned. They formed dense infantry formations with large shields, advancing steadily despite the arrow storm. Their own cavalry—armored lancers rather than horse archers—charged home when the steppe horsemen came too close. The battle was long and bloody; the khan's eldest son fell. By nightfall, the great empire was finished forever.
 
 The peoples of the steppe would threaten again, centuries later. But this particular terror was ended.`,
         hints: [
-            { cost: 20, text: "Hunnic composite bow horse archers versus Germanic shield walls and heavy cavalry characterized mid-5th century European warfare.", explanation: "The forces help date this battle." },
-            { cost: 25, text: "The dissolution of the Hunnic Empire occurred in the 450s AD.", explanation: "The context helps narrow the date." }
+            { cost: 20, text: "Steppe horse archers with composite bows versus infantry shield walls and heavy cavalry characterized mid-5th century warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Major steppe empires collapsing after their founder's death occurred in the 450s AD.", explanation: "The context helps narrow the date." }
         ],
         explanation: "This was the Battle of Nedao in 454 AD, where a coalition of Germanic tribes under the Gepid king Ardaric destroyed Hunnic power in Europe. Attila had died in 453; his sons' quarrels gave the subject peoples their chance. Ellac, Attila's eldest son, was killed in the battle. The Huns scattered—some fled east, others became mercenaries. The Gepids and Ostrogoths divided the former Hunnic territories. Hunnic horse archers versus Germanic infantry and cavalry identifies the mid-5th century transition period. The collapse of a steppe empire after a great khan's death follows a recurring historical pattern.",
         tags: ["pitched-battle", "5th-century", "europe"]
@@ -3911,7 +3911,7 @@ The minor skirmish became legend; the commander's sword and horn passed into myt
     },
     {
         id: "campaign_205",
-        title: "The Gothic Kingdom's Last King",
+        title: "The Last Stand at the Volcano",
         actualYear: 553,
         difficulty: "hard",
         description: `The great general had already killed one barbarian king and reclaimed most of the peninsula for the empire. But the barbarians had rallied behind a new leader—a young warrior who gathered the remaining strength of his people for one final battle.
@@ -3922,8 +3922,8 @@ The battle took place at the foot of a volcano, near an ancient city. The imperi
 
 The barbarian cavalry charged repeatedly, but the arrow storm cut them down. The king himself led a final desperate charge against the imperial banner. He was struck down; his death ended not just the battle but his people's kingdom forever. The peninsula returned to imperial rule—though only briefly.`,
         hints: [
-            { cost: 20, text: "Byzantine combined-arms tactics with massed archers and heavy cavalry characterized 6th century Imperial warfare.", explanation: "The forces help date this battle." },
-            { cost: 25, text: "The final campaigns against Germanic kingdoms in Italy occurred in the mid-6th century.", explanation: "The context helps narrow the date." }
+            { cost: 20, text: "Imperial combined-arms tactics with massed archers and heavy cavalry characterized 6th century warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "The final campaigns to reclaim a peninsula from barbarian kingdoms occurred in the mid-6th century.", explanation: "The context helps narrow the date." }
         ],
         explanation: "This was the Battle of Mons Lactarius (Mount Vesuvius) in October 553, where Byzantine general Narses destroyed the last Ostrogothic army. King Teia, who had succeeded Totila (killed at Taginae the year before), died in the battle after fighting for two days. With his death, the Ostrogothic Kingdom ended—Italy returned to Imperial rule after sixty years. Narses's combined-arms tactics (massed archers, heavy cavalry, infantry center) were characteristically 6th century Byzantine. The Gothic Wars (535-554) precisely date this final battle.",
         tags: ["pitched-battle", "6th-century", "mediterranean"]
