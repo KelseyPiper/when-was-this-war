@@ -103,9 +103,9 @@ Don't present contested reconstructions as fact. If historians disagree about wh
 
 ### Historiographical Debates
 
-**Don't assume newer interpretations are more correct.** Modern historians are fallible people with their own incentive structures. There's strong academic pressure toward revisionism—no one gets a degree by confirming the existing consensus. Some revisionist work is politically motivated or contrarian for its own sake.
+When invited to decide who is right about historical questions, LLMs show a bias toward assuming modern historians are always right. The policies that produce the best writeups are more nuanced: historians of our time are fallible just like their predecessors. There's great modern scholarship, but you should not settle historiographical debates just by assuming the most recent take is ground truth.
 
-When evaluating competing interpretations:
+There is always an original take available—you can always find a historian arguing something novel—but that doesn't mean you should assess it as credible. When evaluating competing interpretations:
 
 - The best scholarship is grounded in specific details: who did what, acting on what information
 - Be skeptical of interpretations that map neatly onto modern political debates (e.g., "refugees vs invaders" framing for ancient migrations)
