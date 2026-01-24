@@ -221,7 +221,7 @@ The fighting lasted four months, featuring some of the largest tank battles the 
 
 The tactics were revolutionary: massed armor supported by motorized infantry and close air support, striking deep into enemy rear areas. Artillery was coordinated by radio. The attacking force suffered 18,000 casualties but inflicted over 60,000.
 
-The defeated power, shocked by the scale of their losses, signed a neutrality pact that would hold for nearly two years. The victorious commander's reputation soared, and he would soon face a far greater test. The lessons of this battle—particularly the effectiveness of combined arms and deep operations—would prove prophetic.`,
+The defeated power signed a neutrality pact that would hold for nearly two years. The victorious commander's reputation soared; he would soon command the defense of a besieged capital against an even larger invasion.`,
         hints: [
             { cost: 20, text: "Light tanks dominated armored forces from about 1930 to 1940. Medium tanks with heavier armor became standard during WWII (1939-1945).", explanation: "The tank development stage helps date this battle." },
             { cost: 25, text: "Military aviation transitioned from biplanes to monoplanes between 1935 and 1940. Mixed biplane/monoplane air forces indicate this brief transition period.", explanation: "The aircraft types help narrow the timeframe precisely." }
@@ -2806,7 +2806,7 @@ The defenders were in disarray—their sultan dying, their emirs feuding. But th
 
 The king's brother led a cavalry charge into the town that succeeded too well—the knights scattered to loot and were trapped in narrow streets. Defending cavalry destroyed them. The king's army, weakened and diseased, attempted to retreat but found the river route blocked.
 
-The king himself was captured—a humiliation unprecedented in centuries. His ransom bankrupted his kingdom. He would mount another expedition decades later and die of disease before the walls of another city. The great age of western expeditions eastward was ending.`,
+The king himself was captured. His ransom of 400,000 livres crippled the royal treasury. He would mount another expedition twenty years later and die of disease before the walls of Tunis.`,
         hints: [
             { cost: 20, text: "Western heavy cavalry with surcoats over mail facing eastern cavalry with slave-soldier traditions characterized mid-13th century warfare.", explanation: "The military matchup helps date this battle." },
             { cost: 25, text: "Major western expeditions to the delta region occurred in 1249-1250 and again in 1270.", explanation: "The strategic context helps narrow the date." }
@@ -2920,7 +2920,7 @@ The new emperor led 300 knights and several thousand infantry to suppress a rebe
 
 The emperor, overconfident from easy victories against disorganized resistance, attacked without reconnaissance. His cavalry charge scattered the enemy center, but the wings held. When the emperor's knights pursued too far, the enemy encircled them.
 
-The emperor himself was captured—an unthinkable humiliation. He was taken to the enemy capital and never seen again; stories claimed he was executed, his skull made into a drinking cup. The Latin Empire never recovered its strength; within sixty years, the true heirs would reclaim their capital.`,
+The emperor himself was captured. He was taken to the enemy capital and never seen again; one account claims his skull was made into a drinking cup. The Latin Empire never recovered; the true heirs reclaimed their capital sixty years later.`,
         hints: [
             { cost: 20, text: "Western heavy cavalry facing steppe-style horse archers in Balkan warfare characterized the early 13th century.", explanation: "The military matchup helps date this battle." },
             { cost: 25, text: "The Latin Empire of Constantinople, established by the Fourth Crusade, lasted from 1204-1261.", explanation: "The political context helps narrow the date." }
@@ -3222,7 +3222,7 @@ When the city cavalry rallied and returned to the fight, the emperor himself was
 
 The papal army included local infantry, cavalry from across the mountains, and militia from the peninsula—perhaps 6,000 men. The adventurers had only 3,000 cavalry, but they were the finest warriors in Christendom—heavy lancers hardened by decades of constant warfare.
 
-The battle was brief. The papal infantry broke at the first charge. The pope himself was captured—an unprecedented humiliation. But the conquerors' leaders, devout in their own way, knelt before their prisoner and begged his blessing. They would release him, swear fealty, and receive papal recognition for their conquests.
+The battle was brief. The papal infantry broke at the first charge. The pope himself was captured. But the conquerors, devout in their own way, knelt before their prisoner and begged his blessing. They swore fealty and received papal recognition for their conquests.
 
 The adventurers would go on to conquer the wealthy island to the south, then launch holy wars from their new kingdom. What began as robbery became a realm that would last for centuries.`,
         hints: [
