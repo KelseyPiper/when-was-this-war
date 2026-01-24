@@ -297,7 +297,7 @@ The relief force, some 70,000 strong and led by a warrior-king from a neighborin
 
 This defeat marked the permanent turning of the tide. Over the following decades, the empire would lose vast territories in a series of wars.`,
         hints: [
-            { cost: 20, text: "Heavy cavalry lance charges became rare in Western Europe after about 1650, as firearms made such tactics costly. Eastern European cavalry, particularly Polish hussars, retained lance tactics into the late 17th century.", explanation: "The lance charge helps date this battle." },
+            { cost: 20, text: "Heavy cavalry lance charges became rare in Western Europe after about 1650, as firearms made such tactics costly. Eastern European cavalry retained lance tactics into the late 17th century.", explanation: "The lance charge helps date this battle." },
             { cost: 25, text: "Flintlock muskets became the European standard around 1650-1700. Forces mixing flintlocks with archers indicate a clash between modernized and traditional armies in the late 17th century.", explanation: "The mixed weapons technologies help narrow the timeframe." }
         ],
         explanation: "This was the Siege of Vienna in 1683, the Ottoman Empire's last major attempt to expand into Central Europe. Grand Vizier Kara Mustafa Pasha led perhaps 150,000 Ottoman troops against a garrison of only 15,000 under Count Ernst Rüdiger von Starhemberg. The relief force was commanded by Polish King Jan III Sobieski, who led the largest cavalry charge in history—18,000 horsemen including 3,000 of Poland's famous Winged Hussars. The heavy lance charge breaking the siege places this in the late 17th century; Western European cavalry had largely abandoned such tactics after 1650, but Polish hussars retained them into the 1690s. The mention of defenders mixing flintlocks with the Ottoman army's archers shows the clash between modernizing European armies and traditional Ottoman forces characteristic of this period.",
@@ -354,7 +354,7 @@ But the battle went wrong from the start. The enemy relied on horse archers usin
 
 The defeat opened the empire's heartland to invasion. Within a generation, vast territories would be lost forever, and the empire would never fully recover its former power.`,
         hints: [
-            { cost: 20, text: "Lamellar armor (overlapping plates laced together) was standard for heavy cavalry in eastern empires from about 600 to 1300, especially Byzantine and Central Asian forces.", explanation: "The armor type helps date this battle." },
+            { cost: 20, text: "Lamellar armor (overlapping plates laced together) was standard for heavy cavalry in eastern Mediterranean and Central Asian empires from about 600 to 1300.", explanation: "The armor type helps date this battle." },
             { cost: 25, text: "Composite bow horse archers using feigned flight tactics were the signature of steppe peoples from ancient times through the medieval period, roughly until firearms made such tactics obsolete.", explanation: "The cavalry tactics help narrow the timeframe." }
         ],
         explanation: "This was the Battle of Manzikert in 1071, when Seljuk Sultan Alp Arslan defeated and captured Byzantine Emperor Romanos IV Diogenes. This was genuinely the first time a Byzantine emperor had been captured by a foreign enemy in the empire's 700+ year history—a stunning humiliation. Alp Arslan reportedly placed his foot on Romanos's neck before treating him with surprising generosity. Lamellar armor identifies this as Byzantine or Central Asian medieval warfare (600-1300). The nomadic horse archers using feigned retreats were the Seljuk Turks, who had recently converted to Islam and carved a sultanate from Abbasid territory. The defeat opened Anatolia to Turkish settlement, beginning a transformation that would eventually make it Turkey rather than the Greek heartland it had been for millennia.",
@@ -504,7 +504,7 @@ Libraries containing centuries of accumulated wisdom were destroyed. Canals that
 
 The destruction was so complete that the region's population and prosperity would not recover for centuries.`,
         hints: [
-            { cost: 20, text: "Chinese siege engineers accompanying steppe armies was unique to the Mongol conquests of the 13th century (roughly 1210-1280). Earlier and later steppe peoples lacked this capability.", explanation: "The siege engineering helps date this battle." },
+            { cost: 20, text: "Siege engineers from settled empires accompanying steppe armies was unique to one great steppe conquest of the 13th century (roughly 1210-1280). Earlier and later steppe peoples lacked this capability.", explanation: "The siege engineering helps date this battle." },
             { cost: 25, text: "Compound bows from horseback were the steppe warrior's signature weapon from ancient times through the medieval period, roughly until firearms made them obsolete around 1500-1600.", explanation: "The weapons provide a broad timeframe that other clues narrow." }
         ],
         explanation: "This was the Mongol Siege of Baghdad in 1258, one of history's most destructive events. Hulagu Khan, grandson of Genghis Khan, led the assault against Caliph al-Musta'sim, the 37th Abbasid Caliph. The Mongols included Chinese and Persian siege engineers—a capability unique to the Mongol period (1210-1280), as earlier steppe peoples couldn't take walled cities. The Abbasid Caliphate had ruled since 750 CE (hence 'five centuries'). Al-Musta'sim was reportedly rolled in a carpet and trampled by horses—the Mongol method of executing royalty without spilling blood on the ground. Estimates of the dead range from 200,000 to over a million. The destruction of Baghdad's irrigation canals turned fertile land into desert for centuries. The House of Wisdom, containing irreplaceable manuscripts, was destroyed—accounts say the Tigris ran black with ink from discarded books.",
@@ -543,7 +543,7 @@ The decisive battle lasted only two hours. Key nobles switched sides or stood as
 The new king would establish a dynasty that would rule for over a century, transforming the realm from a medieval kingdom into an early modern state.`,
         hints: [
             { cost: 20, text: "Full plate armor for mounted knights was standard from about 1400 to 1550. Before 1400, chain mail dominated; after 1550, firearms made heavy armor increasingly impractical.", explanation: "The armor type helps date this battle." },
-            { cost: 25, text: "Longbows were dominant in English armies from about 1340 to 1480. Firearms began replacing them in the late 15th century and were clearly superior by 1550.", explanation: "The longbow-to-firearms transition helps narrow the timeframe." }
+            { cost: 25, text: "Longbows were dominant in northwestern European armies from about 1340 to 1480. Firearms began replacing them in the late 15th century and were clearly superior by 1550.", explanation: "The longbow-to-firearms transition helps narrow the timeframe." }
         ],
         explanation: "This was the Battle of Bosworth Field on August 22, 1485, ending the Wars of the Roses and the Plantagenet dynasty. Henry Tudor landed with a small force of French mercenaries and Welsh supporters against King Richard III, who had the larger army. The Stanleys—Lord Thomas Stanley and Sir William Stanley—commanded a third of Richard's army but held back until the outcome was clear, then charged Richard's flank. Richard III became the last English king to die in battle; his body was found in 2012 under a Leicester parking lot with battle wounds matching chronicle accounts. Full plate armor identifies 1400-1550—earlier knights wore mail, later firearms made heavy armor obsolete. Longbows fading while firearms improved indicates the 1470s-1490s transition. Henry VII would establish the Tudor dynasty that ruled until 1603.",
         tags: ["pitched-battle", "15th-century", "western-europe"]
@@ -581,7 +581,7 @@ Rather than chase the defenders through the mountains, the invaders built a ring
 The prince was eventually killed in a skirmish, his brother captured and executed. The principality was formally annexed, and its native laws were slowly replaced by the conqueror's. The great castles still stand as monuments to the conquest.`,
         hints: [
             { cost: 20, text: "Concentric castles with round towers (resistant to mining) represented cutting-edge military architecture from roughly 1180 to 1350. Earlier castles had square towers; later fortifications adapted to cannon.", explanation: "The castle design helps date this battle." },
-            { cost: 25, text: "Crossbows dominated as the main missile weapon from about 1100 to 1350. The longbow became dominant in English armies after about 1340.", explanation: "The missile weapons help narrow the timeframe." }
+            { cost: 25, text: "Crossbows dominated as the main missile weapon from about 1100 to 1350. The longbow became dominant in certain northwestern European armies after about 1340.", explanation: "The missile weapons help narrow the timeframe." }
         ],
         explanation: "This was Edward I's conquest of Wales (1277-1283). Llywelyn ap Gruffudd, the last native Prince of Wales, ambushed and killed the Earl of Gloucester in 1282, but Edward returned with overwhelming force. The 'Iron Ring' of castles—Caernarfon, Conwy, Harlech, Beaumaris, and others—were designed by Master James of St. George, the greatest military architect of the age. These concentric castles with round towers represented cutting-edge design from 1180-1350: round towers resisted mining better than square ones, and earlier castles lacked the sophisticated interlocking fields of fire. Crossbows as the primary missile weapon (1100-1350) rather than longbows is significant—the English longbow only became dominant after about 1340 at Crécy. Llywelyn was killed in a skirmish in December 1282; his brother Dafydd was executed in 1283.",
         tags: ["conquest", "13th-century", "western-europe"]
@@ -638,7 +638,7 @@ The main fortress held out. Its fortifications featured the new 'trace italienne
 The siege became legendary. The order would rule the island for another two centuries.`,
         hints: [
             { cost: 20, text: "Trace italienne fortifications (low, thick walls with angled bastions) were developed around 1500-1530 and became the standard for resisting cannon by about 1550.", explanation: "The fortification design helps date this battle." },
-            { cost: 25, text: "The Spanish tercio (disciplined arquebus volleys with pike charges) dominated European warfare from roughly 1530 to 1630, when linear tactics replaced them.", explanation: "The elite infantry tactics help narrow the timeframe." }
+            { cost: 25, text: "The tercio formation (disciplined arquebus volleys with pike charges) dominated European warfare from roughly 1530 to 1630, when linear tactics replaced them.", explanation: "The elite infantry tactics help narrow the timeframe." }
         ],
         explanation: "This was the Great Siege of Malta in 1565, when the Knights of St. John (the Hospitallers) held off the Ottoman Empire. Grand Master Jean de Valette, age 70, led about 6,000 defenders against perhaps 40,000 Ottoman troops including elite Janissaries. Fort St. Elmo fell after a month of brutal fighting—all 1,500 defenders were killed, but they cost the Ottomans perhaps 8,000 casualties. The trace italienne fortifications (low, thick walls with angled bastions developed 1500-1530) absorbed bombardment that would have leveled medieval walls. The Janissaries' arquebus-and-pike tercio tactics dominated 1530-1630. The Knights ruled Malta until Napoleon expelled them in 1798 ('another two centuries'), which works backward to the 1560s-1590s. The capital city Valletta, built after the siege, was named for the Grand Master.",
         tags: ["siege", "16th-century", "mediterranean"]
@@ -657,7 +657,7 @@ At one battle, an army of perhaps 25,000—the combined forces of two major king
 Only the death of the supreme leader far to the east caused the invaders to withdraw. They never returned in such force, but the terror of that year would echo for centuries.`,
         hints: [
             { cost: 20, text: "Chain mail hauberks and great helms (without plate armor) were standard for European heavy cavalry from about 1150 to 1300. Plate armor began appearing around 1300.", explanation: "The armor type helps date this battle." },
-            { cost: 25, text: "Coordinated multi-column invasions with messenger networks across hundreds of miles were uniquely possible with Mongol military organization (1210-1280).", explanation: "The coordination capability helps narrow the timeframe." }
+            { cost: 25, text: "Coordinated multi-column invasions with messenger networks across hundreds of miles were uniquely possible with one steppe empire's military organization (1210-1280).", explanation: "The coordination capability helps narrow the timeframe." }
         ],
         explanation: "This was the Mongol invasion of Europe in 1241, culminating in the Battle of Mohi. Subutai, perhaps history's greatest general, coordinated multiple armies across Poland and Hungary simultaneously while Batu Khan led the main force. King Béla IV of Hungary and the combined Hungarian-Croat army of 25,000 were destroyed at Mohi; both kings of Poland had already died at Legnica two days earlier. The Mongols used fireworks and smoke screens—technologies unknown to Europeans—adding to the terror. Chain mail hauberks with great helms place this at 1150-1300, before plate armor became standard. The coordinated multi-column invasion with messenger networks across hundreds of miles was uniquely possible with Mongol organization. The death of Great Khan Ögedei in December 1241 forced the Mongol withdrawal, as princes had to return for the succession. Europe was saved by dynastic politics, not military resistance.",
         tags: ["invasion", "13th-century", "central-europe", "mongol"]
@@ -941,7 +941,7 @@ The attack struck the camp's command section directly. In the chaos of rain and 
 
 The political consequences were transformative. The victor gained control of his dead enemy's considerable resources and client lords.`,
         hints: [
-            { cost: 20, text: "Matchlock arquebuses arrived in East Asia via Portuguese traders in the 1540s and spread through the region over the following decades. Their description as 'new' and 'just beginning to spread' suggests the 1550s-1560s.", explanation: "The firearm adoption timeline helps date this battle." },
+            { cost: 20, text: "Matchlock arquebuses arrived in East Asia via western traders in the 1540s and spread through the region over the following decades. Their description as 'new' and 'just beginning to spread' suggests the 1550s-1560s.", explanation: "The firearm adoption timeline helps date this battle." },
             { cost: 25, text: "The combination of traditional weapons (spears, swords, bows) as primary arms with limited gunpowder weapons indicates a transitional period before firearms became the dominant battlefield weapon.", explanation: "The weapons mix helps narrow the timeframe to the mid-16th century." }
         ],
         explanation: "This was the Battle of Okehazama on June 12, 1560, the victory that launched Oda Nobunaga's rise to power. Imagawa Yoshimoto led 25,000 warriors toward Kyoto; Nobunaga had only about 2,500. Rather than defend his castle, Nobunaga attacked Yoshimoto's camp during a thunderstorm. The surprise was total—Yoshimoto was killed before he could don his armor, reportedly thinking the commotion was his own men celebrating. Matchlock arquebuses had arrived in Japan via Portuguese traders in 1543; describing them as 'new' and 'just beginning to spread' indicates about 15-25 years after introduction—precisely the late 1550s-1560s. Within 22 years, Nobunaga would control most of Japan. Traditional weapons (spears, swords, bows) as the main arms with limited firearms confirms this early transition period, before the mass matchlock warfare of the 1570s-1600s.",
@@ -1212,7 +1212,7 @@ The result was slaughter. Horses couldn't cross the stream and palisades at spee
 
 The battle demonstrated conclusively that massed gunpowder infantry, properly positioned, could destroy any cavalry.`,
         hints: [
-            { cost: 20, text: "Matchlock arquebuses arrived in East Asia via Portuguese traders in the 1540s. Descriptions of these weapons as 'introduced thirty years earlier' place a battle around 1570-1580.", explanation: "The firearm introduction timeline helps date this battle." },
+            { cost: 20, text: "Matchlock arquebuses arrived in East Asia via western traders in the 1540s. Descriptions of these weapons as 'introduced thirty years earlier' place a battle around 1570-1580.", explanation: "The firearm introduction timeline helps date this battle." },
             { cost: 25, text: "Rotating volley fire—maintaining continuous fire by having ranks alternate shooting and reloading—was independently developed in the late 16th century and became standard doctrine by the 1590s-1600s.", explanation: "The volley fire technique helps narrow the timeframe." }
         ],
         explanation: "This was the Battle of Nagashino on June 29, 1575, where Oda Nobunaga revolutionized Japanese warfare. Nobunaga deployed 3,000 arquebusiers behind wooden palisades and a stream—the arquebuses were matchlock designs introduced by Portuguese traders in 1543 ('just thirty years earlier'). Takeda Katsuyori, whose father's cavalry had been invincible, ordered charge after charge against the prepared position. The rotating volley fire—ranks alternating shooting and reloading—maintained continuous fire. The famed Takeda cavalry was annihilated; estimates suggest 10,000 of 15,000 died, including most senior commanders. Nagashino proved that massed gunpowder infantry with proper defenses could destroy any cavalry. Within seven years, Nobunaga would control most of Japan. The rotating volley technique was independently developed in Europe around the same time, becoming standard doctrine by the 1590s-1600s.",
@@ -1338,8 +1338,8 @@ But on the other wing, the prince led a reckless cavalry charge against the king
 
 The survivors faced a legendary march home, abandoned in hostile territory thousands of miles from safety.`,
         hints: [
-            { cost: 20, text: "The hoplite panoply (bronze helmet, aspis shield, thrusting spear, phalanx formation) dominated Greek warfare from roughly 700 BCE to 300 BCE. Its description as dominant 'for over two centuries' suggests the 5th-4th century BCE.", explanation: "The infantry equipment helps date this battle." },
-            { cost: 25, text: "Scythed chariots were used by Persian armies primarily in the 5th-4th centuries BCE. They were intended to break up infantry formations but were rarely effective against disciplined troops.", explanation: "The chariot technology helps narrow the timeframe." }
+            { cost: 20, text: "The hoplite panoply (bronze helmet, aspis shield, thrusting spear, phalanx formation) dominated city-state warfare from roughly 700 BCE to 300 BCE. Its description as dominant 'for over two centuries' suggests the 5th-4th century BCE.", explanation: "The infantry equipment helps date this battle." },
+            { cost: 25, text: "Scythed chariots were used by eastern empires primarily in the 5th-4th centuries BCE. They were intended to break up infantry formations but were rarely effective against disciplined troops.", explanation: "The chariot technology helps narrow the timeframe." }
         ],
         explanation: "This was the Battle of Cunaxa in 401 BCE, immortalized in Xenophon's Anabasis. Prince Cyrus the Younger hired 10,000 Greek mercenaries to help seize the Persian throne from his brother Artaxerxes II. The Greek phalanx was invincible on their part of the field—the scythed chariots (used by Persian armies primarily in the 5th-4th centuries BCE) were defeated when disciplined hoplites simply opened lanes and let them pass harmlessly through. But Cyrus, instead of waiting for the Greeks to win, led a reckless cavalry charge directly at Artaxerxes and was killed. With Cyrus dead, the cause was lost. The hoplite panoply (bronze helmet, aspis shield, thrusting spear) dominated Greek warfare from ~700 BCE until Alexander's reforms ~330 BCE; described as dominant 'for over two centuries' places this after 500 BCE. The Greek mercenaries' legendary 'March of the Ten Thousand' home inspired Alexander's later invasion of Persia.",
         tags: ["pitched-battle", "ancient", "asia"]
@@ -1362,7 +1362,7 @@ When the enemy committed their reserve, the hidden cavalry swept down from the h
 The victory secured the frontier for years and made the young commander's reputation.`,
         hints: [
             { cost: 20, text: "Cataphract cavalry (fully armored riders on armored horses with two-handed lances) reached their peak effectiveness in the 3rd-7th centuries CE. Earlier and later periods used different heavy cavalry equipment.", explanation: "The cavalry technology helps date this battle." },
-            { cost: 25, text: "The two-handed lance (kontos) requiring the rider to forgo a shield was characteristic of Persian and related heavy cavalry traditions in the late ancient period.", explanation: "The cavalry equipment details help narrow the timeframe." }
+            { cost: 25, text: "The two-handed lance (kontos) requiring the rider to forgo a shield was characteristic of eastern heavy cavalry traditions in the late ancient period.", explanation: "The cavalry equipment details help narrow the timeframe." }
         ],
         explanation: "This was the Battle of Dara in 530 CE, where the young general Belisarius made his reputation. Only 25 years old, Belisarius faced a Sasanian Persian army twice the size of his own. His system of interrupted trenches channeled the Persian cataphract cavalry charges into killing zones. When the Persian cataphracts (fully armored riders on armored horses, reaching peak effectiveness 300-700 CE) charged with their two-handed kontos lances (requiring no shield—characteristic of Persian and Byzantine cavalry), the trenches disrupted their formation. A concealed cavalry force struck the decisive blow from a hidden position on a hill. Belisarius would go on to reconquer North Africa and Italy for the Byzantine Empire. The sophisticated trench engineering represents late Roman military science at its finest.",
         tags: ["pitched-battle", "6th-century", "middle-east"]
@@ -1382,8 +1382,8 @@ But the ground was uneven. Gaps appeared between phalanx units as they crossed r
 
 At close quarters, the long pike was useless. The swordsmen cut down the pikemen, who had only small daggers for close defense. The phalanx dissolved, and with it, an independent kingdom that had lasted three centuries.`,
         hints: [
-            { cost: 20, text: "The pilum (heavy javelin), gladius (short sword), and scutum (curved shield) combination was the Roman military system from roughly 300-100 BCE, perfected through constant warfare.", explanation: "The infantry equipment helps date this battle." },
-            { cost: 25, text: "The 18-foot sarissa pike phalanx was the Macedonian system that had 'conquered an empire two centuries earlier'—placing its creation around 350 BCE and suggesting this battle around 150 BCE.", explanation: "The phalanx timeline helps narrow the date." }
+            { cost: 20, text: "The pilum (heavy javelin), gladius (short sword), and scutum (curved shield) combination was the standard legionary military system from roughly 300-100 BCE.", explanation: "The infantry equipment helps date this battle." },
+            { cost: 25, text: "The 18-foot sarissa pike phalanx had 'conquered an empire two centuries earlier'—placing its creation around 350 BCE and suggesting this battle around 150 BCE.", explanation: "The phalanx timeline helps narrow the date." }
         ],
         explanation: "This was the Battle of Pydna on June 22, 168 BCE, which ended the Macedonian kingdom that Alexander the Great's successors had ruled for 150 years. Roman consul Lucius Aemilius Paullus faced King Perseus of Macedon's 40,000-man army, built around the sarissa phalanx that had 'conquered an empire two centuries earlier' under Alexander (334-323 BCE). The battle began accidentally when a runaway horse triggered a skirmish. On level ground, the 18-foot sarissa pikes created an impenetrable wall. But when the phalanx advanced across rough terrain near Mount Olympus, gaps opened. Roman legionaries pushed into the gaps with their gladii (short swords) and scuta (curved shields)—weapons 'perfected over two centuries' since Rome adopted them around 350 BCE. At close quarters, the long pikes were useless. Perseus was captured and paraded through Rome. Macedonia became a Roman province.",
         tags: ["pitched-battle", "ancient", "europe"]
@@ -1466,7 +1466,7 @@ The artillery tore holes in the charging cavalry. The arquebus infantry shot dow
 
 The kingdom was partitioned. The invaders would occupy the central portion for nearly two centuries.`,
         hints: [
-            { cost: 20, text: "Ottoman firearms and artillery reached their peak advantage over opponents in the early 16th century (1500s-1530s). Later, other powers caught up technologically.", explanation: "The technological gap helps date this battle." },
+            { cost: 20, text: "Gunpowder empires reached their peak advantage over opponents in the early 16th century (1500s-1530s). Later, other powers caught up technologically.", explanation: "The technological gap helps date this battle." },
             { cost: 25, text: "Feudal heavy cavalry charging against disciplined arquebus infantry was the characteristic—and usually disastrous—tactical matchup of the early 16th century.", explanation: "The tactical mismatch helps narrow the timeframe." }
         ],
         explanation: "This was the Battle of Mohács on August 29, 1526, which destroyed the medieval Kingdom of Hungary. King Louis II, only 20 years old, faced Sultan Suleiman the Magnificent's 50,000-strong army, including Janissary arquebusiers and modern artillery. The Hungarian feudal cavalry charged in the traditional manner—and were slaughtered by disciplined Ottoman gunfire. The battle lasted barely two hours. Louis drowned fleeing across a swollen stream, weighed down by his armor. Seven bishops, 500 nobles, and perhaps 14,000 soldiers died. Ottoman firearms and artillery reached peak advantage over opponents in the early 16th century (1500s-1530s); later, other powers caught up. Hungary was partitioned: the Ottomans held the center for 'nearly two centuries' (until 1699), the Habsburgs took the west, and Transylvania became an Ottoman vassal.",
@@ -1771,8 +1771,8 @@ The western cavalry poured through. The eastern infantry, surrounded, was annihi
 
 The battle determined which civilization would dominate the wealthy trade route cities for centuries. The eastern empire, its army destroyed, would never again project military power this far west.`,
         hints: [
-            { cost: 20, text: "Crossbows and halberds as standard infantry weapons, combined with heavy cavalry, was characteristic of Tang Chinese armies from roughly 618-907 CE.", explanation: "The eastern army's equipment helps date this battle." },
-            { cost: 25, text: "The rapid Arab/Islamic expansion eastward occurred primarily from 632-750 CE. By 750, the caliphate had reached its greatest extent.", explanation: "The western empire's expansion timeline helps narrow the date." }
+            { cost: 20, text: "Crossbows and halberds as standard infantry weapons, combined with heavy cavalry, was characteristic of eastern armies from roughly 618-907 CE.", explanation: "The eastern army's equipment helps date this battle." },
+            { cost: 25, text: "The rapid expansion of the caliphate eastward occurred primarily from 632-750 CE. By 750, the caliphate had reached its greatest extent.", explanation: "The expansion timeline helps narrow the date." }
         ],
         explanation: "This was the Battle of Talas in July 751, where the Abbasid Caliphate defeated Tang China—the only time these two great empires ever fought. General Gao Xianzhi led Tang forces to support a local ruler against Abbasid expansion along the Silk Road. When Karluk Turkish cavalry switched sides during the battle, the Tang line collapsed. The defeat ended Chinese influence in Central Asia permanently. Legend says Chinese papermakers captured at Talas taught the Arabs papermaking, spreading the technology westward to Europe—though this may be apocryphal. Crossbows and halberds were characteristic Tang infantry weapons (618-907 CE). The Arab/Islamic expansion 'sweeping eastward in a century of conquest' identifies the Umayyad/early Abbasid period (632-750s). This frontier clash defined which civilization would dominate the Silk Road cities for centuries.",
         tags: ["pitched-battle", "8th-century", "central-asia"]
@@ -1792,8 +1792,8 @@ The armies faced each other for days across a river ravine in summer heat. The d
 
 Within years, the empire would lose its wealthiest provinces—territories it had held for centuries. The map of the world was redrawn permanently.`,
         hints: [
-            { cost: 20, text: "Cataphract cavalry (fully armored riders on armored horses) reached peak use from roughly 300-700 CE in Byzantine and Persian armies. The style declined as these empires lost territory.", explanation: "The cavalry type helps date this battle." },
-            { cost: 25, text: "Arab armies 'united under a new faith' expanding against Byzantine territory occurred specifically in the 630s-640s, the initial Islamic conquests following Muhammad's death in 632.", explanation: "The conquest context narrows the date precisely." }
+            { cost: 20, text: "Cataphract cavalry (fully armored riders on armored horses) reached peak use from roughly 300-700 CE in the great eastern empires. The style declined as these empires lost territory.", explanation: "The cavalry type helps date this battle." },
+            { cost: 25, text: "Armies 'united under a new faith' expanding against the eastern empire occurred specifically in the 630s-640s, the initial caliphate conquests.", explanation: "The conquest context narrows the date precisely." }
         ],
         explanation: "This was the Battle of Yarmouk in August 636, the decisive battle of the early Islamic conquests. Khalid ibn al-Walid commanded the Arab forces against the Byzantine army of Emperor Heraclius—the same emperor who had just defeated Persia in a 26-year war that exhausted both empires. The armies faced each other across the Yarmouk River for days in August heat. When Arab auxiliaries in the Byzantine army defected and a sandstorm blinded the Byzantines, their cataphract cavalry (fully armored riders on armored horses, peak use 300-700 CE) were overwhelmed. Within a decade, Byzantium lost Syria, Palestine, Egypt, and North Africa—provinces held for 600 years. The Arab armies 'united under a new faith' just four years after Muhammad's death (632) achieved one of history's most rapid and permanent territorial transformations.",
         tags: ["pitched-battle", "7th-century", "middle-east"]
@@ -1835,7 +1835,7 @@ The battle began with the western army in a strong position. But as fighting con
 The western sultan was captured and died in captivity. His empire was nearly destroyed, losing decades of conquests. It would survive and eventually rebuild, but this defeat delayed its expansion by a generation.`,
         hints: [
             { cost: 20, text: "Early bombards (crude cannon firing stone balls) alongside horse archer cavalry indicates the transitional period of roughly 1350-1450, when gunpowder was present but not yet dominant.", explanation: "The weapons mix helps date this battle." },
-            { cost: 25, text: "Central Asian conquerors emulating the Mongol conquests (1210-1280) appeared in the late 14th century. The combination of steppe cavalry traditions with early gunpowder weapons was characteristic of 1370-1405.", explanation: "The conquest context helps narrow the date." }
+            { cost: 25, text: "Central Asian conquerors emulating the great steppe conquests of a century earlier appeared in the late 14th century. The combination of steppe cavalry traditions with early gunpowder weapons was characteristic of 1370-1405.", explanation: "The conquest context helps narrow the date." }
         ],
         explanation: "This was the Battle of Ankara on July 20, 1402, where Timur (Tamerlane) captured Ottoman Sultan Bayezid I—the only Ottoman sultan ever captured in battle. Timur's empire stretched from India to Anatolia; he consciously emulated Genghis Khan's conquests 'a century and a half earlier' (1210-1280). Bayezid's army included Janissary slave-soldiers and early Ottoman bombards, but when Anatolian vassals defected to Timur mid-battle, the flanks collapsed. Bayezid died in captivity (legends say in an iron cage, though historians doubt this). The Ottoman Empire nearly disintegrated in the civil war that followed; the 'Interregnum' lasted until 1413. The combination of early bombards with steppe horse archers indicates the late 14th-early 15th century transition when gunpowder was present but not yet dominant.",
         tags: ["pitched-battle", "15th-century", "asia-minor"]
@@ -1857,8 +1857,8 @@ The fighting lasted three days as the column struggled forward. Nearly the entir
 
 The empire never again seriously attempted to conquer the lands beyond the river.`,
         hints: [
-            { cost: 20, text: "The pilum (heavy javelin), gladius (short stabbing sword), and scutum (curved shield) were the standard Roman infantry equipment from roughly 300 BCE to 300 CE.", explanation: "The infantry equipment helps date this battle." },
-            { cost: 25, text: "Legion formations (heavy infantry supported by auxiliary cavalry) were the core of Roman military power from roughly 100 BCE to 300 CE, before cavalry became dominant.", explanation: "The army organization helps narrow the timeframe." }
+            { cost: 20, text: "The pilum (heavy javelin), gladius (short stabbing sword), and scutum (curved shield) were the standard legionary infantry equipment from roughly 300 BCE to 300 CE.", explanation: "The infantry equipment helps date this battle." },
+            { cost: 25, text: "Legion formations (heavy infantry supported by auxiliary cavalry) were the core of imperial military power from roughly 100 BCE to 300 CE, before cavalry became dominant.", explanation: "The army organization helps narrow the timeframe." }
         ],
         explanation: "This was the Battle of Teutoburg Forest (also called the Varian Disaster) in 9 CE. Publius Quinctilius Varus led three legions (XVII, XVIII, XIX) into the Germanic forests; Arminius, a Romanized Germanic chieftain who held Roman citizenship, organized the ambush. The legions were caught strung out along a narrow path in rain and mud; fighting lasted three days as the column disintegrated. Varus fell on his sword. Augustus reportedly wandered his palace crying 'Varus, give me back my legions!' The three eagle standards were lost—Rome's greatest shame—and recovered only decades later. The pilum, gladius, and scutum were Roman equipment 300 BCE-300 CE, but eagle standards as near-religious objects were specifically Imperial features (after 27 BCE). Rome never seriously attempted to conquer beyond the Rhine again.",
         tags: ["ambush", "1st-century", "europe"]
@@ -1880,8 +1880,8 @@ The cavalry charge struck the imperial flank. The infantry, packed too tightly t
 
 The battle demonstrated the new dominance of heavy cavalry over infantry that had lost its former discipline and equipment advantages. The empire itself had less than a century remaining in the west.`,
         hints: [
-            { cost: 20, text: "Roman infantry with oval shields and spears (rather than the earlier curved scutum and pilum) indicates the late Roman period, roughly 250-500 CE, when military equipment evolved.", explanation: "The infantry equipment change helps date this battle." },
-            { cost: 25, text: "Heavy cavalry becoming tactically decisive against Roman infantry was a development of the 4th-5th centuries CE, reversing centuries of infantry dominance.", explanation: "The tactical transition helps narrow the date." }
+            { cost: 20, text: "Imperial infantry with oval shields and spears (rather than the earlier curved scutum and pilum) indicates the late imperial period, roughly 250-500 CE, when military equipment evolved.", explanation: "The infantry equipment change helps date this battle." },
+            { cost: 25, text: "Heavy cavalry becoming tactically decisive against imperial infantry was a development of the 4th-5th centuries CE, reversing centuries of infantry dominance.", explanation: "The tactical transition helps narrow the date." }
         ],
         explanation: "This was the Battle of Adrianople on August 9, 378 CE, when Gothic cavalry destroyed a Roman army and killed Emperor Valens. The Goths had been admitted as refugees fleeing the Huns; Roman officials' abuse drove them to revolt. Valens attacked without waiting for reinforcements under his co-emperor Gratian. The Roman infantry pushed back the Gothic foot, but when Gothic cavalry returned from foraging, they struck the Roman flank. The packed infantry couldn't maneuver; two-thirds of the army died. Valens's body was never found. The oval shields and spears (replacing earlier scutum and pilum) indicate late Roman equipment (250-500 CE). Heavy cavalry defeating Roman infantry so decisively was characteristic of the 4th-5th century transition from infantry to cavalry dominance. The Western Empire had 'less than a century remaining'—it fell in 476 CE.",
         tags: ["pitched-battle", "4th-century", "europe"]
@@ -1901,8 +1901,8 @@ The battle was fought on open plains. The fighting was brutal and confused—at 
 
 By nightfall, neither side had won decisively, but the invaders withdrew. Their king died within two years and his empire fragmented among quarreling successors. The invasion was the last great threat the western empire faced from the steppes, though the empire itself had only decades remaining.`,
         hints: [
-            { cost: 20, text: "Horse archer cavalry from the steppes raiding the Roman Empire was characteristic of the 4th-5th centuries CE, when various peoples (Huns, Avars, etc.) threatened the frontier.", explanation: "The steppe raider context helps date this battle." },
-            { cost: 25, text: "Coalition armies combining Roman forces with Germanic 'allies settled within imperial territory' was specifically a 5th century arrangement, as the western empire relied increasingly on federate troops.", explanation: "The coalition structure helps narrow the date." }
+            { cost: 20, text: "Horse archer cavalry from the steppes raiding the empire was characteristic of the 4th-5th centuries CE, when various steppe peoples threatened the frontier.", explanation: "The steppe raider context helps date this battle." },
+            { cost: 25, text: "Coalition armies combining imperial forces with barbarian 'allies settled within imperial territory' was specifically a 5th century arrangement, as the western empire relied increasingly on federate troops.", explanation: "The coalition structure helps narrow the date." }
         ],
         explanation: "This was the Battle of the Catalaunian Plains (also called Châlons) in June 451 CE, where Attila the Hun was finally stopped. The Roman general Aetius ('the last of the Romans') assembled a coalition including the Visigoths under King Theodoric I, Burgundians, Franks, and other Germanic peoples 'settled within imperial territory' as federates—the characteristic 5th-century arrangement. Attila's Hunnic horse archers and Germanic allies attacked the coalition. Theodoric was killed, but his son Thorismund rallied the Visigoths and nearly trapped Attila's army. Attila withdrew—possibly the only significant defeat he ever suffered. He died two years later, and his empire fragmented among quarreling sons. Composite bow horse archers threatening Rome indicates the 4th-5th century. The Western Empire had 'only decades remaining'—it fell in 476 CE.",
         tags: ["pitched-battle", "5th-century", "europe"]
@@ -2116,8 +2116,8 @@ The imperial general had fewer troops—perhaps 20,000—but cunning beyond meas
 
 When the barbarian lancers charged, arrows darkened the sky. The king himself was struck in the first moments, mortally wounded. His cavalry, seeing their leader fall, broke and fled. The general's forces pursued relentlessly. By nightfall, the barbarian army was destroyed, and the king was found dying in a thicket.`,
         hints: [
-            { cost: 20, text: "Byzantine combined-arms tactics—dismounted cavalry with massed archers—characterized 6th century imperial warfare.", explanation: "The tactical approach helps date this battle." },
-            { cost: 25, text: "The Gothic Wars in Italy, as Byzantium attempted to reconquer the Western Roman provinces, lasted from 535-554 CE.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Eastern imperial combined-arms tactics (dismounted cavalry with massed archers) characterized 6th century Mediterranean warfare.", explanation: "The tactical approach helps date this battle." },
+            { cost: 25, text: "The wars to reconquer the western provinces from barbarian kingdoms lasted from 535-554 CE.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Taginae (Busta Gallorum) in June or July 552, where Byzantine general Narses destroyed the Ostrogothic Kingdom. King Totila, who had nearly driven the Byzantines from Italy, died from an arrow wound early in the battle. Narses—a 74-year-old eunuch who had never commanded in the field before this campaign—proved a tactical genius. His 8,000 archers devastated the Gothic cavalry charges. The Ostrogothic Kingdom fell within months; Italy returned to imperial rule, though it would be lost again to the Lombards within a generation. Byzantine combined-arms tactics (dismounted cavalry, massed archers) and the Gothic Wars (535-554) precisely date this battle.",
         tags: ["pitched-battle", "6th-century", "europe"]
@@ -2137,8 +2137,8 @@ The enemy feigned retreat for nine days, drawing the allied army further and fur
 
 The slaughter was total. Of the princes who led the army, six were captured and executed in a peculiar manner: placed beneath wooden boards while the victors feasted atop them, crushing them slowly. The survivors fled; nothing stood between the invaders and the heartland.`,
         hints: [
-            { cost: 20, text: "Mongol decimal military organization (units of 10, 100, 1000) and disciplined horse archery was characteristic of 13th-century steppe warfare.", explanation: "The military organization helps date this battle." },
-            { cost: 25, text: "The first Mongol incursion into Eastern Europe occurred in 1223, nearly two decades before the main invasion.", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "Decimal military organization (units of 10, 100, 1000) and disciplined horse archery was characteristic of 13th-century steppe warfare.", explanation: "The military organization helps date this battle." },
+            { cost: 25, text: "The first steppe incursion into Eastern Europe from the great eastern empire occurred in 1223, nearly two decades before the main invasion.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of the Kalka River on May 31, 1223, where Mongol generals Jebe and Subutai destroyed a coalition of Kievan Rus' princes and Cuman (Kipchak) allies. Mstislav the Bold of Galicia led the charge; Mstislav III of Kiev held a fortified camp but surrendered after three days, only to be executed—the Mongols placed boards over the princes and feasted on top of them, crushing them to death (spilling royal blood on the ground was taboo). This was merely a reconnaissance raid; the main Mongol invasion came in 1237-1240. Mongol decimal organization and horse archery characterizes 13th-century steppe warfare. The 1223 incursion precisely dates this battle.",
         tags: ["pitched-battle", "13th-century", "eastern-europe"]
@@ -2158,8 +2158,8 @@ The battle turned on firepower. The westerners' gunnery shattered the allied fle
 
 The victory gave the western nation a monopoly on the spice trade that would last a century, transforming them from a poor kingdom into one of the world's wealthiest empires.`,
         hints: [
-            { cost: 20, text: "Carracks with broadside cannon defeating dhows and traditional vessels was characteristic of early Portuguese expansion in the Indian Ocean (1498-1550).", explanation: "The ship types help date this battle." },
-            { cost: 25, text: "The Mamluk Sultanate's attempts to expel Portuguese from the Indian Ocean occurred between 1505-1509, before the Ottomans conquered Egypt.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Carracks with broadside cannon defeating dhows and traditional vessels was characteristic of early western expansion in the Indian Ocean (1498-1550).", explanation: "The ship types help date this battle." },
+            { cost: 25, text: "A Red Sea power's attempts to expel western seafarers from the Indian Ocean occurred between 1505-1509, before the region changed hands.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Diu on February 3, 1509, where Portuguese Viceroy Francisco de Almeida destroyed a combined Mamluk-Gujarati fleet. The Mamluks had sent a fleet from Egypt via the Red Sea to challenge Portuguese control of Indian Ocean trade; Sultan Mahmud of Gujarat provided additional ships. Almeida's cannon-armed carracks devastated the allied fleet—the Mamluk commander Amir Husain was killed. Portugal's spice monopoly was secured for decades. Carracks with broadside cannon versus traditional dhows characterized early Portuguese Indian Ocean expansion (1498-1550). Mamluk naval attempts against Portugal (1505-1509) precisely date this battle.",
         tags: ["naval", "16th-century", "asia"]
@@ -2293,8 +2293,8 @@ When the wind shifted, the defender launched his fireships into the packed, chai
 
 The victor united the realm within five years, founding a dynasty that would rule for nearly three centuries. The battle—perhaps 200,000 killed—remained the largest naval engagement until the 20th century.`,
         hints: [
-            { cost: 20, text: "Tower ships connected by chains, fought with fireships and arrows, was characteristic of Chinese naval warfare from roughly 1100-1400 CE.", explanation: "The naval technology helps date this battle." },
-            { cost: 25, text: "Warlords fighting to succeed the Mongol Yuan dynasty occurred specifically during the mid-14th century (1350s-1368).", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Tower ships connected by chains, fought with fireships and arrows, was characteristic of East Asian naval warfare from roughly 1100-1400 CE.", explanation: "The naval technology helps date this battle." },
+            { cost: 25, text: "Warlords fighting to succeed the steppe dynasty that had ruled for a century occurred specifically during the mid-14th century (1350s-1368).", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Lake Poyang in 1363, where Zhu Yuanzhang defeated Chen Youliang in the largest naval battle in history until modern times. Chen's fleet of giant tower ships, chained together for stability, became deathtraps when Zhu's fireships set them ablaze. Chen was killed by an arrow; over 200,000 men may have died. Zhu went on to found the Ming Dynasty in 1368, ruling as the Hongwu Emperor. Tower ships with chains and fireships characterized Chinese naval warfare 1100-1400 CE. The warlord conflicts following Yuan collapse occurred in the 1350s-1360s.",
         tags: ["naval", "14th-century", "asia"]
@@ -2333,7 +2333,7 @@ The eastern cavalry charged. The arquebuses and artillery shattered them. Wave a
 
 Yet the victory proved hollow: the sultan couldn't hold the mountainous territory, and the religious war would continue for two more centuries.`,
         hints: [
-            { cost: 20, text: "Janissaries with matchlock arquebuses behind chained artillery, facing cavalry armies without firearms, was the characteristic Ottoman tactical superiority from roughly 1450-1600.", explanation: "The military technology helps date this battle." },
+            { cost: 20, text: "Elite slave soldiers with matchlock arquebuses behind chained artillery, facing cavalry armies without firearms, was characteristic from roughly 1450-1600.", explanation: "The military technology helps date this battle." },
             { cost: 25, text: "Religious wars between Sunni and Shia powers with firearms versus cavalry were most intense from 1501-1639.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Chaldiran on August 23, 1514, where Ottoman Sultan Selim I crushed Shah Ismail I's Safavid army. The Ottoman janissaries' matchlocks and cannon devastated the Qizilbash cavalry charges. Selim captured Tabriz but couldn't hold Persia—the logistical difficulties were insurmountable. The Sunni-Shia divide deepened into permanent hostility. Ismail, previously considered divinely protected, lost his aura of invincibility and became a recluse. Janissaries with arquebuses behind chained guns (1450-1600) facing cavalry without firearms, and the early Ottoman-Safavid wars (1501-1639), precisely date this battle.",
@@ -2354,8 +2354,8 @@ Meanwhile, the main army attacked from multiple directions. The Cuman horse arch
 
 The kingdom entered a golden age, its territory tripling over the following decades.`,
         hints: [
-            { cost: 20, text: "Cuman horse archers—Turkic nomads from the Pontic steppe—served as mercenaries in Eastern European and Caucasian armies primarily from 1050-1240 CE.", explanation: "The mercenary type helps date this battle." },
-            { cost: 25, text: "Georgian expansion against fragmented Seljuk successor states occurred during the early 12th century, peaking in the 1120s.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Steppe horse archers serving as mercenaries in Eastern European and Caucasian armies were common from 1050-1240 CE.", explanation: "The mercenary type helps date this battle." },
+            { cost: 25, text: "Caucasian kingdoms expanding against fragmented sultanate successor states occurred during the early 12th century, peaking in the 1120s.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Didgori on August 12, 1121, where King David IV 'the Builder' of Georgia destroyed a massive Seljuk coalition. David's 40,000—including 15,000 Cuman mercenaries—routed perhaps 200,000 Seljuks. The 200-man suicide squad that attacked during 'negotiations' threw the Seljuk camp into chaos. Georgia's 'golden age' followed: David captured Tbilisi (1122) and tripled his territory. The battle is celebrated as Georgia's greatest military victory. Cuman horse archers (1050-1240) and Georgian expansion against Seljuk fragments (early 12th century) precisely date this battle.",
         tags: ["pitched-battle", "12th-century", "caucasus"]
@@ -2506,8 +2506,8 @@ The sultan force-marched his army from distant campaigns, covering impossible di
 
 He almost succeeded. The king's cavalry broke through the elite slave-soldier infantry and reached the sultan's bodyguard. Then the king fell—killed or captured and beheaded. His head was displayed on a pike. The attacking army was annihilated.`,
         hints: [
-            { cost: 20, text: "Janissary infantry with early firearms facing European heavy cavalry was characteristic of 15th-century Ottoman warfare.", explanation: "The military matchup helps date this battle." },
-            { cost: 25, text: "Major crusading expeditions against the Ottomans occurred in the 1390s-1440s, before Constantinople fell and such efforts became hopeless.", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "Elite slave-soldier infantry with early firearms facing western heavy cavalry was characteristic of 15th-century eastern Mediterranean warfare.", explanation: "The military matchup helps date this battle." },
+            { cost: 25, text: "Major crusading expeditions into the Balkans occurred in the 1390s-1440s, before the great eastern city fell and such efforts became hopeless.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Varna on November 10, 1444, where Sultan Murad II destroyed the Crusade of Varna. King Władysław III of Poland and Hungary—only 20 years old—broke a sworn truce to continue the crusade. When his cavalry charge reached Murad's bodyguard, the king was killed and beheaded; his head was preserved in honey and sent to the Ottoman capital. Cardinal Cesarini, who had urged breaking the truce, was also killed. Hungary lost its king and never recovered its strength; the Ottomans faced no serious European opposition until Vienna in 1529. Janissaries with early firearms (1380s-1500) and pre-1453 crusading identify this battle.",
         tags: ["pitched-battle", "15th-century", "balkans"]
@@ -2525,7 +2525,7 @@ When the invaders camped in a foggy valley, the prince attacked at dawn. His lig
 
 The sultan mounted a larger expedition the following year and eventually forced submission. But the prince's legend grew. He would fight dozens of battles, never losing, and be remembered as his nation's greatest hero.`,
         hints: [
-            { cost: 20, text: "Light cavalry with limited firearms facing Ottoman armies characterized Eastern European frontier warfare from roughly 1400-1600.", explanation: "The military style helps date this battle." },
+            { cost: 20, text: "Light cavalry with limited firearms facing major imperial armies characterized Eastern European frontier warfare from roughly 1400-1600.", explanation: "The military style helps date this battle." },
             { cost: 25, text: "Small principalities defeating major empires through guerrilla ambush tactics was briefly possible in the late 15th century, before such states were absorbed.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Vaslui on January 10, 1475, where Stephen III 'the Great' of Moldavia destroyed an Ottoman army under Hadim Suleiman Pasha. Stephen's 40,000 men ambushed 120,000 Ottomans in a foggy valley; perhaps 45,000 Turks died. Pope Sixtus IV called Stephen 'Athlete of Christ.' The sultan's revenge expedition in 1476 forced Stephen to submit, but he continued resisting until his death in 1504. Light cavalry raids and ambush tactics against Ottoman armies characterized 15th-century Eastern European warfare. Moldavian independence struggles peaked in the 1470s.",
@@ -2544,7 +2544,7 @@ The troops still on the near bank were annihilated. The sultan's guard fought de
 
 The disaster forced the empire to accept peace, ending a war that had begun with an attempt to capture the enemy capital fifteen years earlier. The victorious general would become the age's most celebrated soldier.`,
         hints: [
-            { cost: 20, text: "Large Ottoman armies with Janissary infantry and sipahi cavalry facing European forces with flintlock muskets characterized late 17th-century Balkan warfare.", explanation: "The military composition helps date this battle." },
+            { cost: 20, text: "Large eastern imperial armies with slave-soldier infantry and feudal cavalry facing European forces with flintlock muskets characterized late 17th-century Balkan warfare.", explanation: "The military composition helps date this battle." },
             { cost: 25, text: "Major coalition victories pushing eastern empires back from central Europe occurred in the 1680s-1690s.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Zenta on September 11, 1697, where Prince Eugene of Savoy caught Sultan Mustafa II crossing the Tisza River. Eugene attacked as the Ottoman army was split by the river; the trapped forces were annihilated. Over 30,000 Ottomans died including Grand Vizier Elmas Mehmed Pasha; the sultan's treasury and harem were captured. The Treaty of Karlowitz (1699) followed, the first treaty where the Ottomans ceded major European territory. Flintlock-era European armies versus traditional Ottoman forces characterized the 1680s-1700s. The Great Turkish War (1683-1699) precisely dates this battle.",
@@ -2563,8 +2563,8 @@ Outside the ancient capital, perhaps 20,000 cavalry charged the invaders' line. 
 
 The ancient dynasty ended that day. The invaders would rule the conquered lands for four centuries, and the holy cities of Islam passed to their control.`,
         hints: [
-            { cost: 20, text: "Mamluk cavalry refusing to adopt firearms against arquebus-armed opponents was specific to their final defeats in the 1510s.", explanation: "The technological asymmetry helps date this battle." },
-            { cost: 25, text: "The Ottoman conquest of the Mamluk Sultanate occurred in 1516-1517, adding Egypt and the Hejaz to the empire.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Slave-soldier cavalry refusing to adopt firearms against arquebus-armed opponents was specific to their final defeats in the 1510s.", explanation: "The technological asymmetry helps date this battle." },
+            { cost: 25, text: "The conquest of Egypt by a gunpowder empire from Anatolia occurred in 1516-1517.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Ridaniya on January 22, 1517, where Ottoman Sultan Selim I destroyed the Mamluk Sultanate. Sultan Tuman bay II's Mamluk cavalry, who scorned firearms, were slaughtered by Janissary arquebuses. Tuman bay was captured and hanged at the Zuweila Gate in Cairo. The Mamluks had ruled since 1250 and defeated the Mongols at Ain Jalut; their contempt for gunpowder weapons destroyed them. The Ottomans gained Egypt, the Hejaz (with Mecca and Medina), and the title of Caliph. Mamluk cavalry versus arquebus infantry was specific to 1516-1517. Ottoman conquest of Egypt precisely dates this battle.",
         tags: ["pitched-battle", "16th-century", "middle-east"]
@@ -2582,7 +2582,7 @@ The battle was close. The imperial heavy cavalry nearly broke through; the sulta
 
 The imperial army was annihilated. The capital—one of the world's largest and wealthiest cities—was looted for six months. The temples were demolished, the treasuries emptied. An empire that had flourished for two centuries was utterly destroyed.`,
         hints: [
-            { cost: 20, text: "Ottoman-trained artillery in Indian warfare, combined with war elephants and heavy cavalry, was characteristic of 16th-century Deccan conflicts.", explanation: "The military technologies help date this battle." },
+            { cost: 20, text: "Foreign-trained artillery in Indian warfare, combined with war elephants and heavy cavalry, was characteristic of 16th-century Deccan conflicts.", explanation: "The military technologies help date this battle." },
             { cost: 25, text: "The Deccan sultanates' coalition against Hindu kingdoms peaked in the 1560s-1570s.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Talikota (Rakshasa-Tangadi) on January 26, 1565, where a coalition of Deccan sultanates destroyed the Vijayanagara Empire. The sultanates—Ahmadnagar, Bijapur, Golconda, Bidar, and Berar—united against Hindu Vijayanagara. Rama Raya, the imperial regent, was captured and beheaded on the battlefield; two Muslim generals in his service switched sides mid-battle. Vijayanagara, then among the world's largest cities, was sacked for months. Ottoman-trained artillery in Deccan warfare and the sultanate coalition characterize the 1560s-1570s.",
@@ -2601,8 +2601,8 @@ The battle was fought in a mountain pass. The Rajput king, riding his war elepha
 
 The king was wounded but escaped—carried from the field by his loyal horse, who died of wounds after bearing him to safety. He never submitted, fighting from jungle hideouts until his death years later. The Mughals never broke his spirit; his legend inspired resistance for centuries.`,
         hints: [
-            { cost: 20, text: "Mughal armies combining Central Asian cavalry tactics with Indian war elephants characterized 16th-17th century subcontinental warfare.", explanation: "The military composition helps date this battle." },
-            { cost: 25, text: "Mughal expansion into Rajputana under Akbar occurred primarily in the 1560s-1580s.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Armies combining Central Asian cavalry tactics with war elephants characterized 16th-17th century subcontinental warfare.", explanation: "The military composition helps date this battle." },
+            { cost: 25, text: "Imperial expansion into the western kingdoms of the subcontinent occurred primarily in the 1560s-1580s.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Haldighati on June 18, 1576, where Mughal forces under Man Singh I fought Maharana Pratap of Mewar. Pratap's 3,000 Rajputs faced 10,000 Mughals in a mountain pass. Pratap, riding his legendary horse Chetak, nearly killed Man Singh before being wounded. Chetak carried Pratap to safety, then died. Pratap never submitted to Akbar, waging guerrilla war until his death in 1597. Mughal-Rajput warfare with cavalry and elephants characterized 16th-century India. Akbar's Rajputana campaigns (1560s-1580s) precisely date this battle.",
         tags: ["pitched-battle", "16th-century", "asia"]
@@ -2637,8 +2637,8 @@ The imperial fleet sailed upriver with the tide. The defending army made a fight
 
 The empire abandoned its claims. The kingdom would remain independent for the next thousand years.`,
         hints: [
-            { cost: 20, text: "River stake traps against naval invasions were used in Vietnamese warfare from the 10th through 13th centuries.", explanation: "The distinctive tactic helps date this battle." },
-            { cost: 25, text: "Vietnamese independence from Chinese rule was established in the 10th century after centuries of domination.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "River stake traps against naval invasions were used in Southeast Asian warfare from the 10th through 13th centuries.", explanation: "The distinctive tactic helps date this battle." },
+            { cost: 25, text: "A Southeast Asian kingdom establishing independence from a great northern empire occurred in the 10th century.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Bạch Đằng River in 938, where Ngô Quyền destroyed the Southern Han fleet and established Vietnamese independence. Iron-tipped stakes driven into the riverbed at low tide impaled the Chinese ships when the tide fell; the stranded fleet was annihilated. General Liu Hongcao was killed. Vietnam remained independent for over a thousand years (with brief interruptions). The stake trap was used again in 981 and 1288 against later invaders. Vietnamese stake-trap tactics (10th-13th centuries) and the establishment of independence from China precisely date this battle.",
         tags: ["naval", "10th-century", "asia"]
@@ -2656,8 +2656,8 @@ The sultan died in his tent of old age before the fortress fell—but his death 
 
 The empire captured a ruin filled with corpses. The sultan's body was carried home in secret; his death wasn't announced until his son was safely on the throne.`,
         hints: [
-            { cost: 20, text: "Ottoman siege warfare with Janissary infantry and heavy artillery against European trace italienne fortifications was characteristic of 16th-century conflicts.", explanation: "The military technologies help date this battle." },
-            { cost: 25, text: "The Ottoman Empire's greatest expansion, particularly in Hungary and the Mediterranean, occurred from the 1520s to the 1560s.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Eastern siege warfare with slave-soldier infantry and heavy artillery against European trace italienne fortifications was characteristic of 16th-century conflicts.", explanation: "The military technologies help date this battle." },
+            { cost: 25, text: "The great eastern empire's greatest expansion, particularly in central Europe and the Mediterranean, occurred from the 1520s to the 1560s.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Siege of Szigetvár from August 5 to September 8, 1566, where Croatian-Hungarian forces under Count Nikola Šubić Zrinski held off Sultan Suleiman the Magnificent's army. Suleiman died on September 6, two days before the fortress fell; Grand Vizier Sokollu Mehmed Pasha concealed his death. Zrinski led a final charge and was killed; the survivors detonated the magazine, killing 3,000 Janissaries. The Ottomans lost 20,000-30,000 men for a worthless ruin. Ottoman siege warfare against European fortifications characterized 16th-century warfare. Suleiman's reign (1520-1566) precisely dates this battle.",
         tags: ["siege", "16th-century", "europe"]
@@ -2770,8 +2770,8 @@ When the invaders finally broke, the slaughter was total. The young king was kil
 
 The kingdom lost its king, its heir, and most of its nobility in a single afternoon. Within two years, a neighboring monarch claimed the vacant throne. The kingdom would not be independent again for sixty years.`,
         hints: [
-            { cost: 20, text: "Moroccan arquebusiers and cavalry defeating European heavy cavalry was characteristic of the late 16th-century North African frontier.", explanation: "The military matchup helps date this battle." },
-            { cost: 25, text: "Portuguese crusading expeditions to Morocco occurred from the 1410s to 1578, ending in decisive defeat.", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "North African arquebusiers and cavalry defeating European heavy cavalry was characteristic of the late 16th-century frontier.", explanation: "The military matchup helps date this battle." },
+            { cost: 25, text: "European crusading expeditions to Morocco occurred from the 1410s to 1578, ending in decisive defeat.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Alcácer Quibir (Battle of Three Kings) on August 4, 1578, where Moroccan Sultan Abd al-Malik destroyed King Sebastian I of Portugal's crusading army. Three kings died: Sebastian (killed), Abd al-Malik (died of illness during the battle), and the pretender Muhammad II (drowned fleeing). Portugal lost 8,000 dead and 15,000 captured, including most of its nobility. The ransom bankrupted the nation; Philip II of Spain claimed the throne in 1580. Portuguese crusading in Morocco ended forever. Moroccan firearms defeating European cavalry characterized the late 16th century.",
         tags: ["pitched-battle", "16th-century", "africa"]
@@ -2827,7 +2827,7 @@ But the usurper had hidden his reserve behind a hill. As the prince's cavalry sc
 
 Two months later, the boy was publicly beheaded in the marketplace—the pope's blessing on his execution. His dynasty ended; the usurper's line ruled for two centuries. It was the last time a Hohenstaufen tried to reclaim the imperial heritage.`,
         hints: [
-            { cost: 20, text: "German heavy cavalry with great helms facing Italian/Angevin forces was characteristic of the Hohenstaufen-Angevin conflicts of the 1260s.", explanation: "The military forces help date this battle." },
+            { cost: 20, text: "Heavy cavalry with great helms facing southern Italian forces was characteristic of the 1260s dynastic conflicts.", explanation: "The military forces help date this battle." },
             { cost: 25, text: "The struggle for Sicily between Hohenstaufen claimants and Charles of Anjou occurred in 1266-1268.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Tagliacozzo on August 23, 1268, where Charles I of Anjou defeated Conradin, the last Hohenstaufen. Conradin's German cavalry broke two Angevin divisions, but Charles's hidden reserve under Erard de Valéry counterattacked and routed the disordered Germans. Conradin was captured and beheaded in Naples on October 29, 1268—he was sixteen. The Hohenstaufen dynasty ended; the Angevins ruled southern Italy until the Sicilian Vespers (1282). German heavy cavalry with great helms characterized 1260s warfare. The Hohenstaufen-Angevin conflict (1266-1268) precisely dates this battle.",
@@ -2846,8 +2846,8 @@ The two armies met in a mountain pass. The sultan's army formed battle lines, bu
 
 The sultanate became a vassal state, its independence ended forever. The invaders would dominate the region for a century, until their own empire fragmented and new powers rose from the chaos.`,
         hints: [
-            { cost: 20, text: "Mongol cavalry tactics—horse archer encirclement with heavy cavalry reserve—shattered conventional armies from China to Europe between roughly 1210-1280.", explanation: "The tactical pattern helps date this battle." },
-            { cost: 25, text: "The Mongol invasion of Anatolia, which reduced the Seljuk Sultanate of Rum to vassalage, occurred in the 1240s.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Steppe cavalry tactics—horse archer encirclement with heavy cavalry reserve—shattered conventional armies across Eurasia between roughly 1210-1280.", explanation: "The tactical pattern helps date this battle." },
+            { cost: 25, text: "The steppe invasion that reduced the major sultanate of Anatolia to vassalage occurred in the 1240s.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Köse Dağ on June 26, 1243, where Mongol commander Baiju defeated Sultan Kaykhusraw II of the Seljuk Sultanate of Rum. The Seljuks had perhaps 80,000 men; the Mongols perhaps 30,000. The sultan's army panicked when Mongol horse archers began their encirclement; the rout was total. The sultanate became a Mongol vassal and never recovered independence. The Mongols dominated Anatolia until the Ilkhanate fragmented in the 1330s; the Ottomans rose from the chaos. Mongol cavalry tactics (1210-1280) and the invasion of Anatolia precisely date this battle.",
         tags: ["pitched-battle", "13th-century", "middle-east"]
@@ -2865,7 +2865,7 @@ In the riverbed, the imperial knights' heavier armor proved a liability. The inv
 
 The pope's champion had won. But his harsh rule provoked rebellion within twenty years; on one evening, every foreign soldier on the island was massacred, and the kingdom was lost forever.`,
         hints: [
-            { cost: 20, text: "German imperial cavalry with great helms and full mail facing French Angevin forces characterized the 1260s Italian conflicts.", explanation: "The military forces help date this battle." },
+            { cost: 20, text: "Imperial cavalry with great helms and full mail facing southern forces characterized the 1260s Italian conflicts.", explanation: "The military forces help date this battle." },
             { cost: 25, text: "The papal-backed conquest of southern Italy from the Hohenstaufen occurred in 1265-1266.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Benevento on February 26, 1266, where Charles I of Anjou defeated and killed King Manfred of Sicily. Manfred, illegitimate son of Frederick II, held strong ground but his German cavalry charged prematurely. The battle in the riverbed favored the lighter French horse; Manfred died fighting on foot after his horse was killed. Charles's harsh rule provoked the Sicilian Vespers (1282), when the French were massacred and Sicily passed to Aragon. German imperial cavalry with great helms characterized 1260s warfare. Charles's conquest (1265-1266) precisely dates this battle.",
@@ -2884,8 +2884,8 @@ The king's horse was killed beneath him. Fighting on foot, surrounded, he was fo
 
 But the king's son escaped and raised an army. Within a year, the earl would be dead, his body mutilated, his reforms seemingly destroyed—yet his legacy would shape government for centuries.`,
         hints: [
-            { cost: 20, text: "English baronial cavalry fighting in the mid-13th century used mail armor with surcoats and early great helms.", explanation: "The equipment helps date this battle." },
-            { cost: 25, text: "The Second Barons' War in England occurred from 1264-1267, with parliament's role permanently expanded.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Baronial cavalry fighting in the mid-13th century used mail armor with surcoats and early great helms.", explanation: "The equipment helps date this battle." },
+            { cost: 25, text: "The Second Barons' War occurred from 1264-1267, with parliament's role permanently expanded.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Lewes on May 14, 1264, where Simon de Montfort defeated King Henry III. Prince Edward's cavalry routed the Londoners but pursued too far; de Montfort destroyed the royal center. Henry was captured; Edward became a hostage. De Montfort summoned the first English parliament including commoners in 1265. Edward escaped and killed de Montfort at Evesham later that year, but parliamentary representation endured. English baronial cavalry with mail and surcoats characterized mid-13th century warfare. The Second Barons' War (1264-1267) precisely dates this battle.",
         tags: ["pitched-battle", "13th-century", "europe"]
@@ -2903,7 +2903,7 @@ The earl found himself surrounded at a small town, his army outnumbered and exha
 
 The earl was killed, his body dismembered—hands, feet, and head cut off, his genitals stuffed in his mouth. Yet his cause outlived him: the parliament he had created would grow to rule the kingdom. Even in death, he had changed England forever.`,
         hints: [
-            { cost: 20, text: "English cavalry charges uphill against prepared positions were characteristic of desperate battles in the Barons' Wars.", explanation: "The tactical situation helps date this battle." },
+            { cost: 20, text: "Cavalry charges uphill against prepared positions were characteristic of desperate battles in the Barons' Wars.", explanation: "The tactical situation helps date this battle." },
             { cost: 25, text: "The royalist victory that ended Simon de Montfort's rule occurred in 1265.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Evesham on August 4, 1265, where Prince Edward destroyed Simon de Montfort's army. Edward had first destroyed de Montfort's son's army at Kenilworth, then trapped the earl at Evesham. De Montfort reportedly said 'May God have mercy on our souls, for our bodies are theirs.' His body was mutilated; his head was sent to Roger Mortimer's wife. Yet the Provisions of Oxford and parliamentary representation survived. English baronial warfare with charges and counter-charges characterized the 1260s. The Second Barons' War's climax (1265) precisely dates this battle.",
@@ -2922,7 +2922,7 @@ The emperor, overconfident from easy victories against disorganized resistance, 
 
 The emperor himself was captured—an unthinkable humiliation. He was taken to the enemy capital and never seen again; stories claimed he was executed, his skull made into a drinking cup. The Latin Empire never recovered its strength; within sixty years, the true heirs would reclaim their capital.`,
         hints: [
-            { cost: 20, text: "Frankish crusader cavalry facing Cuman-style horse archers in Balkan warfare characterized the early 13th century.", explanation: "The military matchup helps date this battle." },
+            { cost: 20, text: "Western heavy cavalry facing steppe-style horse archers in Balkan warfare characterized the early 13th century.", explanation: "The military matchup helps date this battle." },
             { cost: 25, text: "The Latin Empire of Constantinople, established by the Fourth Crusade, lasted from 1204-1261.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Adrianople on April 14, 1205, where Bulgarian Tsar Kaloyan destroyed the army of Latin Emperor Baldwin I. Baldwin led 300 knights against 14,000 Bulgarians and Cumans; his cavalry pursuit left his infantry exposed. Baldwin was captured and never seen again—legend says Kaloyan had his skull made into a drinking cup. The Latin Empire was fatally weakened; the Byzantines recaptured Constantinople in 1261. Frankish cavalry facing Cuman horse archers characterized early 13th-century Balkan warfare. The Latin Empire period (1204-1261) precisely dates this battle.",
@@ -2941,7 +2941,7 @@ The battle began in jungle-covered ground that nullified the invaders' advantage
 
 But the invaders' reinforcements arrived overnight. The next morning's renewed assault broke the native line. The kingdom surrendered within a month; the famous diamond was sent as a gift to the invaders' queen. The last great native power had fallen.`,
         hints: [
-            { cost: 20, text: "Native armies with European-trained artillery facing British-Indian forces characterized the final conquests of the 1840s.", explanation: "The military matchup helps date this battle." },
+            { cost: 20, text: "Native armies with European-trained artillery facing colonial forces characterized the final conquests of the 1840s.", explanation: "The military matchup helps date this battle." },
             { cost: 25, text: "The final conquest of the great native powers in the subcontinent occurred in the late 1840s, ending an era of independent native armies.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Chillianwala on January 13, 1849, one of the bloodiest battles in British Indian history. Hugh Gough's British-Indian army attacked Sher Singh's Sikhs in thick jungle; the Sikh artillery devastated the attackers. The British lost 2,300 casualties—more than at many famous victories. The battle was inconclusive, but the British won decisively at Gujarat a month later. The Koh-i-Noor diamond went to Queen Victoria. European-trained native artillery facing British forces characterized the 1840s. The Second Anglo-Sikh War (1848-1849) precisely dates this battle.",
@@ -2999,7 +2999,7 @@ The brigade formed square on a dusty plain. The tribesmen attacked in waves, pre
 Only a legendary march by a relief column—300 miles in 20 days—saved the survivors and prevented a wider disaster. The invaders would eventually prevail, but they had learned that the mountain tribes were not to be underestimated.`,
         hints: [
             { cost: 20, text: "Martini-Henry breech-loading rifles were standard infantry weapons from roughly 1871-1895. Jezails—long-barreled muzzle-loading rifles—remained common in Central Asian mountain regions throughout the 19th century.", explanation: "The weapons help date this battle." },
-            { cost: 25, text: "Major British defeats in Afghanistan occurred in 1842 and 1880.", explanation: "The strategic context helps narrow the date." }
+            { cost: 25, text: "Major colonial defeats in the mountain kingdom occurred in 1842 and 1880.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Maiwand on July 27, 1880, where Ayub Khan's Afghans destroyed a British-Indian brigade under Brigadier George Burrows. Of 2,500 soldiers, over 1,700 were killed. General Frederick Roberts's legendary march from Kabul—300 miles in 20 days—relieved Kandahar and defeated Ayub Khan. The battle inspired a fictional veteran: Dr. Watson of Sherlock Holmes. Martini-Henry rifles versus Afghan jezails characterized the 1878-1880 war. The Second Anglo-Afghan War precisely dates this battle.",
         tags: ["pitched-battle", "19th-century", "asia"]
@@ -3112,7 +3112,7 @@ The truth is unclear—both sides claimed victory. What is certain is the afterm
 
 The battle became a national myth, commemorated for centuries as the death of freedom. The field itself remained sacred, fought over again and again—most recently in living memory, when old hatreds erupted in new atrocities.`,
         hints: [
-            { cost: 20, text: "Heavy cavalry with mail and partial plate facing Ottoman sipahis and early Janissaries characterized late 14th-century Balkan warfare.", explanation: "The military forces help date this battle." },
+            { cost: 20, text: "Heavy cavalry with mail and partial plate facing feudal cavalry and early slave-soldier infantry characterized late 14th-century Balkan warfare.", explanation: "The military forces help date this battle." },
             { cost: 25, text: "Balkan coalitions resisting the advancing eastern empire fought decisive battles in the late 14th century.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Kosovo on June 15, 1389, where Ottoman Sultan Murad I fought Serbian Prince Lazar Hrebeljanović. Both leaders died—Murad stabbed by Miloš Obilić, Lazar executed after the battle. The outcome was ambiguous, but Serbia became an Ottoman vassal. The battle became central to Serbian national identity, commemorated in epic poetry for six centuries. The 1989 anniversary was used to inflame nationalism. Heavy cavalry facing early Ottoman forces characterized late 14th-century Balkans. Serbian-Ottoman Kosovo conflicts precisely date this battle.",
@@ -3131,8 +3131,8 @@ The horde's general—ruling during a succession crisis—brought perhaps 100,00
 
 Then the hidden reserve struck. Fresh cavalry crashed into the horde's exhausted horsemen from a forest where they had concealed themselves. The rout was total. The horde retreated; tribute was never paid again—at least until the next great khan restored order and punished the rebels.`,
         hints: [
-            { cost: 20, text: "Russian heavy cavalry with mail armor facing Mongol-style horse archers characterized 14th-century conflicts with the Golden Horde.", explanation: "The military forces help date this battle." },
-            { cost: 25, text: "Russian resistance to Golden Horde tribute demands emerged in the late 14th century during Mongol succession crises.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Heavy cavalry with mail armor facing steppe-style horse archers characterized 14th-century tributary conflicts.", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "Tributary states resisting the steppe horde's demands emerged in the late 14th century during succession crises.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Kulikovo on September 8, 1380, where Grand Prince Dmitry of Moscow defeated Mamai of the Golden Horde. Dmitry earned the epithet 'Donskoy' (of the Don) for the victory. The ambush cavalry under Vladimir the Bold decided the battle. Russia still paid tribute afterward (Tokhtamysh sacked Moscow in 1382), but Kulikovo showed Mongol armies could be beaten, becoming a symbol of Russian resistance. Russian cavalry versus Golden Horde horse archers characterized 14th-century warfare. Russian resistance during Horde succession crises dates this battle.",
         tags: ["pitched-battle", "14th-century", "eastern-europe"]
@@ -3188,7 +3188,7 @@ On a barren hill with twin peaks, the Christians made their final stand. Exhaust
 
 By evening, the king was captured, the relic taken, and the Christian army destroyed. Within months, the holy city was recaptured. A new crusade would be called, but the Christian kingdom would never recover its full strength.`,
         hints: [
-            { cost: 20, text: "Crusader heavy cavalry facing Muslim horse archers, with the True Cross as a battle standard, characterized 12th-century Levantine warfare.", explanation: "The military elements help date this battle." },
+            { cost: 20, text: "Western heavy cavalry facing eastern horse archers, with the True Cross as a battle standard, characterized 12th-century Levantine warfare.", explanation: "The military elements help date this battle." },
             { cost: 25, text: "The reunification of Muslim forces under a single commander and destruction of the Christian kingdoms' field army occurred in 1187.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Hattin on July 4, 1187, where Saladin annihilated the Crusader army of Guy of Lusignan. The Crusaders, dying of thirst after a waterless march, made their stand on the Horns of Hattin. King Guy was captured; the True Cross was taken; Reynald of Châtillon was personally beheaded by Saladin. Jerusalem fell in October. The Third Crusade followed, but the Kingdom of Jerusalem never recovered. Crusader cavalry with the True Cross facing Saladin's horse archers characterized 12th-century warfare. Saladin's reunification (1187) precisely dates this battle.",
@@ -3226,8 +3226,8 @@ The battle was brief. The papal infantry broke at the first charge. The pope him
 
 The adventurers would go on to conquer the wealthy island to the south, then launch holy wars from their new kingdom. What began as robbery became a realm that would last for centuries.`,
         hints: [
-            { cost: 20, text: "Norman heavy cavalry defeating mixed Italian forces was characteristic of the Norman conquest of southern Italy (1030-1100).", explanation: "The military forces help date this battle." },
-            { cost: 25, text: "Papal attempts to expel the Normans from southern Italy occurred in the mid-11th century.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Northern heavy cavalry defeating mixed local forces was characteristic of the conquest of southern Italy (1030-1100).", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "Papal attempts to expel northern adventurers from southern Italy occurred in the mid-11th century.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Civitate on June 18, 1053, where Norman forces under Humphrey of Hauteville and Robert Guiscard defeated Pope Leo IX's army. The pope was captured but treated respectfully; he died in Norman custody the next year. The Treaty of Melfi (1059) granted papal recognition to Norman conquests. The Normans conquered Sicily (1061-1091) and later launched the First Crusade's key contingent. Norman cavalry defeating Italian forces characterized the 1030-1100 conquest. Papal conflict with Normans in the mid-11th century dates this battle.",
         tags: ["pitched-battle", "11th-century", "europe"]
@@ -3245,8 +3245,8 @@ By evening, the raiders were broken, fleeing to their ships. But the victory was
 
 The Viking Age was ending, but so was the dream of a united island. The high king's dynasty collapsed; the provinces resumed their feuds. Unity would not come again for centuries—and then only under foreign rule.`,
         hints: [
-            { cost: 20, text: "Irish warriors with axes and javelins facing Viking armies with mail and swords characterized 10th-11th century Irish warfare.", explanation: "The military forces help date this battle." },
-            { cost: 25, text: "The final great Viking invasion of Ireland occurred in the early 11th century.", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "Island warriors with axes and javelins facing sea raiders with mail and swords characterized 10th-11th century warfare.", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "The final great sea-raider invasion of the western isles occurred in the early 11th century.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Clontarf on April 23, 1014, where High King Brian Boru defeated a Viking-Leinster alliance. Brian, too old to fight, was killed in his tent by fleeing Vikings. His son Murchad and grandson Toirdelbach also died. The Vikings never again threatened Ireland, but Brian's dynasty collapsed without him. Irish unity died with him; centuries of provincial warfare followed. Irish warriors facing Vikings characterized 10th-11th century warfare. The final Viking invasion of Ireland dates this battle.",
         tags: ["pitched-battle", "11th-century", "europe"]
@@ -3264,7 +3264,7 @@ The battle was fought on a summer day near a farm. The king's followers were out
 
 Within a year, miracles were reported at his grave. Within a decade, he was declared a saint. The faith he had imposed by force became his kingdom's identity; his church still stands where he fell.`,
         hints: [
-            { cost: 20, text: "Viking-era warriors with mail, swords, axes, and spears characterized Scandinavian warfare from roughly 800-1100 CE.", explanation: "The equipment helps date this battle." },
+            { cost: 20, text: "Northern warriors with mail, swords, axes, and spears characterized 800-1100 CE warfare in the northern seas.", explanation: "The equipment helps date this battle." },
             { cost: 25, text: "The Christianization of Scandinavia, often by force, occurred primarily in the 10th-11th centuries.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Stiklestad on July 29, 1030, where King Olaf II of Norway was killed trying to reclaim his throne. Olaf had Christianized Norway by force; rebellious lords allied with Cnut the Great of Denmark to drive him out. Though defeated, Olaf became Saint Olaf within a year, his feast day still celebrated. The Stiklestad Church marks where he fell. Viking-era weapons and armor characterized 800-1100 CE warfare. The Christianization of Scandinavia precisely dates this battle.",
@@ -3302,8 +3302,8 @@ The two armies met on a plain near a small town. The Greeks advanced in their de
 
 By evening, the general was dead and his army shattered. The invasion was over; the peninsula was saved. The city-states returned to their feuds, but their victory would echo through millennia.`,
         hints: [
-            { cost: 20, text: "Greek hoplite phalanxes with bronze armor and thrusting spears facing Persian infantry and cavalry characterized the Greco-Persian Wars (499-449 BCE).", explanation: "The military forces help date this battle." },
-            { cost: 25, text: "Major Persian invasions of Greece occurred in 490 BCE and 480-479 BCE.", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "Hoplite phalanxes with bronze armor and thrusting spears facing eastern infantry and cavalry characterized the wars of 499-449 BCE.", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "Major eastern invasions of the city-states occurred in 490 BCE and 480-479 BCE.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Plataea in 479 BCE, where Greek forces under the Spartan regent Pausanias destroyed the Persian army of Mardonius. Mardonius was killed; the Persian invasion ended. Combined with the naval victory at Mycale the same day, Plataea secured Greek independence. The Greek hoplite phalanx proved superior to Persian infantry. Hoplite warfare against Persia characterized the Greco-Persian Wars (499-449 BCE). The second Persian invasion (480-479 BCE) precisely dates this battle.",
         tags: ["pitched-battle", "ancient", "europe"]
@@ -3340,7 +3340,7 @@ The elephants charged but were channeled through gaps in the enemy line and dest
 
 But the returning cavalry struck the rear. The great general, for the first time in his life, was defeated. His city sued for peace; a century later, it would be destroyed entirely. The young victor would be named for the continent he had conquered.`,
         hints: [
-            { cost: 20, text: "Roman legions with pila and gladii facing Carthaginian infantry, cavalry, and war elephants characterized the Second Punic War (218-201 BCE).", explanation: "The military forces help date this battle." },
+            { cost: 20, text: "Legions with pila and gladii facing infantry, cavalry, and war elephants characterized the great Mediterranean wars of the 3rd-2nd centuries BCE.", explanation: "The military forces help date this battle." },
             { cost: 25, text: "The final battle of the Second Punic War, fought in Africa, occurred in 202 BCE.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Zama in 202 BCE, where Scipio Africanus defeated Hannibal Barca, ending the Second Punic War. Scipio's Numidian cavalry under Masinissa swept the field; returning to strike Hannibal's rear, they decided the battle. Hannibal, undefeated for 17 years in Italy, lost his first and only pitched battle. Carthage surrendered; Rome dominated the Mediterranean. Roman legions versus Carthaginian combined arms characterized the Second Punic War (218-201 BCE). The final battle in Africa dates this precisely.",
@@ -3455,7 +3455,7 @@ The invasion was a bloody slog. Every village was fortified; every road was mine
 After three weeks, the great power declared victory and withdrew—having suffered perhaps 30,000 casualties to teach a "lesson" that didn't change anything. The neighbor continued occupying the ally for another decade. Both sides claimed victory; outside observers saw only mutual bloodletting.`,
         hints: [
             { cost: 20, text: "Mass infantry attacks with limited air support against entrenched opponents characterized Asian border conflicts of the late 1970s.", explanation: "The operational style helps date this battle." },
-            { cost: 25, text: "The Sino-Vietnamese War of 1979 was a brief punitive invasion following Vietnam's invasion of Cambodia.", explanation: "The strategic context helps narrow the date." }
+            { cost: 25, text: "A brief punitive border war between two socialist neighbors occurred in 1979, following one's invasion of a third country.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Sino-Vietnamese War of February-March 1979, China's 'punitive expedition' after Vietnam invaded Cambodia. China sent 200,000 troops against battle-hardened Vietnamese forces. The invasion captured Lạng Sơn but cost 20,000-30,000 Chinese casualties. China declared victory and withdrew; Vietnam stayed in Cambodia until 1989. Neither side achieved its objectives. Mass infantry attacks against entrenched forces characterized this 1979 border war.",
         tags: ["campaign", "20th-century", "asia"]
@@ -3492,8 +3492,8 @@ The cavalry wasn't gone. Returning during the battle, they struck the imperial f
 
 Nineteenth-century historians saw this as the moment cavalry replaced infantry as the dominant arm. Modern historians argue the barbarian army was mostly infantry and the empire actually had more horsemen—the defeat came from overconfidence and bad timing, not a shift in warfare.`,
         hints: [
-            { cost: 20, text: "Roman legions facing Gothic cavalry around a wagon laager was specific to the 376-382 Gothic War.", explanation: "The military situation helps date this battle." },
-            { cost: 25, text: "The defeat and death of a Roman emperor by barbarians within the empire occurred in 378.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Imperial legions facing barbarian cavalry around a wagon laager was specific to the 376-382 period.", explanation: "The military situation helps date this battle." },
+            { cost: 25, text: "The defeat and death of an emperor by barbarians within imperial territory occurred in 378.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Adrianople on August 9, 378, where Gothic cavalry destroyed Emperor Valens's army. Valens, impatient for glory, attacked without waiting for western reinforcements. Gothic heavy cavalry struck the Roman flanks; two-thirds of the army—perhaps 10,000 men—died, including Valens. The Goths were settled as foederati; within a century, their descendants ruled Italy. Roman infantry versus Gothic cavalry characterized late imperial warfare. Valens's death marks this as 378.",
         tags: ["pitched-battle", "ancient", "europe"]
@@ -3511,8 +3511,8 @@ The imperial army entered the passes confident of easy return. Instead, they fou
 
 The emperor himself was killed—the first to die in battle in over four centuries of the empire's existence. His skull was lined with silver and used as a drinking cup by the khan. The disaster ended the empire's offensive capability against this enemy for a generation.`,
         hints: [
-            { cost: 20, text: "Byzantine tagmata armies facing Bulgar ambushes in mountain passes characterized 9th century Balkan warfare.", explanation: "The forces help date this battle." },
-            { cost: 25, text: "Byzantine emperors dying in battle against Balkan enemies was extremely rare—occurring in 811.", explanation: "The rarity helps narrow the date." }
+            { cost: 20, text: "Eastern imperial tagmata armies facing steppe-descended ambushes in mountain passes characterized 9th century Balkan warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Eastern emperors dying in battle against Balkan enemies was extremely rare, occurring in 811.", explanation: "The rarity helps narrow the date." }
         ],
         explanation: "This was the Battle of Pliska on July 26, 811, where Khan Krum of Bulgaria annihilated Emperor Nicephorus I's Byzantine army. Nicephorus was the first Byzantine emperor to die in battle since Valens at Adrianople in 378—over 400 years earlier. Krum made the emperor's skull into a silver-lined drinking cup. The disaster ended Byzantine offensive operations against Bulgaria for decades. Byzantine tagmata versus Bulgar ambushes characterized 9th century Balkan warfare. An emperor dying in battle identifies this unique moment in Byzantine history.",
         tags: ["ambush", "9th-century", "balkans"]
@@ -3568,8 +3568,8 @@ The battle was decided quickly. The orthodox king killed the heretic king with h
 
 The orthodox kingdom would become the most powerful in the west, eventually claiming the title of empire itself. The church it championed would shape the continent for a millennium.`,
         hints: [
-            { cost: 20, text: "Frankish warriors with axes and angons (barbed javelins) facing Visigothic cavalry characterized early 6th-century warfare.", explanation: "The forces help date this battle." },
-            { cost: 25, text: "The Frankish conquest of Aquitaine from the Visigoths occurred in 507.", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "Warriors with axes and angons (barbed javelins) facing cavalry characterized early 6th-century warfare in the former western provinces.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "The conquest of Aquitaine by a northern kingdom from a southern one occurred in 507.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Vouillé in 507, where Clovis I of the Franks defeated and killed Alaric II of the Visigoths. Clovis, a recent convert to Catholicism, was supported by the church against the Arian Visigoths. The victory gave the Franks Aquitaine; the Visigoths retreated to Spain. The Frankish kingdom became medieval France's ancestor. Frankish axes facing Visigothic cavalry characterized early 6th-century warfare. The Frankish conquest of Aquitaine (507) precisely dates this battle.",
         tags: ["pitched-battle", "6th-century", "europe"]
@@ -3606,8 +3606,8 @@ The tribesmen—perhaps 20,000 Berbers fighting on their home ground—ambushed 
 
 The western provinces were lost forever. The caliphate would never reclaim them; the tribes would forge their own kingdoms. It was the caliphate's worst defeat since its founding—a shock that contributed to the dynasty's overthrow a decade later.`,
         hints: [
-            { cost: 20, text: "Arab cavalry with lance and bow facing Berber mountain warriors characterized 8th-century North African conflicts.", explanation: "The forces help date this battle." },
-            { cost: 25, text: "The Great Berber Revolt against the Umayyads occurred in 739-743.", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "Caliphate cavalry with lance and bow facing mountain tribesmen characterized 8th-century North African conflicts.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "The great tribal revolt in the western provinces of the caliphate occurred in 739-743.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of the Nobles (Battle of Bagdoura) in 740, where Berber rebels destroyed an Umayyad army sent from Syria. The Arab force—elite Syrian junds—was annihilated in a mountain ambush. The defeat cost the Umayyads their North African provinces permanently; the Berber kingdoms that emerged lasted centuries. The disaster contributed to the Abbasid revolution (750). Arab cavalry versus Berber warriors characterized 8th-century North African warfare. The Great Berber Revolt (739-743) precisely dates this battle.",
         tags: ["pitched-battle", "8th-century", "africa"]
@@ -3625,8 +3625,8 @@ The tribal confederation gathered to resist—perhaps 50,000 warriors armed with
 
 The battle raged across a plain bounded by a river and a forest. The tribal cavalry initially drove back the auxiliary horse, but the legionary infantry proved unstoppable. The tribal warriors, unable to match the disciplined formation fighting, broke and fled. The pursuit lasted until nightfall; casualties were heavy on both sides but the victory was complete. The general recovered two of the three lost eagles from the earlier disaster.`,
         hints: [
-            { cost: 20, text: "Segmented plate armor (lorica segmentata) over mail was standard Roman equipment from roughly 1 AD to 200 AD, replacing the older chain mail alone.", explanation: "The armor type helps date this battle." },
-            { cost: 25, text: "Major Roman campaigns to recover lost eagles occurred in the early 1st century AD.", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "Segmented plate armor (lorica segmentata) over mail was standard legionary equipment from roughly 1 AD to 200 AD, replacing the older chain mail alone.", explanation: "The armor type helps date this battle." },
+            { cost: 25, text: "Major imperial campaigns to recover lost eagles occurred in the early 1st century AD.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Idistaviso in 16 AD, where Germanicus defeated the Germanic confederation led by Arminius—the same leader who had destroyed Varus's three legions at Teutoburg Forest in 9 AD. Germanicus recovered two of the three lost eagles and devastated the tribes, but Emperor Tiberius recalled him before total victory, fearing his popularity. Segmented plate armor (lorica segmentata) became standard around 1 AD and identifies the early Imperial period. The campaign to avenge Teutoburg dates this precisely to 14-16 AD.",
         tags: ["pitched-battle", "1st-century", "europe"]
@@ -3644,7 +3644,7 @@ The governor chose his ground carefully: a narrow defile with forests protecting
 
 The tribal charge broke against the disciplined line. The legionaries hurled their javelins, then advanced in wedge formations. The narrow field negated the tribal numbers; the wagons blocked their retreat. The slaughter was immense—perhaps 80,000 dead, against fewer than 400 Romans. The queen took poison rather than face capture.`,
         hints: [
-            { cost: 20, text: "Roman legionaries with rectangular curved shields, javelins, and short swords fighting in wedge formations characterized the 1st century AD.", explanation: "The tactics help date this battle." },
+            { cost: 20, text: "Legionaries with rectangular curved shields, javelins, and short swords fighting in wedge formations characterized the 1st century AD.", explanation: "The tactics help date this battle." },
             { cost: 25, text: "Major tribal rebellions in the western provinces occurred mid-1st century AD.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Watling Street in 61 AD, where Governor Gaius Suetonius Paulinus crushed the rebellion of Queen Boudica of the Iceni. Boudica had burned Camulodunum (Colchester), Londinium (London), and Verulamium (St Albans). Paulinus chose a narrow battlefield that neutralized her numbers; the tribal wagons blocked retreat and became a slaughter pen. Boudica poisoned herself; her people never rebelled again. Roman legionary equipment and tactics are unmistakably 1st century AD. The destruction of three major colonial cities in the western provinces identifies this period precisely.",
@@ -3661,7 +3661,7 @@ Some historians think the frontier garrisons had been stripped to fight wars els
 
 The tribes were a mix: Germanic infantry armed with spears, long swords, and large shields, few owning mail; and steppe cavalry with bows and long lances. They spent three years in the western provinces, then crossed the mountains into the peninsula beyond. The empire never recovered the territory. A generation later, one tribe had taken the rich provinces across the southern sea; another had sacked the capital itself.`,
         hints: [
-            { cost: 20, text: "Late Roman limitanei (border troops) versus Germanic and nomadic warriors characterized 4th-5th century frontier warfare.", explanation: "The forces help date this period." },
+            { cost: 20, text: "Late imperial limitanei (border troops) versus tribal and nomadic warriors characterized 4th-5th century frontier warfare.", explanation: "The forces help date this period." },
             { cost: 25, text: "Major crossings of the frozen Rhine occurred during the 'Migration Period' of the early 5th century.", explanation: "The context helps narrow the date." }
         ],
         explanation: "This was the Crossing of the Rhine on December 31, 406 AD—one of history's pivotal moments. Vandals, Alans, and Suebi crossed the frozen river into Gaul, shattering the Roman frontier permanently. Within years they reached Spain; the Vandals would eventually take North Africa. The Western Empire, already weakened by civil war, never recovered these territories. Late Roman limitanei facing Germanic and nomadic invaders with mixed equipment characterizes 5th-century frontier collapse. The scale of migration—entire peoples, not just armies—distinguishes this period.",
@@ -3680,8 +3680,8 @@ The second day, a fierce regional wind rose from the mountains. A bishop writing
 
 The eastern emperor reunited the empire under one ruler. He died four months later.`,
         hints: [
-            { cost: 20, text: "Late Roman field armies (comitatenses) with mixed cavalry and infantry characterized 4th-5th century warfare.", explanation: "The forces help date this battle." },
-            { cost: 25, text: "Civil wars between eastern and western Roman emperors over religious policy occurred in the late 4th century.", explanation: "The context helps narrow the date." }
+            { cost: 20, text: "Late imperial field armies (comitatenses) with mixed cavalry and infantry characterized 4th-5th century warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Civil wars between eastern and western emperors over religious policy occurred in the late 4th century.", explanation: "The context helps narrow the date." }
         ],
         explanation: "This was the Battle of the Frigidus (Cold River) on September 5-6, 394 AD. Emperor Theodosius I of the East defeated the usurper Eugenius and his general Arbogast, who had championed paganism. The famous Bora wind on the second day demoralized Eugenius's troops—later Christians called it miraculous. Eugenius was executed; Arbogast committed suicide. The victory ended the last serious pagan revival in the empire. Late Roman comitatenses fighting under competing religious symbols (chi-rho vs pagan standards) precisely identifies the late 4th century religious conflict.",
         tags: ["pitched-battle", "4th-century", "europe"]
@@ -3720,8 +3720,8 @@ The battle was fought in winter, in harsh terrain. Both armies fielded heavy cav
 
 Within a year, the enemy empire sued for peace, returning everything they had taken. Within a decade, both empires would face a new threat from the south that would transform the world. But for this brief moment, the emperor had achieved complete victory.`,
         hints: [
-            { cost: 20, text: "Byzantine cataphracts versus Sasanian heavy cavalry characterized 6th-7th century Roman-Persian warfare.", explanation: "The forces help date this battle." },
-            { cost: 25, text: "Major Byzantine counter-offensives into Persian territory occurred in the early 7th century.", explanation: "The context helps narrow the date." }
+            { cost: 20, text: "Eastern cataphracts versus eastern heavy cavalry characterized 6th-7th century warfare between the two great empires.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Major counter-offensives into enemy heartland after long defensive wars occurred in the early 7th century.", explanation: "The context helps narrow the date." }
         ],
         explanation: "This was the Battle of Nineveh on December 12, 627 AD, where Emperor Heraclius of Byzantium crushed the Sasanian Persian army near the ruins of ancient Nineveh. The Persian commander Rhahzadh was killed. Heraclius had launched an audacious campaign through Armenia into the Persian heartland. The victory reversed twenty years of Persian conquests; Shah Khosrow II was overthrown by his own son. Both exhausted empires were then swept by the Arab conquests (630s-640s). Byzantine cataphracts versus Sasanian cavalry is unmistakably 7th century Roman-Persian warfare. The campaign into enemy heartland after long defensive wars dates this precisely.",
         tags: ["pitched-battle", "7th-century", "middle-east"]
@@ -3739,7 +3739,7 @@ The battle lasted for days—some sources say weeks—with neither side able to 
 
 The arbitration resolved nothing; the schism deepened into permanent division. The commander of the faithful was later assassinated. The question of succession would divide the faithful for fourteen centuries and counting.`,
         hints: [
-            { cost: 20, text: "Early Arab armies with lance, sword, bow, and round shield characterized 7th century Islamic warfare.", explanation: "The forces help date this battle." },
+            { cost: 20, text: "Early caliphate armies with lance, sword, bow, and round shield characterized 7th century warfare.", explanation: "The forces help date this battle." },
             { cost: 25, text: "The great fitna (civil wars) over caliphal succession occurred in the mid-7th century.", explanation: "The context helps narrow the date." }
         ],
         explanation: "This was the Battle of Siffin in 657 AD, between Caliph Ali ibn Abi Talib and Muawiya, governor of Syria. When Ali's forces gained advantage, Muawiya's men raised Qurans on their lances calling for arbitration—a tactic that worked. The inconclusive arbitration led to the Kharijite split; Ali was assassinated in 661. Muawiya founded the Umayyad dynasty. The battle created the permanent Sunni-Shia schism. Early Arab armies fighting each other are unmistakably from the Rashidun/early Umayyad period. The question of succession to the Prophet precisely dates this to the First Fitna (656-661).",
@@ -3817,7 +3817,7 @@ The emperor's impetuosity doomed him. He charged without proper reconnaissance, 
 
 The emperor barely escaped, swimming to a ship. He died within a year, probably of his wounds and the fever of the southern coasts. The disaster halted Christian expansion southward for generations and ended dreams of driving Islam from the peninsula entirely.`,
         hints: [
-            { cost: 20, text: "Frankish-German heavy cavalry versus Arab-Berber forces characterized 10th century Mediterranean warfare.", explanation: "The forces help date this battle." },
+            { cost: 20, text: "Northern heavy cavalry versus southern Mediterranean forces characterized 10th century warfare.", explanation: "The forces help date this battle." },
             { cost: 25, text: "Major Imperial campaigns against Muslim forces in southern Italy occurred in the late 10th century.", explanation: "The context helps narrow the date." }
         ],
         explanation: "This was the Battle of Stilo (Cape Colonna) on July 13, 982, where Emperor Otto II's German heavy cavalry was crushed by the Kalbid Emirate of Sicily. Otto lost half his army, including many nobles; he escaped by swimming to a Byzantine ship. He died in Rome in 983, age 28, leaving a 3-year-old heir. The disaster ended German expansion into southern Italy and emboldened the Slavic revolt that would follow. German heavy cavalry versus Arab-Berber forces identifies late 10th century Mediterranean conflicts. An emperor's rashness leading to disaster is a recurring theme.",
@@ -3836,8 +3836,8 @@ Both sides fought on foot. The defenders formed a shield wall with spear and swo
 
 The defeat led to the first of the great tribute payments that would drain the kingdom's treasury for decades. The commander's death became legend—celebrated in poetry as the epitome of heroic (if foolish) resistance.`,
         hints: [
-            { cost: 20, text: "Anglo-Saxon shield walls versus Viking infantry with axes characterized late 10th-early 11th century warfare in Britain.", explanation: "The forces help date this battle." },
-            { cost: 25, text: "Major Viking raids resuming after decades of peace occurred in the 980s-990s.", explanation: "The context helps narrow the date." }
+            { cost: 20, text: "Shield walls versus infantry raiders with axes characterized late 10th-early 11th century island warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Major sea-borne raids resuming after decades of peace occurred in the 980s-990s.", explanation: "The context helps narrow the date." }
         ],
         explanation: "This was the Battle of Maldon on August 10-11, 991, where Ealdorman Byrhtnoth's Anglo-Saxons were defeated by a Viking army under Olaf Tryggvason. Byrhtnoth famously allowed the Vikings to cross the causeway from Northey Island—a decision medieval poets praised as heroic but modern strategists call foolish. His death led to the Danegeld payments that would total tens of thousands of pounds of silver. The poem 'The Battle of Maldon' immortalized the fight. Anglo-Saxon versus Viking infantry combat identifies late 10th century English warfare. Tribute payments following defeat describe the Danegeld era.",
         tags: ["pitched-battle", "10th-century", "europe"]
@@ -3855,7 +3855,7 @@ The battle took place near a river in the far south. The king's flanks, commande
 
 Within four years, the invaders had conquered the entire peninsula except for mountain refuges in the far north. The kingdom's faith, language, and culture survived only in those refuges; everywhere else, the conquerors imposed their own civilization, which would flourish for seven centuries.`,
         hints: [
-            { cost: 20, text: "Visigothic heavy cavalry versus Arab-Berber armies characterized early 8th century Iberian warfare.", explanation: "The forces help date this battle." },
+            { cost: 20, text: "Heavy cavalry versus invading forces from across the sea characterized early 8th century Iberian warfare.", explanation: "The forces help date this battle." },
             { cost: 25, text: "Major invasions transforming the Iberian peninsula occurred in the early 8th century.", explanation: "The context helps narrow the date." }
         ],
         explanation: "This was the Battle of Guadalete on July 19, 711, where the Umayyad invasion under Tariq ibn Ziyad destroyed the Visigothic Kingdom. King Roderic (who had seized the throne from the rightful heir) died in the battle; legend says nobles who opposed him betrayed the army. Within four years, most of Iberia was under Muslim rule—beginning seven centuries of Al-Andalus. The Reconquista would not be complete until 1492. Visigothic heavy cavalry versus Arab-Berber forces precisely characterizes early 8th century Iberian warfare. A three-century-old kingdom falling to invasion identifies this transitional moment.",
@@ -3872,7 +3872,7 @@ Our sources are late and biased toward the victors, so details are uncertain. Wh
 
 The caliph fled west, where months later a small rebel detachment found him hiding in a church and killed him. The new dynasty moved the capital east to a new city they built, where they ruled for five centuries.`,
         hints: [
-            { cost: 20, text: "Arab-Persian cavalry armies with lance and bow characterized mid-8th century Middle Eastern warfare.", explanation: "The forces help date this battle." },
+            { cost: 20, text: "Mixed cavalry armies with lance and bow fighting civil wars characterized mid-8th century caliphate warfare.", explanation: "The forces help date this battle." },
             { cost: 25, text: "Major dynastic revolutions in the caliphate occurred in the mid-8th century.", explanation: "The context helps narrow the date." }
         ],
         explanation: "This was the Battle of the Zab on January 25, 750, where the Abbasid Revolution overthrew the Umayyad Caliphate. Abu al-Abbas, soon to be called 'al-Saffah' (the Blood-Shedder), defeated Caliph Marwan II near the Great Zab River. The Umayyads were nearly exterminated—only one prince escaped to Spain, where his descendants ruled for centuries. The Abbasids moved the capital from Damascus to Baghdad, shifting the empire's center of gravity eastward. Arab-Persian armies characterize the transition from Umayyad to Abbasid rule. A dynasty falling after a century identifies this pivotal 8th century moment.",
@@ -3893,8 +3893,8 @@ Every man died—including the commander, whose heroic last stand would become t
 
 The minor skirmish became legend; the commander's sword and horn passed into mythology.`,
         hints: [
-            { cost: 20, text: "Carolingian heavy cavalry fighting dismounted with swords and axes characterized late 8th century Frankish warfare.", explanation: "The forces help date this battle." },
-            { cost: 25, text: "Major Carolingian campaigns across the Pyrenees occurred in the late 8th century.", explanation: "The context helps narrow the date." }
+            { cost: 20, text: "Heavy cavalry fighting dismounted with swords and axes characterized late 8th century western European warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Major western campaigns across the Pyrenees occurred in the late 8th century.", explanation: "The context helps narrow the date." }
         ],
         explanation: "This was the Battle of Roncevaux Pass on August 15, 778, where Basque ambushers destroyed Charlemagne's rearguard. The commander Roland died in the ambush—his last stand became 'The Song of Roland,' the foundational epic of medieval French literature. The attackers were Christian Basques, not Muslims as the epic claims. Roland's horn (Olifant) and sword (Durendal) became legendary. Charlemagne had been returning from an unsuccessful campaign against Zaragoza. Carolingian military equipment and the Pyrenean campaigns precisely date this to Charlemagne's reign (768-814).",
         tags: ["ambush", "8th-century", "europe"]
@@ -3931,8 +3931,8 @@ The emperor himself was not present; he waited in a nearby city while his genera
 
 But the cost was staggering. Sources report over 50,000 dead between both sides. The emperor, receiving news of his victory from a local bishop, reportedly wept at the casualty reports and feared the empire could no longer resist barbarian invasion. The usurper fled west and held out for two more years before killing himself.`,
         hints: [
-            { cost: 20, text: "Late Roman professional armies with heavy infantry and cataphract cavalry characterized mid-4th century warfare.", explanation: "The forces help date this battle." },
-            { cost: 25, text: "Major civil wars between competing Roman emperors occurred in the mid-4th century.", explanation: "The context helps narrow the date." }
+            { cost: 20, text: "Late imperial professional armies with heavy infantry and cataphract cavalry characterized mid-4th century warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Major civil wars between competing emperors occurred in the mid-4th century.", explanation: "The context helps narrow the date." }
         ],
         explanation: "This was the Battle of Mursa Major on September 28, 351, the bloodiest battle of the late Roman Empire. Emperor Constantius II faced the usurper Magnentius, who had murdered Constantius's brother Constans. Casualties may have reached 54,000—nearly half of both armies. Constantius won but lost so many soldiers that the empire's military strength was permanently weakened. Late Roman professional armies with cataphract cavalry and heavy infantry precisely characterize mid-4th century warfare. The civil wars following Constantine's death (337) date this precisely.",
         tags: ["pitched-battle", "4th-century", "europe"]
@@ -3950,8 +3950,8 @@ The outcome is disputed in our sources, which are biased toward the general. Wha
 
 The general would defend the empire for another eight years before jealous courtiers arranged his execution. Two years after that, the same invader king sacked the capital.`,
         hints: [
-            { cost: 20, text: "Late Roman field armies with barbarian foederati characterized the early 5th century western empire.", explanation: "The forces help date this battle." },
-            { cost: 25, text: "A barbarian-born general defending the western Roman heartland against Gothic invaders specifically describes the early 400s.", explanation: "The context helps narrow the date." }
+            { cost: 20, text: "Late imperial field armies with barbarian foederati characterized the early 5th century western empire.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "A barbarian-born general defending the western imperial heartland against barbarian invaders specifically describes the early 400s.", explanation: "The context helps narrow the date." }
         ],
         explanation: "This was the Battle of Pollentia on April 6, 402 (Easter Sunday), where Stilicho defeated Alaric I's Visigoths. Stilicho—half-Vandal, regent for the child-emperor Honorius—saved Italy from the Gothic invasion. He even captured Alaric's wife and children. But the two would fight repeatedly; Alaric would eventually sack Rome in 410, two years after Stilicho's execution by the jealous court. Late Roman field armies with foederati precisely characterize early 5th century warfare. A barbarian general defending the empire identifies Stilicho's unique position.",
         tags: ["pitched-battle", "5th-century", "europe"]
@@ -3969,7 +3969,7 @@ When the enemy finally attacked the pass, the prince's elite "Black Armor" caval
 
 The victory ended the civil wars. The prince's father founded a dynasty that would rule for nearly three centuries. The prince himself became its second emperor.`,
         hints: [
-            { cost: 20, text: "Chinese heavy cavalry with lance and crossbow characterized 7th century Tang warfare.", explanation: "The forces help date this battle." },
+            { cost: 20, text: "Heavy cavalry with lance and crossbow characterized 7th century eastern warfare.", explanation: "The forces help date this battle." },
             { cost: 25, text: "The unification campaigns founding the Tang Dynasty occurred in the early 620s.", explanation: "The context helps narrow the date." }
         ],
         explanation: "This was the Battle of Hulao Pass on May 28, 621, where Li Shimin (later Emperor Taizong) defeated the combined armies of Dou Jiande and Wang Shichong, effectively ending the wars that followed the Sui Dynasty's collapse. Li Shimin's brilliant cavalry tactics and personal valor—he reportedly killed or captured enemy commanders in single combat—became legendary. He became the second Tang emperor and is considered one of China's greatest rulers. Tang heavy cavalry with lance and crossbow characterized 7th century Chinese warfare. The unification following the Sui collapse precisely dates this to the early Tang founding.",
