@@ -3313,16 +3313,16 @@ By evening, the general was dead and his army shattered. The invasion was over; 
         title: "The World Conqueror's Masterpiece",
         actualYear: -331,
         difficulty: "hard",
-        description: `The young king who had already conquered half the Persian Empire met the great king himself on a vast plain—ground chosen by the Persians to maximize their advantages. The Persian army stretched for miles: perhaps 200,000 men, including scythed chariots, war elephants, and cavalry from every province of the empire.
+        description: `The young king who had already conquered half the great eastern empire met its great king on a vast plain, ground chosen by the defenders to maximize their advantages. The defending army stretched for miles: perhaps 200,000 men, including scythed chariots, war elephants, and cavalry from every province.
 
-The invader had 47,000 veterans, outnumbered four to one. But they were the finest soldiers in the world, and their king was a tactical genius. He refused the center, advancing obliquely to create a gap in the Persian line.
+The invader had 47,000 veterans, outnumbered four to one. But they were the finest soldiers in the world, and their king was a tactical genius. He refused the center, advancing obliquely to create a gap in the enemy line.
 
-The Persian chariots charged and were destroyed by javelins. The cavalry on both wings clashed in swirling melees. Then the young king led his Companion cavalry directly at the great king's position. The Persian line buckled; the great king—seeing his enemy charging straight for him—turned and fled.
+The scythed chariots charged and were destroyed by javelins. The cavalry on both wings clashed in swirling melees. Then the young king led his elite cavalry directly at the great king's position. The line buckled; the great king, seeing his enemy charging straight for him, turned and fled.
 
-The Persian Empire fell that day. The young king would march on to India before his men forced him to turn back. He would die at 32, having never lost a battle, leaving an empire with no heir.`,
+The eastern empire fell that day. The young king would march on to the edge of the known world before his men forced him to turn back. He would die at 32, having never lost a battle, leaving an empire with no heir.`,
         hints: [
-            { cost: 20, text: "Macedonian phalanx with sarissas (long pikes) and heavy companion cavalry facing Persian cavalry and scythed chariots characterized 334-323 BCE.", explanation: "The military forces help date this battle." },
-            { cost: 25, text: "The decisive battle that ended the Persian Empire and gave the conqueror control from Egypt to India occurred in 331 BCE.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Phalanx infantry with very long pikes (sarissas) and heavy companion cavalry facing scythed chariots and war elephants characterized warfare in 334-323 BCE.", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "The decisive battle that ended the great eastern empire and gave a conqueror control from Egypt to India occurred in 331 BCE.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Gaugamela on October 1, 331 BCE, where Alexander the Great destroyed the last army of Darius III. Alexander's oblique attack created a gap in the Persian line; his charge at Darius caused the Great King to flee. The Persian Empire fell; Alexander ruled from Egypt to India until his death in 323 BCE. Macedonian phalanx and Companions versus Persian scythed chariots characterized Alexander's campaigns (334-323 BCE). The decisive battle against Darius dates this precisely.",
         tags: ["pitched-battle", "ancient", "middle-east"]
@@ -3538,19 +3538,19 @@ The ancient capital fell without a fight. The barbarian kingdom, which had terro
     },
     {
         id: "campaign_186",
-        title: "The Alemanni Destroyed",
+        title: "The Philosopher's Victory",
         actualYear: 357,
         difficulty: "hard",
-        description: `A young prince, made junior emperor against his will, proved himself a military genius in the barbarian-plagued provinces. With barely 13,000 men, he faced a confederation of Germanic tribes that had crossed the great river—perhaps 35,000 warriors.
+        description: `A young prince, made junior emperor against his will, proved himself a military genius in the barbarian-plagued provinces. With barely 13,000 men, he faced a confederation of tribes that had crossed the great river, perhaps 35,000 warriors.
 
-The prince was a philosopher who preferred books to battle, but necessity made him a soldier. He chose ground near a ruined city, anchoring his flank on the river. The barbarians attacked with their characteristic fury, driving back his cavalry.
+The prince was a philosopher who preferred books to battle, but necessity made him a soldier. He chose ground near a ruined city, anchoring his flank on the river. The tribesmen attacked, driving back his cavalry.
 
 The prince rallied his men personally, positioning himself with the infantry. The legions held; the barbarian charges broke against the disciplined formations. When the tribesmen exhausted themselves, the legionaries counterattacked. The barbarian king was wounded and fled; 6,000 of his warriors lay dead.
 
-The prince drove the barbarians back across the river and restored the frontier. He would later become sole emperor, famous for trying to restore the old gods. He died on campaign against Persia, the last pagan emperor.`,
+The prince drove the barbarians back across the river and restored the frontier. He would later become sole emperor, famous for trying to restore the old religion. He died on campaign in the east, the last emperor of the old faith.`,
         hints: [
-            { cost: 20, text: "Late Roman legions with large oval shields facing Germanic tribal charges characterized 4th-century Rhine frontier warfare.", explanation: "The forces help date this battle." },
-            { cost: 25, text: "A junior emperor restoring the Rhine frontier against Germanic tribes, before becoming sole emperor, occurred in 356-358.", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "Late imperial legions with large oval shields facing tribal charges characterized 4th-century frontier warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "A junior emperor restoring a major river frontier against tribal confederations, before becoming sole emperor, occurred in 356-358.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Strasbourg (Argentoratum) on August 357, where Caesar Julian defeated the Alemanni confederation. Despite being outnumbered nearly 3:1, Julian's 13,000 legionaries destroyed King Chnodomar's 35,000 Germans. Julian later became emperor (361-363), famous for attempting to restore paganism. Late Roman legions versus Germanic warriors characterized 4th-century Rhine warfare. Julian's Gallic campaigns (356-358) precisely date this battle.",
         tags: ["pitched-battle", "ancient", "europe"]
