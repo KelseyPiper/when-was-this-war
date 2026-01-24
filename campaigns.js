@@ -671,9 +671,7 @@ Only the death of the supreme leader far to the east caused the invaders to with
 
 The cavalry commander waited for the right moment. When the infantry was committed and could not easily reform, the horsemen charged at full gallop. The leading cavalry were lancers in heavy armor—a weapon that had fallen from favor in Western Europe but remained decisive on the eastern plains—hitting with the combined weight of man and horse.
 
-The first charge broke the infantry's leading formations. Before the rest could brace, more charges crashed home. The battle lasted barely twenty minutes. The infantry army collapsed, losing over 8,000 killed while the cavalry suffered fewer than 100 dead.
-
-It was one of history's most lopsided cavalry victories.`,
+The first charge broke the infantry's leading formations. Before the rest could brace, more charges crashed home. The battle lasted barely twenty minutes. The infantry army collapsed, losing over 8,000 killed while the cavalry suffered fewer than 100 dead.`,
         hints: [
             { cost: 20, text: "Matchlock muskets with pikes in mixed formations were standard from about 1550 to 1700. The socket bayonet, which allowed muskets to replace pikes, was adopted around 1690.", explanation: "The infantry weapons help date this battle." },
             { cost: 25, text: "Cavalry lancers fell from favor in Western Europe around 1600 but remained effective in Eastern Europe until the 18th century, when firearms became truly universal.", explanation: "The cavalry weapons help narrow the timeframe." }
@@ -1124,9 +1122,7 @@ The marching army's commander understood the danger. If his heavy cavalry charge
 
 The infantry marched on the landward side, absorbing the arrows. They wore heavy mail armor and carried large shields, suffering casualties but protecting the cavalry. Crossbowmen shot back with belt-hook crossbows—weapons drawn by bending down, hooking the string to a belt, and standing up using leg strength. Their heavy bolts outranged the composite bows but were slower to reload.
 
-The horse archers pressed closer, trying to provoke a response. Finally, at a planned moment, the heavy cavalry charged—massed, coordinated, devastating. The horse archers, pressed too close for too long, could not escape. The charge broke the enemy center, and the army completed its march.
-
-The army reached its destination intact. The enemy had lost thousands; the marching army had held its discipline and won.`,
+The horse archers pressed closer, trying to provoke a response. Finally, at a planned moment, the heavy cavalry charged—massed, coordinated, devastating. The horse archers, pressed too close for too long, could not escape. The charge broke the enemy center, and the army completed its march.`,
         hints: [
             { cost: 20, text: "Belt-hook crossbows were standard military equipment from roughly 1000-1250 CE. Later crossbows used mechanical cranks or windlasses for even greater power.", explanation: "The crossbow technology helps date this battle to the 12th-13th centuries." },
             { cost: 25, text: "Heavy mail armor covering the entire body was characteristic of the 11th-13th centuries. Earlier periods used less complete coverage; later periods transitioned to plate armor.", explanation: "The armor technology helps narrow the timeframe." }
