@@ -2178,7 +2178,7 @@ As the heavy cavalry funneled across the bridge and onto the causeway, the rebel
 When the bridge collapsed—or was cut—the army was split in two. The cavalry on the far side was annihilated; those still across watched helplessly. The occupation's commander was killed and flayed; his skin was made into sword belts. For a brief time, the kingdom was free.`,
         hints: [
             { cost: 20, text: "Schiltron formations—dense circles of spearmen—were a Scottish innovation of the 1290s, designed specifically to counter heavy cavalry.", explanation: "The infantry formation helps date this battle." },
-            { cost: 25, text: "English heavy cavalry being defeated by Scottish spearmen occurred during the Wars of Scottish Independence (1296-1328).", explanation: "The strategic context helps narrow the date." }
+            { cost: 25, text: "Heavy cavalry being defeated by defensive spearmen formations became increasingly common in the early 14th century, as infantry learned to hold ground against mounted charges.", explanation: "The tactical evolution helps narrow the date." }
         ],
         explanation: "This was the Battle of Stirling Bridge on September 11, 1297, where William Wallace and Andrew Moray destroyed an English army under John de Warenne, Earl of Surrey. Hugh de Cressingham, the English treasurer, was killed; Scots reportedly made a sword belt from his skin. The narrow bridge and causeway neutralized English cavalry superiority. Wallace was knighted and became Guardian of Scotland. The victory was short-lived—Edward I returned and won at Falkirk the next year. Schiltron formations were a Scottish innovation of the 1290s. English-Scottish warfare identifies the Wars of Scottish Independence (1296-1328).",
         tags: ["pitched-battle", "13th-century", "europe"]
@@ -2197,7 +2197,7 @@ The heavy cavalry charged. Horses stumbled in the pits; spears unhorsed riders; 
 The army collapsed in rout. The occupying king fled the field—narrowly escaping capture—and lost his shield and privy seal. The kingdom won its independence, recognized by treaty fourteen years later.`,
         hints: [
             { cost: 20, text: "Heavy cavalry charges defeated by prepared infantry positions with obstacles was the characteristic tactical lesson of 14th century European warfare.", explanation: "The tactical pattern helps date this battle." },
-            { cost: 25, text: "Large English cavalry forces being defeated by Scottish spearmen occurred specifically in the Wars of Scottish Independence (1296-1328).", explanation: "The strategic context helps narrow the date." }
+            { cost: 25, text: "Major infantry victories over heavy cavalry—using prepared positions with obstacles—marked the early 14th century as a turning point in medieval warfare.", explanation: "The tactical evolution helps narrow the date." }
         ],
         explanation: "This was the Battle of Bannockburn on June 23-24, 1314, where Robert the Bruce destroyed Edward II's English army. The English had the largest cavalry force ever deployed in Scotland—and lost it in the boggy ground Bruce had chosen. Edward fled, losing the Great Seal of England. The Declaration of Arbroath (1320) and Treaty of Edinburgh-Northampton (1328) secured Scottish independence. Heavy cavalry charges defeated by prepared positions with obstacles was the characteristic lesson of 14th-century warfare. English-Scottish cavalry-infantry battles identify the Wars of Scottish Independence (1296-1328).",
         tags: ["pitched-battle", "14th-century", "europe"]
@@ -2313,7 +2313,7 @@ The casualties were staggering: 70,000 killed or wounded between both sides—th
 With no supplies, no peace treaty, and winter approaching, the invaders began their retreat. Of 600,000 who had crossed the frontier, perhaps 100,000 returned. It was the beginning of the end for the conqueror's empire.`,
         hints: [
             { cost: 20, text: "Armies of 600,000 men from multiple nations, supported by massive artillery bombardments, was only possible during the Napoleonic era (1796-1815).", explanation: "The army scale helps date this battle." },
-            { cost: 25, text: "Scorched-earth retreats before invading armies, culminating in the burning of a major capital, was the specific Russian strategy against Napoleon.", explanation: "The strategic pattern helps narrow the date." }
+            { cost: 25, text: "Scorched-earth retreats before massive invasions, culminating in the deliberate burning of capitals, occurred most famously in 1812.", explanation: "The strategic pattern helps narrow the date." }
         ],
         explanation: "This was the Battle of Borodino on September 7, 1812, the bloodiest day of the Napoleonic Wars. Marshal Kutuzov's Russian army fought Napoleon's Grande Armée to a standstill outside Moscow. Russia lost 44,000; France perhaps 35,000—but Russia could replace its losses, Napoleon couldn't. Moscow burned; Napoleon waited a month for a surrender that never came. The winter retreat destroyed the Grande Armée—of 600,000 who invaded, fewer than 100,000 returned. Napoleonic-scale armies (1796-1815) and the Russian scorched-earth strategy identify this campaign precisely.",
         tags: ["pitched-battle", "19th-century", "europe"]
@@ -2334,7 +2334,7 @@ The eastern cavalry charged. The arquebuses and artillery shattered them. Wave a
 Yet the victory proved hollow: the sultan couldn't hold the mountainous territory, and the religious war would continue for two more centuries.`,
         hints: [
             { cost: 20, text: "Janissaries with matchlock arquebuses behind chained artillery, facing cavalry armies without firearms, was the characteristic Ottoman tactical superiority from roughly 1450-1600.", explanation: "The military technology helps date this battle." },
-            { cost: 25, text: "Ottoman-Safavid religious wars began with the Safavid dynasty's founding (1501) and continued through the early 17th century.", explanation: "The political context helps narrow the date." }
+            { cost: 25, text: "Religious wars between Sunni and Shia powers with firearms versus cavalry were most intense from 1501-1639.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Chaldiran on August 23, 1514, where Ottoman Sultan Selim I crushed Shah Ismail I's Safavid army. The Ottoman janissaries' matchlocks and cannon devastated the Qizilbash cavalry charges. Selim captured Tabriz but couldn't hold Persia—the logistical difficulties were insurmountable. The Sunni-Shia divide deepened into permanent hostility. Ismail, previously considered divinely protected, lost his aura of invincibility and became a recluse. Janissaries with arquebuses behind chained guns (1450-1600) facing cavalry without firearms, and the early Ottoman-Safavid wars (1501-1639), precisely date this battle.",
         tags: ["pitched-battle", "16th-century", "middle-east"]
@@ -2374,7 +2374,7 @@ The trap closed with devastating efficiency. The confederation's artillery—bre
 The emperor, ill and in despair, personally surrendered with 83,000 soldiers—the largest capitulation in modern European history. The empire collapsed; the confederation proclaimed its own empire in the enemy's palace. The new power would dominate the continent for decades.`,
         hints: [
             { cost: 20, text: "Breech-loading steel artillery outranging bronze muzzle-loaders was a decisive technological advantage unique to the 1860s-1870s transition.", explanation: "The artillery technology helps date this battle." },
-            { cost: 25, text: "A German confederation defeating a French empire occurred specifically in 1870-1871, creating the German Empire.", explanation: "The political context helps narrow the date." }
+            { cost: 25, text: "The unification of a major European power through warfare against a neighboring empire occurred in 1870-1871.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Sedan on September 1-2, 1870, where the Prussian-led German armies under Moltke the Elder trapped Napoleon III's Army of Châlons. Krupp's breech-loading steel artillery devastated the French, whose bronze muzzle-loaders couldn't reply effectively. Napoleon III surrendered personally—the only French emperor ever captured in battle since Francis I at Pavia. The Second French Empire collapsed; the German Empire was proclaimed at Versailles. Breech-loading steel versus bronze muzzle-loading artillery was the 1860s-1870s transition. German unification under Prussian leadership and French defeat occurred in 1870-1871.",
         tags: ["pitched-battle", "19th-century", "europe"]
@@ -2526,7 +2526,7 @@ When the invaders camped in a foggy valley, the prince attacked at dawn. His lig
 The sultan mounted a larger expedition the following year and eventually forced submission. But the prince's legend grew. He would fight dozens of battles, never losing, and be remembered as his nation's greatest hero.`,
         hints: [
             { cost: 20, text: "Light cavalry with limited firearms facing Ottoman armies characterized Eastern European frontier warfare from roughly 1400-1600.", explanation: "The military style helps date this battle." },
-            { cost: 25, text: "Moldavian-Ottoman conflicts were most intense in the late 15th century, before the principality became an Ottoman vassal.", explanation: "The political context helps narrow the date." }
+            { cost: 25, text: "Small principalities defeating major empires through guerrilla ambush tactics was briefly possible in the late 15th century, before such states were absorbed.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Vaslui on January 10, 1475, where Stephen III 'the Great' of Moldavia destroyed an Ottoman army under Hadim Suleiman Pasha. Stephen's 40,000 men ambushed 120,000 Ottomans in a foggy valley; perhaps 45,000 Turks died. Pope Sixtus IV called Stephen 'Athlete of Christ.' The sultan's revenge expedition in 1476 forced Stephen to submit, but he continued resisting until his death in 1504. Light cavalry raids and ambush tactics against Ottoman armies characterized 15th-century Eastern European warfare. Moldavian independence struggles peaked in the 1470s.",
         tags: ["pitched-battle", "15th-century", "eastern-europe"]
@@ -2545,7 +2545,7 @@ The troops still on the near bank were annihilated. The sultan's guard fought de
 The disaster forced the empire to accept peace, ending a war that had begun with an attempt to capture the enemy capital fifteen years earlier. The victorious general would become the age's most celebrated soldier.`,
         hints: [
             { cost: 20, text: "Large Ottoman armies with Janissary infantry and sipahi cavalry facing European forces with flintlock muskets characterized late 17th-century Balkan warfare.", explanation: "The military composition helps date this battle." },
-            { cost: 25, text: "The Great Turkish War (1683-1699) saw the Ottomans pushed out of Hungary and forced to accept major territorial losses.", explanation: "The strategic context helps narrow the date." }
+            { cost: 25, text: "Major coalition victories pushing eastern empires back from central Europe occurred in the 1680s-1690s.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Zenta on September 11, 1697, where Prince Eugene of Savoy caught Sultan Mustafa II crossing the Tisza River. Eugene attacked as the Ottoman army was split by the river; the trapped forces were annihilated. Over 30,000 Ottomans died including Grand Vizier Elmas Mehmed Pasha; the sultan's treasury and harem were captured. The Treaty of Karlowitz (1699) followed, the first treaty where the Ottomans ceded major European territory. Flintlock-era European armies versus traditional Ottoman forces characterized the 1680s-1700s. The Great Turkish War (1683-1699) precisely dates this battle.",
         tags: ["pitched-battle", "17th-century", "balkans"]
@@ -2657,7 +2657,7 @@ The sultan died in his tent of old age before the fortress fell—but his death 
 The empire captured a ruin filled with corpses. The sultan's body was carried home in secret; his death wasn't announced until his son was safely on the throne.`,
         hints: [
             { cost: 20, text: "Ottoman siege warfare with Janissary infantry and heavy artillery against European trace italienne fortifications was characteristic of 16th-century conflicts.", explanation: "The military technologies help date this battle." },
-            { cost: 25, text: "Suleiman the Magnificent's campaigns extended from the 1520s to the 1560s.", explanation: "The political context helps narrow the date." }
+            { cost: 25, text: "The Ottoman Empire's greatest expansion, particularly in Hungary and the Mediterranean, occurred from the 1520s to the 1560s.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Siege of Szigetvár from August 5 to September 8, 1566, where Croatian-Hungarian forces under Count Nikola Šubić Zrinski held off Sultan Suleiman the Magnificent's army. Suleiman died on September 6, two days before the fortress fell; Grand Vizier Sokollu Mehmed Pasha concealed his death. Zrinski led a final charge and was killed; the survivors detonated the magazine, killing 3,000 Janissaries. The Ottomans lost 20,000-30,000 men for a worthless ruin. Ottoman siege warfare against European fortifications characterized 16th-century warfare. Suleiman's reign (1520-1566) precisely dates this battle.",
         tags: ["siege", "16th-century", "europe"]
@@ -2819,9 +2819,9 @@ The king himself was captured—a humiliation unprecedented in centuries. His ra
         title: "The Last Hohenstaufen",
         actualYear: 1268,
         difficulty: "hard",
-        description: `A boy of sixteen—last heir of a dynasty that had ruled for centuries—invaded a southern kingdom to reclaim his grandfather's throne. He brought German knights and Italian allies; the usurper who held his kingdom had the backing of the pope.
+        description: `A boy of sixteen—last heir of a dynasty that had ruled for centuries—invaded a southern kingdom to reclaim his grandfather's throne. He brought knights loyal to the old empire and allies from across the mountains; the usurper who held his kingdom had the backing of the pope.
 
-The usurper's army was larger and positioned behind a river. The boy-prince attacked anyway, his German cavalry crashing into the enemy line. The first division broke and fled; the second followed. Victory seemed certain.
+The usurper's army was larger and positioned behind a river. The boy-prince attacked anyway, his imperial heavy cavalry crashing into the enemy line. The first division broke and fled; the second followed. Victory seemed certain.
 
 But the usurper had hidden his reserve behind a hill. As the prince's cavalry scattered in pursuit, the fresh troops struck. The prince's army was annihilated in minutes. The prince himself was captured fleeing.
 
@@ -2857,13 +2857,13 @@ The sultanate became a vassal state, its independence ended forever. The invader
         title: "The Usurper Slain",
         actualYear: 1266,
         difficulty: "hard",
-        description: `A French prince, invited by the pope to seize a southern kingdom from its excommunicated ruler, crossed the mountains in winter with 30,000 men. The usurper—illegitimate son of a great emperor—awaited him with a similar force.
+        description: `A prince from across the mountains, invited by the pope to seize a southern kingdom from its excommunicated ruler, crossed the passes in winter with 30,000 men. The usurper—illegitimate son of a great emperor—awaited him with a similar force.
 
-The usurper chose strong ground: his army held a ridge with a river protecting his front. The French would have to cross and attack uphill. But the usurper's German cavalry was impatient; they charged down the slope to meet the French crossing.
+The usurper chose strong ground: his army held a ridge with a river protecting his front. The invaders would have to cross and attack uphill. But the usurper's imperial knights were impatient—they charged down the slope to meet the enemy crossing, sacrificing their defensive advantage.
 
-In the riverbed, the Germans' heavier armor proved a liability. The French cavalry, lighter and more numerous, surrounded them. The usurper led charge after charge trying to break through; each time he was repulsed. Finally, his horse killed beneath him, he was cut down fighting on foot.
+In the riverbed, the imperial knights' heavier armor proved a liability. The invading cavalry, lighter and more numerous, surrounded them. The usurper led charge after charge trying to break through; each time he was repulsed. Finally, his horse killed beneath him, he was cut down fighting on foot.
 
-The pope's champion had won. But his harsh rule provoked rebellion within twenty years; on one evening, every French soldier on the island was massacred, and the kingdom was lost forever.`,
+The pope's champion had won. But his harsh rule provoked rebellion within twenty years; on one evening, every foreign soldier on the island was massacred, and the kingdom was lost forever.`,
         hints: [
             { cost: 20, text: "German imperial cavalry with great helms and full mail facing French Angevin forces characterized the 1260s Italian conflicts.", explanation: "The military forces help date this battle." },
             { cost: 25, text: "The papal-backed conquest of southern Italy from the Hohenstaufen occurred in 1265-1266.", explanation: "The political context helps narrow the date." }
@@ -2880,7 +2880,7 @@ The pope's champion had won. But his harsh rule provoked rebellion within twenty
 
 The decisive battle came beneath an old hill fort. The king's son led a devastating cavalry charge that scattered the rebels' London contingent—but he pursued too far, losing control of the battle. Meanwhile, the earl's disciplined knights crashed into the king's center.
 
-The king's horse was killed beneath him. Fighting on foot, surrounded, he was forced to surrender. His brother was captured; his son returned from pursuit to find the battle lost. For the next year, the earl ruled the kingdom in the captive king's name—the first English parliament met under his direction.
+The king's horse was killed beneath him. Fighting on foot, surrounded, he was forced to surrender. His brother was captured; his son returned from pursuit to find the battle lost. For the next year, the earl ruled the kingdom in the captive king's name—summoning representatives from towns and shires to advise him, the first such assembly including commoners.
 
 But the king's son escaped and raised an army. Within a year, the earl would be dead, his body mutilated, his reforms seemingly destroyed—yet his legacy would shape government for centuries.`,
         hints: [
@@ -2914,7 +2914,7 @@ The earl was killed, his body dismembered—hands, feet, and head cut off, his g
         title: "The Latin Emperor Falls",
         actualYear: 1205,
         difficulty: "hard",
-        description: `A new empire, barely a year old, faced catastrophe. The crusaders who had sacked the greatest Christian city and established their own emperor now confronted a resurgent enemy from the north—fierce warriors who had never accepted Latin rule.
+        description: `A new empire, barely a year old, faced catastrophe. Western knights who had seized the greatest city in Christendom and established their own emperor now confronted a resurgent enemy from the north—fierce warriors who had never accepted foreign rule.
 
 The new emperor led 300 knights and several thousand infantry to suppress a rebellion. The northern army was larger—perhaps 14,000—and included thousands of the fearsome mounted warriors who fought with curved swords and composite bows.
 
@@ -2942,7 +2942,7 @@ The battle began in jungle-covered ground that nullified the invaders' advantage
 But the invaders' reinforcements arrived overnight. The next morning's renewed assault broke the native line. The kingdom surrendered within a month; the famous diamond was sent as a gift to the invaders' queen. The last great native power had fallen.`,
         hints: [
             { cost: 20, text: "Native armies with European-trained artillery facing British-Indian forces characterized the final conquests of the 1840s.", explanation: "The military matchup helps date this battle." },
-            { cost: 25, text: "The Second Anglo-Sikh War (1848-1849) ended Sikh independence and brought the Punjab under British rule.", explanation: "The political context helps narrow the date." }
+            { cost: 25, text: "The final conquest of the great native powers in the subcontinent occurred in the late 1840s, ending an era of independent native armies.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Chillianwala on January 13, 1849, one of the bloodiest battles in British Indian history. Hugh Gough's British-Indian army attacked Sher Singh's Sikhs in thick jungle; the Sikh artillery devastated the attackers. The British lost 2,300 casualties—more than at many famous victories. The battle was inconclusive, but the British won decisively at Gujarat a month later. The Koh-i-Noor diamond went to Queen Victoria. European-trained native artillery facing British forces characterized the 1840s. The Second Anglo-Sikh War (1848-1849) precisely dates this battle.",
         tags: ["pitched-battle", "19th-century", "asia"]
@@ -2980,7 +2980,7 @@ But victory was won at a cost. The ramming ship lost its bowsprit and was badly 
 Navies worldwide drew the wrong lesson: for the next forty years, every warship was built with a ram bow. It was a tactical dead end, but no one knew it yet.`,
         hints: [
             { cost: 20, text: "Early ironclads with broadside guns and ram bows were characteristic of naval warfare from roughly 1860-1880.", explanation: "The ship types help date this battle." },
-            { cost: 25, text: "The Austro-Prussian War of 1866 included a major naval battle in the Adriatic.", explanation: "The strategic context helps narrow the date." }
+            { cost: 25, text: "Major European power conflicts in the mid-1860s included significant naval actions in enclosed seas.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Lissa on July 20, 1866, where Austrian Rear Admiral Wilhelm von Tegetthoff defeated the Italian fleet. Tegetthoff's flagship Ferdinand Max rammed and sank the Italian Re d'Italia—the first ironclad sunk by ramming. Italy had more and larger ships, but Austrian aggression won the day. Navies built ram bows for decades afterward, though ramming would prove impractical. Early broadside ironclads with rams characterized 1860-1880 naval warfare. The Austro-Prussian War (1866) precisely dates this battle.",
         tags: ["naval", "19th-century", "europe"]
@@ -2998,7 +2998,7 @@ The brigade formed square on a dusty plain. The tribesmen attacked in waves, pre
 
 Only a legendary march by a relief column—300 miles in 20 days—saved the survivors and prevented a wider disaster. The invaders would eventually prevail, but they had learned that the mountain tribes were not to be underestimated.`,
         hints: [
-            { cost: 20, text: "British-Indian forces with Martini-Henry rifles facing Afghan jezails characterized the Second Anglo-Afghan War (1878-1880).", explanation: "The weapons help date this battle." },
+            { cost: 20, text: "Martini-Henry breech-loading rifles were standard infantry weapons from roughly 1871-1895. Jezails—long-barreled muzzle-loading rifles—remained common in Central Asian mountain regions throughout the 19th century.", explanation: "The weapons help date this battle." },
             { cost: 25, text: "Major British defeats in Afghanistan occurred in 1842 and 1880.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Maiwand on July 27, 1880, where Ayub Khan's Afghans destroyed a British-Indian brigade under Brigadier George Burrows. Of 2,500 soldiers, over 1,700 were killed. General Frederick Roberts's legendary march from Kabul—300 miles in 20 days—relieved Kandahar and defeated Ayub Khan. The battle inspired a fictional veteran: Dr. Watson of Sherlock Holmes. Martini-Henry rifles versus Afghan jezails characterized the 1878-1880 war. The Second Anglo-Afghan War precisely dates this battle.",
@@ -3017,8 +3017,8 @@ It was a massacre. The colonists, expert marksmen from childhood, fired from cov
 
 The empire, humiliated, granted the republic its independence—for a time. Twenty years later, a far larger war would finally bring the colonists under imperial rule. But this hill became their national symbol of resistance.`,
         hints: [
-            { cost: 20, text: "Boer marksmen with hunting rifles defeating British regulars characterized the First Boer War (1880-1881).", explanation: "The military matchup helps date this battle." },
-            { cost: 25, text: "British defeats to Boer commandos occurred primarily in 1881 and 1899-1900.", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "Colonial frontier marksmen with hunting rifles outranging and outfighting regular infantry in close-order formations became a decisive factor in the 1880s.", explanation: "The military matchup helps date this battle." },
+            { cost: 25, text: "Colonial rebellions that successfully humiliated great powers into granting independence were rare; the early 1880s saw a notable example in southern Africa.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Majuba Hill on February 27, 1881, where Boer farmers destroyed a British force under Major General George Colley. The Boers—400 excellent marksmen—held the hilltop against 350 British soldiers who attacked uphill in formation. Colley was killed; 92 British died versus 1 Boer killed. Britain granted Transvaal independence in the Pretoria Convention. Boer marksmanship defeating British regulars characterized the First Boer War (1880-1881). This humiliation contributed to British determination in the Second Boer War (1899-1902).",
         tags: ["pitched-battle", "19th-century", "africa"]
@@ -3036,8 +3036,8 @@ The battle lasted barely two hours. The revolutionary cavalry shattered the roya
 
 The victory made the revolutionary leader's reputation. He would free five more nations before dying in poverty and exile, bitter that his dream of a unified continent had failed.`,
         hints: [
-            { cost: 20, text: "Revolutionary cavalry with lances and sabers defeating Spanish royalist forces characterized the South American wars of independence (1810-1825).", explanation: "The military matchup helps date this battle." },
-            { cost: 25, text: "Campaigns crossing the Andes to liberate New Granada occurred in 1819.", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "Revolutionary cavalry with lances and sabers was the decisive arm in wars of liberation across the Americas from roughly 1810-1825.", explanation: "The military matchup helps date this battle." },
+            { cost: 25, text: "Major mountain crossings for liberation campaigns in South America occurred in the late 1810s-early 1820s.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Boyacá on August 7, 1819, where Simón Bolívar destroyed the Spanish royalist army and liberated New Granada (Colombia). Bolívar's 2,800 men, having crossed the Andes in an epic march, surprised Colonel José María Barreiro's 3,000 royalists. The battle lasted two hours; Spanish losses were 200 killed and 1,600 captured. Bogotá fell three days later. Bolívar would liberate Venezuela, Ecuador, Peru, and Bolivia, but died in 1830, disappointed by South America's fragmentation. Revolutionary cavalry defeating royalists characterized the 1810-1825 independence wars.",
         tags: ["pitched-battle", "19th-century", "americas"]
@@ -3055,8 +3055,8 @@ The invading commander chose a night march. His army advanced in silence across 
 
 The colonel was captured and exiled. The great power would occupy the country for seventy years, controlling the canal that was the lifeline of its empire.`,
         hints: [
-            { cost: 20, text: "British Indian Army forces with Martini-Henry rifles and artillery defeating Egyptian forces characterized the 1882 intervention.", explanation: "The military composition helps date this battle." },
-            { cost: 25, text: "The British occupation of Egypt, securing the Suez Canal, began in 1882 and lasted until 1956.", explanation: "The strategic context helps narrow the date." }
+            { cost: 20, text: "Martini-Henry rifles with Gatling guns and modern artillery overwhelming entrenched positions in hours characterized the late 1870s-early 1880s colonial campaigns.", explanation: "The military composition helps date this battle." },
+            { cost: 25, text: "Great power interventions to secure major canal routes occurred in the early 1880s.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Tel el-Kebir on September 13, 1882, where General Garnet Wolseley's British forces destroyed Ahmed Urabi's Egyptian nationalist army. Wolseley's night march achieved complete surprise; the battle lasted barely 30 minutes. Urabi was captured and exiled to Ceylon. Britain occupied Egypt to secure the Suez Canal, nominally maintaining Egyptian sovereignty while controlling the country until 1956. British-Indian forces with Martini-Henrys defeating Egyptian troops characterized the 1882 campaign.",
         tags: ["pitched-battle", "19th-century", "africa"]
@@ -3068,7 +3068,7 @@ The colonel was captured and exiled. The great power would occupy the country fo
         difficulty: "hard",
         description: `A new dynasty was rising. A count from the western mountains had been elected king of a vast but chaotic realm. To secure his power, he needed to break the strongest prince in the east—a golden king who ruled rich lands along a great river.
 
-The eastern king had defied every attempt to curb his power. Now the western king gathered allies: Hungarian cavalry, German knights, and his own Swiss mountaineers. Perhaps 30,000 men faced a similar number across a river plain.
+The eastern king had defied every attempt to curb his power. Now the western king gathered allies: light cavalry from the steppes, heavy armored knights, and his own mountaineers who fought with pikes and halberds. Perhaps 30,000 men faced a similar number across a river plain.
 
 The battle was decided by cavalry. The western king's heavy horse broke the eastern line, but the eastern king's knights fought back fiercely. In the press, the eastern king was unhorsed and killed—murdered, some said, by knights with old grudges.
 
@@ -3089,12 +3089,12 @@ The western dynasty claimed the eastern lands and would rule them for over six c
 
 The citizens—guildsmen and craftsmen—met the knights on marshy ground outside a walled town. They carried long pikes and goedendags—heavy clubs with iron spikes. They formed dense squares and waited.
 
-The French knights charged in their usual manner—arrogant, undisciplined, each seeking personal glory. The marshy ground slowed their horses; the pike squares held firm. When knights fell, the guildsmen swarmed them with daggers, stabbing through visors and armor joints.
+The knights charged in the manner of aristocratic cavalry—each man seeking personal glory, racing ahead of his fellows rather than maintaining formation. The marshy ground slowed their horses; the pike squares held firm. When knights fell, the guildsmen swarmed them with daggers, stabbing through visors and armor joints.
 
 The slaughter was total. Over a thousand knights died—so many that the spurs collected from the dead were hung in the cathedral as trophies. It was the first great victory of infantry over cavalry since antiquity, a sign that the age of the mounted knight was ending.`,
         hints: [
             { cost: 20, text: "Urban militia with pikes and clubs defeating heavy cavalry presaged the infantry revolution of the 14th century.", explanation: "The tactical transition helps date this battle." },
-            { cost: 25, text: "Flemish rebellions against French overlordship occurred primarily in the early 14th century.", explanation: "The political context helps narrow the date." }
+            { cost: 25, text: "Urban rebellions against feudal overlords occurred primarily in the early 14th century.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of the Golden Spurs (Courtrai) on July 11, 1302, where Flemish militia destroyed the French army of Robert II of Artois. The Flemings—guildsmen armed with goedendags and pikes—killed over 1,000 French knights, including Robert himself. 500 golden spurs were hung in the Church of Our Lady as trophies. The battle proved that disciplined infantry could defeat heavy cavalry, foreshadowing Crécy and the end of knightly dominance. Urban militia defeating cavalry characterized the early 14th-century infantry revolution. The Franco-Flemish conflicts precisely date this battle.",
         tags: ["pitched-battle", "14th-century", "europe"]
@@ -3113,21 +3113,21 @@ The truth is unclear—both sides claimed victory. What is certain is the afterm
 The battle became a national myth, commemorated for centuries as the death of freedom. The field itself remained sacred, fought over again and again—most recently in living memory, when old hatreds erupted in new atrocities.`,
         hints: [
             { cost: 20, text: "Heavy cavalry with mail and partial plate facing Ottoman sipahis and early Janissaries characterized late 14th-century Balkan warfare.", explanation: "The military forces help date this battle." },
-            { cost: 25, text: "Serbian-Ottoman conflicts in Kosovo occurred primarily in the late 14th century, before full Ottoman conquest.", explanation: "The political context helps narrow the date." }
+            { cost: 25, text: "Balkan coalitions resisting the advancing eastern empire fought decisive battles in the late 14th century.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Kosovo on June 15, 1389, where Ottoman Sultan Murad I fought Serbian Prince Lazar Hrebeljanović. Both leaders died—Murad stabbed by Miloš Obilić, Lazar executed after the battle. The outcome was ambiguous, but Serbia became an Ottoman vassal. The battle became central to Serbian national identity, commemorated in epic poetry for six centuries. The 1989 anniversary was used to inflame nationalism. Heavy cavalry facing early Ottoman forces characterized late 14th-century Balkans. Serbian-Ottoman Kosovo conflicts precisely date this battle.",
         tags: ["pitched-battle", "14th-century", "balkans"]
     },
     {
         id: "campaign_164",
-        title: "The Russian Awakening",
+        title: "The Hidden Reserve",
         actualYear: 1380,
         difficulty: "hard",
         description: `For over a century, the principalities of the north had paid tribute to the steppe empire that had conquered them. Now a prince refused to pay—and assembled an army to meet the horde's response.
 
 Perhaps 50,000 warriors gathered from a dozen principalities, united for the first time since the conquest. They marched south to meet the horde on an open field, choosing ground between two rivers that would limit the enemy's mobility.
 
-The horde's general—ruling during a succession crisis—brought perhaps 100,000 men. The battle raged all day. The horde's cavalry shattered one Russian wing, then wheeled toward the center. Victory seemed certain.
+The horde's general—ruling during a succession crisis—brought perhaps 100,000 men. The battle raged all day. The horde's cavalry shattered one wing of the defenders' army, then wheeled toward the center. Victory seemed certain.
 
 Then the hidden reserve struck. Fresh cavalry crashed into the horde's exhausted horsemen from a forest where they had concealed themselves. The rout was total. The horde retreated; tribute was never paid again—at least until the next great khan restored order and punished the rebels.`,
         hints: [
@@ -3144,14 +3144,14 @@ Then the hidden reserve struck. Fresh cavalry crashed into the horde's exhausted
         difficulty: "hard",
         description: `A small kingdom faced absorption by its larger neighbor. The neighbor's king had died, and his daughter was married to the great king next door. That king claimed the throne—and his army of 30,000 crossed the border.
 
-The small kingdom had perhaps 7,000 men—but they included English longbowmen, veterans of wars in France, sent by an old ally. The defenders chose their ground: a hillside with a stream and marshy ground protecting their front.
+The small kingdom had perhaps 7,000 men—but they included veteran longbowmen sent by an old ally, archers who had learned their trade in decades of continental war. The defenders chose their ground: a hillside with a stream and marshy ground protecting their front.
 
-The attackers charged uphill, as French knights always did. The longbows sang; the marsh disordered the cavalry; the infantry held. The small kingdom's cavalry struck the flank. The great king's army broke and fled.
+The attackers charged uphill in the manner of aristocratic cavalry—each knight racing for glory rather than maintaining formation. The longbows sang; the marsh disordered the cavalry; the infantry held. The small kingdom's cavalry struck the flank. The great king's army broke and fled.
 
 The small kingdom kept its independence for two more centuries—until marriage, not war, finally united the crowns. The battle site became a monastery, and its date a national holiday.`,
         hints: [
-            { cost: 20, text: "English longbowmen supporting allied forces against Castilian cavalry was characteristic of the Hundred Years' War period (1337-1453).", explanation: "The military forces help date this battle." },
-            { cost: 25, text: "The Portuguese succession crisis, with Castilian intervention and English alliance, occurred in 1383-1385.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Longbowmen supporting allied forces against heavy cavalry was characteristic of late 14th century warfare (1337-1453).", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "Succession crises leading to wars between neighboring kingdoms on the western peninsula occurred in the 1380s.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Aljubarrota on August 14, 1385, where Portuguese forces under João I and Nuno Álvares Pereira defeated Castilian King Juan I. English longbowmen under Thomas Aumale supported Portugal per the Treaty of Windsor (1373), the world's oldest active alliance. The victory secured Portuguese independence until the Iberian Union (1580-1640). The Monastery of Batalha commemorates the site. English longbowmen with Portuguese forces characterized the Hundred Years' War period. The Portuguese succession crisis (1383-1385) precisely dates this battle.",
         tags: ["pitched-battle", "14th-century", "europe"]
@@ -3163,14 +3163,14 @@ The small kingdom kept its independence for two more centuries—until marriage,
         difficulty: "hard",
         description: `A deposed king sought to reclaim his throne with foreign help. The greatest warrior-prince of the age—son of a famous king—led an army across the mountains to restore him. They faced the usurper's army, stiffened by companies of ruthless mercenaries.
 
-The usurper commanded perhaps 60,000 men. The prince had 30,000—but they included veteran English and Gascon soldiers, masters of the longbow and the disciplined defensive tactics that had won so many victories.
+The usurper commanded perhaps 60,000 men. The prince had 30,000—but they included veteran soldiers hardened by decades of continental war, masters of the longbow and the disciplined defensive tactics that had won so many victories.
 
 The prince feigned weakness, drawing the enemy to attack. When the usurper's cavalry charged, the longbows devastated them. The prince's cavalry struck the disordered enemy; the usurper's mercenaries, seeing the battle lost, switched sides. The usurper himself fled, leaving thousands dead.
 
 The deposed king regained his throne—then proved so treacherous that within two years, the prince was back, this time to sack cities and spread destruction. The prince would never recover his health from these campaigns, dying before he could inherit his father's crown.`,
         hints: [
-            { cost: 20, text: "English longbow tactics with Gascon cavalry defeating Castilian and French forces characterized Hundred Years' War interventions.", explanation: "The military forces help date this battle." },
-            { cost: 25, text: "English intervention in the Castilian Civil War occurred in 1367.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Longbow-based tactics defeating heavy cavalry characterized mid-14th century warfare.", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "Foreign interventions in peninsular civil wars occurred in the 1360s.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Nájera on April 3, 1367, where Edward the Black Prince defeated Henry of Trastámara and restored Peter I 'the Cruel' to the Castilian throne. Bertrand du Guesclin, France's future constable, was captured. Peter's treachery—refusing to pay Edward—led to a punitive expedition in 1370. Edward contracted the illness that killed him in 1376, never becoming king. English longbow tactics in Iberia characterized the Hundred Years' War period. English Castilian intervention (1366-1367) precisely dates this battle.",
         tags: ["pitched-battle", "14th-century", "europe"]
@@ -3189,26 +3189,26 @@ On a barren hill with twin peaks, the Christians made their final stand. Exhaust
 By evening, the king was captured, the relic taken, and the Christian army destroyed. Within months, the holy city was recaptured. A new crusade would be called, but the Christian kingdom would never recover its full strength.`,
         hints: [
             { cost: 20, text: "Crusader heavy cavalry facing Muslim horse archers, with the True Cross as a battle standard, characterized 12th-century Levantine warfare.", explanation: "The military elements help date this battle." },
-            { cost: 25, text: "Saladin's reunification of Muslim forces and destruction of Crusader armies occurred in 1187.", explanation: "The political context helps narrow the date." }
+            { cost: 25, text: "The reunification of Muslim forces under a single commander and destruction of the Christian kingdoms' field army occurred in 1187.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Hattin on July 4, 1187, where Saladin annihilated the Crusader army of Guy of Lusignan. The Crusaders, dying of thirst after a waterless march, made their stand on the Horns of Hattin. King Guy was captured; the True Cross was taken; Reynald of Châtillon was personally beheaded by Saladin. Jerusalem fell in October. The Third Crusade followed, but the Kingdom of Jerusalem never recovered. Crusader cavalry with the True Cross facing Saladin's horse archers characterized 12th-century warfare. Saladin's reunification (1187) precisely dates this battle.",
         tags: ["pitched-battle", "12th-century", "middle-east"]
     },
     {
         id: "campaign_168",
-        title: "The Lombard League's Victory",
+        title: "The Cities United",
         actualYear: 1176,
         difficulty: "hard",
         description: `The greatest emperor of the age had spent decades trying to crush the independent cities of the north. They had united against him in a league, rebuilt the city he had razed, and now fielded an army to stop his invasion.
 
-The emperor had perhaps 3,000 German knights—the finest heavy cavalry in Europe. The cities had perhaps 12,000 men, including their own cavalry but also infantry armed with long spears and crossbows, fighting from wagons.
+The emperor had perhaps 3,000 heavy knights—armored lancers considered the finest cavalry of the age. The cities had perhaps 12,000 men, including their own cavalry but also infantry armed with long spears and crossbows, fighting from wagons.
 
-The emperor attacked with his usual confidence. The city cavalry was scattered by the German charge. But the infantry, formed around a sacred wagon bearing their city's standard, held firm. The spears stopped the knights; the crossbows shot them down.
+The emperor attacked with his usual confidence. The city cavalry was scattered by the imperial charge. But the infantry, formed around a sacred wagon bearing their city's standard, held firm. The spears stopped the knights; the crossbows shot them down.
 
 When the city cavalry rallied and returned to the fight, the emperor himself was unhorsed and believed dead. His army fled. The emperor would eventually make peace, accepting city independence. The age of imperial domination was ending; the age of the city-state had begun.`,
         hints: [
-            { cost: 20, text: "German imperial knights facing Italian city militia with carroccio (standard-bearing wagons) characterized 12th-century Lombard warfare.", explanation: "The military forces help date this battle." },
-            { cost: 25, text: "Frederick Barbarossa's conflicts with the Lombard League occurred primarily from 1158-1183.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Imperial heavy cavalry facing city militia with carroccio (standard-bearing wagons) characterized 12th-century northern Italian warfare.", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "Imperial conflicts with leagues of independent cities occurred primarily from 1158-1183.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Legnano on May 29, 1176, where the Lombard League defeated Emperor Frederick Barbarossa. The Milanese infantry rallied around their carroccio; Barbarossa was unhorsed and nearly killed. The Peace of Constance (1183) recognized city autonomy. Italian city-states would dominate the peninsula for centuries. German knights versus Lombard militia with carroccio characterized 12th-century warfare. Barbarossa's Lombard League conflicts (1158-1183) precisely date this battle.",
         tags: ["pitched-battle", "12th-century", "europe"]
@@ -3218,13 +3218,13 @@ When the city cavalry rallied and returned to the fight, the emperor himself was
         title: "The Pope's Humiliation",
         actualYear: 1053,
         difficulty: "hard",
-        description: `The pope himself led an army south to drive out the Norman adventurers who had carved out kingdoms in the peninsula. These Normans—younger sons and landless knights from the north—had arrived as mercenaries and stayed as conquerors.
+        description: `The pope himself led an army south to drive out the northern adventurers who had carved out kingdoms in the peninsula. These warriors—younger sons and landless knights seeking their fortunes—had arrived as mercenaries and stayed as conquerors.
 
-The papal army included Lombard infantry, German cavalry, and Italian militia—perhaps 6,000 men. The Normans had only 3,000 cavalry, but they were the finest warriors in Christendom, hardened by decades of constant warfare.
+The papal army included local infantry, cavalry from across the mountains, and militia from the peninsula—perhaps 6,000 men. The adventurers had only 3,000 cavalry, but they were the finest warriors in Christendom—heavy lancers hardened by decades of constant warfare.
 
-The battle was brief. The papal infantry broke at the first Norman charge. The pope himself was captured—an unprecedented humiliation. But the Norman leaders, devout in their own way, knelt before their prisoner and begged his blessing. They would release him, swear fealty, and receive papal recognition for their conquests.
+The battle was brief. The papal infantry broke at the first charge. The pope himself was captured—an unprecedented humiliation. But the conquerors' leaders, devout in their own way, knelt before their prisoner and begged his blessing. They would release him, swear fealty, and receive papal recognition for their conquests.
 
-The Normans would go on to conquer the wealthy island to the south, then launch crusades from their new kingdom. What began as robbery became a realm that would last for centuries.`,
+The adventurers would go on to conquer the wealthy island to the south, then launch holy wars from their new kingdom. What began as robbery became a realm that would last for centuries.`,
         hints: [
             { cost: 20, text: "Norman heavy cavalry defeating mixed Italian forces was characteristic of the Norman conquest of southern Italy (1030-1100).", explanation: "The military forces help date this battle." },
             { cost: 25, text: "Papal attempts to expel the Normans from southern Italy occurred in the mid-11th century.", explanation: "The political context helps narrow the date." }
@@ -3237,11 +3237,11 @@ The Normans would go on to conquer the wealthy island to the south, then launch 
         title: "The High King's Fall",
         actualYear: 1014,
         difficulty: "hard",
-        description: `An aging high king, who had spent decades unifying his fractured island, faced the largest Viking army in a generation. The Northmen had allied with a rebellious province; their longships filled the bay.
+        description: `An aging high king, who had spent decades unifying his fractured island, faced the largest army of sea raiders in a generation. The Northmen had allied with a rebellious province; their longships filled the bay.
 
-The high king was old—perhaps seventy—and remained in his tent while his sons and generals led the army. Perhaps 7,000 Irish faced a similar number of Vikings and their allies. The battle raged all day along the coast.
+The high king was old—perhaps seventy—and remained in his tent while his sons and generals led the army. Perhaps 7,000 islanders faced a similar number of raiders and their allies. The battle raged all day along the coast.
 
-By evening, the Vikings were broken, fleeing to their ships. But the victory was pyrrhic. The high king's son was killed; his grandson was killed; and the high king himself—praying in his tent—was found and killed by fleeing Vikings who stumbled upon him.
+By evening, the raiders were broken, fleeing to their ships. But the victory was pyrrhic. The high king's son was killed; his grandson was killed; and the high king himself—praying in his tent—was found and killed by fleeing Northmen who stumbled upon him.
 
 The Viking Age was ending, but so was the dream of a united island. The high king's dynasty collapsed; the provinces resumed their feuds. Unity would not come again for centuries—and then only under foreign rule.`,
         hints: [
@@ -3321,8 +3321,8 @@ The Persian chariots charged and were destroyed by javelins. The cavalry on both
 
 The Persian Empire fell that day. The young king would march on to India before his men forced him to turn back. He would die at 32, having never lost a battle, leaving an empire with no heir.`,
         hints: [
-            { cost: 20, text: "Macedonian phalanx with sarissas and Companion cavalry facing Persian cavalry and scythed chariots characterized Alexander's campaigns (334-323 BCE).", explanation: "The military forces help date this battle." },
-            { cost: 25, text: "Alexander's decisive battle against Darius III occurred in 331 BCE.", explanation: "The political context helps narrow the date." }
+            { cost: 20, text: "Macedonian phalanx with sarissas (long pikes) and heavy companion cavalry facing Persian cavalry and scythed chariots characterized 334-323 BCE.", explanation: "The military forces help date this battle." },
+            { cost: 25, text: "The decisive battle that ended the Persian Empire and gave the conqueror control from Egypt to India occurred in 331 BCE.", explanation: "The political context helps narrow the date." }
         ],
         explanation: "This was the Battle of Gaugamela on October 1, 331 BCE, where Alexander the Great destroyed the last army of Darius III. Alexander's oblique attack created a gap in the Persian line; his charge at Darius caused the Great King to flee. The Persian Empire fell; Alexander ruled from Egypt to India until his death in 323 BCE. Macedonian phalanx and Companions versus Persian scythed chariots characterized Alexander's campaigns (334-323 BCE). The decisive battle against Darius dates this precisely.",
         tags: ["pitched-battle", "ancient", "middle-east"]
@@ -3545,12 +3545,12 @@ The ancient capital fell without a fight. The barbarian kingdom, which had terro
 
 The prince was a philosopher who preferred books to battle, but necessity made him a soldier. He chose ground near a ruined city, anchoring his flank on the river. The barbarians attacked with their characteristic fury, driving back his cavalry.
 
-The prince rallied his men personally, positioning himself with the infantry. The legions held; the barbarian charges broke against the disciplined formations. When the Germans exhausted themselves, the Romans counterattacked. The barbarian king was wounded and fled; 6,000 of his warriors lay dead.
+The prince rallied his men personally, positioning himself with the infantry. The legions held; the barbarian charges broke against the disciplined formations. When the tribesmen exhausted themselves, the legionaries counterattacked. The barbarian king was wounded and fled; 6,000 of his warriors lay dead.
 
-The prince drove the Germans back across the river and restored the frontier. He would later become sole emperor, famous for trying to restore the old gods. He died on campaign against Persia, the last pagan emperor.`,
+The prince drove the barbarians back across the river and restored the frontier. He would later become sole emperor, famous for trying to restore the old gods. He died on campaign against Persia, the last pagan emperor.`,
         hints: [
             { cost: 20, text: "Late Roman legions with large oval shields facing Germanic tribal charges characterized 4th-century Rhine frontier warfare.", explanation: "The forces help date this battle." },
-            { cost: 25, text: "Julian's restoration of the Rhine frontier occurred in 356-358, before he became sole emperor.", explanation: "The strategic context helps narrow the date." }
+            { cost: 25, text: "A junior emperor restoring the Rhine frontier against Germanic tribes, before becoming sole emperor, occurred in 356-358.", explanation: "The strategic context helps narrow the date." }
         ],
         explanation: "This was the Battle of Strasbourg (Argentoratum) on August 357, where Caesar Julian defeated the Alemanni confederation. Despite being outnumbered nearly 3:1, Julian's 13,000 legionaries destroyed King Chnodomar's 35,000 Germans. Julian later became emperor (361-363), famous for attempting to restore paganism. Late Roman legions versus Germanic warriors characterized 4th-century Rhine warfare. Julian's Gallic campaigns (356-358) precisely date this battle.",
         tags: ["pitched-battle", "ancient", "europe"]
