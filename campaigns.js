@@ -3488,9 +3488,7 @@ The counteroffensive was devastating. The invader's army was driven back in week
 
 The emperor had perhaps 15,000 men. He advanced in August heat; his soldiers arrived tired and thirsty. Intelligence said the barbarian cavalry was away foraging. The legions advanced uphill against the wagon circle.
 
-The cavalry wasn't gone. Returning during the battle, they struck the imperial flanks while the legions were already engaged with infantry at the wagons. Packed too tightly to maneuver, the imperial army was surrounded and destroyed. The emperor was killed; his body was never found. Two-thirds of the eastern field army died.
-
-Nineteenth-century historians saw this as the moment cavalry replaced infantry as the dominant arm. Modern historians argue the barbarian army was mostly infantry and the empire actually had more horsemen—the defeat came from overconfidence and bad timing, not a shift in warfare.`,
+The cavalry wasn't gone. Returning during the battle, they struck the imperial flanks while the legions were already engaged with infantry at the wagons. Packed too tightly to maneuver, the imperial army was surrounded and destroyed. The emperor was killed; his body was never found. Two-thirds of the eastern field army died.`,
         hints: [
             { cost: 20, text: "Imperial legions facing barbarian cavalry around a wagon laager was specific to the 376-382 period.", explanation: "The military situation helps date this battle." },
             { cost: 25, text: "The defeat and death of an emperor by barbarians within imperial territory occurred in 378.", explanation: "The political context helps narrow the date." }
@@ -3655,11 +3653,9 @@ The tribal charge broke against the disciplined line. The legionaries hurled the
         title: "The Frozen River",
         actualYear: 406,
         difficulty: "hard",
-        description: `A great river marked the long-standing frontier of an aging empire. In midwinter, large groups of tribal peoples gathered on the far bank and crossed, nearly unopposed. One tribe's king was killed fighting allied tribes on the east bank before the crossing, but once across the river, there was almost no resistance.
+        description: `A great river marked the long-standing frontier of an aging empire. In midwinter, large groups of tribal peoples gathered on the far bank and crossed, nearly unopposed. One tribe's king was killed fighting allied tribes on the east bank before the crossing, but once across the river, there was almost no resistance. The frontier that had held for four centuries collapsed in a single season.
 
-Some historians think the frontier garrisons had been stripped to fight wars elsewhere in the empire; others argue the evidence for this is weak and the crossers may have been refugees rather than invaders. Either way, the frontier that had held for four centuries simply collapsed.
-
-The tribes were a mix: Germanic infantry armed with spears, long swords, and large shields, few owning mail; and steppe cavalry with bows and long lances. They spent three years in the western provinces, then crossed the mountains into the peninsula beyond. The empire never recovered the territory. A generation later, one tribe had taken the rich provinces across the southern sea; another had sacked the capital itself.`,
+The tribes were a mix: infantry armed with spears, long swords, and large shields, few owning mail; and steppe cavalry with bows and long lances. They spent three years devastating the western provinces, then crossed the mountains into the peninsula beyond. The empire never recovered the territory. A generation later, one tribe had taken the rich provinces across the southern sea; another had sacked the capital itself.`,
         hints: [
             { cost: 20, text: "Late imperial limitanei (border troops) versus tribal and nomadic warriors characterized 4th-5th century frontier warfare.", explanation: "The forces help date this period." },
             { cost: 25, text: "Major crossings of the frozen Rhine occurred during the 'Migration Period' of the early 5th century.", explanation: "The context helps narrow the date." }
@@ -3672,7 +3668,7 @@ The tribes were a mix: Germanic infantry armed with spears, long swords, and lar
         title: "The Heretic Emperor's End",
         actualYear: 394,
         difficulty: "hard",
-        description: `The western emperor was a usurper, placed on the throne by his general; the eastern emperor marched to destroy him. Later Christian writers framed this as a religious war, the old gods against the new, but modern historians doubt religion was the key issue.
+        description: `The western emperor was a usurper, placed on the throne by his general; the eastern emperor marched to destroy him. The usurper was Christian, but pagan senators had rallied to him hoping for tolerance; the eastern emperor had banned pagan worship years before.
 
 The armies met in a mountain pass in early September, perhaps 50,000 on each side. The first day's fighting favored the west. The eastern cavalry was ambushed and destroyed; the eastern emperor nearly died.
 
@@ -3683,7 +3679,7 @@ The eastern emperor reunited the empire under one ruler. He died four months lat
             { cost: 20, text: "Late imperial field armies (comitatenses) with mixed cavalry and infantry characterized 4th-5th century warfare.", explanation: "The forces help date this battle." },
             { cost: 25, text: "Civil wars between eastern and western emperors over religious policy occurred in the late 4th century.", explanation: "The context helps narrow the date." }
         ],
-        explanation: "This was the Battle of the Frigidus (Cold River) on September 5-6, 394 AD. Emperor Theodosius I of the East defeated the usurper Eugenius and his general Arbogast, who had championed paganism. The famous Bora wind on the second day demoralized Eugenius's troops—later Christians called it miraculous. Eugenius was executed; Arbogast committed suicide. The victory ended the last serious pagan revival in the empire. Late Roman comitatenses fighting under competing religious symbols (chi-rho vs pagan standards) precisely identifies the late 4th century religious conflict.",
+        explanation: "This was the Battle of the Frigidus (Cold River) on September 5-6, 394 AD. Emperor Theodosius I of the East defeated the usurper Eugenius and his general Arbogast. Eugenius was Christian but had pagan senatorial support and restored the Altar of Victory; Theodosius had banned pagan worship in 391. The famous Bora wind on the second day demoralized Eugenius's troops—later Christians interpreted it as miraculous. Eugenius was executed; Arbogast committed suicide. Theodosius reunited the empire but died four months later.",
         tags: ["pitched-battle", "4th-century", "europe"]
     },
     {
