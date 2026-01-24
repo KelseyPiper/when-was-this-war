@@ -595,7 +595,7 @@ The prince was eventually killed in a skirmish, his brother captured and execute
 
 The campaign involved multiple columns converging on the disputed territory. But one column, perhaps 600 cavalry and infantry, encountered a gathering of warriors far larger than expected—perhaps 2,000 or more, better armed than anticipated and fighting for their way of life. The cavalry were armed with single-shot carbines. The warriors carried a mix of weapons—some had repeating rifles obtained through trade, others had single-shot rifles, muzzleloaders, or bows. Archaeological evidence suggests a significant minority had repeaters, giving them a rate-of-fire advantage in those encounters.
 
-A portion of the force, over 200 men, was surrounded on a hilltop and annihilated. None survived. The commander, a famous officer known for his aggressive tactics, died with his men. The disaster shocked the nation and made the indigenous leaders legendary—though their victory only delayed their eventual defeat by a few years.
+A portion of the force, over 200 men, was surrounded on a hilltop and annihilated. None survived. The commander, a famous officer known for his aggressive tactics, died with his men. The government responded with overwhelming force; within a year, most of the victorious bands had been forced onto reservations.
 
 The battle became one of the most analyzed in the nation's military history, debated for generations.`,
         hints: [
@@ -616,7 +616,7 @@ The enemy commander, a brilliant young prince fighting for his dynasty's surviva
 
 Infantry on both sides fought with matchlock muskets and pikes in roughly equal proportion. Cavalry used wheel-lock or early flintlock pistols, firing at range rather than charging home with sabers. The battle was a slaughter. Unable to reinforce each other across the swollen river, each half of the army was defeated in detail. Over 15,000 of the northerners were killed or captured. The king himself barely escaped.
 
-The defeat was a turning point: the northern kingdom's aura of invincibility was broken. Though it remained powerful for decades more, this battle marked the beginning of a long decline, while the prince's realm began its rise to regional dominance.`,
+The northern kingdom had not lost a major battle in forty years. Now it had. The prince's realm, previously a minor power, had announced itself as a military force to be reckoned with.`,
         hints: [
             { cost: 20, text: "Matchlock muskets were standard infantry firearms from roughly 1500 to 1700. The socket bayonet, which allowed muskets to replace pikes entirely, was widely adopted around 1690.", explanation: "The infantry weapons help date this battle." },
             { cost: 25, text: "Cavalry 'caracole' tactics—firing pistols at range rather than charging—were common from about 1550 to 1680, before aggressive shock tactics returned to favor.", explanation: "The cavalry tactics help narrow the timeframe." }
@@ -766,7 +766,7 @@ The battle took place in a valley with water sources that both armies needed. Th
 
 The invaders' general was killed in the fighting. Without his leadership, the army collapsed. The survivors fled, and the invasion that had seemed unstoppable was halted.
 
-The victory demonstrated that steppe tactics could be defeated—by opponents who understood them and refused to be intimidated by a fearsome reputation.`,
+The invaders never returned in force. Egypt and the lands beyond remained unconquered.`,
         hints: [
             { cost: 20, text: "Composite bow horse archery dominated Central Asian and Middle Eastern warfare from roughly 500 BCE to 1500 CE. The technology remained effective until firearms made mounted archery obsolete.", explanation: "The horse archer tactics help date this battle to the medieval period." },
             { cost: 25, text: "The mamluk military system—purchasing slave boys and training them as elite cavalry—was prominent from the 9th through 16th centuries, reaching its peak in the 13th-14th centuries.", explanation: "The slave-soldier military system helps narrow the timeframe." }
