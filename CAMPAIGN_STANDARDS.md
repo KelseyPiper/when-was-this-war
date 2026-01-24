@@ -7,8 +7,9 @@
 2. **Avoid non-military identifying details:**
    - No religious holidays (gives away Yom Kippur War, Tet Offensive)
    - No operation names (Desert Storm, Barbarossa)
-   - No country/people names - use descriptive phrases ("an island nation," "a northern kingdom")
+   - No country/people names - use "the invaders," "the defenders," "the empire," "the rebels" when possible. Avoid geographic identifiers like "an island nation" or "a northern kingdom" unless needed for clarity.
    - No specific dates within the text
+   - Use "imperial" not "Roman," describe fighting styles rather than nationalities
 
 3. **Technology details should be specific:**
    - Not just "guns" but "matchlock arquebuses requiring forked rests"
@@ -18,6 +19,102 @@
 4. **Temporal language must be accurate:**
    - Don't say "decades" if you mean centuries
    - Be precise about relative timing ("a century earlier," "within a generation")
+
+## Avoiding LLM-Style Prose
+
+LLM-generated text has characteristic patterns that make it feel artificial. Descriptions should be sparse, direct, and focused on conveying information efficiently.
+
+### Constructions to Avoid
+
+These are fine occasionally but LLMs overuse them:
+
+- **"Not an A, but a B"** - contrastive framing
+- **"You might think X. Instead, Y."** - expectation subversion
+- **"The F marked not just G, but also H"** - false-profundity padding
+- **Em-dashes** - LLMs scatter these everywhere
+- **Exhaustive lists** - "men, women, children, wagons, livestock" (just say "entire peoples" or "families")
+- **Dramatic parallelism** - "settled as allies, then partners, then masters"
+
+### Editorializing to Cut
+
+- "The disaster shocked the world"
+- "simply ceased to exist"
+- "the end of an era"
+- "would never fully recover"
+- "Some historians date X from this day" (which historians? is this even true?)
+
+These tell the reader how to feel instead of giving them information.
+
+### Presenting Uncertainty
+
+**Bad (vague hand-waving):**
+> "Perhaps the garrisons had been stripped; perhaps the defenses had rotted. The sources don't say."
+
+**Good (actual historiographical debate):**
+> "Some historians think the frontier garrisons had been stripped to fight wars elsewhere; others argue the evidence for this is weak."
+
+If there's a real scholarly debate, describe it. If you don't know, research it. Don't gesture vaguely at uncertainty.
+
+### Hypotheses vs. Facts
+
+Don't present hypotheses as facts. Example: the Rhine freezing in 406 AD is an 18th-century speculation by Gibbon, not attested in any contemporary source. Write "Later historians speculated the river froze" or just skip it.
+
+### Motive and Significance
+
+**Bad (imputing motive):**
+> "wagons circled into an improvised fortress protecting their families"
+
+**Good (stating facts):**
+> "wagons circled into an improvised fortress, families and possessions inside"
+
+**Bad (asserting significance):**
+> "The crossing marked not just a military disaster but the end of an era."
+
+**Good (letting facts speak):**
+> "The empire never recovered the territory."
+
+### Significance Must Be Concrete
+
+**If claiming something is momentous**, replace with a specific consequence:
+
+- Bad: "The battle marked a turning point in history."
+- Good: "The victors annexed three provinces and held them for two centuries."
+
+**If claiming military wisdom was proven wrong**, describe how contemporaries actually changed behavior:
+
+- Bad: "The battle proved that cavalry could not defeat disciplined infantry."
+- Good: "After the defeat, the king ordered all future armies to include pike blocks trained in the new formation."
+
+**If claiming a battle shocked a nation**, describe specific responses:
+
+- Bad: "The disaster shocked the world."
+- Good: "The defeat triggered a political crisis; the commanding general was recalled and executed, and the senate voted to double the army's size."
+
+Not every battle has world-historic import. Most don't. If you can't point to a specific consequence, don't claim significance.
+
+### Sourcing and Uncertainty
+
+For older history especially, acknowledge limited sourcing:
+
+- "The sources for this period are thin; most details come from a single chronicler writing decades later."
+- "Casualty figures from ancient battles are notoriously unreliable, but the sources agree the losses were severe."
+
+Don't present contested reconstructions as fact. If historians disagree about what happened, say so.
+
+### The Core Principle
+
+Write like a historian conveying information to someone who wants to learn, not like an AI trying to sound impressive. When in doubt: state the fact plainly, cut the commentary, research the actual debates.
+
+### Research Before Writing
+
+**Do not rely on "innate" knowledge.** LLMs frequently hallucinate details about battles: wrong dates, wrong commanders, wrong outcomes, invented tactical details. Always check against external sources (Wikipedia is fine) before writing or editing a campaign.
+
+If you don't know:
+- What the actual historiographical debates are
+- What equipment/tactics were actually used
+- What the primary sources say vs. what's later speculation
+
+Then look it up. The goal is real information, not plausible-sounding filler.
 
 ## Hint Requirements
 

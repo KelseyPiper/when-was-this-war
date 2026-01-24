@@ -3484,13 +3484,13 @@ The counteroffensive was devastating. The invader's army was driven back in week
         title: "The Emperor's Last Stand",
         actualYear: 378,
         difficulty: "hard",
-        description: `Barbarian refugees, admitted into the empire years before, had revolted after years of abuse and broken promises. Now their army—perhaps 20,000 warriors—ravaged the richest provinces. The eastern emperor marched to destroy them, refusing to wait for his western colleague's reinforcements.
+        description: `Barbarian refugees, admitted into the empire years before, had revolted after abuse and broken promises. Their army camped on a hill, wagons circled into an improvised fortress—families and possessions inside. The eastern emperor marched to destroy them without waiting for reinforcements.
 
-The emperor had 15,000 men—veteran legions, though not at full strength. Intelligence suggested the barbarians were weak, their cavalry away foraging. The emperor advanced in the August heat, his soldiers exhausted and thirsty from the march.
+The emperor had perhaps 15,000 men. He advanced in August heat; his soldiers arrived tired and thirsty. Intelligence said the barbarian cavalry was away foraging. The legions advanced uphill against the wagon circle.
 
-The barbarians' cavalry hadn't left. As the Roman infantry advanced against the wagon laager, the horsemen struck both flanks. The legions, packed too tightly to maneuver, were surrounded and butchered. The emperor himself was killed—his body never found.
+The cavalry wasn't gone. Returning during the battle, they struck the imperial flanks while the legions were already engaged with infantry at the wagons. Packed too tightly to maneuver, the imperial army was surrounded and destroyed. The emperor was killed; his body was never found. Two-thirds of the eastern field army died.
 
-The disaster shocked the world. A Roman emperor dead in battle, two-thirds of the eastern army destroyed. The empire would never fully recover; the barbarians would be settled as allies, then partners, then masters. Some historians date Rome's fall from this day.`,
+Nineteenth-century historians saw this as the moment cavalry replaced infantry as the dominant arm. Modern historians argue the barbarian army was mostly infantry and the empire actually had more horsemen—the defeat came from overconfidence and bad timing, not a shift in warfare.`,
         hints: [
             { cost: 20, text: "Roman legions facing Gothic cavalry around a wagon laager was specific to the 376-382 Gothic War.", explanation: "The military situation helps date this battle." },
             { cost: 25, text: "The defeat and death of a Roman emperor by barbarians within the empire occurred in 378.", explanation: "The political context helps narrow the date." }
@@ -3655,15 +3655,11 @@ The tribal charge broke against the disciplined line. The legionaries hurled the
         title: "The Frozen River",
         actualYear: 406,
         difficulty: "hard",
-        description: `On the last night of the year, the great river froze solid. Entire peoples—men, women, children, wagons, livestock—crossed on the ice. The imperial frontier, defended for four centuries, simply ceased to exist.
+        description: `A great river marked the long-standing frontier of an aging empire. In midwinter, large groups of tribal peoples gathered on the far bank and crossed, nearly unopposed. One tribe's king was killed fighting allied tribes on the east bank before the crossing, but once across the river, there was almost no resistance.
 
-The garrison forces were stretched thin; civil wars had drawn the best units to distant theaters. The limitanei—border troops of lesser quality than the field armies—could not stop the migration. Some tribes crossed unopposed; others fought brief engagements with local garrisons.
+Some historians think the frontier garrisons had been stripped to fight wars elsewhere in the empire; others argue the evidence for this is weak and the crossers may have been refugees rather than invaders. Either way, the frontier that had held for four centuries simply collapsed.
 
-The invaders were diverse: Germanic tribes, Central Asian horse peoples, even some who had served as imperial foederati and knew Roman military practice. They came with cavalry and infantry, armed with long swords, spears, javelins, and bows. Some wore mail armor; most relied on large wooden shields.
-
-Within three years, the invaders had reached the western sea. Within a generation, imperial authority in the western provinces had collapsed. The empire would never recover its lost territories; what had been provinces would become the kingdoms of new peoples.
-
-The crossing marked not just a military disaster but the end of an era—the moment when a civilization's defenses simply gave way.`,
+The tribes were a mix: Germanic infantry armed with spears, long swords, and large shields, few owning mail; and steppe cavalry with bows and long lances. They spent three years in the western provinces, then crossed the mountains into the peninsula beyond. The empire never recovered the territory. A generation later, one tribe had taken the rich provinces across the southern sea; another had sacked the capital itself.`,
         hints: [
             { cost: 20, text: "Late Roman limitanei (border troops) versus Germanic and nomadic warriors characterized 4th-5th century frontier warfare.", explanation: "The forces help date this period." },
             { cost: 25, text: "Major crossings of the frozen Rhine occurred during the 'Migration Period' of the early 5th century.", explanation: "The context helps narrow the date." }
@@ -3676,15 +3672,13 @@ The crossing marked not just a military disaster but the end of an era—the mom
         title: "The Heretic Emperor's End",
         actualYear: 394,
         difficulty: "hard",
-        description: `The last pagan emperor of the western realm marched against the Christian emperor of the east. The fate of an empire—and perhaps the future of two competing religions—would be decided in a single battle.
+        description: `The western emperor was a usurper, placed on the throne by his general; the eastern emperor marched to destroy him. Later Christian writers framed this as a religious war, the old gods against the new, but modern historians doubt religion was the key issue.
 
-The armies met in a mountain pass, perhaps 50,000 men on each side. The western army included the last units of traditional believers, who marched beneath the standards of the old gods. The eastern army carried the new symbol—the chi-rho that had supposedly granted victory to a previous emperor.
+The armies met in a mountain pass in early September, perhaps 50,000 on each side. The first day's fighting favored the west. The eastern cavalry was ambushed and destroyed; the eastern emperor nearly died.
 
-The first day's fighting favored the west. The eastern cavalry was ambushed and cut to pieces; the eastern emperor nearly died himself. That night, a bitter wind rose from the mountains.
+The second day, a fierce regional wind rose from the mountains. A bishop writing six months later described how it "tore shields from the hands of the faithless and turned all their spears and missiles back." The western troops, battered by the gale, broke. Many defected. The usurper was captured and executed; his general committed suicide.
 
-The second day, the wind became a gale—so fierce that it blew the missiles of the western army back into their own faces while carrying the eastern javelins true. The demoralized western troops broke; their emperor was captured and executed. The old religion would never again challenge the new for imperial favor.
-
-The battle marked the final triumph of one faith over another in the empire, and the last gasp of paganism as a political force.`,
+The eastern emperor reunited the empire under one ruler. He died four months later.`,
         hints: [
             { cost: 20, text: "Late Roman field armies (comitatenses) with mixed cavalry and infantry characterized 4th-5th century warfare.", explanation: "The forces help date this battle." },
             { cost: 25, text: "Civil wars between eastern and western Roman emperors over religious policy occurred in the late 4th century.", explanation: "The context helps narrow the date." }
@@ -3756,18 +3750,16 @@ The arbitration resolved nothing; the schism deepened into permanent division. T
         title: "The Brothers' War",
         actualYear: 841,
         difficulty: "hard",
-        description: `The great emperor had united the western world, but his grandsons could not share his inheritance. Three brothers—each claiming a throne—gathered their armies for the bloodiest battle the realm had ever seen.
+        description: `The great emperor had united the western world, but his grandsons could not share his inheritance. Two brothers allied against the third, who held the imperial title but not their loyalty.
 
-Two brothers allied against the third, who held the imperial title but not the loyalty of his siblings. The armies met on a plain; perhaps 150,000 men in total, the largest forces fielded since ancient times.
+Both armies were similar: heavy cavalry with lance and sword, wearing mail hauberks and conical helmets, supported by infantry with spears and shields. Sources differ on the numbers, but all agree the battle was enormous.
 
-Both armies were similar: heavy cavalry with lance and sword, wearing mail hauberks and conical helmets. Infantry with spears and shields supported the horsemen. The warriors swore oaths on sacred relics before battle; priests blessed the standards.
+A poet who fought in the battle wrote verses describing the horror. Chroniclers reported the slaughter was so great "that no one can recall a greater loss among this people in the present age." Perhaps 25,000 to 30,000 died. The emperor fled.
 
-The fighting was savage—brother killing brother quite literally. By nightfall, the emperor's forces were shattered. Perhaps 40,000 died on the field. The emperor fled; within two years, the realm would be formally divided into three kingdoms that would never reunite.
-
-The battle marked the end of a unified western Christian empire and the birth of the nations that would eventually become the major powers of the continent.`,
+Within two years, the realm was formally divided into three kingdoms. Forty years later, chroniclers still blamed this battle for the weakness that left the realm unable to defend its borders against raiders from the north and east.`,
         hints: [
-            { cost: 20, text: "Carolingian heavy cavalry with mail hauberks and conical helmets characterized 9th century Frankish warfare.", explanation: "The armor helps date this battle." },
-            { cost: 25, text: "Major civil wars dividing the Carolingian Empire occurred in the mid-9th century.", explanation: "The context helps narrow the date." }
+            { cost: 20, text: "Heavy cavalry with mail hauberks and conical helmets, supported by infantry, characterized 9th century western European warfare.", explanation: "The armor helps date this battle." },
+            { cost: 25, text: "Catastrophic civil wars dividing a great empire among its founder's grandsons occurred in the mid-9th century.", explanation: "The context helps narrow the date." }
         ],
         explanation: "This was the Battle of Fontenoy on June 25, 841, the bloodiest battle of the Carolingian era. Louis the German and Charles the Bald defeated their brother Emperor Lothar I. Casualty estimates of 40,000 may be exaggerated but reflect the battle's horror—chroniclers called it 'the end of Frankish strength.' The Treaty of Verdun (843) divided the empire into what became France, Germany, and a middle kingdom. Carolingian heavy cavalry with mail and conical helmets identifies 9th century Frankish warfare. A war between imperial brothers over Charlemagne's inheritance precisely dates this period.",
         tags: ["pitched-battle", "9th-century", "europe"]
@@ -3787,8 +3779,8 @@ The battle lasted a day. The king's army held firm in a shield wall on a ridge; 
 
 The king had saved the last independent realm of his people and begun the reconquest that his descendants would complete.`,
         hints: [
-            { cost: 20, text: "Anglo-Saxon shield walls versus Viking infantry characterized 9th century warfare in the British Isles.", explanation: "The forces help date this battle." },
-            { cost: 25, text: "Major turning-point battles against Viking invasions occurred in the late 9th century.", explanation: "The context helps narrow the date." }
+            { cost: 20, text: "Shield wall infantry with round shields fighting against raiders armed with long axes characterized 9th century warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Kings emerging from hiding to defeat invading raiders and force their conversion occurred in the late 9th century.", explanation: "The context helps narrow the date." }
         ],
         explanation: "This was the Battle of Edington in May 878, where King Alfred of Wessex defeated the Great Heathen Army under Guthrum. Alfred had spent the winter in the Somerset marshes; in spring he gathered the fyrd and crushed the Vikings. Guthrum was besieged at Chippenham and forced to accept baptism with Alfred as godfather. The Treaty of Wedmore created the Danelaw boundary. Alfred had saved the last Anglo-Saxon kingdom and begun England's unification. Anglo-Saxon shield walls versus Vikings characterizes 9th century British warfare. A king emerging from hiding to defeat invaders describes Alfred's desperate situation.",
         tags: ["pitched-battle", "9th-century", "europe"]
@@ -3804,10 +3796,10 @@ Perhaps 10,000 heavy cavalry—the armored horsemen who would become the model f
 
 The raiders used their traditional tactics: feigned retreats, arrow storms, encirclement. They trapped and annihilated the rearguard. But the king kept his main force together, and when the raiders committed to close combat, the heavy cavalry proved unstoppable.
 
-The raider army was destroyed; their leaders were captured and hanged. The threat ended permanently; the raiders settled, converted, and became a Christian kingdom. The victory established the king as the dominant ruler in western Christendom and laid the foundations for a new empire.`,
+The raider army was destroyed; their leaders were captured and hanged. The threat ended permanently; the raiders settled and converted within a generation. Seven years later, the pope crowned the victorious king as emperor.`,
         hints: [
-            { cost: 20, text: "Heavy cavalry lancers versus steppe horse archers characterized 10th century central European warfare.", explanation: "The forces help date this battle." },
-            { cost: 25, text: "Decisive battles ending major nomadic incursions into Germany occurred in the mid-10th century.", explanation: "The context helps narrow the date." }
+            { cost: 20, text: "Heavy cavalry lancers in mail defeating steppe horse archers characterized 10th century central European warfare.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Decisive battles permanently ending decades of nomadic raids from the east occurred in the mid-10th century.", explanation: "The context helps narrow the date." }
         ],
         explanation: "This was the Battle of Lechfeld on August 10, 955, where King Otto I of Germany crushed the Magyars (Hungarians), ending sixty years of devastating raids. Otto's heavy cavalry—proto-knights in mail with lance and shield—destroyed the Magyar horse archers when they closed to fight. Magyar leaders were hanged; the survivors settled and converted, founding the Kingdom of Hungary. Otto was crowned Holy Roman Emperor in 962. Heavy cavalry lancers defeating steppe horse archers characterizes 10th century European military development. The permanent end of a nomadic threat identifies this decisive moment.",
         tags: ["pitched-battle", "10th-century", "europe"]
@@ -3874,13 +3866,11 @@ Within four years, the invaders had conquered the entire peninsula except for mo
         title: "The Dynasty's Fall",
         actualYear: 750,
         difficulty: "hard",
-        description: `The dynasty that had built the greatest empire since antiquity fell in a single day. For years, rebellion had spread through the eastern provinces; now the rebels marched west with an army drawn from peoples the dynasty had conquered—Persians, Khurasanis, former slaves.
+        description: `A rebellion that had spread through the eastern provinces for three years finally met the caliph's army at a river crossing. The caliph was a capable commander with veteran troops; his victory should not have been in doubt.
 
-The caliph gathered his forces near a river in the north—perhaps 12,000 loyal troops, mostly Syrian Arabs who had been the backbone of the dynasty for a century. They faced a similar number of rebels, but the rebels had momentum and fresh troops, while the Syrians had marched far and faced defection everywhere.
+Our sources are late and biased toward the victors, so details are uncertain. What they describe: the rebels formed a spear wall. The caliph's cavalry charged, expecting to break it. They failed. The cavalry was cut down; many of the routed army drowned in the winter river.
 
-Both armies were similar: cavalry with lance and bow, infantry with spear and sword. The fighting went on for days. When a key commander switched sides—supposedly bribed—the caliph's army collapsed. The caliph fled but was later hunted down and killed.
-
-The new dynasty would rule for five centuries. They moved the capital east, and the old Syrian-dominated order gave way to a more cosmopolitan empire that drew on Persian administrative traditions. The revolution transformed not just politics but culture, art, and religious practice.`,
+The caliph fled west, where months later a small rebel detachment found him hiding in a church and killed him. The new dynasty moved the capital east to a new city they built, where they ruled for five centuries.`,
         hints: [
             { cost: 20, text: "Arab-Persian cavalry armies with lance and bow characterized mid-8th century Middle Eastern warfare.", explanation: "The forces help date this battle." },
             { cost: 25, text: "Major dynastic revolutions in the caliphate occurred in the mid-8th century.", explanation: "The context helps narrow the date." }
@@ -3914,13 +3904,13 @@ The minor skirmish became legend; the commander's sword and horn passed into myt
         title: "The Last Stand at the Volcano",
         actualYear: 553,
         difficulty: "hard",
-        description: `The great general had already killed one barbarian king and reclaimed most of the peninsula for the empire. But the barbarians had rallied behind a new leader—a young warrior who gathered the remaining strength of his people for one final battle.
+        description: `The great general had already killed one barbarian king and reclaimed most of the peninsula for the empire. The barbarians rallied behind a new leader who gathered their remaining strength.
 
-The general commanded perhaps 18,000 men: a mix of imperial cavalry, dismounted barbarian allies, and mercenary horse archers from the steppes. The barbarian king had perhaps 15,000—the last warriors of a people who had ruled for sixty years.
+The two armies faced each other across a stream for two months, skirmishing at bridges. Then the imperial fleet captured the barbarian supply ships. Facing starvation, the barbarian king was forced to attack.
 
-The battle took place at the foot of a volcano, near an ancient city. The imperial general set his infantry in the center with his heavy cavalry on the flanks. Thousands of archers formed the main striking power—a tactic the general had perfected.
+The general commanded perhaps 18,000 men: heavy cavalry, allied infantry, and horse archers from the steppes. The barbarians had perhaps 15,000. The battle lasted two days. The king fought in the front ranks; according to our sources, he was killed while in the act of changing shields.
 
-The barbarian cavalry charged repeatedly, but the arrow storm cut them down. The king himself led a final desperate charge against the imperial banner. He was struck down; his death ended not just the battle but his people's kingdom forever. The peninsula returned to imperial rule—though only briefly.`,
+With the king dead and no successor chosen, resistance collapsed. The general allowed survivors to leave under oath. The peninsula returned to imperial rule, though it was devastated and depopulated. Fifteen years later, a new people invaded from the north and took most of it back.`,
         hints: [
             { cost: 20, text: "Imperial combined-arms tactics with massed archers and heavy cavalry characterized 6th century warfare.", explanation: "The forces help date this battle." },
             { cost: 25, text: "The final campaigns to reclaim a peninsula from barbarian kingdoms occurred in the mid-6th century.", explanation: "The context helps narrow the date." }
@@ -3933,13 +3923,13 @@ The barbarian cavalry charged repeatedly, but the arrow storm cut them down. The
         title: "The Bloodiest Civil War",
         actualYear: 351,
         difficulty: "hard",
-        description: `The empire had been divided between two emperors—brothers who hated each other. Now one was dead; a general had seized the western provinces and marched east. The remaining legitimate emperor gathered his forces to meet the usurper.
+        description: `The empire had been divided between two emperors, brothers who hated each other. Now one was dead, murdered by a general who had seized the western provinces and marched east. The remaining emperor gathered his forces to meet the usurper.
 
-The armies were evenly matched—perhaps 40,000 on each side. Both were professional Roman forces: heavy infantry with shield and spear, cavalry lancers, horse archers from allied peoples. The fighting lasted all day, the bloodiest single battle in the empire's long history of civil wars.
+Before the battle, one of the usurper's commanders defected with most of his men. Even so, the armies were roughly matched: perhaps 40,000 on each side, professional forces with heavy infantry, cavalry lancers, and horse archers. The emperor held the advantage in armored cavalry.
 
-By nightfall, the usurper had won—barely. The emperor's cavalry had nearly broken through; his cataphracts came within a spear's throw of killing the usurper himself. But the eastern cavalry failed to support the attack, and the breakthrough became an isolated pocket, then a slaughter.
+The emperor himself was not present; he waited in a nearby city while his generals fought. The battle lasted all day. His cavalry outflanked and encircled the enemy right wing. By nightfall, the usurper's army was broken.
 
-The legitimate emperor fled east. Both armies were shattered—perhaps 54,000 dead combined. The civil war would continue for another two years. The usurper would eventually fall, but only after the empire had bled itself white.`,
+But the cost was staggering. Sources report over 50,000 dead between both sides. The emperor, receiving news of his victory from a local bishop, reportedly wept at the casualty reports and feared the empire could no longer resist barbarian invasion. The usurper fled west and held out for two more years before killing himself.`,
         hints: [
             { cost: 20, text: "Late Roman professional armies with heavy infantry and cataphract cavalry characterized mid-4th century warfare.", explanation: "The forces help date this battle." },
             { cost: 25, text: "Major civil wars between competing Roman emperors occurred in the mid-4th century.", explanation: "The context helps narrow the date." }
@@ -3952,13 +3942,13 @@ The legitimate emperor fled east. Both armies were shattered—perhaps 54,000 de
         title: "The Barbarian General's Victory",
         actualYear: 402,
         difficulty: "hard",
-        description: `The western empire was ruled by a child; the real power was a general of barbarian origin—half-Vandal by blood, but utterly loyal to the empire he served. When invaders crossed the mountains into the heartland, the general marched to meet them.
+        description: `The western empire was ruled by a child; the real power was a general of mixed barbarian descent, utterly loyal to the empire he served. When invaders crossed the mountains into the heartland, the general marched to meet them.
 
-The invaders were Germanic warriors—perhaps 20,000 men—led by a king seeking a homeland for his people. They had already sacked cities and caused panic in the imperial capital. The general gathered perhaps 15,000: field army regulars, barbarian foederati, and even troops withdrawn from distant frontiers.
+The invaders had already caused panic in the imperial capital. The general gathered field army regulars, allied cavalry, and troops withdrawn from distant frontiers. He chose to attack on a holy day, when the invaders would be occupied with religious services. To avoid the dishonor of fighting on that day himself, he gave command to a pagan allied chieftain.
 
-The battle was fought near a town in the northern plains. Both armies relied on heavy cavalry with lance and sword, plus infantry with spear and shield. The fighting was confused; the invaders nearly captured the imperial camp. But the general's tactical skill prevailed, and the invader king was forced to withdraw.
+The outcome is disputed in our sources, which are biased toward the general. What seems clear: the invaders were caught unprepared, their camp was captured along with the king's wife, but the king himself escaped with most of his army. He agreed to withdraw from the heartland.
 
-The victory saved the heartland—temporarily. The general would go on to defend the empire for another decade before jealous courtiers arranged his execution. Without him, the empire collapsed within a generation.`,
+The general would defend the empire for another eight years before jealous courtiers arranged his execution. Two years after that, the same invader king sacked the capital.`,
         hints: [
             { cost: 20, text: "Late Roman field armies with barbarian foederati characterized the early 5th century western empire.", explanation: "The forces help date this battle." },
             { cost: 25, text: "A barbarian-born general defending the western Roman heartland against Gothic invaders specifically describes the early 400s.", explanation: "The context helps narrow the date." }
@@ -3973,11 +3963,11 @@ The victory saved the heartland—temporarily. The general would go on to defend
         difficulty: "hard",
         description: `A vast empire had fractured into warring kingdoms. The son of a frontier general had convinced his father to rebel; now he led the cavalry that would reunite the realm. Two rival warlords, each commanding massive armies, stood in his path.
 
-The young prince led perhaps 3,500 elite cavalry against combined enemy forces of over 100,000. He chose his ground carefully: a fortified pass that the enemy would have to force. He waited.
+The young prince occupied a fortified pass with perhaps 3,500 elite cavalry, facing over 100,000 enemy troops. Before the battle, he led a raid with only four companions deep into enemy territory, luring pursuers into an ambush that killed 300 and captured officers. His general captured a rival warlord's nephew in single combat.
 
-When the enemy attacked, the prince led a charge that shattered their vanguard. Then he challenged their champion to single combat—and won, breaking enemy morale. The warlords' armies collapsed; one was captured, the other fled and was later killed by his own men.
+When the enemy finally attacked the pass, the prince's elite "Black Armor" cavalry, about 1,000 strong, broke their formations. The enemy army collapsed; about 3,000 were killed and 50,000 captured, including one of the warlords. The other warlord fled and was later killed by his own men.
 
-The victory effectively ended the civil wars. The prince's father founded a dynasty that would rule for nearly three centuries and produce one of history's greatest civilizations. The prince himself would become its second ruler—and is remembered as perhaps the greatest warrior-emperor in his realm's long history.`,
+The victory ended the civil wars. The prince's father founded a dynasty that would rule for nearly three centuries. The prince himself became its second emperor.`,
         hints: [
             { cost: 20, text: "Chinese heavy cavalry with lance and crossbow characterized 7th century Tang warfare.", explanation: "The forces help date this battle." },
             { cost: 25, text: "The unification campaigns founding the Tang Dynasty occurred in the early 620s.", explanation: "The context helps narrow the date." }
@@ -3990,16 +3980,14 @@ The victory effectively ended the civil wars. The prince's father founded a dyna
         title: "The Kingdom Unified",
         actualYear: 825,
         difficulty: "hard",
-        description: `For two centuries, the island had been divided among rival kingdoms. Now the king of the southwestern realm marched against his northern rival—the kingdom that had long been dominant but had weakened through dynastic strife.
+        description: `For two centuries, the island had been divided among rival kingdoms. The southwestern kingdom had long been overshadowed by its northern neighbor. Now the southwestern king, fresh from campaigning against tribes in the far west, learned that the northern king had invaded his territory.
 
-The armies met on a ridge. Both fought in the island's traditional style: infantry in shield walls, armed with spear, sword, and the round wooden shield. The southwestern king commanded perhaps 3,000 men; his rival had similar numbers. There were few archers; this was a battle of close combat.
+Our sources say only that the two kings met in battle near a ridge, and that the northerners were routed with heavy losses. A later chronicler claimed the river ran red with blood, but this may be embellishment. Both armies would have fought in shield walls with spear and sword, though we have no details of the engagement.
 
-The fighting was brutal. When the northern shield wall broke, the slaughter was immense. The rival king fled; his kingdom submitted within months. Other kingdoms followed, accepting the southwestern king as overlord.
-
-The battle marked the beginning of a unified realm—though it would take another generation, and the threat of foreign invasion, to complete the process. The southwestern king died shortly after, but his dynasty would rule the island for over a century.`,
+The consequences were concrete: within months, four neighboring kingdoms submitted to the victor. The northern king was killed the following year fighting rebels who had been emboldened by his defeat. A century later, the victor's descendants would rule a unified realm.`,
         hints: [
-            { cost: 20, text: "Anglo-Saxon shield wall infantry with round shields characterized 9th century British warfare.", explanation: "The forces help date this battle." },
-            { cost: 25, text: "Wars of unification among Anglo-Saxon kingdoms occurred in the early 9th century.", explanation: "The context helps narrow the date." }
+            { cost: 20, text: "Shield wall infantry with round shields, spears, and swords characterized 9th century warfare in the island kingdoms.", explanation: "The forces help date this battle." },
+            { cost: 25, text: "Wars of unification among the island kingdoms, ending centuries of division, occurred in the early 9th century.", explanation: "The context helps narrow the date." }
         ],
         explanation: "This was the Battle of Ellandun (Wroughton) in 825, where King Egbert of Wessex defeated Beornwulf of Mercia. Mercia had dominated England for a century; this battle ended that dominance. Within months, Kent, Sussex, Surrey, and Essex submitted to Egbert. His grandson Alfred would complete England's unification. Anglo-Saxon shield wall combat characterizes 9th century British warfare. The wars ending Mercian dominance precisely date this to the 820s, the turning point in Wessex's rise.",
         tags: ["pitched-battle", "9th-century", "europe"]
