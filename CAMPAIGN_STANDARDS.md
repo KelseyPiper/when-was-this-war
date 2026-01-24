@@ -101,6 +101,19 @@ For older history especially, acknowledge limited sourcing:
 
 Don't present contested reconstructions as fact. If historians disagree about what happened, say so.
 
+### Historiographical Debates
+
+**Don't assume newer interpretations are more correct.** Modern historians are fallible people with their own incentive structures. There's strong academic pressure toward revisionism—no one gets a degree by confirming the existing consensus. Some revisionist work is politically motivated or contrarian for its own sake.
+
+When evaluating competing interpretations:
+
+- The best scholarship is grounded in specific details: who did what, acting on what information
+- Be skeptical of interpretations that map neatly onto modern political debates (e.g., "refugees vs invaders" framing for ancient migrations)
+- Traditional narratives often became traditional because they had explanatory power; dismissing them requires actual evidence, not just novelty
+- "Later writers exaggerated X" doesn't mean X was fabricated from nothing
+
+**Most historiographical debates don't need to feature at all.** Usually the right approach is to describe what the sources say happened, without claiming either the traditional or revisionist interpretation is correct. Don't write "19th-century historians thought X, but modern historians argue Y"—just describe what happened.
+
 ### The Core Principle
 
 Write like a historian conveying information to someone who wants to learn, not like an AI trying to sound impressive. When in doubt: state the fact plainly, cut the commentary, research the actual debates.
