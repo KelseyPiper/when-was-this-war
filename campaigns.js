@@ -673,7 +673,7 @@ The cavalry commander waited for the right moment. When the infantry was committ
 
 The first charge broke the infantry's leading formations. Before the rest could brace, more charges crashed home. The battle lasted barely twenty minutes. The infantry army collapsed, losing over 8,000 killed while the cavalry suffered fewer than 100 dead.
 
-The battle demonstrated that cavalry could still defeat infantry—if the cavalry was exceptionally good and the timing perfect.`,
+It was one of history's most lopsided cavalry victories.`,
         hints: [
             { cost: 20, text: "Matchlock muskets with pikes in mixed formations were standard from about 1550 to 1700. The socket bayonet, which allowed muskets to replace pikes, was adopted around 1690.", explanation: "The infantry weapons help date this battle." },
             { cost: 25, text: "Cavalry lancers fell from favor in Western Europe around 1600 but remained effective in Eastern Europe until the 18th century, when firearms became truly universal.", explanation: "The cavalry weapons help narrow the timeframe." }
@@ -709,7 +709,7 @@ The numerical advantage meant nothing. The defending tanks—a mix of light tank
 
 The invaders had fewer but better-coordinated tanks with long-barreled guns, supported by dive bombers screaming down to destroy armored vehicles from above. They defeated each attack in turn. Over a week of fighting, the defenders lost over 2,000 tanks while inflicting far fewer losses. The counterattack was a catastrophic failure.
 
-The battle demonstrated that numbers meant little without training, coordination, and combined-arms tactics.`,
+It was a catastrophic failure that cost the defenders most of their armored strength in the sector.`,
         hints: [
             { cost: 20, text: "Dive bombers as dedicated anti-tank aircraft were most prominent from 1939-1943. Later in the war, dedicated ground-attack aircraft with cannon replaced them in this role.", explanation: "The dive bomber close air support helps date this battle to early WWII." },
             { cost: 25, text: "Tank battles involving thousands of vehicles on a single front only occurred from 1941-1945, when industrialized nations could produce armor in such quantities.", explanation: "The massive scale of tank warfare helps narrow the timeframe." }
@@ -918,7 +918,7 @@ The admiral positioned his fleet where the currents would work against attackers
 
 As the tide shifted, the currents reversed. The small fleet attacked aggressively, ramming and boarding while the enemy struggled to control their vessels. Dozens of invasion ships were sunk or damaged. The survivors retreated.
 
-The victory demonstrated that naval battles could be won by understanding local conditions—that seamanship and positioning could overcome numerical inferiority.`,
+The invasion fleet withdrew. The admiral had won a 10-to-1 victory without losing a single ship.`,
         hints: [
             { cost: 20, text: "Naval cannon combined with traditional weapons (archers, ramming) was characteristic of 15th-17th century Asian naval warfare, before European-style broadside tactics became universal.", explanation: "The mixed naval weapons help date this battle." },
             { cost: 25, text: "Warships with reinforced ramming prows and protective roofed decks were a distinctive East Asian design tradition, most developed in the 15th-16th centuries.", explanation: "The ship design helps narrow the timeframe and location." }
@@ -1126,7 +1126,7 @@ The infantry marched on the landward side, absorbing the arrows. They wore heavy
 
 The horse archers pressed closer, trying to provoke a response. Finally, at a planned moment, the heavy cavalry charged—massed, coordinated, devastating. The horse archers, pressed too close for too long, could not escape. The charge broke the enemy center, and the army completed its march.
 
-The engagement demonstrated that heavy cavalry and crossbow-armed infantry, properly coordinated, could defeat horse archer tactics—but only with iron discipline.`,
+The army reached its destination intact. The enemy had lost thousands; the marching army had held its discipline and won.`,
         hints: [
             { cost: 20, text: "Belt-hook crossbows were standard military equipment from roughly 1000-1250 CE. Later crossbows used mechanical cranks or windlasses for even greater power.", explanation: "The crossbow technology helps date this battle to the 12th-13th centuries." },
             { cost: 25, text: "Heavy mail armor covering the entire body was characteristic of the 11th-13th centuries. Earlier periods used less complete coverage; later periods transitioned to plate armor.", explanation: "The armor technology helps narrow the timeframe." }
@@ -1609,7 +1609,7 @@ A battalion was inserted into a valley to find and destroy enemy forces. They fo
 
 Artillery fire was called in dangerously close to friendly positions. Helicopter gunships—armed versions carrying rockets and machine guns—strafed enemy formations. Jet aircraft dropped bombs and napalm. The helicopters kept flying in reinforcements and flying out wounded despite intense ground fire.
 
-After three days, the enemy withdrew. Both sides claimed victory—the defenders had held, but the attackers had mauled a force that expected easy success. The battle proved that helicopter mobility could offset numerical inferiority, but also that this enemy would stand and fight despite massive firepower.`,
+After three days, the enemy withdrew. Both sides claimed victory and drew lessons: the defenders expanded helicopter tactics, while the attackers learned to close quickly and stay close, negating the firepower advantage.`,
         hints: [
             { cost: 20, text: "Turbine-powered transport helicopters capable of carrying infantry squads became operational in the early 1960s. Earlier piston helicopters lacked the power; this was the first war fought with air assault tactics.", explanation: "The helicopter technology helps date this battle." },
             { cost: 25, text: "Helicopter gunships armed with rockets and miniguns were developed specifically for this conflict, entering service in 1962-1965.", explanation: "The gunship technology helps narrow the timeframe." }
@@ -2901,7 +2901,7 @@ The prince moved with devastating speed. First he intercepted and destroyed the 
 
 The earl found himself surrounded at a small town, his army outnumbered and exhausted. He could have fled; instead, he chose to fight and die. His cavalry charged uphill into the royalist line and was annihilated.
 
-The earl was killed, his body dismembered—hands, feet, and head cut off, his genitals stuffed in his mouth. Yet his cause outlived him: the parliament he had created would grow to rule the kingdom. Even in death, he had changed England forever.`,
+The earl was killed, his body dismembered. Yet the parliament he had created survived; within decades, no king could tax without its consent.`,
         hints: [
             { cost: 20, text: "Cavalry charges uphill against prepared positions were characteristic of desperate battles in the Barons' Wars.", explanation: "The tactical situation helps date this battle." },
             { cost: 25, text: "The royalist victory that ended Simon de Montfort's rule occurred in 1265.", explanation: "The political context helps narrow the date." }
