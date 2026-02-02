@@ -8,7 +8,8 @@ const state = {
     usedCampaignIds: [],
     currentCampaign: null,
     hintsRevealed: 0,
-    roundResults: []
+    roundResults: [],
+    guessSubmitted: false
 };
 
 // DOM Elements
@@ -118,6 +119,7 @@ function startGame() {
 function nextRound() {
     state.currentRound++;
     state.hintsRevealed = 0;
+    state.guessSubmitted = false;
 
     if (state.currentRound > state.totalRounds) {
         endGame();
@@ -191,7 +193,7 @@ function parseYearInput(input) {
     }
 
     // Handle plain year
-    const yearMatch = trimmed.match(/^(\d{3,4})$/);
+    const yearMatch = trimmed.match(/^(\d{1,4})$/);
     if (yearMatch) {
         return parseInt(yearMatch[1]);
     }
@@ -227,6 +229,8 @@ function getScoreLabel(points) {
 }
 
 function submitGuess() {
+    if (state.guessSubmitted) return;
+
     const input = elements.yearInput.value;
     const guess = parseYearInput(input);
 
@@ -242,10 +246,12 @@ function submitGuess() {
 }
 
 function giveUp() {
+    if (state.guessSubmitted) return;
     processGuess(null);
 }
 
 function processGuess(guess) {
+    state.guessSubmitted = true;
     const actual = state.currentCampaign.actualYear;
     let points = 0;
     let diff = null;

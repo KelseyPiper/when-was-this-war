@@ -131,24 +131,46 @@ Then look it up. The goal is real information, not plausible-sounding filler.
 
 ## Hint Requirements
 
-1. **Hints provide date ranges for technologies already mentioned** - They don't reveal new information, they help the player date what they already read.
+1. **Hints help players identify the ERA/CONTEXT without explicit dates** - They explain what the technology or situation tells you about the period, not when exactly it occurred.
 
-2. **Hints must NOT:**
-   - Name specific people (no "Timur", "Wellington", "Napoleon")
-   - Name specific organizations (no "British East India Company", "Teutonic Knights")
-   - Name specific battles or wars (no "this was common in the Napoleonic Wars")
+2. **Two hints per campaign:**
+   - First hint (15-20 pts): Explain what the military technology/tactics indicate about the era
+   - Second hint (20-25 pts): Name proper nouns and identify the battle directly
+
+3. **Hints must NOT:**
+   - Give explicit dates, centuries, or date ranges (no "1250-1320", no "mid-15th century")
    - Provide fame-based identification ("this commander would become famous")
 
-3. **Format:** "Technology X was standard/used from roughly YEAR to YEAR. [Reason why it changed]."
+4. **Hint 2 CAN and SHOULD:**
+   - Name specific people, battles, and places
+   - This is the "give it away" hint for players who are stuck
 
-4. **Two hints per campaign:**
-   - First hint (15-20 pts): Broader technology dating
-   - Second hint (20-25 pts): Narrower technology or contextual dating
+5. **CRITICAL: Do not restate or summarize the description**
 
-5. **Verification checklist for each hint:**
-   - [ ] Does the hint only reference things already in the description?
-   - [ ] Does the hint avoid naming people, organizations, or battles?
-   - [ ] Does the hint explain WHEN a technology was used, not just WHAT it was?
+   LLMs have a persistent tendency to end hints by restating details from the description. This adds no value—the player just read the description. Every sentence of a hint must explain what something TELLS YOU about the era, not repeat what it IS.
+
+   **Bad (restates description):**
+   > "A general of barbarian descent defending the empire against barbarian invaders, the irony that would define the period."
+
+   This just summarizes what the player already read. It doesn't help them date anything.
+
+   **Good (explains the era):**
+   > "Late Roman field armies reinforced by barbarian foederati—the mixed forces that characterized the western empire's final century, when the distinction between Roman and barbarian had blurred beyond recognition."
+
+   This explains what the military composition tells you about the historical period.
+
+   **Bad (restates description):**
+   > "The old dynasty's cavalry cut down; survivors drowning in the winter river."
+
+   **Good (explains the era):**
+   > "The culmination of a revolution that had spread through the eastern provinces, transforming the caliphate from an Arab empire into a multiethnic Islamic state."
+
+6. **Verification checklist for each hint:**
+   - [ ] Does the hint avoid explicit dates/centuries/date ranges?
+   - [ ] Does hint 1 explain what the technology TELLS YOU about the era?
+   - [ ] Does hint 2 name proper nouns and identify the battle?
+   - [ ] Does every sentence add information beyond what's in the description?
+   - [ ] Is there NO sentence that merely restates or summarizes description details?
 
 ## Explanation Requirements (CRITICAL)
 
